@@ -1,1421 +1,1421 @@
 [
 	{
-		"id": "3fde1d8d-395e-4deb-bb96-c5bca40296f3",
+		"id": "594b3cf2-51ca-4493-ad43-e628c63251fe",
 		"prefix": "K/BWI/01",
 		"title": "Constructieve aansluitingen en afwerking",
 		"description": "Constructieve aansluitingen met verschillende materialen maken / aansluitingen tussen materialen afwerken",
 		"examenprogramma_bg_deeltaak_id": [
-			"48d20cdd-3c4b-45a7-b7d0-d3faecb29c67",
-			"d05ec6fe-9069-459b-9c26-0b1d7e7cb4ca"
+			"2af92c86-1552-436d-aa8e-169e084369cf",
+			"ffcf204f-81d3-4cc8-a308-40134a08ebc7"
 		]
 	},
 	{
-		"id": "6057f3f2-712d-4a39-b0c1-9eaf46c66d71",
+		"id": "396f398d-27a4-4ef8-a99c-b22bd83dddf4",
 		"prefix": "K/BWI/02",
 		"title": "Schoonmetselwerk",
 		"description": "Constructieve oplossingen in halfsteens muren maken / metselwerk uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"a089c6ac-c5d2-41fe-be1c-3a628a934d01",
-			"81e28139-e879-4369-9bb2-f2e55629eded"
+			"8311b735-5868-45d2-a990-845af21f8268",
+			"4b73b2e8-2c58-4ba7-82a4-4132485ed00a"
 		]
 	},
 	{
-		"id": "96c6651a-8364-4e15-b414-aa287978f4de",
+		"id": "8dc85105-c550-40ab-a611-66ab02b7e17f",
 		"prefix": "K/BWI/03",
 		"title": "Schilderen van hout- en steenachtige ondergronden",
 		"description": "Houtachtige ondergronden schilderen en afwerken / steenachtige ondergronden schilderen en afwerken",
 		"examenprogramma_bg_deeltaak_id": [
-			"c749a7b1-8429-470c-95ad-1bdc995023be",
-			"97b739e6-79b6-41de-885b-482938170c00"
+			"9f55e283-1101-4d73-8d5d-c468f5bf7695",
+			"38e11d40-d6a0-417c-bbb3-8c6fa0e997dd"
 		]
 	},
 	{
-		"id": "1dcd60c6-8555-43f3-b5db-b7f3a6ea730e",
+		"id": "8413a1c9-517a-4983-b535-8b175ef6a70d",
 		"prefix": "K/BWI/04",
 		"title": "Interieurbouw, stands en betimmeringen",
 		"description": "Eenvoudige kasten en opbergsystemen ontwerpen en maken / betimmeringen en stands ontwerpen en aanbrengen",
 		"examenprogramma_bg_deeltaak_id": [
-			"f94d7ad3-1334-4b45-863b-23d88317cab5",
-			"33a78682-ecd6-4d41-970e-d858ca5c9955"
+			"1330b017-0296-4f34-9723-81a34567d079",
+			"ae9d08eb-741b-4370-bd40-094b9ddb581b"
 		]
 	},
 	{
-		"id": "4fabf68b-763a-4548-91d8-2f14dbe3edb0",
+		"id": "d316b1e7-20da-43f7-9623-65a939d84de5",
 		"prefix": "K/BWI/05",
 		"title": "Bouwkundig onderhoud, renovatie en transformatie",
 		"description": "Bouwkundige onderhouds- en renovatiewerkzaamheden voorbereiden / bouwkundige onderhouds- en renovatiewerkzaamheden uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"472bf62e-c9d8-43d2-98e7-e9f3740261ef",
-			"f5887118-56f6-4565-8ff8-16e2cc0af4ae"
+			"a844fc5c-00f8-4769-b98a-ecdedf2e3b6f",
+			"15b037b2-c26b-43a0-86fa-95dc1c6f5025"
 		]
 	},
 	{
-		"id": "2cc6e2a7-40cb-4f11-a3e2-5fc12548545c",
+		"id": "e233180f-ba83-4101-9531-249f3e1b186b",
 		"prefix": "K/BWI/06",
 		"title": "Gevelopeningen",
 		"description": "De werkzaamheden voorbereiden voor het maken van kozijnen en ramen en het afhangen en sluitbaar maken van ramen en deuren / houten kozijnen en ramen maken / ramen en deuren afhangen en sluitbaar maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"0a7e752c-9753-45ba-90dc-4237997ada34",
-			"239f5ed4-3f99-4469-a671-ba89d44017df",
-			"6924e181-4f03-4bdd-98e8-b13be711734d"
+			"d9b0a569-35fe-45c5-a1fe-e7dc3cdbf5e6",
+			"da9ae79c-94bc-4608-8587-364cda3dda7a",
+			"d2ffce2c-d3c3-4c02-a4be-1ed7d1247fa1"
 		]
 	},
 	{
-		"id": "169bd10c-f1cb-4d43-8e3d-8d2980751b29",
+		"id": "9227d108-9429-4aad-bd21-f28389ed92eb",
 		"prefix": "K/BWI/07",
 		"title": "Daken en kapconstructies van hout",
 		"description": "Werkzaamheden voorbereiden voor het aanbrengen van daken en kapconstructies / constructies maken voor platte daken en de dakrand afwerken / constructies maken voor hellende daken, afdichten en afwerken",
 		"examenprogramma_bg_deeltaak_id": [
-			"fd2abd2c-2333-412d-8fc0-2567b003782d",
-			"969fa35d-5fa8-4813-8962-5e52b85c3b52",
-			"7f64dd36-11fc-406d-aeea-6262c61c8098"
+			"cc57f0bb-b0cb-49df-b765-b6f4ea3539c5",
+			"d73e5e24-4a39-4ee6-b0a0-3fff0d0a9b18",
+			"d6a6a1ef-a16d-4e61-ba1e-c03a18d998ac"
 		]
 	},
 	{
-		"id": "96cf39f0-24b5-4b15-bba1-867d6d974039",
+		"id": "bef5b4f0-93cf-4995-a856-e278757e0fcd",
 		"prefix": "K/BWI/08",
 		"title": "Vloeren",
 		"description": "Ondergronden van vloeren beoordelen en de behandeling van deze vloeren voorbereiden / ondergronden van vloeren repareren en voorbehandelen / vloerafwerking aanbrengen",
 		"examenprogramma_bg_deeltaak_id": [
-			"591ac38c-7991-4ad3-99c3-9a539a7c41d0",
-			"5b24e889-85d8-47c7-926a-7d99fa8ebea9",
-			"6cd5ae9c-217a-40d6-b133-a5fdc198fe36"
+			"6c0c0e9b-9d91-41d9-8b67-337d7fe11025",
+			"accb3b25-a66a-4280-9ebd-b41970352542",
+			"3f73b13d-25ea-4552-89ed-222ec21d4d3b"
 		]
 	},
 	{
-		"id": "5ea84035-5add-4dde-9d7c-b0b7f9426967",
+		"id": "1a39fd33-787d-4917-a1d6-de925466574e",
 		"prefix": "K/BWI/09",
 		"title": "Bouwmethoden en bouwstijlen",
 		"description": "De principes, kenmerken en eigenschappen van bouwmethoden in Nederland beschrijven en in een historische ontwikkeling plaatsen / de kenmerken van bouwstijlen en bouwkunst vanuit de oudheid tot heden herkennen, benoemen en verwerken",
 		"examenprogramma_bg_deeltaak_id": [
-			"56c9c61d-7f27-47a0-867b-42504346606b",
-			"8a452990-49e4-44a4-b7b5-b6a73e543525"
+			"b08e388a-2b59-4172-a900-88d4d28f5df7",
+			"4df052fc-52b0-4b93-9c97-821d008dcf5a"
 		]
 	},
 	{
-		"id": "cef29d7b-4c56-4a6d-a372-707d68892c67",
+		"id": "ddca0dfa-3884-4fa6-80d5-213f510ff608",
 		"prefix": "K/BWI/10",
 		"title": "Bijzonder metselwerk",
 		"description": "Bijzondere metsel- en lijmwerken voorbereiden / bijzondere metsel- en lijmwerken tekenen en berekenen / bijzondere metsel- en lijmwerken uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"b6f1f705-623b-4dd5-81b9-a766fea3d8fe",
-			"b389d62b-4e16-4125-b516-92f7d2e35ec9",
-			"f81b8796-fd84-49af-b323-38f7b1282347"
+			"b2f366a0-91e1-4437-8b3b-939135f2efe3",
+			"3e9858a8-799d-4cac-acd5-446ca0ed5fb5",
+			"6fd77dc2-717d-47f1-b06d-51fa3ef94c83"
 		]
 	},
 	{
-		"id": "5f2ffed7-a1df-4e16-b728-14eda768866b",
+		"id": "090bde10-ecbb-46f7-8391-4b032f8e757b",
 		"prefix": "K/BWI/11",
 		"title": "Scheidingswanden",
 		"description": "Aanbrengen en afwerken van gipsplaten op regels / een metal-stud scheidingswand met kozijn monteren, afwerken en demonteren / een bestaande scheidingswand van een wandsysteem met profielen en beplating en of beglazing monteren en demonteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"983eefa5-361f-490f-b200-8963c0912600",
-			"359789c6-d9c3-472d-b2cd-89790d29704d",
-			"d92e93bb-44dd-4e28-9236-f283f765e0cf"
+			"7f174d86-40c3-4bfb-9ded-96e4ed7d5606",
+			"a9a43d0b-90d2-47ad-a9e5-d0152804e500",
+			"6a10a3a2-4be5-458b-95bd-d45cdc431442"
 		]
 	},
 	{
-		"id": "85917782-c9d3-4df1-b0ce-7f5352ddb6e7",
+		"id": "7909c0ee-aaa7-4651-90fd-edba6e67451d",
 		"prefix": "K/BWI/12",
 		"title": "Wandafwerking",
 		"description": "Een dunpleister aanbrengen / aanbrengen gipspleister op metselwerk en afwerken met sierpleister / aanbrengen sierpleister met figuur en stucstop op dunpleister / aanbrengen van behang",
 		"examenprogramma_bg_deeltaak_id": [
-			"76918235-38be-4215-b313-8e9124be0b5e",
-			"752918ea-9be1-4933-b4f1-9bbc5c8ea8cd",
-			"f159359d-e189-4f22-8e11-0bc71cab8440",
-			"9642b3dd-3abc-4933-8ce7-953ec9807a14"
+			"dff5b057-ca1f-4b86-9a20-42f5085617da",
+			"f7b0a306-e1fa-487e-9ac5-a81c89739e21",
+			"ea377300-2990-4652-a005-acbf93792ed4",
+			"1bab488a-ecdd-4349-8dae-309327274c20"
 		]
 	},
 	{
-		"id": "fe030d5e-0649-4401-96b0-466089063cd9",
+		"id": "267ec57a-2010-4967-a166-1d4cd4c6c3f3",
 		"prefix": "K/BWI/13",
 		"title": "Schilderen en spuiten op kunststof en metalen",
 		"description": "Schilderen van kunststof / schilderen van metaal / spuiten van metaal / toepassen van decoratieve verfspuittechnieken op metaal",
 		"examenprogramma_bg_deeltaak_id": [
-			"33df5153-1e0f-4ca2-835c-8f3222b12392",
-			"8daad7a9-4bf8-4512-b743-968636fbc388",
-			"974d00de-62f3-471a-89a9-6f2410d8dbbb",
-			"f156d902-2cb6-48ee-a677-917a38edae27"
+			"33f3cc37-ecb4-4d74-a347-db57ac95549f",
+			"10f32be7-64ea-4901-b165-9ea854481555",
+			"86f81277-b947-4cc2-a0dd-56e501b1ca7a",
+			"c2b3fd74-eb23-41e7-a522-0ec4b4aee5c2"
 		]
 	},
 	{
-		"id": "f6ab4e4f-908f-4d59-ba28-52e1a247c9e0",
+		"id": "e66e0c37-7000-4a22-af7a-e3d677cce66b",
 		"prefix": "K/BWI/14",
 		"title": "Onderhoud schilderwerk",
 		"description": "Houtachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / steenachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / metaalachtige en kunststoffen ondergronden beoordelen, voorbehandelen, repareren en afwerken",
 		"examenprogramma_bg_deeltaak_id": [
-			"9dd2f8e7-f67b-460e-9411-9e2778dd523e",
-			"f412c641-e80e-42ea-a103-7f1063eeb2f1",
-			"72c0eaa5-8b3b-4cc9-b28c-a22db0f4f6cf"
+			"8536f102-3104-419d-acb5-fd9a770c6791",
+			"196db474-37b5-402c-a71b-ccb4ffca9dc0",
+			"00c6f891-47a9-4ca8-87a7-70ba8b149c55"
 		]
 	},
 	{
-		"id": "bac5787b-9bff-4865-a4e7-10e74375480b",
+		"id": "1dfe1d16-0c94-46ff-84be-5bd866be220d",
 		"prefix": "K/BWI/15",
 		"title": "Glaszetten",
 		"description": "Glas snijden en verwerken / enkelglas plaatsen / dubbelglas plaatsen",
 		"examenprogramma_bg_deeltaak_id": [
-			"d70d4386-6ff6-4a1c-9569-0f50fc683218",
-			"e90c75ae-4929-4d41-ba3a-19c4bb343e9d",
-			"628e4811-6df3-4f9e-ae72-0dc882b8034b"
+			"2b25a71e-ac7f-4ce1-b20b-ae9c01b5766b",
+			"66982dd3-a17f-4dfa-9538-1caafaa93bb2",
+			"1c48b0da-b797-43ca-90c9-61627b38aa3d"
 		]
 	},
 	{
-		"id": "d05d320c-4971-4ca5-b65b-6d3987de7561",
+		"id": "0f8839c7-47c1-48b9-b5be-b72443c973c4",
 		"prefix": "K/BWI/16",
 		"title": "Meubelmaken",
 		"description": "De werkzaamheden voor het maken van meubels voorbereiden / meubels maken van hout en plaatmateriaal",
 		"examenprogramma_bg_deeltaak_id": [
-			"9d0887be-56e1-458c-b754-fa1184e8a9aa",
-			"8b717ecf-4693-4165-a995-09e5f888d07f"
+			"f04fcfee-43c3-45c9-91c2-765f15748d43",
+			"e9829117-6d80-4b92-be96-b5cf8074f8fb"
 		]
 	},
 	{
-		"id": "fdba4b07-3a8b-4c35-be43-bf83a08d99ce",
+		"id": "64ffce0a-8050-42c3-abd5-70512b564fb6",
 		"prefix": "K/BWI/17",
 		"title": "Bouw- en woonrijp maken",
 		"description": "Uitzetwerk voor bestrating en infrastructuur verrichten / grondwerk verrichten / assisteren bij het aanleggen van de ondergrondse infrastructuur",
 		"examenprogramma_bg_deeltaak_id": [
-			"c8103aff-2cf3-4a30-8fa7-ecd8ff5b1d22",
-			"e092413b-c3bd-48b6-8e95-49f6f5bb3ea5",
-			"2cbd3e5e-3edb-4e83-be19-8ffd70e25b58"
+			"a42958a5-c43e-48e2-91b9-873e8a8834bd",
+			"2837978e-6acb-49f5-a18b-fbfb03338d62",
+			"9f17407b-55af-4f04-b1f4-c2ace5aa700e"
 		]
 	},
 	{
-		"id": "55068a89-8a7a-4d1c-a46e-d5626409eacb",
+		"id": "6ce61a9d-9afe-47b9-8fb6-a2568849706d",
 		"prefix": "K/BWI/18",
 		"title": "Terreinafwerking",
 		"description": "Machinaal grondwerk verrichten / bestratingen maken / assisteren bij het uitvoeren van weg- en waterbouwkundige werken",
 		"examenprogramma_bg_deeltaak_id": [
-			"3fa60207-e701-4091-b90a-7015f0f83819",
-			"c7bf0e02-91f1-4c4f-a296-50b49dcac7eb",
-			"ad2f560e-aebd-4ba5-bd6f-b3b42ff6a5ca"
+			"4eaab82c-c5f6-4f38-a917-084a87ab4130",
+			"da21e493-5c9d-41d7-a9a8-c02e430f3fa7",
+			"3e7d509f-8e1f-43b5-aa7d-049f6766cb56"
 		]
 	},
 	{
-		"id": "97011b4e-2ac8-49e8-98e2-d77834169eb8",
+		"id": "d6f6a1c4-95fc-42f2-a3a6-d43f80d6ec86",
 		"prefix": "K/BWI/19",
 		"title": "Interieurontwerp en design",
 		"description": "Een interieur ontwerpen / interieurelementen in samenhang met een interieur ontwerpen en maken / interieurelementen en een interieur decoreren en presenteren / een tekst en logo opmaken in een softwareprogramma, plotten en monteren / een digitaal bestand opmaken, printen en monteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"e8addda1-6ed1-4515-9a30-2cdf94cb260f",
-			"7a923f76-a8fb-44af-be33-cff400fffa69",
-			"a4bb8a73-c0df-4624-a878-a9a40da7698f",
-			"a595e2f4-bdcb-41d5-ac6f-eb1c192c6cf8",
-			"8d7b78be-5935-44c6-9b37-3fde89f53e50"
+			"5c5a41d1-6545-4b6c-8c3f-349b7617ed53",
+			"612bdd37-c1d3-4a9d-9d56-70aae48c2d6c",
+			"15372bb5-f6a3-4ab3-b172-5f6c79cc221a",
+			"e6e9a9a1-7c54-47e5-9e5c-c27f532f0208",
+			"b50995bb-11ee-4b67-9364-68f969339d67"
 		]
 	},
 	{
-		"id": "5b700d8e-0b54-4514-a468-8402b73d7290",
+		"id": "56937b45-9e94-471f-a5e7-c42d52b53d95",
 		"prefix": "K/DP/01",
 		"title": "Digi-spel",
 		"description": "In opdracht een digitaal, educatief spel bedenken / het spel maken / het spel demonstreren en presenteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"eae1e50a-225e-467b-93a3-7b64f1051009",
-			"c07b222a-a995-4407-b091-8ec0cf113836",
-			"e633dcae-b1a0-4b2e-94b9-87a3cc37b0ed"
+			"5bee55a5-920d-4021-b941-32fdd97d3814",
+			"a1c70234-f0fb-4186-aa43-944b7b89169c",
+			"1d43b2db-41e5-46c5-a6f0-3c06695fc5e0"
 		]
 	},
 	{
-		"id": "35f551bc-7898-4447-b811-12f3fefb4c68",
+		"id": "7481c1ab-1d7e-4878-ac08-d85fc8865077",
 		"prefix": "K/DP/02",
 		"title": "Robotica",
 		"description": "Oriëntatie op moderne technische toepassingen / eenvoudige schakelingen bouwen / een eenvoudig geprogrammeerde handeling door een robot laten uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"6ca8f029-783d-49d6-8d07-2ed0fd9edf35",
-			"912db1d0-03d3-4a8e-8921-22b3bef7a44b",
-			"2e86597a-b3dc-465c-8b40-bd66c799550f"
+			"4909f283-b97e-452c-b70e-b9dec1610e53",
+			"466060cb-ef23-43cd-9966-7ab0d425e558",
+			"32f5f12f-207e-48f8-96a7-1467e7d0c065"
 		]
 	},
 	{
-		"id": "0076e311-a6a4-4779-bd5d-b8f51455f8d6",
+		"id": "be1f4e18-029d-401b-a122-3d802d33adf4",
 		"prefix": "K/DP/03",
 		"title": "Werken aan natuur en milieu",
 		"description": "Op basis van onderzoek praktische maatregelen treffen ter bevordering van het milieu / een beheerplan maken ter bevordering van de biodiversiteit",
 		"examenprogramma_bg_deeltaak_id": [
-			"3c6bd75d-1be6-4189-972c-0a8655d96477",
-			"aac73c3f-b51d-4b9e-877f-f181795075dc"
+			"8bc969a2-f5a0-46bf-840b-7a4f7aa391d8",
+			"78eeef3f-c80a-4f08-91b8-04f53b39dd07"
 		]
 	},
 	{
-		"id": "32655317-6c21-419f-9b16-427f7d1fe6a6",
+		"id": "8758800b-4a68-4cfb-805b-dc86c8ed6315",
 		"prefix": "K/DP/04",
 		"title": "Voeding en beweging",
 		"description": "Een plantaardig voedingsmiddel produceren en verkopen / verantwoorde voeding kiezen en verwerken / voor een bepaalde doelgroep een bewegingsactiviteit in de open lucht organiseren en uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"6f2a1550-a64b-437a-860e-2c29b859e346",
-			"bb9560ac-8270-46dd-be60-b2f861d47184",
-			"b7a4e75b-65b7-4c06-b5a7-bae957a23f65"
+			"a4d926e1-f992-40b2-a885-a69ea691c734",
+			"6e269a88-99b1-427e-8e9c-49c024ba6160",
+			"f6342812-721c-4100-85d4-f9f69e950ab0"
 		]
 	},
 	{
-		"id": "11963e9c-06db-4d25-86ef-d78a7d432010",
+		"id": "4541f925-af1a-4c63-bc4b-8c4695265b58",
 		"prefix": "K/DP/05",
 		"title": "Podium",
 		"description": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) bedenken en uitwerken / produceren en organiseren / realiseren / evalueren",
 		"examenprogramma_bg_deeltaak_id": [
-			"f375febf-637a-40fe-a5e8-ef279d057c0c",
-			"a5b202fc-51b7-4278-a7ce-891d8747bd0d",
-			"8bdb50dd-f50c-420c-9cc4-921e52d5d633",
-			"575e1498-d478-466b-9e1a-9a157d296ced"
+			"e5929163-247d-4df8-9c00-f7131190515f",
+			"c6c06d2e-68d7-4dbd-b083-4cf5de985c1c",
+			"45cf916a-a5eb-4190-9c97-c2910b5c19e5",
+			"c37f7fe8-654e-4a9c-9dc5-a417313d208d"
 		]
 	},
 	{
-		"id": "fc87ea3c-5c1f-41a4-9328-818a7fc6c6c4",
+		"id": "c915c905-70a9-41d4-91b8-3a852cc66e30",
 		"prefix": "K/DP/06",
 		"title": "Geüniformeerde dienstverlening en veiligheid",
 		"description": "Op actieve wijze, alert en duidelijk zichtbaar activiteiten ten behoeve van veiligheid in gesimuleerde praktijksituaties uitvoeren / fysieke en conditionele oefeningen uitvoeren / rapporteren van incidenten in een gesimuleerde omgeving / zorgdragen voor toezicht van een klein evenement in de eigen schoolomgeving / risicovolle situaties voorkomen  / regelend optreden in de school of op het eigen schoolplein",
 		"examenprogramma_bg_deeltaak_id": [
-			"8bd1ea22-4e73-4863-a43a-0a6c8eb619e9",
-			"5d8efb28-2f14-4da0-adae-5df109d6530c",
-			"9621b1f8-38f9-4ef0-b9da-b9a0c0911b71",
-			"30455ac4-cd3b-4bdd-8546-80850211d9ce",
-			"b6558773-2491-4cc3-a3d3-b7d963566378"
+			"8fe7acbf-8562-4d9d-a0cd-725d3e2be857",
+			"2a9a5101-98b5-4967-87cd-5006264ee923",
+			"e39c8da8-b190-4a85-9336-b2b5d9662108",
+			"05ca758a-4983-43f5-bd25-e91aaa4ec8ac",
+			"024563c7-961f-40f2-a318-44dd9f935f2b"
 		]
 	},
 	{
-		"id": "84131b32-aa06-4246-88da-e5c706fbd593",
+		"id": "8e889bbf-8f67-4065-b263-f36036717657",
 		"prefix": "K/DP/07",
 		"title": "Milieu, hergebruik en duurzaamheid",
 		"description": "Duurzaam consumeren in de persoonlijke leefomgeving / afvalstromen herkennen en benoemen / producten recyclen en verkopen",
 		"examenprogramma_bg_deeltaak_id": [
-			"123cc684-bb2a-4ce0-96d6-def569ce497d",
-			"10d31b26-4391-4d27-be2a-cd3f6918d1c0",
-			"53b020f5-1019-48d6-9352-2edfe2ee3eeb"
+			"f7dca834-a289-4f62-bfa8-222382cd71df",
+			"1c025911-9afc-4030-8172-0969b95d8562",
+			"abdb9c98-0631-45c9-ac29-d018e57fd3d6"
 		]
 	},
 	{
-		"id": "9744472b-f0af-478a-86ee-691b8a11425d",
+		"id": "3cc6cd6e-b527-4d7e-945c-0631b0118232",
 		"prefix": "K/EO/01",
 		"title": "Marketing (dit keuzevak is een verdieping van de profielmodule Commercieel)",
 		"description": "Het beoordelen en verbeteren van een bestaande retail-/bedrijfsformule, rekening houdend met doelgroep / assortiment / marktpositie",
 		"examenprogramma_bg_deeltaak_id": [
-			"6ea47f9b-b76e-4e48-944b-e5a38649cffe",
-			"a44d20fa-9ff1-4db8-8525-e4449796ca34"
+			"17d1cf06-a374-4ebc-8798-e0d7cff268ba",
+			"f5353b43-ccb4-44eb-8f59-4bd1181beae3"
 		]
 	},
 	{
-		"id": "55a0b885-8d1a-4cde-8526-8efffaf9c80e",
+		"id": "62dc9cb5-cfd4-46e3-bcde-87fa7f02fb22",
 		"prefix": "K/EO/02",
 		"title": "Officemanagement (dit keuzevak is een verdieping van de profielmodule Secretarieel)",
 		"description": "Back- en frontoffice werkzaamheden in een meer complexe context uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"aae3fa34-7d08-4c79-b0cb-9e356395708a",
-			"0a6ca5e7-ece5-4513-bf8d-f268dade908a"
+			"9242a325-4f8e-42a2-af4e-4ad58b679d92",
+			"94379e41-5504-4651-89d4-470875130e85"
 		]
 	},
 	{
-		"id": "ff3441e3-52a5-4078-945a-bddb749b3484",
+		"id": "acd9c0e1-9020-4689-839c-663bab1b5c19",
 		"prefix": "K/EO/03",
 		"title": "Distributie (dit keuzevak is een verdieping van de profielmodule Logistiek)",
 		"description": "Logistieke werkzaamheden uitvoeren (veelal in een fysieke omgeving) ten aanzien van ontvangst, opslag, verzamelen en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen / organisatie en planning van de distributie",
 		"examenprogramma_bg_deeltaak_id": [
-			"32975970-88f9-4227-a201-3c916219950a",
-			"e055e39c-2074-40cb-89bb-cf79a130156b",
-			"0912dba9-8b18-47a3-b6d7-7a0c51a28625"
+			"90bdd388-f89e-4d3f-82f3-8ddd12ffcfda",
+			"da080784-739d-4327-aeb5-54e16612c4d9",
+			"6e32ae8b-dd7f-408c-baf3-c8159c32b243"
 		]
 	},
 	{
-		"id": "a926cc9b-c7a7-460f-b712-f1df8c66d7f0",
+		"id": "ecdb11ad-907d-416a-8262-9929dffc33e9",
 		"prefix": "K/EO/04",
 		"title": "Financieel en administratief beheer (dit keuzevak is een verdieping van de profielmodule Administratie)",
 		"description": "Financieel- en administratief beheer van (handels)ondernemingen ondersteunen / de sub-administratie van een (handels)onderneming ondersteunen",
 		"examenprogramma_bg_deeltaak_id": [
-			"f93b937e-0d79-4e9c-a6ff-521c90976fbb",
-			"06e0eb64-f30e-43a3-8797-d4fb6a148844"
+			"d854f706-35cd-418b-b254-183ea974a212",
+			"dbe4a219-dab8-4e75-846e-3e194f600f50"
 		]
 	},
 	{
-		"id": "fdbc917b-a3c6-401d-a8f0-e1c9fcd1c657",
+		"id": "ce88f2fd-d998-4486-a053-0803348db10b",
 		"prefix": "K/EO/05",
 		"title": "Ondernemen",
 		"description": "Het ontwikkelen en uitvoeren van een eenvoudig ondernemingsplan / jezelf als ondernemer beschrijven / een marketingplan maken / een (eenvoudig) financieel plan maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"b532ab43-1a69-4646-a284-81b1dfd473a0",
-			"39eb8a51-a8c9-4a1b-bc4a-9d7b203bccc4",
-			"7af59ca0-249d-4581-b01a-c39de0178951",
-			"9919d99e-eb5d-4ece-b91a-2f40f058a13e"
+			"e5555dee-7a3e-4e5f-ac48-c84b33cd07e0",
+			"03a01c11-b93c-4992-b530-806cd22ce26a",
+			"4a111764-fec9-4198-8553-a7ccdd82f8bd",
+			"407dc847-e9b7-44d4-85d0-eda451a8b323"
 		]
 	},
 	{
-		"id": "a840232a-f67d-43a7-8b78-f628a1f984ee",
+		"id": "e612f2ea-3d56-4db2-800d-9bf0ccd696c0",
 		"prefix": "K/EO/06",
 		"title": "Webshop",
 		"description": "Een eigen webshop bedenken, ontwikkelen en onderhouden, rekening houdend met doelgroep, assortiment en marktpositie / via internet en sociale media goederen of diensten verkopen",
 		"examenprogramma_bg_deeltaak_id": [
-			"eb499468-9235-4007-9598-35c3e8bd9401",
-			"4999ebc5-3eef-460d-9621-d35edf1e5058"
+			"996c3b1e-2985-427e-a228-9f0577a57f1d",
+			"c6cf1523-bb64-4821-9749-053d1d9ac677"
 		]
 	},
 	{
-		"id": "5e2957b3-f11c-4018-b4a5-3c3b7897d3d6",
+		"id": "4673d4ea-41cd-4d5e-83f5-4167853aad17",
 		"prefix": "K/EO/07",
 		"title": "Presentatie en styling",
 		"description": "Presentatie- en stylingtechnieken uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"0268b5ce-9731-4707-8729-de233e4da030"
+			"604d417d-6e8e-457b-ba19-160880d1d8cc"
 		]
 	},
 	{
-		"id": "550edd5d-d089-4900-9d63-a01a5510c3de",
+		"id": "b9e4d99a-0ed4-435d-95a4-fd72962b640b",
 		"prefix": "K/EO/08",
 		"title": "Mode en design",
 		"description": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen / productietechnieken",
 		"examenprogramma_bg_deeltaak_id": [
-			"eccf1956-5a7a-403a-8734-cc8b8647b709",
-			"ade7180b-2150-44e6-8047-84c002fe31c0"
+			"084b1361-3d59-4dee-a062-c403b565233b",
+			"4f0a4238-6848-478a-8d2e-3420f44f6fdf"
 		]
 	},
 	{
-		"id": "9b9237f1-f424-4cd8-88b8-b1ce387bbe67",
+		"id": "23fbb563-6968-48e1-9fb4-5133f9258164",
 		"prefix": "K/GR/01",
 		"title": "Het groene machinepark",
 		"description": "Brandstofmotoren herkennen, benoemen en onderhouden / getrokken en aangedreven land- en tuinbouwmachines herkennen, benoemen en onderhouden / elektrische circuits voor verlichting op landbouwvoertuigen tekenen, realiseren en repareren / overbrengingen voor aangedreven land- en tuinbouwmachines herkennen, benoemen en toepassen",
 		"examenprogramma_bg_deeltaak_id": [
-			"80214c44-7739-4368-97fb-9b208bab235a",
-			"9c65e264-0f15-483f-9681-3abb47b0803b",
-			"f0a3686e-614e-49f6-b102-9c46fd7df494",
-			"6b490b6d-0202-41a0-af2d-0fb1588b340d"
+			"b44e6214-8943-4c14-8af8-00c89477c522",
+			"4805a237-16db-46ab-ad86-467de41acf1a",
+			"ec85ea71-006d-4b46-bf2b-3bc52476829e",
+			"08118a37-08ee-4007-9315-92b624478ac0"
 		]
 	},
 	{
-		"id": "6b27169b-e44b-43fa-b219-79b01ea02886",
+		"id": "c6c74d3e-d476-4db3-b6ab-691d213ab077",
 		"prefix": "K/GR/02",
 		"title": "Tuinontwerp en -aanleg",
 		"description": "Oriëntatie op ontwerpen en aanleggen van tuinen / tuinen ontwerpen en aanleggen / werkzaamheden opleveren",
 		"examenprogramma_bg_deeltaak_id": [
-			"c7296935-f838-4a0e-beaf-75a105750a3b",
-			"512f0f20-391c-46a3-9c76-a55194ca9a4c",
-			"95d43aed-704e-47ae-a8e9-511584d7cf71"
+			"908498f5-8dc1-4095-9c09-19d00356cdea",
+			"9ac216da-56f6-4cbf-a73d-6f0348d7b92e",
+			"52a621be-5f9f-4cf3-9ccd-755740458c8a"
 		]
 	},
 	{
-		"id": "4f3d90e1-ae11-4525-81c8-a1ef0a9d3a48",
+		"id": "e274d5aa-7160-4017-be05-edaf1a914a21",
 		"prefix": "K/GR/03",
 		"title": "Werk in tuin en landschap",
 		"description": "Een onderhoudsplan voor een tuin of deel van een landschap opstellen / plaatsen van en technisch onderhoud uitvoeren aan recreatieve voorzieningen / gangbare planten herkennen en benoemen / seizoensgebonden onderhoud verrichten in tuin of landschap",
 		"examenprogramma_bg_deeltaak_id": [
-			"c3f3537a-1004-49d3-895b-3257cb9116ba",
-			"b30bead8-93bf-4ae5-8166-b90551b114bf",
-			"1a82f6a8-d0d1-4d09-8f58-2957e419c8be",
-			"6bcbce1a-1482-4e0f-99f5-18b2940edd6e"
+			"82023992-069b-478f-837a-8f83bb595a93",
+			"5a1f1708-899b-4746-a97a-7a3248151098",
+			"81abe1a9-0e3c-417a-a7ae-cbd1659d8aa8",
+			"3e7b871d-e3ab-4b39-9d4b-5492bd5cec99"
 		]
 	},
 	{
-		"id": "05239223-c188-4c1e-b221-4631fb904dce",
+		"id": "9a3e011e-dfea-4d9b-beca-18f0b74fa198",
 		"prefix": "K/GR/04",
 		"title": "Bloemwerk",
 		"description": "Bloemwerk maken / winkelproducten inpakken / symboliek gebruiken in een bloemarrangement / in opdracht een bloemstuk maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"7cd71adf-a450-4dc2-8fab-ace3ab8fe749",
-			"d794b2df-e38b-49ee-beed-a3fe47b435eb",
-			"7ef9c293-05e6-429a-a273-05824e2dc886",
-			"c2d0b208-bd88-4be0-aee0-589a973d0ca1"
+			"156e7099-cd70-47f3-b2c9-f6546a87cd9f",
+			"556dcd0b-eb61-48b2-b447-983d8a2312fd",
+			"75bcadfd-ee5a-41c4-a9f1-c7b32f448746",
+			"b4a34f88-1477-4064-9b83-3929172dda03"
 		]
 	},
 	{
-		"id": "cd1b9999-07d5-4dd4-8730-d322c34cca00",
+		"id": "4ee2c0c8-ce19-4534-8b4f-72d3ccf342ba",
 		"prefix": "K/GR/05",
 		"title": "Groene vormgeving en styling",
 		"description": "Vormgeven / technieken gebruiken en combineren bij de vormgeving van een plantaardig product / een plantaardig product vormgeven en de vormgevingsprincipes toepassen / een plantaardig product vormgeven vanuit een kunsthistorisch perspectief / een stijlkamer ontwerpen en sfeer geven aan een interieur",
 		"examenprogramma_bg_deeltaak_id": [
-			"d20a1dc3-2d6e-4aec-a1f8-d20faddd145e",
-			"15ad0858-76eb-4794-b989-ca6734f3f2a2",
-			"471d0f89-55cd-4bcb-a2ea-48480b343c35",
-			"f264c943-aa80-40cd-8f82-07fd56beadda",
-			"7f93270d-46de-41e3-92ad-1c2d0820a7e0"
+			"2b78ea7f-45ce-46bd-8722-6528c8a231b4",
+			"e8f81f8e-69b1-4c27-9c46-3362869c514c",
+			"48943d7e-1980-45a6-9d85-af96d8994cf9",
+			"f691e6a3-e68a-4ecf-acdf-8720e53d96b1",
+			"ca3987bb-1f5b-43bf-9bcb-da249f3d5b5e"
 		]
 	},
 	{
-		"id": "dbbbb403-1325-4ae1-a005-784e435d8325",
+		"id": "d0488032-24d8-48bb-a809-6ecbd1e72237",
 		"prefix": "K/GR/06",
 		"title": "Groei voorbereiden",
 		"description": "Het teeltmedium gereed maken voor een teelt en onderhouden / met plantmateriaal omgaan / plantmateriaal zaaien, planten en poten",
 		"examenprogramma_bg_deeltaak_id": [
-			"f2e20f70-d84f-4e94-9778-76dc7d2e44df",
-			"51f15eee-7366-4ad6-8410-0bea8cd561db",
-			"fb00339f-2d67-4e39-b84a-9a68045eb1e3"
+			"1a31e842-a441-4035-8c54-1741fdbd7038",
+			"114cbf75-fc6f-49a3-8fe3-283490aefd9c",
+			"6465767d-05cc-4644-a0c3-4abb76d0b3ba"
 		]
 	},
 	{
-		"id": "cc866428-3ca6-4de4-a04c-d65122a96a1d",
+		"id": "c319d670-84e5-4eb3-9dd0-3066504fac13",
 		"prefix": "K/GR/07",
 		"title": "Groei en oogst",
 		"description": "Teelt optimaliseren / gewassen oogsten / producten verwerken, bewaren en de kwaliteit beoordelen",
 		"examenprogramma_bg_deeltaak_id": [
-			"e4e7a903-9e1b-4a3f-8bd4-cff4a4198e92",
-			"482b252a-178d-4e1f-a146-4df241ed3fa7",
-			"cd09a923-7390-48e2-a8bc-95499efcc9e5"
+			"57b9110d-2c6e-48cc-90bd-3c7085f8a114",
+			"5dc0bb35-bf5e-4a39-bde3-8e9843d129e8",
+			"ad9da564-54c1-4e0f-8078-47b63761f98f"
 		]
 	},
 	{
-		"id": "eb9d901e-d26f-4ec7-9a12-d57cdd08ca04",
+		"id": "fd047703-4adf-447c-814b-2ab6ee0230c5",
 		"prefix": "K/GR/08",
 		"title": "Het houden van dieren",
 		"description": "Diersoorten en rassen herkennen en benoemen / huisvesting van dieren met betrekking tot dierenwelzijn beoordelen / dagelijkse en periodieke verzorgingswerkzaamheden uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"1f4e4a9d-72ba-40b8-aead-1ffcbe810e57",
-			"a249bb27-11b3-4935-8224-a35f68ec72fb",
-			"68dd3300-3adf-4b41-bf31-a93ecadac392"
+			"84525e81-12ef-47cb-8c10-bebca72e0c9a",
+			"2626e85d-e1d2-44c1-b111-525084763c8d",
+			"21343f21-644d-45c9-bc21-e1922b0e5e38"
 		]
 	},
 	{
-		"id": "d834cdc6-8ff8-4b37-acca-98b38377a27b",
+		"id": "3daea932-4c77-477e-a6fb-87dbd94842f1",
 		"prefix": "K/GR/09",
 		"title": "Gezonde dieren",
 		"description": "op basis van de voedingsbehoefte van dieren en de samenstelling van het voer een voeradvies opstellen / gezondheidscontrole uitvoeren en hygiënisch werken / het dier in verschillende levensfasen en productiecycli verzorgen / omgaan met dieren en hun gebruiksdoel(en) herkennen",
 		"examenprogramma_bg_deeltaak_id": [
-			"02d67a45-5f2e-4a5c-bef5-3b71e34e8369",
-			"c8763808-8fa6-4acc-8e85-3510ab45d6b4",
-			"bf731056-670c-4e45-89c3-8c697a0006c6",
-			"116c6772-bfcf-436c-aaad-526f54e0cbc4"
+			"d9d32d76-1b77-4848-94cf-12f3db76bb67",
+			"fb94b3f9-fde4-4202-afa9-3c9004fcaf5d",
+			"380eacc8-5775-4fc4-abd2-a83941824e61",
+			"080cc9bf-6f46-4ab3-8927-c55470ea6b45"
 		]
 	},
 	{
-		"id": "db98494f-c54c-4f01-990a-cebc1f4ee343",
+		"id": "23d78e1f-27b5-4606-a495-bc80ee2ce12f",
 		"prefix": "K/GR/10",
 		"title": "Water",
 		"description": "Herkomst en kwaliteit van water als bron van voeding verklaren / afvalwater herkennen en onderzoeken / waterkwantiteit beheren",
 		"examenprogramma_bg_deeltaak_id": [
-			"5aad9589-acf4-4650-bbcb-58deb91730d9",
-			"dd497957-f3f3-468d-a060-3cff8e277143",
-			"33abf127-7377-4e4e-af51-52daa9dbcd6b"
+			"220fe6ca-8202-476b-b33f-b69a7719dfc7",
+			"eada7da4-ce3d-48f4-bf02-4fa5b8594a71",
+			"ae210e28-d612-4a62-8ae5-ffeb788b6b44"
 		]
 	},
 	{
-		"id": "027c2bbc-91b3-43d8-89e9-25f45eb737cf",
+		"id": "cc8169da-03bd-4e7f-a330-672f77d7222c",
 		"prefix": "K/GR/11",
 		"title": "Voeding: hoe maak je het?",
 		"description": "Ontwikkelingen in de levensmiddelenbranche en de voedingsmiddelenindustrie beschrijven en hier op eenvoudige wijze op inspelen / grondstoffen verwerken en bereiden tot een kwalitatief goed halffabricaat of eindproduct / een voedingsadvies geven / de kwaliteit en voedselveiligheid van voedingsmiddelen beoordelen en bewaken",
 		"examenprogramma_bg_deeltaak_id": [
-			"afc7805e-3ffc-4bc4-ba28-ce02ffc9cb08",
-			"8bfac1cf-cd4f-486a-9395-b8fb0d66f851",
-			"31c2d102-340c-4816-9a06-ca77dd48824f",
-			"de8dd300-b056-4309-a2c1-d40997425367"
+			"6d6afc7a-06ce-4cfd-9b67-78cae29fd444",
+			"dd0cbdc9-3b08-499d-8d72-b447637542ef",
+			"65f67c37-19bf-4ab7-b30b-77a9ac1e24c3",
+			"fd8d6fe7-642b-4815-987a-f463dc94ad40"
 		]
 	},
 	{
-		"id": "5f87c414-4f62-4a13-a33b-017dab87e802",
+		"id": "7f819267-4f89-4047-bb49-1c04b9ecf75a",
 		"prefix": "K/GR/12",
 		"title": "Groene zorg",
 		"description": "Oriëntatie op zorgboerderijen / in een zorgboerderij planten en dieren verzorgen, hygiënisch werken en daarbij een individu en groep instrueren, motiveren en helpen / toezien op welzijn van dieren",
 		"examenprogramma_bg_deeltaak_id": [
-			"da0653c3-6118-4c9a-b400-7d6612511977",
-			"0ebff944-74f4-4913-9ac0-bf3ec0e420f1",
-			"8557b19e-c64a-427c-bee8-42074a80aa18"
+			"7fa3ef1b-6380-493e-8b61-c794d9667406",
+			"75176ad7-ddd9-4e3d-959e-0a6422b4575e",
+			"a5d33533-2fd4-4fe1-8391-9cedf85c450c"
 		]
 	},
 	{
-		"id": "ea157219-5806-4757-9fb3-3570429de272",
+		"id": "2abac1b3-d442-4914-9700-59ce7ccdf3fe",
 		"prefix": "K/GR/13",
 		"title": "Natuurlijk groen",
 		"description": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels",
 		"examenprogramma_bg_deeltaak_id": [
-			"6514d86f-5935-4c48-be71-32d878fe4ab6",
-			"afcc77f2-d911-40aa-9c77-30916a4d44b4",
-			"5a8c6230-a7d0-4101-a11d-aa3a0abcc419",
-			"daecf373-b27f-4f19-beda-cc67891b142d",
-			"9c18915c-d599-4a37-99b4-148244648258"
+			"02720018-830f-455d-bb0b-4b8ce36856fb",
+			"cd548724-296a-44c4-8456-d39ac40150ef",
+			"7ab296b8-9148-4d1c-b83b-e9345e3fee3a",
+			"e815ef88-fce0-4824-bfd0-206e512a0c59",
+			"7dcdf55d-51f0-4a52-a38e-75ef11c87413"
 		]
 	},
 	{
-		"id": "9aed6469-e858-4101-a6de-016b5b4cfe49",
+		"id": "ed9c308b-87a4-434d-83ca-9a189695efdf",
 		"prefix": "K/HBR/01",
 		"title": "Gastheerspecialisatie (Dit keuzevak is een verdieping van de profielmodule Gastheerschap)",
 		"description": "In een meer complexe praktijkomgeving (mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen) service en advies verlenen aan diverse typen gasten, omgaan met gedifferentieerde vragen en de bijbehorende serveertechnieken uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"5621196c-5a98-4df3-b15b-25408a2d5a9e"
+			"2c6806eb-85e6-4f43-9a1c-eef769c50c31"
 		]
 	},
 	{
-		"id": "159f27f9-91b7-45e2-915b-49fbd21abbda",
+		"id": "4873d04a-bb52-4ff7-871a-52715bac2c48",
 		"prefix": "K/HBR/02",
 		"title": "Brood- en banketspecialisatie (Dit keuzevak is een verdieping van de profielmodule Bakkerij)",
 		"description": "Een bijdrage leveren aan het beheren en vervaardigen van brood- en banketspecialiteiten, gekenmerkt door een complexer productieproces",
 		"examenprogramma_bg_deeltaak_id": [
-			"748fd300-f02b-4886-8c07-012462197c8b",
-			"166eb3c4-9691-48a5-9cb6-f263b1ef890b"
+			"64a273f9-781d-4996-bfcc-fab3fdfae37b",
+			"712b4247-359e-4fa6-a782-676137dff11c"
 		]
 	},
 	{
-		"id": "2623965d-7464-4899-bd74-3f0ff53e7fba",
+		"id": "432c6cfc-9e80-4f9f-9b8a-b73deafd3d5f",
 		"prefix": "K/HBR/03",
 		"title": "Keukenspecialisatie (Dit keuzevak is een verdieping van de profielmodule Keuken)",
 		"description": "Een bijdrage leveren aan het beheren van horecaproducten en gerechten bereiden en doorgeven in een meer complexe situatie (in relatief kortere tijd gerechten bereiden waarvoor meerdere en andere technieken dan in), zoals minimaal een vier gangenmenu",
 		"examenprogramma_bg_deeltaak_id": [
-			"cefaf2ec-a9a5-45eb-87cd-be891993c630",
-			"04485c9b-592a-42e1-87bf-d9100e11adc5"
+			"65c3e720-6acf-48e1-8b49-f947dd491faf",
+			"ff268623-1d8d-474d-8e3d-7d268be517cd"
 		]
 	},
 	{
-		"id": "1c323646-7b35-47c6-83ef-9445681094f6",
+		"id": "0d3a1437-f107-4555-94d5-62bcd4d994a5",
 		"prefix": "K/HBR/04",
 		"title": "Evenementen (Dit keuzevak is een verdieping van de profielmodule Recreatie)",
 		"description": "Mede organiseren van en assisteren bij een evenement",
 		"examenprogramma_bg_deeltaak_id": [
-			"9bc56fba-a40a-4a23-a788-e0f8f372fea3",
-			"88a95afb-6f06-4c15-8b10-497e1be84c7e"
+			"8266915e-7820-4f2d-bd16-3c1c3eda0f92",
+			"6e2e3df0-6ede-4d19-bc56-5829bb04fe67"
 		]
 	},
 	{
-		"id": "df237f03-1766-4650-8ce3-898af89c9785",
+		"id": "6debe119-f214-4ddd-b9ee-05b36b6e18d5",
 		"prefix": "K/HBR/05",
 		"title": "Patisserie",
 		"description": "Het beheren en vervaardigen van patisserieproducten",
 		"examenprogramma_bg_deeltaak_id": [
-			"0a5c2b98-2651-4bff-b28f-a27e5c98d9c7",
-			"a95c59a2-116c-4902-aa6d-9fe35a7436e3"
+			"795b8713-3e25-4e23-80cd-7191526f3542",
+			"0fe3dda8-8636-4ceb-a166-097fcfad80d0"
 		]
 	},
 	{
-		"id": "234b15c0-1e52-4e7f-a183-2723b5ff1258",
+		"id": "a31e4680-4582-4c52-9066-a3fef95f16ba",
 		"prefix": "K/HBR/06",
 		"title": "De bijzondere keuken",
 		"description": "Een bijdrage leveren aan het beheren van horecaproducten voor en maaltijden uit bijzondere keukens bereiden",
 		"examenprogramma_bg_deeltaak_id": [
-			"a1a18df2-2fc5-4989-98de-ed4035624b71",
-			"854a6ea3-9a16-4a4a-8fd6-330a1c7f813e"
+			"a46f0efb-a562-471f-b8b1-02cfd11a1fbf",
+			"d007bace-9012-49b7-841f-79367c401c82"
 		]
 	},
 	{
-		"id": "88a642ae-4690-4875-ad30-cc87c045a05e",
+		"id": "3c7f3d7f-94fd-4d3e-b213-dd823b3f6b66",
 		"prefix": "K/HBR/07",
 		"title": "Traiteur",
 		"description": "Een bijdrage leveren aan het beheren van traiteur- en cateringproducten en assisteren bij het werken in de traiteur- en cateringbranche",
 		"examenprogramma_bg_deeltaak_id": [
-			"b1772ddb-5963-49bc-8f90-301c0d8b36b1",
-			"060ffa0f-5657-46ca-a915-30a98c804797"
+			"e2a308b6-5ba0-4fde-a1fe-66b897727a47",
+			"fddbeb99-0dfc-4222-9f2b-c2bf2bf2772a"
 		]
 	},
 	{
-		"id": "cc831845-0d94-4945-be4b-915d0d3b000a",
+		"id": "e32679fc-3432-4ebb-8449-be5a7f4fe64d",
 		"prefix": "K/HBR/08",
 		"title": "Facilitaire dienstverlening, beheer en onderhoud",
 		"description": "De voorkomende facilitaire werkzaamheden in en rondom het gastenverblijf en de accommodatie voorbereiden en uitvoere",
 		"examenprogramma_bg_deeltaak_id": [
-			"51c7071b-8b8a-499d-b5a3-a168c2ac9e30",
-			"40ff08df-1146-4ae3-98b4-3092b7dba07f"
+			"2da1f064-090d-4ffc-bf4b-b763cd837f46",
+			"5b88c732-2248-414a-9f31-3814cf7818bb"
 		]
 	},
 	{
-		"id": "0cdd7e12-e4c7-4a7b-8114-6c29cee03b05",
+		"id": "94085eae-e8b8-43a3-aa44-50b8c91df23c",
 		"prefix": "K/MT/01",
 		"title": "Werken en leven aan boord",
 		"description": "Voorkomende handelingen aan boord uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"20a8a0b4-e97c-405f-9019-66eac91bdd8e",
-			"5bf52dca-1ad6-4239-b460-a7a0149c499c",
-			"f8106497-cb9e-40e8-a8a0-f1e8cf1104bd",
-			"37c8289b-9e2d-4d4c-880b-d8d4fa0c0b83",
-			"c943b6f9-a2b1-461c-b604-53a30573a596",
-			"ce87119e-85ad-492a-84cc-a9d53298423f",
-			"ac0c48ec-f073-4991-b026-9e7fed622bee",
-			"e3a83a97-95ee-48bd-a6bf-23d467b031e4"
+			"5d448887-6ca9-40ec-9cee-edf1711f88c7",
+			"48577301-1179-4b71-a48e-2792a120213d",
+			"ede21f8d-c6c2-4102-bf6b-b4a426006d42",
+			"b7a1e769-741f-4864-9e5e-3386f70deb92",
+			"a0cab9d8-3079-4293-8a49-fd0672226a91",
+			"2a841c2f-ac28-4140-87b1-7d0da3f1f96c",
+			"3bba850f-6031-4fef-88b8-490441b41156",
+			"669cfa8a-acc9-4aef-b5ba-d46d8f16c62e"
 		]
 	},
 	{
-		"id": "dbd3a1c7-b877-44ac-bc11-23ae0bf758c3",
+		"id": "9bdcee18-26b3-471a-a779-174abb8d6df0",
 		"prefix": "K/MT/02",
 		"title": "Ladingbehandeling aan boord",
 		"description": "De scheepsleiding helpen bij de voorbereiding, stuwage en controle van de lading",
 		"examenprogramma_bg_deeltaak_id": [
-			"6061cef4-4b9c-40a5-8056-d4b18174619d",
-			"1c156247-4871-4f18-83da-e7f99e17d476",
-			"6b17fce4-74c3-4619-8183-0f8c72193774"
+			"23a99b0b-8fc7-446c-9f21-9d645efdb7ec",
+			"56c4eaba-3f7d-4725-b2f7-6f836befcc7b",
+			"01b518a1-7d9c-4c27-8c35-6a21cf8d9a0c"
 		]
 	},
 	{
-		"id": "9ae403d9-cba4-4b8f-952a-161048c8638c",
+		"id": "eb4fe4fa-2fc7-4674-a924-8704643b46e3",
 		"prefix": "K/MT/03",
 		"title": "Navigatie",
 		"description": "De schipper assisteren bij het manouvrerenen besturen van een schip",
 		"examenprogramma_bg_deeltaak_id": [
-			"a615e7b7-46da-468e-9414-cd357fa3d36a",
-			"1928bcd3-e495-4ff4-bf5f-00eca2fbba64",
-			"71643df3-ce33-4749-be8b-2b2ba5f1c7e7",
-			"8f4ff507-4181-4d30-abff-0140cf8a4ac1",
-			"8c475daf-3a96-4e5f-8863-8620231616ec",
-			"3933d72a-5337-4249-bb27-f43e8c836a28"
+			"1ad313d8-46b0-44aa-ba96-1a9e62a57589",
+			"bbd34b51-7af6-49ca-b0b1-1bf551e208c1",
+			"3a13ff29-2a51-4b92-afba-f38cac2a5be1",
+			"8bf8a8b1-16cf-415f-9879-f2879f62be2e",
+			"f119a43f-4d4f-40df-acf9-d10ef6f780f9",
+			"fd32500a-a17e-4ec2-ae07-813221f003a2"
 		]
 	},
 	{
-		"id": "5b9ef368-419b-4cd1-8c5e-830471126f56",
+		"id": "55e2b830-8a00-45ee-a24f-859f07d5c5d3",
 		"prefix": "K/MT/04",
 		"title": "Scheepskennis",
 		"description": "De samenstelling en de functionaliteit van een schip kennen en installaties aan boord gebruiken",
 		"examenprogramma_bg_deeltaak_id": [
-			"865f5da3-2978-44f3-a17d-88fd453f5fda",
-			"3b53d1ae-e294-4baf-94b6-b15bf37fb2d1",
-			"fd513d69-91b2-466c-b5f2-7f38c5a673bd",
-			"41045695-e709-47e4-9fef-437482525991",
-			"56f9334c-3152-4fe2-838d-7380c45b8d8f"
+			"565afc65-de0a-49bc-b2e1-09cd2d00df14",
+			"bf617b52-18dc-4e55-8cf2-2318d7d2502e",
+			"609da062-f1f8-4b4f-8c4f-d19ba3f06d0e",
+			"f8356639-3d61-4832-9b69-812da986bad8",
+			"562e580b-2f37-4d1d-a357-458b44de33a1"
 		]
 	},
 	{
-		"id": "4491fcd9-4fa4-4e32-b59a-6249c1d1c1ad",
+		"id": "9c495acf-9a09-4a47-8605-f10e67a6f213",
 		"prefix": "K/MT/05",
 		"title": "Zeevaartkunde",
 		"description": "Werken met zeekaarten en nautische boekwerken / nautische instrumenten / getijden en meteorologie",
 		"examenprogramma_bg_deeltaak_id": [
-			"0ea2377a-fd71-4b8d-b871-6339d468abbc",
-			"3d03fd5a-8d7a-49ab-b0ef-7209e60c09b7",
-			"158e05dd-aa1c-4dda-81ec-ad0b02c49c35"
+			"0e061714-c1c8-444f-bf99-63f6d6ccbdec",
+			"cebe9036-f05c-431b-8ee0-aaec0bae5d8f",
+			"5c8def50-6f3a-4e5b-9186-55c670c4200b"
 		]
 	},
 	{
-		"id": "0dc3bb70-69cc-470d-a5ec-ea447bfc459f",
+		"id": "93efce90-395d-4ed8-ab0d-dfc395dd1dfa",
 		"prefix": "K/MT/06",
 		"title": "Dienstverlening in de haven",
 		"description": "Uitleggen en beschrijven van dienstverlenende bedrijven in de logistieke keten, vooral gericht op de activiteiten in en om de Nederlandse havens",
 		"examenprogramma_bg_deeltaak_id": [
-			"9bef025f-c680-4a1e-9db5-5627ff8b0bc6",
-			"5ecfea21-a561-41cf-b001-caaa2eabe4dd",
-			"efe9e227-d1ef-4df2-9999-8bb1707b618c",
-			"a7c4ed7b-138e-4fd2-b133-f7a3d2ef7435"
+			"33a55673-0c61-45b6-8a27-fc4991bf777c",
+			"cc3d72ca-d909-4ce7-abac-489020d1fa9d",
+			"b56b5d90-4263-4942-8a50-fc4ca6de5d26",
+			"037d5384-b8b3-4c19-8a67-a90d2d78141a"
 		]
 	},
 	{
-		"id": "e73bd82a-95a0-4471-b9f7-cdd3085435fd",
+		"id": "266a8382-1230-4fe9-a4fc-12c08da2d931",
 		"prefix": "K/MT/07",
 		"title": "Opslag en overslag in de haven",
 		"description": "Activiteiten die te maken hebben met de op- en overslag en distributie van producten en goederen in de haven herkennen, noemen en uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"1147bf8b-1f26-4def-a2e2-8ecc967b851e",
-			"3d2bd178-cc94-4d91-a6e3-5982db07df91",
-			"97d2805c-2058-46d0-8e97-ff4bcc8b7c8f"
+			"22b3b4ec-71b9-4971-90b1-ff54832f36b2",
+			"afe30cff-1148-4411-9778-948aed231fde",
+			"8e8c8990-a760-4558-b1ce-8fd409336ae0"
 		]
 	},
 	{
-		"id": "97b62215-67a2-42a0-8855-f0223680b30a",
+		"id": "7730384a-834a-4ba4-9606-6d8aceeef0e8",
 		"prefix": "K/MT/08",
 		"title": "Stuwadoor en Vorkheftruck",
 		"description": "Werkzaamheden van diverse gespecialiseerde op- en overslagbedrijven (stuwadoorsbedrijven) beschrijven en uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"bd2f63cc-0fcc-4b4e-9653-015b091b8930",
-			"6e14f044-a487-482f-b7ba-94dba04e1dae",
-			"1bead18a-9f49-41df-87d7-127249a3604b"
+			"4273dbfc-078e-43d8-8861-1950bd5169ac",
+			"c1889d47-7afa-4e22-99e8-710a5a655601",
+			"01f20343-6ea7-4649-9b17-1c8dc3698426"
 		]
 	},
 	{
-		"id": "16171ce5-0d90-4d0b-af8c-ab00429c4d3b",
+		"id": "6cb0525b-acd0-4635-a0e4-89c5faf9d138",
 		"prefix": "K/MT/09",
 		"title": "Ladingadministratie in de haven",
 		"description": "Inzicht hebben in de informatieverwerking en documentatie met betrekking tot lading / uitvoeren van voorbereidende- en aansluitende werkzaamheden die te maken hebben met deze informatie en documentatie",
 		"examenprogramma_bg_deeltaak_id": [
-			"c8e62bd4-4e02-4eaf-ad5c-fb832e8d8c48",
-			"31a1e3bf-b75f-4e84-9431-49a1b36052b2",
-			"ad1ddfc9-58cf-47dc-bd7a-900427c738f4"
+			"44cea273-c003-44b7-a0c1-7d5bed5a7a30",
+			"433678bf-c888-4c1e-be68-1351abc467c4",
+			"d00b2c09-1dec-412c-983f-ae4c03148abf"
 		]
 	},
 	{
-		"id": "4628c6a1-dabb-4024-a589-0803c8f37685",
+		"id": "4c3a2392-46b2-422f-a76d-5ae19e0610bb",
 		"prefix": "K/MT/10",
 		"title": "Expediteur, luchtvaart en douane",
 		"description": "Positie en relaties van de expediteur in de logistieke keten herkennen en noemen / basisvaardigheden en werkzaamheden van de expediteur in de logistieke keten uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"eefd6115-94b6-42d7-a1f4-9f8f9faf4e61",
-			"2be5d87c-c20a-44df-b2cd-031235f3ac55",
-			"b7e6f5e9-7317-4f2e-93ff-38bf60814d43",
-			"09a10fb9-66b2-417e-aeba-b39c4f87dde0",
-			"84c671e2-06ac-4f48-aca7-b1f1b97ac081"
+			"ac21fd77-43d9-4391-a103-6758ce5d5035",
+			"9370a8be-b2b5-41ee-9ab5-c1c33c4f97ed",
+			"8ddd83f1-61a2-4632-991d-0dfc743ae91c",
+			"c77aa8bf-e767-4f15-a7e6-fadee27614d5",
+			"6b45881b-ded0-44cc-9c15-15814a14ec6c"
 		]
 	},
 	{
-		"id": "711137e5-eedc-4a4c-8fb1-0a69faa232fc",
+		"id": "c3cce134-da34-419a-a02b-7a324144857e",
 		"prefix": "K/MT/11",
 		"title": "Cargadoor",
 		"description": "Positie, relaties en werkzaamheden van de cargadoor in de logistieke keten noemen en herkennen / basisvaardigheden en werkzaamheden van de cargadoor uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"afc66dca-aeef-46a8-9861-50b09bfb18e0",
-			"664efc15-8f70-49cd-8557-197f80080667"
+			"6f5e6761-7f7b-4048-ae88-c94d7368f1a2",
+			"b38a2c2a-0ef7-41c2-9882-ecafa6686dc7"
 		]
 	},
 	{
-		"id": "6200f146-ed51-4b25-b3ca-c6cf372d7f0e",
+		"id": "85623522-1e3b-4e22-8bca-ee1f521b3ce4",
 		"prefix": "K/MT/12",
 		"title": "Nautische materialen en gereedschappen",
 		"description": "Materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing in maritieme constructies / reparaties met het juiste gereedschap uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"ef921360-e345-48fb-a2dd-556526b01b72",
-			"a82a70b3-0e4f-40e6-beb7-80e612da7bd9"
+			"a5044233-8cea-475f-9653-c8a5a342512e",
+			"fc0b31cc-ec44-4f8d-8d86-adc0692e74bc"
 		]
 	},
 	{
-		"id": "2d19da0f-c646-493f-9f39-a833c9793286",
+		"id": "b264a622-3652-463d-b1c7-a84fb467f8c3",
 		"prefix": "K/MT/13",
 		"title": "Scheepsconstructie en -ontwerp",
 		"description": "Een maritiem ontwerpvraagstuk analyseren, beschrijven, schetsen, uitvoeren, testen en evalueren / plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden / een ontwerp produceren door handmatige en machinale bewerkingen uit te voeren aan metalen en kunststoffen",
 		"examenprogramma_bg_deeltaak_id": [
-			"725efdcd-330c-4134-975a-a1575e41b554",
-			"8087a158-d87a-4d7d-978a-0124ca16039b",
-			"12bb8d83-3d7c-4127-b1b5-fd75168ee082"
+			"c1110510-19c2-4abd-8a0c-e83fcf5eb894",
+			"3524e07d-7805-4be7-bf3e-e6622b1a50ef",
+			"ec8ed818-dc17-4e32-93af-0087665cc0a3"
 		]
 	},
 	{
-		"id": "d60f195a-3348-4c9e-9682-49f3f38132fa",
+		"id": "9a60674f-0340-44b6-af17-62f41b2a9626",
 		"prefix": "K/MT/14",
 		"title": "Maritiem mechanische installaties",
 		"description": "Maritiem technische systemen verklaren / mechanische installaties monteren, bedienen en klein onderhoud uitvoeren / een mechanisch proces bewaken, storingen signaleren en verhelpen",
 		"examenprogramma_bg_deeltaak_id": [
-			"05525722-acf4-48c1-bfef-24aef87beee6",
-			"e49ee8f4-9f40-4cdb-b0b9-3e4a218ec7ed",
-			"e0f9c3eb-e3ba-415a-bea8-e44a9b4f50a9"
+			"fa180b32-8799-47f9-bb24-a947eafaff6b",
+			"8ef63672-1ee5-4776-b499-e0241f1c579a",
+			"72d89659-3c97-4911-8461-ded4771f8ad8"
 		]
 	},
 	{
-		"id": "e5b460f3-5f9d-4b7b-bd88-0c4f1fd0798a",
+		"id": "f5773760-1e48-4c70-9371-4285ea4f2dad",
 		"prefix": "K/MT/15",
 		"title": "Conserveren van maritieme systemen",
 		"description": "Een maritieme constructie voorbehandelen, afwerken en decoreren / een waterlijn uitzetten op een maritieme constructie / door het wegnemen van oorzaken corrosie van een maritieme constructie voorkomen",
 		"examenprogramma_bg_deeltaak_id": [
-			"99f97d85-de3c-4043-bac6-4fd461576275",
-			"6a3fce3a-b70a-4a15-bee4-27fe27589234"
+			"03182f8a-fdc1-4631-80cd-d86c8ea41bf1",
+			"f79aaddc-96e4-4a36-8d19-019539ace7c0"
 		]
 	},
 	{
-		"id": "fc35d3de-f8cc-4f19-bee9-08cb43f8676c",
+		"id": "6c9ea3c2-6d08-4e4b-8253-b4634a6f5083",
 		"prefix": "K/MVI/01",
 		"title": "3D vormgeving en realisatie",
 		"description": "3D concept voor een opdrachtgever ontwikkelen / een 3D product passend bij de opdracht vormgeven en maken / zijn werk presenteren en promoten",
 		"examenprogramma_bg_deeltaak_id": [
-			"0a31e5e5-377c-47a4-b9e7-a2b7b5bd040c",
-			"6b35ea1e-5fb0-45f1-a654-807fed91ba24",
-			"429114ce-6f56-4f5e-9804-28ec558e475e"
+			"77b779d7-10df-4006-8efd-fa5bbab98ae8",
+			"2c8fc5e3-5a72-42aa-8d46-4b896cc7c278",
+			"a7b1f580-cbe6-4ca7-9147-738083c06b3a"
 		]
 	},
 	{
-		"id": "dfd0f623-131a-454f-9ecc-b71258a4a6d5",
+		"id": "d977c67c-07f2-48c4-8d03-4130c6997ae9",
 		"prefix": "K/MVI/02",
 		"title": "Idee ontwikkeling",
 		"description": "Met verschillende ontwerpstrategieën voor een mediaproductie een idee ontwikkelen en visualiseren",
 		"examenprogramma_bg_deeltaak_id": [
-			"22f2fe6e-c297-43bf-8b7d-8c7c23d7a663",
-			"db3ec655-82d7-4993-b1ad-3ef4154336a3",
-			"8d54461f-6811-4061-b3b2-58b1078cf495",
-			"ec7eb936-baa9-4fad-b335-d4718497431e"
+			"0e861e78-9c33-4c5a-9d04-6867b90b5116",
+			"5af43bb6-7c5e-459b-a1de-337a762dedbd",
+			"20e73cad-b8bf-4ec2-bb77-f79ab42c96cc",
+			"ec09bc15-74e3-4c53-95d7-8c053deb6982"
 		]
 	},
 	{
-		"id": "09c3cda3-ae58-4fb2-80d1-d1f29bcaf02a",
+		"id": "59ed363f-df85-409f-ac66-8ecfe1fe4864",
 		"prefix": "K/MVI/03",
 		"title": "Netwerkbeheer",
 		"description": "Een netwerk volgens gegeven eisen ontwerpen en realiseren / het werk documenteren en registreren",
 		"examenprogramma_bg_deeltaak_id": [
-			"2c3bba43-9f80-4f41-b05b-bef9aee26200",
-			"02284b05-05b8-428e-a380-583c80b228f8",
-			"b6f4f343-3444-4d2e-aae6-092ebb5fba2a"
+			"b1d972a8-25b9-4a0b-933b-93ba48ef0d28",
+			"a021f15e-549a-4026-aff8-d13eca977023",
+			"b175fc09-82bc-43ce-b491-2ac09bcdbc43"
 		]
 	},
 	{
-		"id": "3fbaf44a-baed-4d7f-8721-12057be9480a",
+		"id": "3a6bc474-1e4b-49bd-a6a3-ffdd3542094f",
 		"prefix": "K/MVI/04",
 		"title": "Printmedia productie",
 		"description": "Een eenvoudig printmedia-product ontwerpen, vervaardigen en opleveren",
 		"examenprogramma_bg_deeltaak_id": [
-			"ad0fa9dd-4451-4907-a4d0-4d7b38580f43",
-			"d9cc72c0-3366-4acd-986f-019ed98215b5",
-			"17d28b05-279b-4eae-b60b-e18079ac25a4",
-			"45c1398e-d3b1-4d9c-8b99-755d72ec5119"
+			"8af2968b-8a57-442f-b941-ce5b951a5652",
+			"85dc86ca-2135-413c-a1f2-f895844bd2e9",
+			"da963498-b988-4003-8a91-12b0f6d3edb2",
+			"b43c6e28-ac4d-4926-8ca3-a0494708c1cf"
 		]
 	},
 	{
-		"id": "0ec9e784-02c0-4275-bd38-2fd55dc0a77e",
+		"id": "0b97ff13-dac3-4ded-9b40-40c780326e8d",
 		"prefix": "K/MVI/05",
 		"title": "Tekenen, schilderen en illustreren",
 		"description": "Een personage bedenken en uitwerken met zelfgekozen materiaal in een modelsheet en walkcycle / een plastische weergave maken van een zelfbedachte omgeving op een 2D medium / een mediaproduct in de stijl van een bepaalde of gekozen kunststroming vormgeven, maken en presenteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"5599ab56-30b4-40e5-80a6-6d9512ec61d4",
-			"2ccea3d6-86e8-4221-a450-2552957deb88",
-			"ad2af20c-1496-4e3c-906d-df4dd5a27fd2",
-			"8f45a095-546b-4242-8d1a-3c71896641e8",
-			"2d61660c-9852-4f0f-851a-73e4d9837024",
-			"35464783-fa92-41ea-b934-bb282395c62e"
+			"df059ad1-23df-4504-ae1b-3ea72137e752",
+			"9100d7f8-854c-480f-b8d9-1ba7ad77004e",
+			"f7da4df4-5121-4733-af03-c00f7f9fa167",
+			"fd112cc5-951e-4bbb-8275-445972ab3c31",
+			"83c558f2-450b-444b-bd1f-d09b7be8d71f",
+			"02657ab0-7573-4e84-bc20-ddec03b2999c"
 		]
 	},
 	{
-		"id": "e7c89998-6b34-4ce6-b6e2-fd5a2404628b",
+		"id": "71e17d94-3cee-4eb7-b63d-fdb66325510f",
 		"prefix": "K/MVI/06",
 		"title": "Game design",
 		"description": "Een game bedenken, ontwerpen en maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"15c35c68-176b-45f5-9182-603a5f286892",
-			"08ffeffc-1d93-419b-abc9-8f9d8cd2d703",
-			"90ab0f9f-1ec9-4297-86a0-52605d556e68"
+			"27552796-e73a-4e81-9ee7-54cc9eb2c247",
+			"c76bb52b-c52f-4ac7-9c69-b31f9a2471b1",
+			"304538f3-a63d-4226-b1db-bb722a1c1ba8"
 		]
 	},
 	{
-		"id": "ce51a0eb-792e-4906-a5aa-87b31977363e",
+		"id": "59988a9e-dadc-4901-9d92-d53eaab6eab0",
 		"prefix": "K/MVI/07",
 		"title": "Fotografie",
 		"description": "Een fotografie concept voor de opdrachtgever ontwikkelen / fotografische beelden realiseren en bewerken / fotografie apparatuur en materiaal onderhouden en beheren / het werk presenteren en promoten",
 		"examenprogramma_bg_deeltaak_id": [
-			"e3bf02ab-41d1-4266-84e2-e08741137bf7",
-			"4f74f5aa-7bd2-47b1-8eba-ca2032968c38",
-			"9bfd3437-ce69-4852-bda7-3753c40f4a54",
-			"7b00bdbd-18a8-42e6-bfd5-e736611a1bc9"
+			"ffa27e39-79fc-408d-b9ef-da10c6308811",
+			"ff3324bf-69e9-437f-a6e3-c12c3c646c39",
+			"5c047535-2a5d-43b4-9f61-e6459ba96d1d",
+			"3b4994fe-62ee-4582-8db4-28be337478e5"
 		]
 	},
 	{
-		"id": "036ffb84-8b0d-491a-9d82-f47d212ef968",
+		"id": "0a177120-0bb4-45b5-9740-1563bf865b4b",
 		"prefix": "K/MVI/08",
 		"title": "Licht, geluid en decor",
 		"description": "Belichting installeren, aansluiten en bedienen / een geluidsinstallatie installeren, aansluiten en bedienen / een decor ontwerpen en (op schaal) bouwen",
 		"examenprogramma_bg_deeltaak_id": [
-			"7747f924-1be1-4015-8ac4-2a5059b6c328",
-			"a1a428e8-c801-44fa-8867-bab41e3df281",
-			"74bc7ec0-59cb-429a-b6fc-6f583b36a5fc"
+			"5a83244e-9f7d-4f78-9a51-5d6d91bf54af",
+			"f006bac7-026c-4ac0-b6c1-5c69fe753fe4",
+			"10c307b1-ae76-4689-a349-c1987d65cd5d"
 		]
 	},
 	{
-		"id": "404814ba-c14e-4384-a852-cfcc5769e9ce",
+		"id": "3d2725fd-f426-4110-9ed7-f6bb1ef3fe83",
 		"prefix": "K/MVI/09",
 		"title": "Applicatieontwikkeling",
 		"description": "Een applicatie ontwerpen, realiseren en testen",
 		"examenprogramma_bg_deeltaak_id": [
-			"473f1f23-b7f8-48b1-9a25-9f1dc6c39454",
-			"ebf7acdc-2162-42b5-8c66-ebb1c3424162"
+			"bc1952be-103e-4793-91fe-6d677ad53d59",
+			"f9f92e7d-de4a-4d70-bfa9-ea1fcb37335a"
 		]
 	},
 	{
-		"id": "e96f466c-28e6-4a68-b564-617bc28d37d8",
+		"id": "fecd6f18-af82-46b0-b772-8a996df016a1",
 		"prefix": "K/MVI/10",
 		"title": "Digitale beveiliging",
 		"description": "Digitale informatie en gegevens beveiligen en daarvoor procedures en processen toepassen, rekening houdend met de privacy van gebruikers en gevoeligheid van informatie en gegevens",
 		"examenprogramma_bg_deeltaak_id": [
-			"675a1041-6d80-4abb-b409-2a2d06584891",
-			"6a3493f1-edb4-4726-baeb-b1c1b564c8f9",
-			"e82ca0a3-6114-4fe6-a432-7e23980ffe2a"
+			"97a63588-3199-4399-a6f1-e5d3563f4ba8",
+			"641b6e40-f6c1-41d8-87b8-f3be670f17f9",
+			"031dabb4-8a72-4d9c-90f0-b27e37a16e97"
 		]
 	},
 	{
-		"id": "d6f52411-2c81-42c1-888a-50597c85346a",
+		"id": "7aa1ce03-ed3a-4068-97fa-f8fdb2ee9efe",
 		"prefix": "K/MVI/11",
 		"title": "Sign",
 		"description": "Een eenvoudig sign product ontwerpen, vervaardigen en opleveren",
 		"examenprogramma_bg_deeltaak_id": [
-			"25d33f91-c9bd-4e5e-8192-a3f4d0868686",
-			"c3fbd891-2b0c-4f65-8adb-d103b52979ba"
+			"df8e18bf-b5fd-4993-8602-9c7132c6b600",
+			"43108c6f-7cb4-4a7b-87fc-217b24b76b36"
 		]
 	},
 	{
-		"id": "231cca78-1cb7-4787-8f5f-f446c24e95b5",
+		"id": "f995c4f1-4f90-4e09-abe9-79acb0955dd2",
 		"prefix": "K/MVI/12",
 		"title": "Vormgeven & typografie",
 		"description": "Een bepaald media product vormgeven passend bij een specifieke doelgroep",
 		"examenprogramma_bg_deeltaak_id": [
-			"d09320f5-32fb-46ab-9d4d-6800957783da",
-			"62b04834-2d8f-4719-9845-8beeaa10221c",
-			"6979ee3e-f33c-4111-9cf4-751ab81ebdc7",
-			"27e0c329-d29f-4399-81a2-985c9a3437a5"
+			"33a60f7e-9618-4a4b-b3a6-7ac35163fd55",
+			"f4ee4a44-e50c-426f-ae18-a068ab97a024",
+			"16af8d9d-6982-47e2-ac8e-9d9aa02248b7",
+			"5fed338a-0d0c-4df0-b739-14ba5da0d00f"
 		]
 	},
 	{
-		"id": "ef20436f-edab-493a-b663-3f38957a26cf",
+		"id": "262a1f6a-e58b-48dc-b9b9-add56cda432a",
 		"prefix": "K/MET/01",
 		"title": "Motorsystemen",
 		"description": "Een ontstekingssysteem testen / een brandstofsysteem controleren, testen en onderdelen vervangen / distributie en klepbediening controleren, afstellen en vervangen",
 		"examenprogramma_bg_deeltaak_id": [
-			"5626269c-304c-40a3-8dfd-baa6886dd63f",
-			"b3533472-2b7a-4b65-a22b-2f60a3761896",
-			"5a3bfbbf-059f-4669-830f-8f0cf05cc3f6"
+			"b59fc251-9bef-45cf-a83c-bccb633b4d78",
+			"17062d9c-6e3b-4257-ac1d-08a665f33995",
+			"f114d062-a1b1-4edd-ad79-c1471f1650ed"
 		]
 	},
 	{
-		"id": "02d3b0f6-0f46-4f84-ad91-0934bbef3299",
+		"id": "dae0eabc-f5b1-4246-942f-9d9c81c025b1",
 		"prefix": "K/MET/02",
 		"title": "Aandrijf en remsysteem",
 		"description": "Een aandrijfsysteem controleren, vervangen en afstellen / een remsysteem controleren, metingen uitvoeren, componenten testen, vervangen, ontluchten en afstellen / een stuursysteem controleren, componenten vervangen en afstellen",
 		"examenprogramma_bg_deeltaak_id": [
-			"28fe84c9-0575-4e73-915d-ee888188dfa7",
-			"ed183505-d58a-4e07-ba65-f9f56ae59218",
-			"e2bbf9f2-9673-4b7d-a7c4-2fdb579556c3"
+			"8b0ecc09-d5a3-41bd-8644-34e4f53c2f60",
+			"f3808f99-9408-40f7-978f-dcf37391beb1",
+			"b6ae1a9c-adc2-4afe-b325-4b520a03db97"
 		]
 	},
 	{
-		"id": "2f076798-7b6b-4483-8adc-b4b14034ba9a",
+		"id": "722bf5a6-af02-4353-8bce-b4e9f21d67bb",
 		"prefix": "K/MET/03",
 		"title": "Elektronica",
 		"description": "Een laadsysteem controleren, meten, componenten vervangen en testen / een startsysteem controleren, meten, componenten vervangen en testen / een gloeistartsysteem controleren, meten, componenten vervangen en testen / een motor managementsysteem aansluiten, meten en testen / de werking van een datanetwerk van een voertuig demonstreren en verklaren",
 		"examenprogramma_bg_deeltaak_id": [
-			"548d91bd-80de-4d3d-a4cf-1c22fb2c0eff",
-			"020f9d71-0065-4a03-81ac-28105a2bfd2b",
-			"3834be80-3838-4c27-9d7b-f4bcc9d611bb",
-			"b38b668c-2847-4021-9e61-1f9b8da94980",
-			"df7fd8d4-91d3-4398-b216-a1e49544f8b6"
+			"c2865fb3-1a2b-4faf-92e3-83d92468e682",
+			"8a476aad-8038-44bb-bbf5-83f906869ae9",
+			"d1771169-8750-4bbc-b8b2-c9fec1e24585",
+			"3cf7389c-a2e2-47cb-804d-0f9f44192600",
+			"b869e20d-74c6-422b-8f88-c1001fa8b2db"
 		]
 	},
 	{
-		"id": "6a22f403-586a-4970-a74a-6b620483a3d9",
+		"id": "8c403c3b-2cd6-4627-99e1-58c78d3db273",
 		"prefix": "K/MET/04",
 		"title": "Bedrijfswagens",
 		"description": "Bedrijfswagens en getrokken materieel benoemen / een aandrijflijn van bedrijfswagens controleren en componenten vervangen / componenten van een luchtdrukremsysteem aansluiten en testen",
 		"examenprogramma_bg_deeltaak_id": [
-			"07bd110c-c8d4-48fa-956e-7ce0abf92339",
-			"47a164a5-0d8e-4db5-b43d-04ff179ebd86",
-			"16acd6a9-e9e5-4bab-9902-b7025837fcfb"
+			"d71a0309-3086-4c8b-92d8-a89666df2de7",
+			"b0ae4988-8d29-447c-9598-55b69367fd5a",
+			"f417b4ee-0e10-4c21-a760-8c6346ba47b0"
 		]
 	},
 	{
-		"id": "65638eb7-7eec-4f79-80df-d8e8adaae9c5",
+		"id": "e4f1a40f-44bf-4002-9e3a-94e7b84ab36a",
 		"prefix": "K/MET/05",
 		"title": "Fietstechniek",
 		"description": "Een fiets afleveringsklaar maken / het elektrisch systeem van een fiets testen, controleren, meten en repareren / het aandrijf- en veersysteem van een fiets vervangen, controleren en afstellen / remsysteem van een fiets controleren, meten, vervangen en afstellen",
 		"examenprogramma_bg_deeltaak_id": [
-			"53de93aa-e106-4f21-91b4-6c1c1fe81c3e",
-			"9f9104c9-da03-4ee6-9c88-9ede0589c3fe",
-			"62579b70-47f4-4917-b430-963f9a9f75da",
-			"f2ddce01-ff6f-4cf3-9853-22bfe3db5306"
+			"c6b73129-2e6c-492b-8c62-877ddba45a6d",
+			"dbb1b19a-cccf-4180-a5d6-c62c8885f436",
+			"edf605ad-4857-43b2-a100-b75fe50c99f0",
+			"bc679c18-8017-4ae2-9d23-dfc17ce52bb0"
 		]
 	},
 	{
-		"id": "a2ada9f5-edfa-4fd1-a870-816cb2b10443",
+		"id": "ac6c6e9b-0338-4f36-931f-6e4889bb5944",
 		"prefix": "K/MET/06",
 		"title": "Gemotoriseerde tweewieler",
 		"description": "Een gemotoriseerde tweewieler controleren, meten en afleveringsklaar maken / elektrische systemen van een gemotoriseerde tweewieler testen en repareren / aandrijf- en veersystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen / remsystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen",
 		"examenprogramma_bg_deeltaak_id": [
-			"245d3e8e-314f-4554-a4cf-e37423572c68",
-			"6a141252-8f39-44d6-89ea-0c5a1c4e7248",
-			"fea09e66-f70b-461a-8017-87a09cf371eb",
-			"9a4ed89e-b92e-4a8c-85ff-dfa24ed7166f"
+			"14bf0ea4-943f-4420-97e5-cb1fa3d167df",
+			"ebc27421-e1ae-4e46-b663-f25352aaf169",
+			"26f6b124-c0fe-4cc8-815a-bdf739dddf2d",
+			"1faaa4b9-9431-4e51-adb5-04e7734f54fd"
 		]
 	},
 	{
-		"id": "628c8f4f-86d4-4e2b-894c-0b60813f0d87",
+		"id": "d785ebcb-8a4f-4cdb-b31f-d4d9a9016ec7",
 		"prefix": "K/MET/07",
 		"title": "Carrosseriebouw",
 		"description": "Onderdelen aan een carrosserie monteren / een laadbak maken / een lichtbak met achterlichtunits maken en aansluiten / een trekhaak monteren en aansluiten",
 		"examenprogramma_bg_deeltaak_id": [
-			"0f0d9bf5-596d-4c7e-963e-bc4ef3b2bc30",
-			"9ef2bfb8-dec3-4f14-ac94-d9a774ff6575",
-			"3fb9f04e-d4dd-427e-8913-071a9a2400b7",
-			"29ae5b08-2b1b-496c-ba7d-e7714e5d3fbf"
+			"46d7915b-15b1-4b56-a771-13c112e83396",
+			"a2670d8c-c1ee-406d-ac89-060f916cc67a",
+			"a03da299-6c2c-4eb1-a3dc-cd7f560e9469",
+			"0d6071b7-aaf5-4339-8582-b706201a5c9d"
 		]
 	},
 	{
-		"id": "40eaec65-4af8-437d-9b79-bb5eb3475595",
+		"id": "e5513df4-9e4a-4691-8d54-d8c8b609f754",
 		"prefix": "K/MET/08",
 		"title": "Autoschade en spuiten",
 		"description": "Schadeherstelwerkzaamheden voorbereiden / eenvoudige schade herstellen / te spuiten carrosseriedelen voorbewerken / een voertuig afleveringsklaar maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"905f68a0-d2a4-4269-8ede-cb7b56f03605",
-			"012b1dde-20f8-4e5f-b9a0-44c11d7f91e9",
-			"1cd72831-97c3-426a-93ec-277718b90dfd",
-			"75c2b71f-9e03-4891-a898-a91ec5721566"
+			"f60fbdb8-a131-4950-8c06-e0bc685ef29f",
+			"8ba40f59-d1f9-441c-a6cf-5f81ff2a20f1",
+			"0ea6d066-1fab-413b-b59a-3d93b53a3a10",
+			"4ee97334-6081-43c3-83e3-9189c5f64d5a"
 		]
 	},
 	{
-		"id": "db565c3a-0493-43a1-a3aa-d4d51fc7e432",
+		"id": "1c64c33d-b738-4148-9af1-5d5193b0b312",
 		"prefix": "K/MET/09",
 		"title": "Verbrandingsmotoren",
 		"description": "De werking van verbrandingsmotoren verklaren / brandstofsystemen controleren en repareren / interne en externe koelsystemen controleren / de werking van beveiligingssystemen verklaren",
 		"examenprogramma_bg_deeltaak_id": [
-			"2c03610f-b016-43ec-b4f9-1efdc4628a15",
-			"7b93b28b-2487-43cc-b6a9-ce6ae30efa9b",
-			"0504f7c3-50e8-4fb1-9ef9-f4566e9be969",
-			"6f206aed-7123-4297-8b6a-f176ee4d9362"
+			"87b6c820-f40a-40e0-9c2e-ddf4d4e5570b",
+			"c8a9200a-5de2-4915-8ccd-23b89c9e4875",
+			"2bdafb38-b95f-4685-acf6-3e902f787c98",
+			"5366c18c-15fc-4581-981c-4600b4762f88"
 		]
 	},
 	{
-		"id": "1e85bd09-ee82-4566-88a3-f3ce679d7671",
+		"id": "c8b1b3e8-da1e-411b-8d47-c2d20fa1eca1",
 		"prefix": "K/MET/10",
 		"title": "Ritvoorbereiding en ritafhandeling",
 		"description": "Een rit voorbereiden / een rit afhandelen en de vrachtauto in rijbare staat terugbrengen",
 		"examenprogramma_bg_deeltaak_id": [
-			"8c46dd68-bccd-4bfe-82e5-3265923cee1b",
-			"2b7e453d-3f92-4f4c-aa97-9aad6397f52b"
+			"c680ce15-788a-4776-a086-9d7d987c9119",
+			"2df333c2-d522-442a-a519-367b7ac2ed8e"
 		]
 	},
 	{
-		"id": "0c9f33c7-570b-49c5-a71f-264cd7452855",
+		"id": "2d6ad447-463d-4eda-8b9f-29b41936aa6f",
 		"prefix": "K/MET/11",
 		"title": "Mobiele werktuigen",
 		"description": "Mobiele werktuigen herkennen / een hydraulisch systeem controleren en aansluiten / machineonderhoud uitvoeren / pneumatische en elektrische systemen controleren en testen / hijsen en tillen met werktuigen en de risico’s bij hijsen, tillen en dragen herkennen",
 		"examenprogramma_bg_deeltaak_id": [
-			"3225c6a2-2693-40ba-b9ba-c9bdfdda7a21",
-			"5bc3c1f6-3b66-4d2f-8ef3-00bfb491e4ba",
-			"d386aa7d-0767-47e2-b632-f3e624d62779",
-			"a6127a55-2c95-4eda-b4b3-308736b22875",
-			"63e7c7ae-d8a0-4818-a297-737b04df1d6d"
+			"8de33048-72bb-4f21-8c21-d88b3d6117e4",
+			"42f812e2-3b44-463d-b7a9-7d6da7c36268",
+			"a29e7b04-a6fc-4369-9b16-75537cc882a5",
+			"78858f2f-ea14-48ee-bb1d-d4c770252709",
+			"3517cde9-b5fe-459d-84a2-d13a79612670"
 		]
 	},
 	{
-		"id": "5549f22c-da21-4761-8428-8c44855c97d6",
+		"id": "4cde94d8-546b-4325-aa66-45a485c95204",
 		"prefix": "K/MET/12",
 		"title": "Operationele magazijnwerkzaamheden",
 		"description": "Goederen ontvangen en deze inslaan en daarna opslaan / voorraadbeheer uitvoeren / goederen verzamelen en deze verzendklaar maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"25fce7eb-ebd3-47ee-b539-b6e1f634cbbd",
-			"5a0d821f-2f07-4d47-a957-eb5554f411c9",
-			"d2ff2a0f-e936-4809-b2b5-828eafc19c9d"
+			"65aefd63-7f27-4345-892a-b65a94987b75",
+			"f9f3956e-8d9c-42b8-aa63-83cd41cba78c",
+			"23b97c1b-3a9b-49b2-adcb-8ecb50c3d20a"
 		]
 	},
 	{
-		"id": "7996d9ae-12be-480b-a249-b1f277f802a8",
+		"id": "53346016-af9f-47db-af60-a11d828c4b1d",
 		"prefix": "K/PIE/01",
 		"title": "Plaat- en constructiewerk",
 		"description": "Werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materialen bewerken en vervormen / verbinden van onderdelen en/deelproducten / meten en controleren van vervaardigde producten en afronden van uitgevoerde werkzaamheden",
 		"examenprogramma_bg_deeltaak_id": [
-			"30a767e7-0022-42ee-95e8-5157f8d5854c",
-			"cb2d472e-12ba-4939-af61-215143871d1a",
-			"931da412-1f17-425c-be44-a4bd06387dda",
-			"0074a401-b7b6-4fc2-aee2-51dc8686a77e",
-			"43cbaa00-5de1-48ba-8408-e29ea4d1a03f"
+			"8d91517a-f3db-4b18-a54b-9822a52e3cf8",
+			"60c3e5d0-e879-4075-b3cd-fba84f040f0a",
+			"6152ac04-3342-42d9-9dea-a6669e2e9553",
+			"41686188-9bfa-478a-ab7b-84f8737c8806",
+			"f744d562-d91a-446f-8b39-5fd5dc34e13f"
 		]
 	},
 	{
-		"id": "7e22f475-00ff-4f3e-b9bb-1e0b501b2b98",
+		"id": "6f4abb02-b876-4012-afdf-38993f921209",
 		"prefix": "K/PIE/02",
 		"title": "Booglasprocessen",
 		"description": "De werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materiaal voorbereiden en lasnaden aanbrengen / plan van aanpak opstellen / onderdelen en deelproducten met elkaar verbinden",
 		"examenprogramma_bg_deeltaak_id": [
-			"4cbc4b5c-b3ce-4db4-a3cb-42cf2a3e38a9",
-			"b4c1dc08-0dcb-4272-ae1b-11a3a7a0e096",
-			"d98e6373-41d1-4541-83e9-665a0566039f",
-			"0d168df3-3da1-4685-bdb0-268d7e77c574",
-			"b7bdb4f9-f838-4ab0-b97a-4308d23f184b"
+			"d134439c-85a6-4152-9e35-49c830ba5ab4",
+			"2d6b325f-9843-4b62-a99b-9f4430fdd74f",
+			"ceaafe58-f640-4c58-b8a3-2ce25123214c",
+			"c29426de-8014-4808-9984-1efc354301b7",
+			"2761df2e-57b4-40d4-b2a6-5c6ee1a3cd1b"
 		]
 	},
 	{
-		"id": "7042c576-23a1-48b4-90a1-85cb0a645308",
+		"id": "536e3afb-d0ae-4e5b-a02d-d555574c13a8",
 		"prefix": "K/PIE/03",
 		"title": "Klimaattechnologie",
 		"description": "Een verwarmings- en gasinstallatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van verwarmings- en gasinstallaties lezen en interpreteren / leidingsystemen voor een verwarmings- en gasinstallatie aanleggen / een verwarmings- en gasinstallatie afmonteren en testen / metingen met infraroodcamera maken en verwerken in een plan ten behoeve van energiebesparende oplossingen / weersafhankelijke regeling op CV-ketel installeren en regelen",
 		"examenprogramma_bg_deeltaak_id": [
-			"df5bffb9-b33e-4057-8724-4562cfa9c1e1",
-			"257865b3-daad-4962-afb0-be811a2d7769",
-			"75e1873c-d149-4118-a2e4-35bf30eb9b2d",
-			"31f5600a-3afd-4035-8d21-f40f7c7685cf",
-			"ea623e1c-d136-4fb5-9f6f-d26e65e74575",
-			"0759381b-1a81-4dda-be2f-6c8c3e6227e0"
+			"f62824ef-ae72-4b61-8589-4430f9fab9b0",
+			"2e60fd1c-2acf-450b-8cda-fe8036edb733",
+			"df160e0e-ed20-4c30-81b3-3dfd6cff5bd3",
+			"f6862eaf-3112-4202-97ec-c1f5d79e085a",
+			"d10e4f3d-6aa0-47ee-bd23-7f14ec43a70e",
+			"a8b4fd1c-85c9-4141-a79c-7da1b54b1851"
 		]
 	},
 	{
-		"id": "ffa9b146-08bd-4d1f-8212-64eec97b22c6",
+		"id": "c7ccd440-0d0f-42f6-83ab-02baaa1190f9",
 		"prefix": "K/PIE/04",
 		"title": "Procestechniek",
 		"description": "Productieprocessen, technische systemen en bronnen verklaren / een installatieproces monteren, bedienen en regelen / een proces bewaken, storingen signaleren en verhelpen",
 		"examenprogramma_bg_deeltaak_id": [
-			"27529fb6-ad63-4546-b35d-2d98c467f332",
-			"2bd31cee-6fe8-4bf0-a1f6-363cdd77099f",
-			"86f19fbe-30e7-47dc-9765-efe075de94e0"
+			"058e16d1-2a52-4956-8e4a-05368a9d873e",
+			"96f2f35d-e67e-4e89-b5d9-403de872bd41",
+			"00744a7c-c415-4275-a90a-878291a7462a"
 		]
 	},
 	{
-		"id": "295a1509-5c01-43b3-b076-767fe07069d1",
+		"id": "7733b0fb-5b26-4461-8464-745b43e278d7",
 		"prefix": "K/PIE/05",
 		"title": "Duurzame energie",
 		"description": "Met behulp van ICT-toepassingen opbrengstberekeningen maken voor pv- panelen / met behulp van een bouwtekening pv-panelen intekenen op een bestaand dak / met behulp van een bestaande bouwtekening pv-panelen monteren / opbrengstmetingen doen aan een windmolen / een warmtepomp plaatsen in een verwarmingsinstallatie / een zonneboiler plaatsen en installeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"930cf8cd-3a3d-4885-bf1c-7f6b05779e0d",
-			"65709c7a-0f14-4055-aa03-20bc33839bee",
-			"dff06b58-65b4-4773-8e85-ae1a434b53ab",
-			"0b21abc6-a889-4189-878c-96836542ba43",
-			"1319d0ca-041f-4d3e-9749-908b9663cf76",
-			"abf6a191-3d39-48e6-8afd-ff44afcdb5c2",
-			"5258812a-41ea-4fa1-a1ed-e6e2ef5d6e59"
+			"e8056b20-b553-4a66-a9d0-8a3ecc506464",
+			"9fee72e3-542b-413b-954e-7eb114110ade",
+			"c304124a-1f54-4c1a-8519-4ea9f2669bb3",
+			"691c8378-3657-4ebd-a3e9-b6a64eaf0734",
+			"e6649e26-429d-450b-aae2-c082d8d42857",
+			"8bb8019e-9e82-4e7d-a5db-f072b3cd51cb",
+			"aba069ce-9a9d-4e4b-bcdd-49237737befc"
 		]
 	},
 	{
-		"id": "df3e680e-12c9-4dfb-8a3d-bb4bb50d2529",
+		"id": "68062ac2-087a-47d4-8f07-3f8694cc6110",
 		"prefix": "K/PIE/06",
 		"title": "Werktuigkundig en elektrotechnisch onderhoud",
 		"description": "Werktuigkundig onderhoud uitvoeren aan machines en apparaten / elektrotechnisch onderhoud uitvoeren aan machines en apparaten / onderhoud uitvoeren aan een leidingsysteem / onderdelen vervaardigen ten behoeve van onderhoud / machines en apparaten installeren / lagers demonteren en monteren / uitgevoerde werkzaamheden gebruiksklaar opleveren",
 		"examenprogramma_bg_deeltaak_id": [
-			"5e8461d2-afb5-427b-b905-4a9450387690",
-			"fbc8ee98-6d85-4fcb-87f8-5e1a4745a531",
-			"4fd1cfa4-dc95-43dc-bccc-3b08627b3bcd",
-			"e91ca8db-9f91-4121-b7a9-e2ba37e4472e",
-			"16915fce-ec0c-4ac4-8516-6f2798b58d50",
-			"6e2b294f-726f-4be4-80a9-850cdb061e8b",
-			"00fa6822-f2ca-48d6-8240-5f46aede835e"
+			"b795f047-637b-4f26-8ff7-c60735f88efe",
+			"e62525be-ccd9-47a2-ad0f-d2053e5e0213",
+			"0ea9730b-cfb9-4242-aa92-2b11e8977024",
+			"246f724f-c663-444c-9cb1-f272572bc86f",
+			"2f7de30a-696d-46eb-aadf-526d598e821f",
+			"c75dec7f-6b0b-452d-9351-1a68be793878",
+			"c3574f57-caf2-4bdf-aa9d-2288892f2464"
 		]
 	},
 	{
-		"id": "4d2d7944-6a31-498d-a741-6a3a89584e34",
+		"id": "86ade823-447a-409b-9544-b1c47c858392",
 		"prefix": "K/PIE/07",
 		"title": "Utiliteitinstallaties",
 		"description": "Tekeningen en schema's van utiliteitinstallaties lezen en een werkvoorbereiding maken / leidingsystemen voor een utiliteitinstallatie aanleggen, schakelmateriaal en onderdelen monteren en aansluiten / onderdelen en utiliteitsinstallaties monteren, aansluiten en in bedrijf stellen aan de hand van een werktekening",
 		"examenprogramma_bg_deeltaak_id": [
-			"0246b643-ff30-4eea-ab2a-d2e9e5b00b1e",
-			"7a675bdb-d911-46b8-894d-a273b308280b",
-			"bf1fa802-58b4-419f-96ec-438daebc2990"
+			"05762f42-4cd1-4770-b3ba-dc82046f2373",
+			"9224cb29-d9ee-4e91-b56d-e14d5847279c",
+			"b312fc3e-08b6-4aa3-97c1-6445d571ec39"
 		]
 	},
 	{
-		"id": "97f7ee2d-874b-456a-886b-218666dc7c1b",
+		"id": "92d00beb-6e6d-4033-9785-4dec71e8c651",
 		"prefix": "K/PIE/08",
 		"title": "Praktisch booglassen",
 		"description": "Informatie verzamelen en werkzaamheden voorbereiden / lasnaden van lasverbindingen voorbereiden / materialen verbinden aan de hand van een werktekening volgens de gestelde eisen / vervaardigde producten opmeten en controleren en de uitgevoerde werkzaamheden afronden",
 		"examenprogramma_bg_deeltaak_id": [
-			"bdadb89b-2ff8-403b-ac9b-f1ed6629cbba",
-			"ab94ce05-d66a-425f-90b7-cb542fa11486",
-			"f5029727-7c5d-4ae3-a17d-fee8c49cac6f",
-			"f5dbc4df-2a33-481f-8a7d-3326709b5675"
+			"0303b12f-9584-4f3e-a202-c77c8dd4b2eb",
+			"80e4b094-bfeb-45e7-82c4-88342e869112",
+			"426db9ec-a213-4ceb-9224-6a601e4bea20",
+			"1a4c7e2d-9bf3-4ee7-a64c-0d54ed3dadbb"
 		]
 	},
 	{
-		"id": "8474d3a5-8233-4a1a-9fac-73ba02de5159",
+		"id": "562f40b2-045b-43df-9b7f-5fbfbc801bbe",
 		"prefix": "K/PIE/09",
 		"title": "CNC technieken",
 		"description": "Informatie verzamelen en werkzaamheden voorbereiden / een CNC machine gebruiksklaar maken / een machine productieklaar maken en bedienen / materialen met een CNC machine bewerken / vervaardigde producten meten en controleren en uitgevoerde werkzaamheden afronden",
 		"examenprogramma_bg_deeltaak_id": [
-			"8bb3d2cf-9149-42ff-a937-cf6f3236a63a",
-			"690c7ee2-3f19-4f98-b1e8-f67a27ab8c23",
-			"b4903e88-3c29-4975-8e61-edf1904c2494",
-			"2f67c695-4f98-4ce6-8743-2684034ef1e1"
+			"e19c0824-2558-4177-a651-099179bce2c2",
+			"9f697a7b-560d-4279-85e6-89f1350ae313",
+			"19432e94-6361-49fa-87ec-6d7d39e2210e",
+			"cb94bf31-5fc8-46bf-814a-b2188c39b8c0"
 		]
 	},
 	{
-		"id": "e46a1735-8517-40c1-8a32-bc3300603eba",
+		"id": "58a0bba3-b6f9-439f-b729-04e2ac21b632",
 		"prefix": "K/PIE/10",
 		"title": "Drinkwater en sanitair",
 		"description": "Een drinkwater- en sanitaire installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van drinkwater- en sanitaire installaties lezen en interpreteren / leidingsystemen voor een drinkwater- en sanitaire installatie aanleggen / een drinkwater- en sanitaire installatie afmonteren / een warmtewisselaar toepassen in een sanitaire installatie",
 		"examenprogramma_bg_deeltaak_id": [
-			"530b32f9-011b-4216-9118-48aa487723f9",
-			"d4318826-2c19-4e9d-8626-a8a1adc3a1d5",
-			"8f637be2-2e33-4bdb-8e7f-a6bd2fb6e6d2",
-			"ed96bdf6-8ad0-469d-a609-b19d411f0ccb",
-			"d32ce360-2025-43e4-a79e-64cce9815488"
+			"ccd0591f-a53a-46f2-bef0-c95104476a87",
+			"91cb88c1-e36d-484f-bccf-366de36bbfbb",
+			"14a20f87-fb9f-4792-bd55-641fc6550876",
+			"263009f0-c65c-4d8f-b556-c9f76c419803",
+			"9ebe5e86-212c-4635-8949-127115e80640"
 		]
 	},
 	{
-		"id": "335e8a99-47ac-43ae-9003-543a311beb0e",
+		"id": "4a01d467-6700-4bae-86a3-d2af14bce228",
 		"prefix": "K/PIE/11",
 		"title": "Dakbedekking",
 		"description": "Voor het vervaardigen van een dakgoot en dakrandafwerkingen uitslagen maken en overnemen op een zinken plaat / verschillende soorten zinken dakgoten maken / een dakrandafwerking van zink maken",
 		"examenprogramma_bg_deeltaak_id": [
-			"463da3b3-6ce2-4e41-9982-48287969a1c9",
-			"6bf53ecb-a941-4bd9-976c-aa6d9cb42d84",
-			"97a9b14c-ab0f-4f4f-adde-3b9dc811eef4"
+			"eb6ff098-6105-43e1-b974-28f92dfd33a0",
+			"534b5122-ca49-454e-9987-71bb52aac6be",
+			"deee05be-33c2-4e44-af91-7189787f1aeb"
 		]
 	},
 	{
-		"id": "56f1d245-dcdb-40b1-b8c5-ea32a0301faa",
+		"id": "1f9db6cc-84e2-4e9d-8065-2c5e13e38159",
 		"prefix": "K/PIE/12",
 		"title": "Verspaningstechnieken",
 		"description": "Met behulp van 2D en 3D CAD software een ontwerp van een draai- en freesproduct maken en de uitvoering voorbereiden / een ontworpen draai- en freesproduct produceren",
 		"examenprogramma_bg_deeltaak_id": [
-			"b753edd2-386a-45b5-87f3-c4febe8df722",
-			"d03e280a-7997-4375-8d3e-69a52af17abc"
+			"ceca48f1-e8fd-428c-8902-142391a53c28",
+			"4479561e-e984-407f-95e0-12bd2d3e200f"
 		]
 	},
 	{
-		"id": "e6211757-4100-49dc-bcb0-11676d5f19a2",
+		"id": "91c8c066-4c9c-483b-a809-9f064a44ed60",
 		"prefix": "K/PIE/13",
 		"title": "Woon- en kantoortechnologie",
 		"description": "Een elektrische installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van een elektrische installatie lezen en interpreteren / een elektrische installatie aanleggen en monteren / een elektrische installatie schakelen met domotica",
 		"examenprogramma_bg_deeltaak_id": [
-			"bdea18cd-f00e-444a-bcae-2bdd27940c56",
-			"b4a38860-f5b1-4318-a7d4-4d89761a7d35",
-			"db63fb92-a4af-4f62-92e4-5031efdd3422",
-			"e2b9a0c2-f1ed-4c9c-b072-2b147fd10d7f"
+			"01e0b5a3-0ab1-4982-af69-9ddf60a490b7",
+			"ddd129e5-dec6-4feb-aaef-d25decb31157",
+			"848223e9-794a-40af-b70f-a7f4c0b351fa",
+			"542df122-7fe5-484e-9415-234fa7488845"
 		]
 	},
 	{
-		"id": "a18f44fc-8ad3-46cf-816c-789842f873c1",
+		"id": "c378f000-9fa2-498d-9af2-7a46d8ec5531",
 		"prefix": "K/PIE/14",
 		"title": "Domotica en automatisering",
 		"description": "In een practicum een domotica installatie opbouwen aan de hand van een schema en opstellingstekening / door middel van domotica een automatische besturing realiseren en testen / een automatische besturing met domotica componenten demonstreren en presenteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"aed86d96-48fd-4e23-adf1-122f30520530",
-			"ea0e9dd1-7a82-48cf-9223-c5801698ef09",
-			"d282d4cb-401b-4d11-a9cf-3e722064f2e9"
+			"2693bfad-3f88-4e1e-a2e6-7e54fcede3f3",
+			"5d4b6dc9-8306-4808-8118-c49cf91c3a3d",
+			"0fb2121b-6051-432f-916c-14df0f92657d"
 		]
 	},
 	{
-		"id": "49f02bfc-ce9c-4ef3-bc0c-3a2ab98cf09a",
+		"id": "630faf98-bbb3-435c-abc4-abac71971790",
 		"prefix": "K/PIE/15",
 		"title": "Nutsvoorzieningen",
 		"description": "Een elektriciteitsaansluiting maken van buiten tot in een meterkast / data-aansluitingen maken van buiten tot in een meterkast / een aardgasaansluiting maken van buiten tot aan een gasmeter in een meterkast / een drinkwateraansluiting maken vanuit buiten tot aan een watermeter in een meterkast / een lantaarnpaal aansluiten op een elektriciteitsnet",
 		"examenprogramma_bg_deeltaak_id": [
-			"c4c3b74b-8ecf-4a0c-a684-4d46d272051e",
-			"f7b7dddf-3a3d-4348-8a38-5313a63bc877",
-			"69618026-fbdc-4f78-acdc-7814ec3bfa60",
-			"35df8d07-3aec-4847-a398-cce7b0fd6c45",
-			"22efd425-5b63-457b-811c-8ed6ae9a1421"
+			"06d715ab-d472-43ba-8e0b-b8bde7b6210a",
+			"62891eae-994f-4b41-8e38-735219dd491f",
+			"03825a26-b268-4ba8-b266-7d7709101a3d",
+			"186326a2-e4c8-406b-85a6-cfd7e583ce2f",
+			"e24d8f7a-f64b-49bb-8681-7236d5ce9d31"
 		]
 	},
 	{
-		"id": "75a39713-8605-475a-ae95-6bd92074c1d2",
+		"id": "55a6f525-51d3-4fca-931f-256000c17ecd",
 		"prefix": "K/PIE/16",
 		"title": "Koudetechniek",
 		"description": "Tekeningen en schema's van koude technische installaties lezen, meetgegevens vastleggen en interpreteren / bewerkingen uitvoeren aan verschillende soorten materialen ten behoeve van een koude technische installatie / onderdelen ten behoeve van een koude technische installatie samenstellen, monteren en installeren, aan de hand van een werktekening / een airco-unit plaatsen en inregelen",
 		"examenprogramma_bg_deeltaak_id": [
-			"c7991e26-8a59-4879-91b5-85b1deb08f7a",
-			"5d108df6-3a3a-4070-a5a3-3ca5d5591f45",
-			"4478c0d7-0c10-4726-bb7c-fa1863379cbf",
-			"554daf33-ceed-4f60-9e5d-92968c450414"
+			"0a55bf8d-6384-44f2-b2fe-4ab76554aa7d",
+			"7e6888b1-bf02-4c89-9a36-040967f02003",
+			"dbd0a388-6d76-4b6d-80bd-00677e40765a",
+			"bbbcd2c9-eb51-422f-8dcf-df3f5e5cc4fc"
 		]
 	},
 	{
-		"id": "90e03dd9-48ed-4c00-b93f-df8c3b400f60",
+		"id": "c081b20e-1efc-41c6-b786-f2c6160a6a7d",
 		"prefix": "K/PIE/17",
 		"title": "Licht, geluid en beeld",
 		"description": "Lichtbehoefte bepalen voor een werkruimteverlichting in een woning en kantoor aanpassen en energiezuiniger maken / een intercomsysteem aanleggen in een woning en kantoor / een intercomsysteem met video aanleggen in een woning en kantoor",
 		"examenprogramma_bg_deeltaak_id": [
-			"b2aa9bfe-a95b-46c2-8719-ada9b9322738",
-			"6bf45760-a258-4b3f-a03b-43f045f35975",
-			"11773924-772c-4d2a-9dcc-5f36dbf0ae8e",
-			"eb4ec847-4041-4b05-9dd9-6053b1cd2320"
+			"2c35e5cf-1aed-401a-82ed-9652d13a8627",
+			"ed8c2622-0c11-46df-9dde-630477e62a87",
+			"68c8ee24-d726-4d1e-8009-75ee0495167d",
+			"c1a2e05b-61ab-44ca-8ba8-7607747a495f"
 		]
 	},
 	{
-		"id": "98a7746f-a289-40f4-9c36-bd8606df381c",
+		"id": "5bc676ca-2f67-4d24-9b4a-f170e899c21c",
 		"prefix": "K/ZW/01",
 		"title": "Kennismaking met uiterlijke verzorging",
 		"description": "Eenvoudige hand, haar- en gezichtsbehandelingen uitvoeren bij een klant in een kapsalon of schoonheidssalon",
 		"examenprogramma_bg_deeltaak_id": [
-			"bbeba5cf-4efd-4946-9602-a6ef4b536f3e",
-			"ee03773c-e3c5-4ca8-8f6d-27ce64d53386",
-			"fdc8ac76-20ca-4e6d-928c-ffe618d91113",
-			"9e95892e-4696-4af8-aaed-718530df29bb"
+			"005e56f9-71f0-4a71-803b-40892f42c31a",
+			"7ce4fe78-5263-4d3d-ad35-baa4ab078f7b",
+			"b9fa6806-cc18-44b3-a652-fd8bb1798672",
+			"347ea699-4326-4a43-8ee3-65ee9a239caa"
 		]
 	},
 	{
-		"id": "f8fa2ce6-925b-4945-8b7e-e406ed4876b3",
+		"id": "634cbe08-9a3b-4d13-a325-e0bd1a800ab3",
 		"prefix": "K/ZW/02",
 		"title": "Haarverzorging",
 		"description": "Haarbehandelingen uitvoeren bij een klant in een kapsalon",
 		"examenprogramma_bg_deeltaak_id": [
-			"4273c09b-3a80-413d-8b4c-3e797bfe2916",
-			"473b1b1f-877f-4f75-a8fe-86a49b52e128",
-			"45008216-b317-4d5c-bc48-98323b6d3454"
+			"a42feed7-b486-44e6-b813-3c4a107eaa4d",
+			"5793d860-db7a-45c1-a1b7-ace283827ef6",
+			"ef4660fb-a122-431e-af42-f730cf6d27b2"
 		]
 	},
 	{
-		"id": "7527983f-2e64-4c7c-bc13-2887e9c7771f",
+		"id": "8396ce01-a413-4199-aa56-cedb44e55238",
 		"prefix": "K/ZW/03",
 		"title": "Huidverzorging",
 		"description": "Gezichts- en lichaamsbehandeling uitvoeren bij een klant in een schoonheidssalon",
 		"examenprogramma_bg_deeltaak_id": [
-			"cc84f5ab-7987-440c-a62d-62e53f13d3d1",
-			"c621f453-5659-4bd5-8036-1868fd5df730",
-			"12543dcc-64d2-4ca5-aa10-0d071690a09a"
+			"a43126d3-e755-4a5d-b771-082317c8037b",
+			"ac7216a5-915c-4203-a291-4018375e2fdc",
+			"4dceda1e-f895-46b3-8b39-86fb53f364e9"
 		]
 	},
 	{
-		"id": "4bbbc343-8e96-4312-9420-83ae0e26b46b",
+		"id": "92047b2d-ddc2-4376-8458-6a775053c2d0",
 		"prefix": "K/ZW/04",
 		"title": "Hand- en voetverzorging",
 		"description": "Hand- en voetbehandelingen uitvoeren bij een klant in een salon",
 		"examenprogramma_bg_deeltaak_id": [
-			"951cd78c-18ac-41cb-8bdd-9cb7af143314",
-			"897f50aa-b9b9-4e65-aee3-af4960463490",
-			"33ce9c25-48d3-4a4c-942c-4ab1006e801c"
+			"b62de80b-cc25-4941-8365-03239e5d6c43",
+			"357713ba-5c19-4c79-ab75-9d0d8fc254cd",
+			"4859ab95-3f31-4d91-8b02-f9950b8cc9ee"
 		]
 	},
 	{
-		"id": "d8f36730-9520-4329-a742-dcb1807012ad",
+		"id": "8792e27b-ce05-431b-8244-16343d3d71dd",
 		"prefix": "K/ZW/05",
 		"title": "Welzijn kind en jongere",
 		"description": "Een bijdrage leveren aan de opvoeding en ontwikkeling van kinderen en jongeren en hierover rapporteren",
 		"examenprogramma_bg_deeltaak_id": [
-			"4280afa9-826c-4672-bd1b-a02a875a8641",
-			"11b1872f-393e-4f02-9924-9feff20b5827",
-			"58ebffb1-5f27-4031-a35c-e826fc847a92",
-			"c751c5fc-6fad-44d7-b4cf-5757a84fe67d",
-			"30a3b1a5-58e0-4264-911f-711464f2bff1"
+			"9b401fbd-5fd4-4727-ae1c-e1a5befb0371",
+			"b0f8236b-4f9e-4b62-aa2c-3a15c9ab1cc5",
+			"44e44c1a-2c2f-4b2f-bbb4-9349b729edce",
+			"ee709c9d-f2fc-45f3-8cd0-16b3b32f2b38",
+			"c12f69d0-ff0b-404b-8e27-fe38abd177a2"
 		]
 	},
 	{
-		"id": "18d3eede-31c9-4b8d-8457-22f86c7d3126",
+		"id": "6819190c-1fbb-4940-9f66-7afd82e35616",
 		"prefix": "K/ZW/06",
 		"title": "Wonen en huishouden",
 		"description": "Ondersteunen bij wonen en huishouden in een thuissituatie",
 		"examenprogramma_bg_deeltaak_id": [
-			"88138ac6-ecee-4975-8f91-4a32b6641d0a",
-			"04c5f6c0-821a-454c-80ea-c19c0bb5fc06",
-			"10d28fd8-03b3-47c0-866e-2275e57a834a",
-			"79d0b430-fbb3-4156-9b09-f9f408b6b9bc",
-			"deafb480-eda0-427f-a7b8-0afd010319b9"
+			"57bd0529-8942-4557-9c3e-0ed29017e3f2",
+			"6947c53c-6ae0-413c-8ac0-325669b0160b",
+			"031c3a93-6374-4aa1-a379-6473b0d9f585",
+			"686b73dc-3481-47dc-b8a5-f49b3b9e363d",
+			"508c1009-f181-4d76-b04b-e8c891509177"
 		]
 	},
 	{
-		"id": "7a1d9731-dd0a-435c-9fd6-a1f5a050b0f9",
+		"id": "5db231d1-1e28-4f1b-96b6-d13b890b29b3",
 		"prefix": "K/ZW/07",
 		"title": "Assisteren in de gezondheidszorg",
 		"description": "Ondersteunende handelingen verrichten in de gezondheidszorg, gegevens verzamelen en gezondheidsadviezen geven",
 		"examenprogramma_bg_deeltaak_id": [
-			"77c7ee4d-201c-4460-aed1-52f2c4d8ac3c",
-			"f4f8587a-5115-4e39-bb87-a16421208417",
-			"07e23534-8839-401c-b1a2-575399c5f3b9",
-			"5f3537f6-a789-401a-b616-5c1b3920de8f",
-			"4941053b-e01e-445e-aec1-df1bb392b045"
+			"9d3e9336-1e57-4327-a21e-cb3f6aaf91d5",
+			"99a6d497-9762-423e-b04f-d8164e881f60",
+			"d76713a5-e595-44c3-bb7f-715bda2a1cef",
+			"b30ba6c8-6ec8-471e-bfda-93a536e75f1c",
+			"e241f93f-bbad-48e6-bec9-7cbab2d06894"
 		]
 	},
 	{
-		"id": "6639c39f-b0cb-4bbd-b828-82d53a92232d",
+		"id": "22b6c96b-d879-409e-b002-0440ba7311a2",
 		"prefix": "K/ZW/08",
 		"title": "Welzijn volwassenen en ouderen",
 		"description": "Volwassenen en ouderen ondersteunen bij de algemene dagelijkse activiteiten en begeleiden bij de keuze voor een passende dagbesteding, de activiteit organiseren en de klant begeleiden",
 		"examenprogramma_bg_deeltaak_id": [
-			"49c90b53-aa5c-4230-a142-9cfb554186b8",
-			"f63000d8-2891-48cc-9571-d6a81eb4262b",
-			"7761bca0-84cc-4193-96ff-2a67117a070e",
-			"596e1658-acc8-448a-9bde-717d4a1ba157"
+			"335d7015-1dd9-45c8-ab08-0408feee719a",
+			"16057500-4a4f-4cd4-b59b-1ae05e58ccd1",
+			"d10fafe4-0a4f-4c22-b8b6-7e2620c160f3",
+			"9d6e8b11-1c97-4d11-a5e6-9510e5f6a5dd"
 		]
 	},
 	{
-		"id": "d93fab74-4d8f-4685-b59b-d676555ac405",
+		"id": "8f4a43c7-3858-46ab-894f-dda31c907dd3",
 		"prefix": "K/ZW/09",
 		"title": "Facilitaire Dienstverlening: inrichting en verzorging",
 		"description": "eenvoudige dienstverlenende activiteiten verrichten",
 		"examenprogramma_bg_deeltaak_id": [
-			"0ec3dc35-8275-460d-bef6-549f265a6dca",
-			"a7a914bd-9ceb-4d3b-bbb8-2766b33b1585",
-			"c64429cf-9f08-447e-97b3-23e3d7a81bbb",
-			"c0ac9b05-d05b-4b8c-b181-0567def06463"
+			"dbb3516e-c9c2-4975-a958-850cdf1a7213",
+			"7a993c8b-4789-42e6-99ec-a0fa15218a44",
+			"d88d6d35-c8b2-4942-83f5-1eb5ba0c831a",
+			"2dd1135f-bbec-4d4e-a5d6-803354a1444a"
 		]
 	},
 	{
-		"id": "3eff0045-8e6e-4ac2-9ef5-a1d6de8fb893",
+		"id": "0542964e-af1a-4122-bd1c-96a8239fda0d",
 		"prefix": "K/ZW/10",
 		"title": "Beveiliging en veiligheid",
 		"description": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
 		"examenprogramma_bg_deeltaak_id": [
-			"9b75b1b1-e684-4e33-bd92-b634aba65e9d",
-			"7f9caaf3-6508-40c3-8ccd-0187450386f7",
-			"fa79022c-677a-434d-a8ce-87b47f481783",
-			"d39dc7d9-38c4-49e3-a226-55320dd76f47"
+			"8bb9327a-6bc4-4046-b64d-eb5ab625bc3e",
+			"aef060f2-6ff2-4d70-b5cc-73f1d69cc6d5",
+			"4c80c2ab-dbec-4e32-8360-47e99497d7ae",
+			"82e7d711-2567-45e9-8782-ac9ab0a6c025"
 		]
 	},
 	{
-		"id": "0540b10c-a5c5-46c7-aab5-1190b39244be",
+		"id": "b0ee9ab4-1965-4258-b389-97daa90bc4ff",
 		"prefix": "K/ZW/11",
 		"title": "Facilitaire dienstverlening: onderhoud en receptie",
 		"description": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
 		"examenprogramma_bg_deeltaak_id": [
-			"d6b4a480-4944-4f08-99ed-addebe1423c6",
-			"100d573f-8168-46d5-9e36-31ae3ba379fc",
-			"1585b9cd-2cb7-4479-ae60-0997a2fa2aa0",
-			"7f0c85ea-fc0b-4514-a874-92873efbd53f",
-			"68e0b442-b9c4-4f3a-93bd-21960b6c9a4e"
+			"1e3f2183-83cf-4776-8bfe-5167c1cdcdbd",
+			"f6dd5930-1780-4b14-b753-d1b6c1b517b6",
+			"aa0d7597-3464-4129-9214-f8bc5d40662f",
+			"8ed551c4-0db1-43be-a1de-c04b2e23e2df",
+			"0cdb9544-f687-42db-8c54-41b0f30ccb35"
 		]
 	},
 	{
-		"id": "b69bbc44-e074-4bb3-b055-36c37d703b99",
+		"id": "ff8c0fd7-1e0a-4e40-b96d-dcae975aa4df",
 		"prefix": "K/ZW/12",
 		"title": "Sport en bewegen",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [
-			"61ab8326-845a-44c2-9be3-676aae3add63",
-			"523c6941-b6d6-4c30-99d1-434e1ca66b95",
-			"85cc6aac-a02a-48f7-b95d-ef92daf8e09a",
-			"607af404-6e39-4288-99fc-d0624dff4c44",
-			"29741d90-1683-4c12-b340-a518f9b66a80"
+			"ac117117-b97f-44ae-9822-c1db433966ba",
+			"3fdc1060-5bf5-46eb-9068-79362c8054dc",
+			"7ea217b3-a09b-453b-b0b5-7495b0b44687",
+			"2b483224-66c5-40f9-a469-a1d9422a5b13",
+			"ce3d3331-955a-421f-a49a-c70c51f37eeb"
 		]
 	},
 	{
-		"id": "1663a49b-6769-48f3-a464-331081b31c16",
+		"id": "76637211-f279-40db-8b6b-c0461910a50b",
 		"prefix": "K/ZW/13",
 		"title": "Voorkomen van ongevallen en EHBO",
 		"description": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
 		"examenprogramma_bg_deeltaak_id": [
-			"aa3d8dca-b09d-4202-a7a6-52282da9e082",
-			"6ffae2c4-7ff0-4d33-9826-079539f34f37",
-			"236fb4eb-209c-4b44-82e4-eb1b7abe891c",
-			"5cf9e8a0-b6a4-4bf0-a274-d0eee401a60c",
-			"408d14cb-beca-4708-88dd-3564fadf8308"
+			"79cc1d85-f33d-4ca7-a188-275229b1f80c",
+			"661e8626-e972-4ad9-b495-8546f6861b58",
+			"4a48840e-ce76-42c9-93eb-d462d0df2068",
+			"09d398cf-4e64-4c9d-853c-78a69b2d02de",
+			"fb14a8d5-5d62-46b6-8899-fd4d1f51a7eb"
 		]
 	}
 ]

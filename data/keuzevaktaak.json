@@ -1,622 +1,1236 @@
 [
 	{
-		"id": "348575e2-71da-4b69-8deb-839dfbb6c9d2",
+		"id": "77f70ffd-c50c-451f-88fc-8b2bab8dbb16",
 		"prefix": "K/BWI/01/KT",
-		"title": "Constructieve aansluitingen met verschillende materialen maken / aansluitingen tussen materialen afwerken"
+		"title": "Constructieve aansluitingen met verschillende materialen maken / aansluitingen tussen materialen afwerken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "736c8ba3-4a06-449e-bf2b-c675067978ac",
+		"id": "5457e9c5-453d-4f92-8802-d28f8e2af7a5",
 		"prefix": "K/BWI/02/KT",
-		"title": "Constructieve oplossingen in halfsteens muren maken / metselwerk uitvoeren"
+		"title": "Constructieve oplossingen in halfsteens muren maken / metselwerk uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "adf46633-4495-4e48-8511-44584b5b58b1",
+		"id": "d98e21fd-f5f3-4099-8b9c-c9c75d13f259",
 		"prefix": "K/BWI/03/KT",
-		"title": "Houtachtige ondergronden schilderen en afwerken / steenachtige ondergronden schilderen en afwerken"
+		"title": "Houtachtige ondergronden schilderen en afwerken / steenachtige ondergronden schilderen en afwerken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "79cde1b9-eca5-4ccd-8677-78905e824789",
+		"id": "cacb513c-0bcf-4bbd-b9e8-29333573121f",
 		"prefix": "K/BWI/04/KT",
-		"title": "Eenvoudige kasten en opbergsystemen ontwerpen en maken / betimmeringen en stands ontwerpen en aanbrengen"
+		"title": "Eenvoudige kasten en opbergsystemen ontwerpen en maken / betimmeringen en stands ontwerpen en aanbrengen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "fd8081d5-f5ac-474b-ab75-603595360819",
+		"id": "8471d28b-df80-47d9-a90c-04bea75e1470",
 		"prefix": "K/BWI/05/KT",
-		"title": "Bouwkundige onderhouds- en renovatiewerkzaamheden voorbereiden / bouwkundige onderhouds- en renovatiewerkzaamheden uitvoeren"
+		"title": "Bouwkundige onderhouds- en renovatiewerkzaamheden voorbereiden / bouwkundige onderhouds- en renovatiewerkzaamheden uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "9dece96a-27e3-463f-b86b-8f7f029436a2",
+		"id": "562efa4b-b472-4486-abc3-dd206e4ad50f",
 		"prefix": "K/BWI/06/KT",
-		"title": "De werkzaamheden voorbereiden voor het maken van kozijnen en ramen en het afhangen en sluitbaar maken van ramen en deuren / houten kozijnen en ramen maken / ramen en deuren afhangen en sluitbaar maken"
+		"title": "De werkzaamheden voorbereiden voor het maken van kozijnen en ramen en het afhangen en sluitbaar maken van ramen en deuren / houten kozijnen en ramen maken / ramen en deuren afhangen en sluitbaar maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "2c1c2a3e-aabc-404b-ad0b-e2c97423f10d",
+		"id": "bc8f5866-c84d-419d-8592-8b9d418b5758",
 		"prefix": "K/BWI/07/KT",
-		"title": "Werkzaamheden voorbereiden voor het aanbrengen van daken en kapconstructies / constructies maken voor platte daken en de dakrand afwerken / constructies maken voor hellende daken, afdichten en afwerken"
+		"title": "Werkzaamheden voorbereiden voor het aanbrengen van daken en kapconstructies / constructies maken voor platte daken en de dakrand afwerken / constructies maken voor hellende daken, afdichten en afwerken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "bc7c29c5-f6d7-4b21-8dc9-4607416d03aa",
+		"id": "d79584a7-4bab-45c0-a4c4-9e0db945200d",
 		"prefix": "K/BWI/08/KT",
-		"title": "Ondergronden van vloeren beoordelen en de behandeling van deze vloeren voorbereiden / ondergronden van vloeren repareren en voorbehandelen / vloerafwerking aanbrengen"
+		"title": "Ondergronden van vloeren beoordelen en de behandeling van deze vloeren voorbereiden / ondergronden van vloeren repareren en voorbehandelen / vloerafwerking aanbrengen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "bb4b118d-9dac-4b67-b7b1-ca7fdf429325",
+		"id": "b663a4d9-fc9f-408d-851b-898b2c42f853",
 		"prefix": "K/BWI/09/KT",
-		"title": "De principes, kenmerken en eigenschappen van bouwmethoden in Nederland beschrijven en in een historische ontwikkeling plaatsen / de kenmerken van bouwstijlen en bouwkunst vanuit de oudheid tot heden herkennen, benoemen en verwerken"
+		"title": "De principes, kenmerken en eigenschappen van bouwmethoden in Nederland beschrijven en in een historische ontwikkeling plaatsen / de kenmerken van bouwstijlen en bouwkunst vanuit de oudheid tot heden herkennen, benoemen en verwerken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "99a65b56-9ec5-4a67-8688-c9148582b10d",
+		"id": "da18ea1b-b6ee-49b2-9b53-48a7dbc31037",
 		"prefix": "K/BWI/10/KT",
-		"title": "Bijzondere metsel- en lijmwerken voorbereiden / bijzondere metsel- en lijmwerken tekenen en berekenen / bijzondere metsel- en lijmwerken uitvoeren"
+		"title": "Bijzondere metsel- en lijmwerken voorbereiden / bijzondere metsel- en lijmwerken tekenen en berekenen / bijzondere metsel- en lijmwerken uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "c6d64c51-5be3-48b8-b6cd-4524260af5e1",
+		"id": "60861a8a-f694-44bb-8972-e304c2b7b754",
 		"prefix": "K/BWI/11/KT",
-		"title": "Aanbrengen en afwerken van gipsplaten op regels / een metal-stud scheidingswand met kozijn monteren, afwerken en demonteren / een bestaande scheidingswand van een wandsysteem met profielen en beplating en of beglazing monteren en demonteren"
+		"title": "Aanbrengen en afwerken van gipsplaten op regels / een metal-stud scheidingswand met kozijn monteren, afwerken en demonteren / een bestaande scheidingswand van een wandsysteem met profielen en beplating en of beglazing monteren en demonteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f61248ba-cd62-4ff9-bbc7-fb5b7b578686",
+		"id": "5a08a302-60e0-40c5-a076-09da6a9b2ae5",
 		"prefix": "K/BWI/12/KT",
-		"title": "Een dunpleister aanbrengen / aanbrengen gipspleister op metselwerk en afwerken met sierpleister / aanbrengen sierpleister met figuur en stucstop op dunpleister / aanbrengen van behang"
+		"title": "Een dunpleister aanbrengen / aanbrengen gipspleister op metselwerk en afwerken met sierpleister / aanbrengen sierpleister met figuur en stucstop op dunpleister / aanbrengen van behang",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "dd1238cc-8271-4274-b96f-70cda537f8d4",
+		"id": "f72a362f-7747-47e8-bd97-045fb9a526c2",
 		"prefix": "K/BWI/13/KT",
-		"title": "Schilderen van kunststof / schilderen van metaal / spuiten van metaal / toepassen van decoratieve verfspuittechnieken op metaal"
+		"title": "Schilderen van kunststof / schilderen van metaal / spuiten van metaal / toepassen van decoratieve verfspuittechnieken op metaal",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "06c28c1c-6668-4616-85fd-f4c2149dd040",
+		"id": "94aba1d4-ee12-4d68-9df1-03b4d9263607",
 		"prefix": "K/BWI/14/KT",
-		"title": "Houtachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / steenachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / metaalachtige en kunststoffen ondergronden beoordelen, voorbehandelen, repareren en afwerken"
+		"title": "Houtachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / steenachtige ondergronden beoordelen en een behandelplan en onderhoudsplan opstellen en uitvoeren / metaalachtige en kunststoffen ondergronden beoordelen, voorbehandelen, repareren en afwerken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "91edabf5-28a2-49cb-96d4-4a328d379a69",
+		"id": "2b4a83d4-c56b-4c90-8c66-ba04e46d0e7c",
 		"prefix": "K/BWI/15/KT",
-		"title": "Glas snijden en verwerken / enkelglas plaatsen / dubbelglas plaatsen"
+		"title": "Glas snijden en verwerken / enkelglas plaatsen / dubbelglas plaatsen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "38aa3c38-ab12-4ec0-b799-75770186a879",
+		"id": "bd726506-ab04-47a6-a354-29d0cf71ecd0",
 		"prefix": "K/BWI/16/KT",
-		"title": "De werkzaamheden voor het maken van meubels voorbereiden / meubels maken van hout en plaatmateriaal"
+		"title": "De werkzaamheden voor het maken van meubels voorbereiden / meubels maken van hout en plaatmateriaal",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "3b719651-2a2a-44b7-b126-9dc03a1eaf5e",
+		"id": "f56ed428-5250-455f-b8ee-859538e3cf45",
 		"prefix": "K/BWI/17/KT",
-		"title": "Uitzetwerk voor bestrating en infrastructuur verrichten / grondwerk verrichten / assisteren bij het aanleggen van de ondergrondse infrastructuur"
+		"title": "Uitzetwerk voor bestrating en infrastructuur verrichten / grondwerk verrichten / assisteren bij het aanleggen van de ondergrondse infrastructuur",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "eebc8318-dfb9-4d2f-a842-aa8c6274712b",
+		"id": "3e726f6b-7b81-4a2f-9289-0941e3c7e7d8",
 		"prefix": "K/BWI/18/KT",
-		"title": "Machinaal grondwerk verrichten / bestratingen maken / assisteren bij het uitvoeren van weg- en waterbouwkundige werken"
+		"title": "Machinaal grondwerk verrichten / bestratingen maken / assisteren bij het uitvoeren van weg- en waterbouwkundige werken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "7d980f0f-21ca-40a2-be6a-7e90f0e9c37b",
+		"id": "94e97fe1-d249-4bcb-8efa-299a9ce990ae",
 		"prefix": "K/BWI/19/KT",
-		"title": "Een interieur ontwerpen / interieurelementen in samenhang met een interieur ontwerpen en maken / interieurelementen en een interieur decoreren en presenteren / een tekst en logo opmaken in een softwareprogramma, plotten en monteren / een digitaal bestand opmaken, printen en monteren"
+		"title": "Een interieur ontwerpen / interieurelementen in samenhang met een interieur ontwerpen en maken / interieurelementen en een interieur decoreren en presenteren / een tekst en logo opmaken in een softwareprogramma, plotten en monteren / een digitaal bestand opmaken, printen en monteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "9846c5b6-3a6e-465e-893f-a995d5b0061f",
+		"id": "eb78bc3c-45e8-4d6f-824b-d159b9e978b4",
 		"prefix": "K/DP/01/KT",
-		"title": "In opdracht een digitaal, educatief spel bedenken / het spel maken / het spel demonstreren en presenteren"
+		"title": "In opdracht een digitaal, educatief spel bedenken / het spel maken / het spel demonstreren en presenteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "bb520280-bfd5-4daa-8a5d-2662e30cb8b8",
+		"id": "cae3a336-20af-41fc-b316-e09fd8111f9a",
 		"prefix": "K/DP/02/KT",
-		"title": "Oriëntatie op moderne technische toepassingen / eenvoudige schakelingen bouwen / een eenvoudig geprogrammeerde handeling door een robot laten uitvoeren"
+		"title": "Oriëntatie op moderne technische toepassingen / eenvoudige schakelingen bouwen / een eenvoudig geprogrammeerde handeling door een robot laten uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "3dafdddd-bfe8-418c-8bbb-5699db413d06",
+		"id": "79fdea3c-3968-44bf-a857-002c7f15f8c1",
 		"prefix": "K/DP/03/KT",
-		"title": "Op basis van onderzoek praktische maatregelen treffen ter bevordering van het milieu / een beheerplan maken ter bevordering van de biodiversiteit"
+		"title": "Op basis van onderzoek praktische maatregelen treffen ter bevordering van het milieu / een beheerplan maken ter bevordering van de biodiversiteit",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f724d254-dff0-4de7-bf28-f2e7c467c161",
+		"id": "5d918f2e-615c-45fc-9586-dbfa5af95815",
 		"prefix": "K/DP/04/KT",
-		"title": "Een plantaardig voedingsmiddel produceren en verkopen / verantwoorde voeding kiezen en verwerken / voor een bepaalde doelgroep een bewegingsactiviteit in de open lucht organiseren en uitvoeren"
+		"title": "Een plantaardig voedingsmiddel produceren en verkopen / verantwoorde voeding kiezen en verwerken / voor een bepaalde doelgroep een bewegingsactiviteit in de open lucht organiseren en uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "1a16f5a3-5d5e-49a2-afd2-bb44a2f74fc9",
+		"id": "c79689f3-077c-4753-a7e7-7afe694a2299",
 		"prefix": "K/DP/05/KT",
-		"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) bedenken en uitwerken / produceren en organiseren / realiseren / evalueren"
+		"title": "In groepsverband een voorstelling met dans, muziek of drama (of een combinatie hiervan) bedenken en uitwerken / produceren en organiseren / realiseren / evalueren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "20700d10-33e1-4432-a494-46c1c2f05c8b",
+		"id": "5f9300e0-4b28-4cde-8437-cec9183e12a3",
 		"prefix": "K/DP/06/KT",
-		"title": "Op actieve wijze, alert en duidelijk zichtbaar activiteiten ten behoeve van veiligheid in gesimuleerde praktijksituaties uitvoeren / fysieke en conditionele oefeningen uitvoeren / rapporteren van incidenten in een gesimuleerde omgeving / zorgdragen voor toezicht van een klein evenement in de eigen schoolomgeving / risicovolle situaties voorkomen  / regelend optreden in de school of op het eigen schoolplein"
+		"title": "Op actieve wijze, alert en duidelijk zichtbaar activiteiten ten behoeve van veiligheid in gesimuleerde praktijksituaties uitvoeren / fysieke en conditionele oefeningen uitvoeren / rapporteren van incidenten in een gesimuleerde omgeving / zorgdragen voor toezicht van een klein evenement in de eigen schoolomgeving / risicovolle situaties voorkomen  / regelend optreden in de school of op het eigen schoolplein",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "88458a79-542f-4c55-a23b-bbf1bb893d8a",
+		"id": "3c315787-4172-48a8-b416-bd145341f4c0",
 		"prefix": "K/DP/07/KT",
-		"title": "Duurzaam consumeren in de persoonlijke leefomgeving / afvalstromen herkennen en benoemen / producten recyclen en verkopen"
+		"title": "Duurzaam consumeren in de persoonlijke leefomgeving / afvalstromen herkennen en benoemen / producten recyclen en verkopen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "c5e91bd7-a080-447d-a8d6-b7e552d014b9",
+		"id": "07be8fa6-4f5a-4bac-8817-4d1f6bf3d1fe",
 		"prefix": "K/EO/01/KT",
-		"title": "Het beoordelen en verbeteren van een bestaande retail-/bedrijfsformule, rekening houdend met doelgroep / assortiment / marktpositie"
+		"title": "Het beoordelen en verbeteren van een bestaande retail-/bedrijfsformule, rekening houdend met doelgroep / assortiment / marktpositie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "ae6ce765-b1f9-4f5e-99ef-c80a4ad1fa5b",
+		"id": "00c4c81c-45af-47c2-ae59-541d5d73e0b0",
 		"prefix": "K/EO/02/KT",
-		"title": "Back- en frontoffice werkzaamheden in een meer complexe context uitvoeren"
+		"title": "Back- en frontoffice werkzaamheden in een meer complexe context uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4cae8ca1-9b58-409f-9080-ae9124127c8a",
+		"id": "5f6fc46c-23bc-4770-b650-c5ad5410670f",
 		"prefix": "K/EO/03/KT",
-		"title": "Logistieke werkzaamheden uitvoeren (veelal in een fysieke omgeving) ten aanzien van ontvangst, opslag, verzamelen en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen / organisatie en planning van de distributie"
+		"title": "Logistieke werkzaamheden uitvoeren (veelal in een fysieke omgeving) ten aanzien van ontvangst, opslag, verzamelen en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen / organisatie en planning van de distributie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4f669c4b-6c44-432d-afee-fa4aac12d2ed",
+		"id": "e45d076b-24fb-4675-84fa-ef36566930c1",
 		"prefix": "K/EO/04/KT",
-		"title": "Financieel- en administratief beheer van (handels)ondernemingen ondersteunen / de sub-administratie van een (handels)onderneming ondersteunen"
+		"title": "Financieel- en administratief beheer van (handels)ondernemingen ondersteunen / de sub-administratie van een (handels)onderneming ondersteunen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "3e167daa-fbe2-4687-ac44-60f0a637e67e",
+		"id": "0f6011fa-d07c-4153-a526-372291ec04a8",
 		"prefix": "K/EO/05/KT",
-		"title": "Het ontwikkelen en uitvoeren van een eenvoudig ondernemingsplan / jezelf als ondernemer beschrijven / een marketingplan maken / een (eenvoudig) financieel plan maken"
+		"title": "Het ontwikkelen en uitvoeren van een eenvoudig ondernemingsplan / jezelf als ondernemer beschrijven / een marketingplan maken / een (eenvoudig) financieel plan maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "836ec598-dcaf-4641-8312-8ed0e5b709c1",
+		"id": "66794bcd-e48c-4db0-b70a-a4535334ca63",
 		"prefix": "K/EO/06/KT",
-		"title": "Een eigen webshop bedenken, ontwikkelen en onderhouden, rekening houdend met doelgroep, assortiment en marktpositie / via internet en sociale media goederen of diensten verkopen"
+		"title": "Een eigen webshop bedenken, ontwikkelen en onderhouden, rekening houdend met doelgroep, assortiment en marktpositie / via internet en sociale media goederen of diensten verkopen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "43c67f04-1925-4d7e-b636-097cd41ec822",
+		"id": "47ec6898-b92c-4cc7-bade-0ee7510d4141",
 		"prefix": "K/EO/07/KT",
-		"title": "Presentatie- en stylingtechnieken uitvoeren"
+		"title": "Presentatie- en stylingtechnieken uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "a998514f-13e9-42cc-aa2f-675264f4f89e",
+		"id": "dafe8912-1bb9-46f7-9c4b-ea1415bfd1fa",
 		"prefix": "K/EO/08/KT",
-		"title": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen / productietechnieken"
+		"title": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen / productietechnieken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "7e3fb1dc-3b61-4ed5-8d87-0e1bfe7b5166",
+		"id": "0204da3f-ec57-4f3e-bb84-c5b106a4e110",
 		"prefix": "K/GR/01/KT",
-		"title": "Brandstofmotoren herkennen, benoemen en onderhouden / getrokken en aangedreven land- en tuinbouwmachines herkennen, benoemen en onderhouden / elektrische circuits voor verlichting op landbouwvoertuigen tekenen, realiseren en repareren / overbrengingen voor aangedreven land- en tuinbouwmachines herkennen, benoemen en toepassen"
+		"title": "Brandstofmotoren herkennen, benoemen en onderhouden / getrokken en aangedreven land- en tuinbouwmachines herkennen, benoemen en onderhouden / elektrische circuits voor verlichting op landbouwvoertuigen tekenen, realiseren en repareren / overbrengingen voor aangedreven land- en tuinbouwmachines herkennen, benoemen en toepassen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "42c2b1af-08d9-4923-b5d2-cb467e8f44e5",
+		"id": "10ea521c-5bf1-41ce-b83f-77b877d29014",
 		"prefix": "K/GR/02/KT",
-		"title": "Oriëntatie op ontwerpen en aanleggen van tuinen / tuinen ontwerpen en aanleggen / werkzaamheden opleveren"
+		"title": "Oriëntatie op ontwerpen en aanleggen van tuinen / tuinen ontwerpen en aanleggen / werkzaamheden opleveren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "6ff07cf5-714b-4400-8d9b-388eec682e35",
+		"id": "d5665a9c-9a84-4250-8c74-3167ef6e20e6",
 		"prefix": "K/GR/03/KT",
-		"title": "Een onderhoudsplan voor een tuin of deel van een landschap opstellen / plaatsen van en technisch onderhoud uitvoeren aan recreatieve voorzieningen / gangbare planten herkennen en benoemen / seizoensgebonden onderhoud verrichten in tuin of landschap"
+		"title": "Een onderhoudsplan voor een tuin of deel van een landschap opstellen / plaatsen van en technisch onderhoud uitvoeren aan recreatieve voorzieningen / gangbare planten herkennen en benoemen / seizoensgebonden onderhoud verrichten in tuin of landschap",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "ff8d95a1-15c6-46f1-a3fd-4c34ea5d6da5",
+		"id": "6591d78e-95ff-4f8a-8f44-a9db90338caf",
 		"prefix": "K/GR/04/KT",
-		"title": "Bloemwerk maken / winkelproducten inpakken / symboliek gebruiken in een bloemarrangement / in opdracht een bloemstuk maken"
+		"title": "Bloemwerk maken / winkelproducten inpakken / symboliek gebruiken in een bloemarrangement / in opdracht een bloemstuk maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f600cb99-937c-4796-9cae-03ae594eb991",
+		"id": "d2dd7d97-8a7c-4841-9438-08929369db5c",
 		"prefix": "K/GR/05/KT",
-		"title": "Vormgeven / technieken gebruiken en combineren bij de vormgeving van een plantaardig product / een plantaardig product vormgeven en de vormgevingsprincipes toepassen / een plantaardig product vormgeven vanuit een kunsthistorisch perspectief / een stijlkamer ontwerpen en sfeer geven aan een interieur"
+		"title": "Vormgeven / technieken gebruiken en combineren bij de vormgeving van een plantaardig product / een plantaardig product vormgeven en de vormgevingsprincipes toepassen / een plantaardig product vormgeven vanuit een kunsthistorisch perspectief / een stijlkamer ontwerpen en sfeer geven aan een interieur",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "122981cc-7d42-4a81-b904-3ed6210ca20b",
+		"id": "ae5fee97-98b6-4cff-8ae6-8433e37486c3",
 		"prefix": "K/GR/06/KT",
-		"title": "Het teeltmedium gereed maken voor een teelt en onderhouden / met plantmateriaal omgaan / plantmateriaal zaaien, planten en poten"
+		"title": "Het teeltmedium gereed maken voor een teelt en onderhouden / met plantmateriaal omgaan / plantmateriaal zaaien, planten en poten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "dfed0d8c-aa1b-4663-975a-1460c81b22e5",
+		"id": "ea37187d-0bab-4041-a232-837261f10f9f",
 		"prefix": "K/GR/07/KT",
-		"title": "Teelt optimaliseren / gewassen oogsten / producten verwerken, bewaren en de kwaliteit beoordelen"
+		"title": "Teelt optimaliseren / gewassen oogsten / producten verwerken, bewaren en de kwaliteit beoordelen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "1bc3fa8f-c1b4-4ed0-bc06-57ca14ad2ad5",
+		"id": "ddba972c-68c9-41e7-8a39-00a7e2a950df",
 		"prefix": "K/GR/08/KT",
-		"title": "Diersoorten en rassen herkennen en benoemen / huisvesting van dieren met betrekking tot dierenwelzijn beoordelen / dagelijkse en periodieke verzorgingswerkzaamheden uitvoeren"
+		"title": "Diersoorten en rassen herkennen en benoemen / huisvesting van dieren met betrekking tot dierenwelzijn beoordelen / dagelijkse en periodieke verzorgingswerkzaamheden uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "79b0e23e-6df5-408d-a58e-34c638d79d67",
+		"id": "4bc75874-53f7-4527-a599-8adb81c08348",
 		"prefix": "K/GR/09/KT",
-		"title": "op basis van de voedingsbehoefte van dieren en de samenstelling van het voer een voeradvies opstellen / gezondheidscontrole uitvoeren en hygiënisch werken / het dier in verschillende levensfasen en productiecycli verzorgen / omgaan met dieren en hun gebruiksdoel(en) herkennen"
+		"title": "op basis van de voedingsbehoefte van dieren en de samenstelling van het voer een voeradvies opstellen / gezondheidscontrole uitvoeren en hygiënisch werken / het dier in verschillende levensfasen en productiecycli verzorgen / omgaan met dieren en hun gebruiksdoel(en) herkennen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "e6c548d8-1182-445d-88eb-3bb0745d1255",
+		"id": "7dbacdb8-59d1-4b0e-9c49-d51f2d4eb057",
 		"prefix": "K/GR/10/KT",
-		"title": "Herkomst en kwaliteit van water als bron van voeding verklaren / afvalwater herkennen en onderzoeken / waterkwantiteit beheren"
+		"title": "Herkomst en kwaliteit van water als bron van voeding verklaren / afvalwater herkennen en onderzoeken / waterkwantiteit beheren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "003a6123-e59d-4825-9bb9-016774053a7b",
+		"id": "b41b1731-e162-48a1-b2e2-6f4e18a059f3",
 		"prefix": "K/GR/11/KT",
-		"title": "Ontwikkelingen in de levensmiddelenbranche en de voedingsmiddelenindustrie beschrijven en hier op eenvoudige wijze op inspelen / grondstoffen verwerken en bereiden tot een kwalitatief goed halffabricaat of eindproduct / een voedingsadvies geven / de kwaliteit en voedselveiligheid van voedingsmiddelen beoordelen en bewaken"
+		"title": "Ontwikkelingen in de levensmiddelenbranche en de voedingsmiddelenindustrie beschrijven en hier op eenvoudige wijze op inspelen / grondstoffen verwerken en bereiden tot een kwalitatief goed halffabricaat of eindproduct / een voedingsadvies geven / de kwaliteit en voedselveiligheid van voedingsmiddelen beoordelen en bewaken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f3854602-c68c-4747-8a54-f0c3fa0a7608",
+		"id": "a36d1dfc-2763-460a-a263-8b819313c781",
 		"prefix": "K/GR/12/KT",
-		"title": "Oriëntatie op zorgboerderijen / in een zorgboerderij planten en dieren verzorgen, hygiënisch werken en daarbij een individu en groep instrueren, motiveren en helpen / toezien op welzijn van dieren"
+		"title": "Oriëntatie op zorgboerderijen / in een zorgboerderij planten en dieren verzorgen, hygiënisch werken en daarbij een individu en groep instrueren, motiveren en helpen / toezien op welzijn van dieren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b1b8a712-111f-4608-9c52-ebc8c48d609a",
+		"id": "a9d10e01-9941-4507-a997-624a61b48c28",
 		"prefix": "K/GR/13/KT",
-		"title": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels"
+		"title": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "8642d947-b064-42ec-947b-13eeb2e1833f",
+		"id": "ecae27d4-f6ed-4d3c-b049-c78db52d1faf",
 		"prefix": "K/HBR/01/KT",
-		"title": "In een meer complexe praktijkomgeving (mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen) service en advies verlenen aan diverse typen gasten, omgaan met gedifferentieerde vragen en de bijbehorende serveertechnieken uitvoeren"
+		"title": "In een meer complexe praktijkomgeving (mogelijkheden voor verkoop benutten, gasten met een open vraag ook in een andere situatie dan het restaurant bedienen) service en advies verlenen aan diverse typen gasten, omgaan met gedifferentieerde vragen en de bijbehorende serveertechnieken uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f98bdbba-bddb-4c4f-aa79-4ca4c89db97f",
+		"id": "85c3b7d3-4951-4f42-843d-370ce61c33b8",
 		"prefix": "K/HBR/02/KT",
-		"title": "Een bijdrage leveren aan het beheren en vervaardigen van brood- en banketspecialiteiten, gekenmerkt door een complexer productieproces"
+		"title": "Een bijdrage leveren aan het beheren en vervaardigen van brood- en banketspecialiteiten, gekenmerkt door een complexer productieproces",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f0460c05-0b72-45b6-a4ab-ddac3da212c2",
+		"id": "6d4bc43a-2a63-4deb-a6c6-70a508f91409",
 		"prefix": "K/HBR/03/KT",
-		"title": "Een bijdrage leveren aan het beheren van horecaproducten en gerechten bereiden en doorgeven in een meer complexe situatie (in relatief kortere tijd gerechten bereiden waarvoor meerdere en andere technieken dan in), zoals minimaal een vier gangenmenu"
+		"title": "Een bijdrage leveren aan het beheren van horecaproducten en gerechten bereiden en doorgeven in een meer complexe situatie (in relatief kortere tijd gerechten bereiden waarvoor meerdere en andere technieken dan in), zoals minimaal een vier gangenmenu",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "dd9c7fe6-f40e-433f-8d53-44448256fcb4",
+		"id": "f61284b7-a92e-405a-9d85-6d722adc08c2",
 		"prefix": "K/HBR/04/KT",
-		"title": "Mede organiseren van en assisteren bij een evenement"
+		"title": "Mede organiseren van en assisteren bij een evenement",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "cc2c3e58-e8a6-4686-bb23-5cf7e5fe0379",
+		"id": "cbd0bfd8-8564-4c06-9892-fcf97ceb5128",
 		"prefix": "K/HBR/05/KT",
-		"title": "Het beheren en vervaardigen van patisserieproducten"
+		"title": "Het beheren en vervaardigen van patisserieproducten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "862d493d-24ce-43a5-8103-285c61c10501",
+		"id": "04f06e32-4221-4e49-9d57-d3591efa4e30",
 		"prefix": "K/HBR/06/KT",
-		"title": "Een bijdrage leveren aan het beheren van horecaproducten voor en maaltijden uit bijzondere keukens bereiden"
+		"title": "Een bijdrage leveren aan het beheren van horecaproducten voor en maaltijden uit bijzondere keukens bereiden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "6c2636e4-96ad-4aaf-aa8b-e9e1478c2771",
+		"id": "0c6caba8-5878-4cf2-bc29-585f6b745463",
 		"prefix": "K/HBR/07/KT",
-		"title": "Een bijdrage leveren aan het beheren van traiteur- en cateringproducten en assisteren bij het werken in de traiteur- en cateringbranche"
+		"title": "Een bijdrage leveren aan het beheren van traiteur- en cateringproducten en assisteren bij het werken in de traiteur- en cateringbranche",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "8c94d808-3a41-4c1b-bf02-39e38ab3e6ae",
+		"id": "2ba9be40-b1b0-4bc7-9dfc-73248a82752f",
 		"prefix": "K/HBR/08/KT",
-		"title": "De voorkomende facilitaire werkzaamheden in en rondom het gastenverblijf en de accommodatie voorbereiden en uitvoere"
+		"title": "De voorkomende facilitaire werkzaamheden in en rondom het gastenverblijf en de accommodatie voorbereiden en uitvoere",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "d7d839c6-60c8-49ca-a44f-8698d3b571f2",
+		"id": "1fab17e8-a677-4953-85f0-da513bf242b2",
 		"prefix": "K/MT/01/KT",
-		"title": "Voorkomende handelingen aan boord uitvoeren"
+		"title": "Voorkomende handelingen aan boord uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "ae8e973a-2108-4127-a733-1089f6a616b7",
+		"id": "79b449eb-c084-4d55-a302-61a1adce396e",
 		"prefix": "K/MT/02/KT",
-		"title": "De scheepsleiding helpen bij de voorbereiding, stuwage en controle van de lading"
+		"title": "De scheepsleiding helpen bij de voorbereiding, stuwage en controle van de lading",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "436ff7e8-9972-4da4-bb04-cd39753e2d10",
+		"id": "788b63c5-f642-4460-8994-c8db7d5a7283",
 		"prefix": "K/MT/03/KT",
-		"title": "De schipper assisteren bij het manouvrerenen besturen van een schip"
+		"title": "De schipper assisteren bij het manouvrerenen besturen van een schip",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "c554162f-2971-42b0-a6b2-c436be22e7bb",
+		"id": "555926c1-cb45-4294-b05c-908d72b650e8",
 		"prefix": "K/MT/04/KT",
-		"title": "De samenstelling en de functionaliteit van een schip kennen en installaties aan boord gebruiken"
+		"title": "De samenstelling en de functionaliteit van een schip kennen en installaties aan boord gebruiken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f4f871d4-9658-4fc6-8e2d-f7645302a61d",
+		"id": "d029f569-997b-4805-ad29-8ae5b9375ab6",
 		"prefix": "K/MT/05/KT",
-		"title": "Werken met zeekaarten en nautische boekwerken / nautische instrumenten / getijden en meteorologie"
+		"title": "Werken met zeekaarten en nautische boekwerken / nautische instrumenten / getijden en meteorologie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "89b12e79-8161-4634-9f27-e4fe30a8db0f",
+		"id": "968bae9c-936a-4f15-b008-3bc39ad644e4",
 		"prefix": "K/MT/06/KT",
-		"title": "Uitleggen en beschrijven van dienstverlenende bedrijven in de logistieke keten, vooral gericht op de activiteiten in en om de Nederlandse havens"
+		"title": "Uitleggen en beschrijven van dienstverlenende bedrijven in de logistieke keten, vooral gericht op de activiteiten in en om de Nederlandse havens",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "7dd72f1b-1553-4b79-8915-97617cce9be6",
+		"id": "af547d63-4af1-4a5e-8780-e02d97317f0a",
 		"prefix": "K/MT/07/KT",
-		"title": "Activiteiten die te maken hebben met de op- en overslag en distributie van producten en goederen in de haven herkennen, noemen en uitvoeren"
+		"title": "Activiteiten die te maken hebben met de op- en overslag en distributie van producten en goederen in de haven herkennen, noemen en uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "167ff662-8ae3-4bce-acef-0e9151be0476",
+		"id": "c216481b-6a94-4a43-9b29-bd22a1fc9487",
 		"prefix": "K/MT/08/KT",
-		"title": "Werkzaamheden van diverse gespecialiseerde op- en overslagbedrijven (stuwadoorsbedrijven) beschrijven en uitvoeren"
+		"title": "Werkzaamheden van diverse gespecialiseerde op- en overslagbedrijven (stuwadoorsbedrijven) beschrijven en uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4d2e99ef-bc4b-474b-87b5-d75edb338fed",
+		"id": "e2805ce9-9b0a-4f7b-b87e-f973b8dc9d05",
 		"prefix": "K/MT/09/KT",
-		"title": "Inzicht hebben in de informatieverwerking en documentatie met betrekking tot lading / uitvoeren van voorbereidende- en aansluitende werkzaamheden die te maken hebben met deze informatie en documentatie"
+		"title": "Inzicht hebben in de informatieverwerking en documentatie met betrekking tot lading / uitvoeren van voorbereidende- en aansluitende werkzaamheden die te maken hebben met deze informatie en documentatie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b4c91479-b172-460b-8f24-ee92a37d06cb",
+		"id": "22dacf68-c15d-4d62-87a1-66985e53682d",
 		"prefix": "K/MT/10/KT",
-		"title": "Positie en relaties van de expediteur in de logistieke keten herkennen en noemen / basisvaardigheden en werkzaamheden van de expediteur in de logistieke keten uitvoeren"
+		"title": "Positie en relaties van de expediteur in de logistieke keten herkennen en noemen / basisvaardigheden en werkzaamheden van de expediteur in de logistieke keten uitvoeren",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "317c372b-37c0-4ee3-bd13-8d73d1579800",
+		"id": "1451ce04-265e-4d98-95dd-021dde9a22cf",
 		"prefix": "K/MT/11/KT",
-		"title": "Positie, relaties en werkzaamheden van de cargadoor in de logistieke keten noemen en herkennen / basisvaardigheden en werkzaamheden van de cargadoor uitvoeren"
+		"title": "Positie, relaties en werkzaamheden van de cargadoor in de logistieke keten noemen en herkennen / basisvaardigheden en werkzaamheden van de cargadoor uitvoeren",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "68b30366-4c8b-463b-b6ee-401e7f42bf31",
+		"id": "fee11943-9571-43a2-857f-56ccf66d6ea3",
 		"prefix": "K/MT/12/KT",
-		"title": "Materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing in maritieme constructies / reparaties met het juiste gereedschap uitvoeren"
+		"title": "Materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing in maritieme constructies / reparaties met het juiste gereedschap uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "14ce758c-5061-4ab4-9f40-8439a318790d",
+		"id": "de3f2b3f-7576-4268-ae60-f1cdd1e5a369",
 		"prefix": "K/MT/13/KT",
-		"title": "Een maritiem ontwerpvraagstuk analyseren, beschrijven, schetsen, uitvoeren, testen en evalueren / plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden / een ontwerp produceren door handmatige en machinale bewerkingen uit te voeren aan metalen en kunststoffen"
+		"title": "Een maritiem ontwerpvraagstuk analyseren, beschrijven, schetsen, uitvoeren, testen en evalueren / plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden / een ontwerp produceren door handmatige en machinale bewerkingen uit te voeren aan metalen en kunststoffen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4f8bb736-ee57-47fa-acd7-8dbc02ab7ebc",
+		"id": "a505f8fc-813f-48bd-9d45-51e18671e830",
 		"prefix": "K/MT/14/KT",
-		"title": "Maritiem technische systemen verklaren / mechanische installaties monteren, bedienen en klein onderhoud uitvoeren / een mechanisch proces bewaken, storingen signaleren en verhelpen"
+		"title": "Maritiem technische systemen verklaren / mechanische installaties monteren, bedienen en klein onderhoud uitvoeren / een mechanisch proces bewaken, storingen signaleren en verhelpen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "6de1b36a-88af-435b-8fb8-0447c8e234a9",
+		"id": "4823598e-64bc-4e62-b32b-87cf908f31d9",
 		"prefix": "K/MT/15/KT",
-		"title": "Een maritieme constructie voorbehandelen, afwerken en decoreren / een waterlijn uitzetten op een maritieme constructie / door het wegnemen van oorzaken corrosie van een maritieme constructie voorkomen"
+		"title": "Een maritieme constructie voorbehandelen, afwerken en decoreren / een waterlijn uitzetten op een maritieme constructie / door het wegnemen van oorzaken corrosie van een maritieme constructie voorkomen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "d85f97fc-f716-4ef5-9458-2508a9d7885e",
+		"id": "52591722-5cfd-4ebf-ace6-b01ff599e1f2",
 		"prefix": "K/MVI/01/KT",
-		"title": "3D concept voor een opdrachtgever ontwikkelen / een 3D product passend bij de opdracht vormgeven en maken / zijn werk presenteren en promoten"
+		"title": "3D concept voor een opdrachtgever ontwikkelen / een 3D product passend bij de opdracht vormgeven en maken / zijn werk presenteren en promoten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "05495f2a-129f-4f72-899f-3febf0b8cf2d",
+		"id": "9b235d53-a4c9-4ce7-8bd5-6b0d5cc57c8f",
 		"prefix": "K/MVI/02/KT",
-		"title": "Met verschillende ontwerpstrategieën voor een mediaproductie een idee ontwikkelen en visualiseren"
+		"title": "Met verschillende ontwerpstrategieën voor een mediaproductie een idee ontwikkelen en visualiseren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "95fcad13-4093-49e0-b89b-83d8b0b02011",
+		"id": "c477e3f1-4be9-4f00-a66d-b2f619cca34b",
 		"prefix": "K/MVI/03/KT",
-		"title": "Een netwerk volgens gegeven eisen ontwerpen en realiseren / het werk documenteren en registreren"
+		"title": "Een netwerk volgens gegeven eisen ontwerpen en realiseren / het werk documenteren en registreren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "356e4515-4a0a-4744-af27-bf77f7461dd3",
+		"id": "3a83b5f3-733f-4c40-975d-2a121066ad43",
 		"prefix": "K/MVI/04/KT",
-		"title": "Een eenvoudig printmedia-product ontwerpen, vervaardigen en opleveren"
+		"title": "Een eenvoudig printmedia-product ontwerpen, vervaardigen en opleveren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "318c9269-71ff-45dd-ae55-c5af2ba1fbe3",
+		"id": "47c569db-f223-4726-bf7e-cdd5df4b1235",
 		"prefix": "K/MVI/05/KT",
-		"title": "Een personage bedenken en uitwerken met zelfgekozen materiaal in een modelsheet en walkcycle / een plastische weergave maken van een zelfbedachte omgeving op een 2D medium / een mediaproduct in de stijl van een bepaalde of gekozen kunststroming vormgeven, maken en presenteren"
+		"title": "Een personage bedenken en uitwerken met zelfgekozen materiaal in een modelsheet en walkcycle / een plastische weergave maken van een zelfbedachte omgeving op een 2D medium / een mediaproduct in de stijl van een bepaalde of gekozen kunststroming vormgeven, maken en presenteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
 	},
 	{
-		"id": "45ae5a01-8ea5-46ac-b7ef-74dc5d0e54cc",
+		"id": "11c0b705-40bf-477e-b792-ff8e7438873b",
 		"prefix": "K/MVI/06/KT",
-		"title": "Een game bedenken, ontwerpen en maken"
+		"title": "Een game bedenken, ontwerpen en maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "fb53e0c2-f495-4b04-af4c-ab29d546aa29",
+		"id": "f2075891-3add-4e3b-bae2-26d5a96438bb",
 		"prefix": "K/MVI/07/KT",
-		"title": "Een fotografie concept voor de opdrachtgever ontwikkelen / fotografische beelden realiseren en bewerken / fotografie apparatuur en materiaal onderhouden en beheren / het werk presenteren en promoten"
+		"title": "Een fotografie concept voor de opdrachtgever ontwikkelen / fotografische beelden realiseren en bewerken / fotografie apparatuur en materiaal onderhouden en beheren / het werk presenteren en promoten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "ba7fad8b-27d1-466e-91c5-25904cc41a62",
+		"id": "e029919b-4e3f-49e7-a9f2-23787eb86fb4",
 		"prefix": "K/MVI/08/KT",
-		"title": "Belichting installeren, aansluiten en bedienen / een geluidsinstallatie installeren, aansluiten en bedienen / een decor ontwerpen en (op schaal) bouwen"
+		"title": "Belichting installeren, aansluiten en bedienen / een geluidsinstallatie installeren, aansluiten en bedienen / een decor ontwerpen en (op schaal) bouwen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "708d87f5-cac9-4293-adc2-2024e8a25964",
+		"id": "466016ae-060a-468c-9c18-f4fb41b10b48",
 		"prefix": "K/MVI/09/KT",
-		"title": "Een applicatie ontwerpen, realiseren en testen"
+		"title": "Een applicatie ontwerpen, realiseren en testen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "3974d7d9-41c6-4b56-aa23-de71268ce118",
+		"id": "88302173-725b-40d6-ac7a-7ca5f7bfe21b",
 		"prefix": "K/MVI/10/KT",
-		"title": "Digitale informatie en gegevens beveiligen en daarvoor procedures en processen toepassen, rekening houdend met de privacy van gebruikers en gevoeligheid van informatie en gegevens"
+		"title": "Digitale informatie en gegevens beveiligen en daarvoor procedures en processen toepassen, rekening houdend met de privacy van gebruikers en gevoeligheid van informatie en gegevens",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "caaca09a-dc46-4a94-8b5f-2a574168e7ae",
+		"id": "8a5cb7a3-6ac1-452f-baa0-d2fd2dd41127",
 		"prefix": "K/MVI/11/KT",
-		"title": "Een eenvoudig sign product ontwerpen, vervaardigen en opleveren"
+		"title": "Een eenvoudig sign product ontwerpen, vervaardigen en opleveren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "cee2dd94-f9da-453f-b0dd-bf765f3a04c8",
+		"id": "bff8677f-8680-4ffe-b363-899e0e95f171",
 		"prefix": "K/MVI/12/KT",
-		"title": "Een bepaald media product vormgeven passend bij een specifieke doelgroep"
+		"title": "Een bepaald media product vormgeven passend bij een specifieke doelgroep",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "76034321-4255-493f-bdf5-7e37c5cedca9",
+		"id": "0d9aeb48-f0ce-471a-b7b3-552f8940ad1f",
 		"prefix": "K/MET/01/KT",
-		"title": "Een ontstekingssysteem testen / een brandstofsysteem controleren, testen en onderdelen vervangen / distributie en klepbediening controleren, afstellen en vervangen"
+		"title": "Een ontstekingssysteem testen / een brandstofsysteem controleren, testen en onderdelen vervangen / distributie en klepbediening controleren, afstellen en vervangen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "aea2113a-97f9-41bb-898a-f4fbffaa6d02",
+		"id": "8c125193-b439-49e1-bff7-ec018345f959",
 		"prefix": "K/MET/02/KT",
-		"title": "Een aandrijfsysteem controleren, vervangen en afstellen / een remsysteem controleren, metingen uitvoeren, componenten testen, vervangen, ontluchten en afstellen / een stuursysteem controleren, componenten vervangen en afstellen"
+		"title": "Een aandrijfsysteem controleren, vervangen en afstellen / een remsysteem controleren, metingen uitvoeren, componenten testen, vervangen, ontluchten en afstellen / een stuursysteem controleren, componenten vervangen en afstellen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "be5249ff-f62e-4d03-9250-0cbffa43f7ad",
+		"id": "3d0f3373-0818-4b99-903f-c16342372a72",
 		"prefix": "K/MET/03/KT",
-		"title": "Een laadsysteem controleren, meten, componenten vervangen en testen / een startsysteem controleren, meten, componenten vervangen en testen / een gloeistartsysteem controleren, meten, componenten vervangen en testen / een motor managementsysteem aansluiten, meten en testen / de werking van een datanetwerk van een voertuig demonstreren en verklaren"
+		"title": "Een laadsysteem controleren, meten, componenten vervangen en testen / een startsysteem controleren, meten, componenten vervangen en testen / een gloeistartsysteem controleren, meten, componenten vervangen en testen / een motor managementsysteem aansluiten, meten en testen / de werking van een datanetwerk van een voertuig demonstreren en verklaren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "20719b5b-c8f4-45da-885f-210c73eefbce",
+		"id": "130b35b4-1e41-45f2-8a2a-1450b5e688ec",
 		"prefix": "K/MET/04/KT",
-		"title": "Bedrijfswagens en getrokken materieel benoemen / een aandrijflijn van bedrijfswagens controleren en componenten vervangen / componenten van een luchtdrukremsysteem aansluiten en testen"
+		"title": "Bedrijfswagens en getrokken materieel benoemen / een aandrijflijn van bedrijfswagens controleren en componenten vervangen / componenten van een luchtdrukremsysteem aansluiten en testen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "7a1fbfee-9d69-4b18-bde8-489e1a475271",
+		"id": "cc3dc221-d999-42ce-b48e-4d9a9074edda",
 		"prefix": "K/MET/05/KT",
-		"title": "Een fiets afleveringsklaar maken / het elektrisch systeem van een fiets testen, controleren, meten en repareren / het aandrijf- en veersysteem van een fiets vervangen, controleren en afstellen / remsysteem van een fiets controleren, meten, vervangen en afstellen"
+		"title": "Een fiets afleveringsklaar maken / het elektrisch systeem van een fiets testen, controleren, meten en repareren / het aandrijf- en veersysteem van een fiets vervangen, controleren en afstellen / remsysteem van een fiets controleren, meten, vervangen en afstellen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "eef90210-3111-4573-8865-be059112f049",
+		"id": "b966a62b-a8f2-4b8d-9075-d059d7e2a112",
 		"prefix": "K/MET/06/KT",
-		"title": "Een gemotoriseerde tweewieler controleren, meten en afleveringsklaar maken / elektrische systemen van een gemotoriseerde tweewieler testen en repareren / aandrijf- en veersystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen / remsystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen"
+		"title": "Een gemotoriseerde tweewieler controleren, meten en afleveringsklaar maken / elektrische systemen van een gemotoriseerde tweewieler testen en repareren / aandrijf- en veersystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen / remsystemen van een gemotoriseerde tweewieler testen, vervangen en afstellen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "e548fea0-ebb1-4ac5-ae78-90ed35a1c7c0",
+		"id": "c6bacf95-eb97-4d91-919d-76c4f237c83d",
 		"prefix": "K/MET/07/KT",
-		"title": "Onderdelen aan een carrosserie monteren / een laadbak maken / een lichtbak met achterlichtunits maken en aansluiten / een trekhaak monteren en aansluiten"
+		"title": "Onderdelen aan een carrosserie monteren / een laadbak maken / een lichtbak met achterlichtunits maken en aansluiten / een trekhaak monteren en aansluiten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5ae75489-44a0-41ac-b35b-29fc43125559",
+		"id": "7624e2f5-7753-4a5f-a290-71956c7a8eec",
 		"prefix": "K/MET/08/KT",
-		"title": "Schadeherstelwerkzaamheden voorbereiden / eenvoudige schade herstellen / te spuiten carrosseriedelen voorbewerken / een voertuig afleveringsklaar maken"
+		"title": "Schadeherstelwerkzaamheden voorbereiden / eenvoudige schade herstellen / te spuiten carrosseriedelen voorbewerken / een voertuig afleveringsklaar maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "a6c321f2-0be3-4dfc-9302-dbb4a4cc8fbe",
+		"id": "5998edc8-430b-462f-a85f-84e3fbf46eba",
 		"prefix": "K/MET/09/KT",
-		"title": "De werking van verbrandingsmotoren verklaren / brandstofsystemen controleren en repareren / interne en externe koelsystemen controleren / de werking van beveiligingssystemen verklaren"
+		"title": "De werking van verbrandingsmotoren verklaren / brandstofsystemen controleren en repareren / interne en externe koelsystemen controleren / de werking van beveiligingssystemen verklaren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "208bf383-764b-4f9a-aa87-98726621bce2",
+		"id": "db93cc0c-6feb-479a-abab-549afb3eb40f",
 		"prefix": "K/MET/10/KT",
-		"title": "Een rit voorbereiden / een rit afhandelen en de vrachtauto in rijbare staat terugbrengen"
+		"title": "Een rit voorbereiden / een rit afhandelen en de vrachtauto in rijbare staat terugbrengen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "cc22ea58-9ffb-45e6-bf8e-46849cdd7a5d",
+		"id": "a488fb0b-1751-42c1-b90a-6a588d794e1e",
 		"prefix": "K/MET/11/KT",
-		"title": "Mobiele werktuigen herkennen / een hydraulisch systeem controleren en aansluiten / machineonderhoud uitvoeren / pneumatische en elektrische systemen controleren en testen / hijsen en tillen met werktuigen en de risico’s bij hijsen, tillen en dragen herkennen"
+		"title": "Mobiele werktuigen herkennen / een hydraulisch systeem controleren en aansluiten / machineonderhoud uitvoeren / pneumatische en elektrische systemen controleren en testen / hijsen en tillen met werktuigen en de risico’s bij hijsen, tillen en dragen herkennen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "e703eee9-327a-4ee6-8673-e90e816899c7",
+		"id": "6bee1927-f2b1-4fd5-8c90-2dd3455e585c",
 		"prefix": "K/MET/12/KT",
-		"title": "Goederen ontvangen en deze inslaan en daarna opslaan / voorraadbeheer uitvoeren / goederen verzamelen en deze verzendklaar maken"
+		"title": "Goederen ontvangen en deze inslaan en daarna opslaan / voorraadbeheer uitvoeren / goederen verzamelen en deze verzendklaar maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "a80b4e24-e686-4986-b9eb-180ba3b4745a",
+		"id": "d967751a-459b-4c09-b728-f66cd69838b9",
 		"prefix": "K/PIE/01/KT",
-		"title": "Werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materialen bewerken en vervormen / verbinden van onderdelen en/deelproducten / meten en controleren van vervaardigde producten en afronden van uitgevoerde werkzaamheden"
+		"title": "Werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materialen bewerken en vervormen / verbinden van onderdelen en/deelproducten / meten en controleren van vervaardigde producten en afronden van uitgevoerde werkzaamheden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "c4fb7918-88af-4834-9347-1ed39580b9ca",
+		"id": "94bd939f-2c1d-41bb-80a2-f9ebcd59cb11",
 		"prefix": "K/PIE/02/KT",
-		"title": "De werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materiaal voorbereiden en lasnaden aanbrengen / plan van aanpak opstellen / onderdelen en deelproducten met elkaar verbinden"
+		"title": "De werkzaamheden voorbereiden / machine en gereedschappen in- en afstellen / materiaal voorbereiden en lasnaden aanbrengen / plan van aanpak opstellen / onderdelen en deelproducten met elkaar verbinden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5076458f-aba0-4554-b87b-a13ebd196ff5",
+		"id": "2f310cfa-9489-46ce-a581-ddb487acdfa8",
 		"prefix": "K/PIE/03/KT",
-		"title": "Een verwarmings- en gasinstallatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van verwarmings- en gasinstallaties lezen en interpreteren / leidingsystemen voor een verwarmings- en gasinstallatie aanleggen / een verwarmings- en gasinstallatie afmonteren en testen / metingen met infraroodcamera maken en verwerken in een plan ten behoeve van energiebesparende oplossingen / weersafhankelijke regeling op CV-ketel installeren en regelen"
+		"title": "Een verwarmings- en gasinstallatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van verwarmings- en gasinstallaties lezen en interpreteren / leidingsystemen voor een verwarmings- en gasinstallatie aanleggen / een verwarmings- en gasinstallatie afmonteren en testen / metingen met infraroodcamera maken en verwerken in een plan ten behoeve van energiebesparende oplossingen / weersafhankelijke regeling op CV-ketel installeren en regelen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b4b7853e-5ee5-423a-bc50-2b3b5a2ff2be",
+		"id": "69e7172f-3a9f-4527-bbc9-1f43ff6015af",
 		"prefix": "K/PIE/04/KT",
-		"title": "Productieprocessen, technische systemen en bronnen verklaren / een installatieproces monteren, bedienen en regelen / een proces bewaken, storingen signaleren en verhelpen"
+		"title": "Productieprocessen, technische systemen en bronnen verklaren / een installatieproces monteren, bedienen en regelen / een proces bewaken, storingen signaleren en verhelpen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "8868be07-086d-4911-8d30-bd3a272951f7",
+		"id": "7cba0554-24b7-4804-92a1-8a547be5c8df",
 		"prefix": "K/PIE/05/KT",
-		"title": "Met behulp van ICT-toepassingen opbrengstberekeningen maken voor pv- panelen / met behulp van een bouwtekening pv-panelen intekenen op een bestaand dak / met behulp van een bestaande bouwtekening pv-panelen monteren / opbrengstmetingen doen aan een windmolen / een warmtepomp plaatsen in een verwarmingsinstallatie / een zonneboiler plaatsen en installeren"
+		"title": "Met behulp van ICT-toepassingen opbrengstberekeningen maken voor pv- panelen / met behulp van een bouwtekening pv-panelen intekenen op een bestaand dak / met behulp van een bestaande bouwtekening pv-panelen monteren / opbrengstmetingen doen aan een windmolen / een warmtepomp plaatsen in een verwarmingsinstallatie / een zonneboiler plaatsen en installeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b5f86109-b8dd-44ff-a152-4249e3687334",
+		"id": "c91e7511-1bfe-40b7-8d08-0d63bd095900",
 		"prefix": "K/PIE/06/KT",
-		"title": "Werktuigkundig onderhoud uitvoeren aan machines en apparaten / elektrotechnisch onderhoud uitvoeren aan machines en apparaten / onderhoud uitvoeren aan een leidingsysteem / onderdelen vervaardigen ten behoeve van onderhoud / machines en apparaten installeren / lagers demonteren en monteren / uitgevoerde werkzaamheden gebruiksklaar opleveren"
+		"title": "Werktuigkundig onderhoud uitvoeren aan machines en apparaten / elektrotechnisch onderhoud uitvoeren aan machines en apparaten / onderhoud uitvoeren aan een leidingsysteem / onderdelen vervaardigen ten behoeve van onderhoud / machines en apparaten installeren / lagers demonteren en monteren / uitgevoerde werkzaamheden gebruiksklaar opleveren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "96054d2b-3df9-477e-8cc9-4f211bb86772",
+		"id": "070ee603-5a63-4bff-91a8-70ebb0d6392d",
 		"prefix": "K/PIE/07/KT",
-		"title": "Tekeningen en schema's van utiliteitinstallaties lezen en een werkvoorbereiding maken / leidingsystemen voor een utiliteitinstallatie aanleggen, schakelmateriaal en onderdelen monteren en aansluiten / onderdelen en utiliteitsinstallaties monteren, aansluiten en in bedrijf stellen aan de hand van een werktekening"
+		"title": "Tekeningen en schema's van utiliteitinstallaties lezen en een werkvoorbereiding maken / leidingsystemen voor een utiliteitinstallatie aanleggen, schakelmateriaal en onderdelen monteren en aansluiten / onderdelen en utiliteitsinstallaties monteren, aansluiten en in bedrijf stellen aan de hand van een werktekening",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "addfcbfd-ea54-467d-9229-bfa8c384e823",
+		"id": "7bec0584-b141-49bf-9c31-0ba58a2925a9",
 		"prefix": "K/PIE/08/KT",
-		"title": "Informatie verzamelen en werkzaamheden voorbereiden / lasnaden van lasverbindingen voorbereiden / materialen verbinden aan de hand van een werktekening volgens de gestelde eisen / vervaardigde producten opmeten en controleren en de uitgevoerde werkzaamheden afronden"
+		"title": "Informatie verzamelen en werkzaamheden voorbereiden / lasnaden van lasverbindingen voorbereiden / materialen verbinden aan de hand van een werktekening volgens de gestelde eisen / vervaardigde producten opmeten en controleren en de uitgevoerde werkzaamheden afronden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4d13c3b7-9e8e-4269-8c04-a9c4a3c8ce31",
+		"id": "888863fd-a11a-4730-a9f5-7fe6e8b36521",
 		"prefix": "K/PIE/09/KT",
-		"title": "Informatie verzamelen en werkzaamheden voorbereiden / een CNC machine gebruiksklaar maken / een machine productieklaar maken en bedienen / materialen met een CNC machine bewerken / vervaardigde producten meten en controleren en uitgevoerde werkzaamheden afronden"
+		"title": "Informatie verzamelen en werkzaamheden voorbereiden / een CNC machine gebruiksklaar maken / een machine productieklaar maken en bedienen / materialen met een CNC machine bewerken / vervaardigde producten meten en controleren en uitgevoerde werkzaamheden afronden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b967ec8d-9e83-445e-9bc3-faa9e4872ece",
+		"id": "d85a1b0b-0979-4387-8033-d77e12996ca8",
 		"prefix": "K/PIE/10/KT",
-		"title": "Een drinkwater- en sanitaire installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van drinkwater- en sanitaire installaties lezen en interpreteren / leidingsystemen voor een drinkwater- en sanitaire installatie aanleggen / een drinkwater- en sanitaire installatie afmonteren / een warmtewisselaar toepassen in een sanitaire installatie"
+		"title": "Een drinkwater- en sanitaire installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van drinkwater- en sanitaire installaties lezen en interpreteren / leidingsystemen voor een drinkwater- en sanitaire installatie aanleggen / een drinkwater- en sanitaire installatie afmonteren / een warmtewisselaar toepassen in een sanitaire installatie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "0b5e27bc-6ccb-482b-b7d6-167c4ab939a2",
+		"id": "219a1752-2269-48f5-b13e-044f48f5d59f",
 		"prefix": "K/PIE/11/KT",
-		"title": "Voor het vervaardigen van een dakgoot en dakrandafwerkingen uitslagen maken en overnemen op een zinken plaat / verschillende soorten zinken dakgoten maken / een dakrandafwerking van zink maken"
+		"title": "Voor het vervaardigen van een dakgoot en dakrandafwerkingen uitslagen maken en overnemen op een zinken plaat / verschillende soorten zinken dakgoten maken / een dakrandafwerking van zink maken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5e0cb810-a24a-4a99-8a8f-f3c8b87ad33c",
+		"id": "1dd64310-59a9-44ab-9e98-1b313799efb7",
 		"prefix": "K/PIE/12/KT",
-		"title": "Met behulp van 2D en 3D CAD software een ontwerp van een draai- en freesproduct maken en de uitvoering voorbereiden / een ontworpen draai- en freesproduct produceren"
+		"title": "Met behulp van 2D en 3D CAD software een ontwerp van een draai- en freesproduct maken en de uitvoering voorbereiden / een ontworpen draai- en freesproduct produceren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "b6df07d3-dca6-45ce-af61-36cf3a908cdf",
+		"id": "5361578c-b03d-4120-9b90-8d3c24fb0264",
 		"prefix": "K/PIE/13/KT",
-		"title": "Een elektrische installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van een elektrische installatie lezen en interpreteren / een elektrische installatie aanleggen en monteren / een elektrische installatie schakelen met domotica"
+		"title": "Een elektrische installatie ontwerpen, tekenen en calculeren / tekeningen en schema’s van een elektrische installatie lezen en interpreteren / een elektrische installatie aanleggen en monteren / een elektrische installatie schakelen met domotica",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "10857dd5-837d-4a77-8fc0-b63dda0d53b2",
+		"id": "3f52d72a-c2f1-4b87-a302-8443bea7376f",
 		"prefix": "K/PIE/14/KT",
-		"title": "In een practicum een domotica installatie opbouwen aan de hand van een schema en opstellingstekening / door middel van domotica een automatische besturing realiseren en testen / een automatische besturing met domotica componenten demonstreren en presenteren"
+		"title": "In een practicum een domotica installatie opbouwen aan de hand van een schema en opstellingstekening / door middel van domotica een automatische besturing realiseren en testen / een automatische besturing met domotica componenten demonstreren en presenteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "032a1fa4-6734-4562-b95d-90343afd98e6",
+		"id": "5faac112-2a4b-481f-91e7-6c86e2bf96f2",
 		"prefix": "K/PIE/15/KT",
-		"title": "Een elektriciteitsaansluiting maken van buiten tot in een meterkast / data-aansluitingen maken van buiten tot in een meterkast / een aardgasaansluiting maken van buiten tot aan een gasmeter in een meterkast / een drinkwateraansluiting maken vanuit buiten tot aan een watermeter in een meterkast / een lantaarnpaal aansluiten op een elektriciteitsnet"
+		"title": "Een elektriciteitsaansluiting maken van buiten tot in een meterkast / data-aansluitingen maken van buiten tot in een meterkast / een aardgasaansluiting maken van buiten tot aan een gasmeter in een meterkast / een drinkwateraansluiting maken vanuit buiten tot aan een watermeter in een meterkast / een lantaarnpaal aansluiten op een elektriciteitsnet",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "6fcef2f3-416a-4eee-84d6-78f5ac5d2d90",
+		"id": "09642f3c-2f5b-46f1-aa91-bf0dde5e6a7d",
 		"prefix": "K/PIE/16/KT",
-		"title": "Tekeningen en schema's van koude technische installaties lezen, meetgegevens vastleggen en interpreteren / bewerkingen uitvoeren aan verschillende soorten materialen ten behoeve van een koude technische installatie / onderdelen ten behoeve van een koude technische installatie samenstellen, monteren en installeren, aan de hand van een werktekening / een airco-unit plaatsen en inregelen"
+		"title": "Tekeningen en schema's van koude technische installaties lezen, meetgegevens vastleggen en interpreteren / bewerkingen uitvoeren aan verschillende soorten materialen ten behoeve van een koude technische installatie / onderdelen ten behoeve van een koude technische installatie samenstellen, monteren en installeren, aan de hand van een werktekening / een airco-unit plaatsen en inregelen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "d0c9f53c-d174-41f1-ba23-3419bb856b6a",
+		"id": "59ddcfdc-e1b4-4eee-b3a4-7518387f4b6f",
 		"prefix": "K/PIE/17/KT",
-		"title": "Lichtbehoefte bepalen voor een werkruimteverlichting in een woning en kantoor aanpassen en energiezuiniger maken / een intercomsysteem aanleggen in een woning en kantoor / een intercomsysteem met video aanleggen in een woning en kantoor"
+		"title": "Lichtbehoefte bepalen voor een werkruimteverlichting in een woning en kantoor aanpassen en energiezuiniger maken / een intercomsysteem aanleggen in een woning en kantoor / een intercomsysteem met video aanleggen in een woning en kantoor",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "d9ce9dd3-d736-433b-a82d-589bc9789e9e",
+		"id": "58586d4d-91ba-4967-b497-387f00a8ab5d",
 		"prefix": "K/ZW/01/KT",
-		"title": "Eenvoudige hand, haar- en gezichtsbehandelingen uitvoeren bij een klant in een kapsalon of schoonheidssalon"
+		"title": "Eenvoudige hand, haar- en gezichtsbehandelingen uitvoeren bij een klant in een kapsalon of schoonheidssalon",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5a386588-10cc-4ce8-8c7f-541ac121d5c8",
+		"id": "c97d9377-76a1-457d-bdf4-4a50aed11e9b",
 		"prefix": "K/ZW/02/KT",
-		"title": "Haarbehandelingen uitvoeren bij een klant in een kapsalon"
+		"title": "Haarbehandelingen uitvoeren bij een klant in een kapsalon",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "8ac9d51f-916d-44d2-8c53-3280280fb0c5",
+		"id": "2b4425db-f275-4372-a84b-42613f7a73d3",
 		"prefix": "K/ZW/03/KT",
-		"title": "Gezichts- en lichaamsbehandeling uitvoeren bij een klant in een schoonheidssalon"
+		"title": "Gezichts- en lichaamsbehandeling uitvoeren bij een klant in een schoonheidssalon",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5e139b43-98d2-41e5-97b9-c6ec9be95295",
+		"id": "99d18809-fbd8-4596-9289-8f558bd5f4cd",
 		"prefix": "K/ZW/04/KT",
-		"title": "Hand- en voetbehandelingen uitvoeren bij een klant in een salon"
+		"title": "Hand- en voetbehandelingen uitvoeren bij een klant in een salon",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "887d12d4-b7b7-48bb-b281-0bd842c21d59",
+		"id": "f168cdb1-59c4-444b-bac5-36aad796b426",
 		"prefix": "K/ZW/05/KT",
-		"title": "Een bijdrage leveren aan de opvoeding en ontwikkeling van kinderen en jongeren en hierover rapporteren"
+		"title": "Een bijdrage leveren aan de opvoeding en ontwikkeling van kinderen en jongeren en hierover rapporteren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "add2b217-4162-4c83-9b49-b85e23c3f01f",
+		"id": "bce77dde-e8f6-4adf-9195-14e1ed646d30",
 		"prefix": "K/ZW/06/KT",
-		"title": "Ondersteunen bij wonen en huishouden in een thuissituatie"
+		"title": "Ondersteunen bij wonen en huishouden in een thuissituatie",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "1af21cf9-45a5-43e1-81a5-6b67c9b709c5",
+		"id": "9673084e-d4fc-44f1-a176-a8e8cfb8ca6e",
 		"prefix": "K/ZW/07/KT",
-		"title": "Ondersteunende handelingen verrichten in de gezondheidszorg, gegevens verzamelen en gezondheidsadviezen geven"
+		"title": "Ondersteunende handelingen verrichten in de gezondheidszorg, gegevens verzamelen en gezondheidsadviezen geven",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "5f65b7a2-86e3-48dd-bd41-bf0e6a19a72e",
+		"id": "1eb54add-74d9-449b-bbd4-a17ff8c3ac61",
 		"prefix": "K/ZW/08/KT",
-		"title": "Volwassenen en ouderen ondersteunen bij de algemene dagelijkse activiteiten en begeleiden bij de keuze voor een passende dagbesteding, de activiteit organiseren en de klant begeleiden"
+		"title": "Volwassenen en ouderen ondersteunen bij de algemene dagelijkse activiteiten en begeleiden bij de keuze voor een passende dagbesteding, de activiteit organiseren en de klant begeleiden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "70a103c6-877e-4e3a-9fab-a2117bd09c5c",
+		"id": "5165fa4a-2ef1-4c5b-87c2-bd156c4d63cb",
 		"prefix": "K/ZW/09/KT",
-		"title": "eenvoudige dienstverlenende activiteiten verrichten"
+		"title": "eenvoudige dienstverlenende activiteiten verrichten",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "f01bfdac-f433-4058-9cd6-57e0d57ae800",
+		"id": "59033109-0f7a-4b2b-a149-c1379160797a",
 		"prefix": "K/ZW/10/KT",
-		"title": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties"
+		"title": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "4d10e986-15fa-4d5b-94ee-071f8b6a05d4",
+		"id": "1af54536-c953-4aca-a93d-223a8f36f88e",
 		"prefix": "K/ZW/11/KT",
-		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties"
+		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "1ae66a3d-86e2-4f92-a062-8b5858df6688",
+		"id": "c6324a98-62dd-49c5-844b-abd90d09b744",
 		"prefix": "K/ZW/12/KT",
-		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen"
+		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
-		"id": "50f897d0-a338-4b92-93bc-20630785ff01",
+		"id": "232d0221-9fd6-4e2e-9634-fbd5b18f9a35",
 		"prefix": "K/ZW/13/KT",
-		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken"
+		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	}
 ]

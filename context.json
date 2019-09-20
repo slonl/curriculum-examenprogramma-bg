@@ -11,7 +11,10 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
 					]
 				}
-			}
+			},
+			"required": [
+				"id","title","niveau_id"
+			]
 		},
 		"examenprogramma_bg_deeltaak": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -29,15 +32,11 @@
 							}
 						}
 					]
-				},
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-					]
 				}
-
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_globale_eindterm_id"
+			]
 		},
 		"examenprogramma_bg_kerndeel": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -55,15 +54,11 @@
 							}
 						}
 					]
-				},
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-					]
 				}
-
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_globale_eindterm_id"
+			]
 		},
 		"examenprogramma_bg_keuzevaktaak": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -76,8 +71,10 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
 					]
 				}
-
-			}
+			},
+			"required": [
+				"id","title","niveau_id"
+			]
 		},
 		"examenprogramma_bg_moduletaak": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -90,7 +87,10 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
 					]
 				}
-			}
+			},
+			"required": [
+				"id","title","niveau_id"
+			]
 		},
 		"examenprogramma_bg_keuzevak": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -108,14 +108,11 @@
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_bg_deeltaak" } }
 					]
-				},
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-					]
 				}
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_keuzevaktaak_id","examenprogramma_bg_deeltaak_id"
+			]
 		},
 		"examenprogramma_bg_module": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -133,14 +130,11 @@
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_bg_deeltaak" } }
 					]
-				},
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-					]
 				}
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_moduletaak_id","examenprogramma_bg_deeltaak_id"
+			]
 		},
 		"examenprogramma_bg_kern": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -152,14 +146,11 @@
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_bg_kerndeel" } }
 					]
-				},
-				"niveau_id" : {
-					"allOf": [
-						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-					]
 				}
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_kerndeel_id"
+			]
 		},
 		"examenprogramma_bg_profiel": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -184,7 +175,10 @@
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_bg_keuzevak" } }
 					]
 				}
-			}
+			},
+			"required": [
+				"id","title","examenprogramma_bg_kern_id","examenprogramma_bg_module_id","examenprogramma_bg_keuzevak_id"
+			]
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",

@@ -1,1 +1,561 @@
-[]
+[
+	{
+		"id": "80546a8d-a6dc-454b-8891-77ee07b69089",
+		"prefix": "PK/BWI/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3599f81d-dc69-4cde-9624-3a9395ad769a",
+			"50d5fbfe-39c9-4630-aab9-4c42d2d426a5",
+			"65bb9959-d668-4ca6-bd7e-7246a03ee8f2",
+			"961ca6a6-0f35-4bcc-8c8b-cff7719cbedf",
+			"cef8a144-b17c-4471-bea3-35d1c8d73ae6",
+			"354f6d1c-de06-4bfd-9e5f-f24b9782f041",
+			"7dbc5f6e-ed89-4cff-a1ff-5cbeee5ee73e",
+			"bf3f6f95-d614-4575-a7a5-895b89a080ad",
+			"76302f58-1e4b-4aa6-a8da-673323bf8b5b",
+			"aec77206-6bd4-463d-963c-c32f7cf13802",
+			"8991b76a-e736-4ee1-8adb-b03b71e8d6c2",
+			"087de4e0-e5da-4837-b85f-f972a26609c4",
+			"bd8153f6-719f-411b-ae74-6c4b212d64ed",
+			"e37dbac4-a86d-4eff-97da-cdca7e924377",
+			"409fd9b8-a76b-4103-bc27-3e4ee7d397b6",
+			"c91be56c-b6df-42d5-a209-d80a2a060b16"
+		]
+	},
+	{
+		"id": "824362c1-c66d-422d-ae68-86127320a60d",
+		"prefix": "PK/BWI/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"28f526c6-4fe2-44c7-81bb-58d39104af31",
+			"f490c777-0fcb-4693-84aa-b6a33535edd3",
+			"dd019da9-8ab0-41bd-a927-64fdae18e45b",
+			"bc9448a1-953c-457c-91ee-db54a792e960",
+			"755b2922-ab98-452a-ae6f-9989bde8756b",
+			"6238e5e8-0b32-46c5-85f9-7c4c914c15c8",
+			"3438c054-e6ad-41c5-86fa-b15108548bd4",
+			"13b4b25b-b003-4e0a-a08d-6bff2dbbbdf0",
+			"2b535613-840d-4e3e-b5e8-02aafae3a62b",
+			"c1789d63-8f6b-4f26-8af2-92fab203a7b5",
+			"147520a2-8771-49a5-a508-06078e718f9d",
+			"1d10e628-ed3c-4218-8eb9-b3c666244c14",
+			"10efae4d-b40a-446f-8e7c-fc9d4841db0c",
+			"4a200664-eb37-47d0-a585-02e0fa46137f",
+			"9f887d10-1821-46c9-9e7e-6dc516eb66da",
+			"17865842-bbd3-4047-9204-85056b5a2fe2",
+			"45b3f1da-99fe-4a51-b004-996f25e23357",
+			"e020c093-b95b-4aee-9755-c2b47f8304ce",
+			"49177ae1-c125-4e59-8050-40d7ad03e7ac",
+			"2c3fa65b-8bdd-4769-9df0-53f11bea9bee",
+			"63da8579-5911-4497-ae17-c2dccb1337ab",
+			"9d68f31e-70b0-4835-965b-d786a06599d3",
+			"d26544ad-a6cc-4431-a6f5-960fbcffa9d7"
+		]
+	},
+	{
+		"id": "6e9a2114-454e-43af-b42f-686acea6136c",
+		"prefix": "PK/BWI/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"1e318312-3adf-493c-a203-f38a6dad20a2",
+			"316962cc-18cb-4724-b9b4-482fec8ef102"
+		]
+	},
+	{
+		"id": "6b11d341-87d6-4061-9ff2-3985bb79a9e9",
+		"prefix": "PK/DP/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2a4d14ba-01bb-440e-861c-0d603155c62b",
+			"a3dee673-2854-44f8-9335-f3e3c72cef11",
+			"f6408531-5429-4636-b71e-2dcc002b6e4a",
+			"9931b0c0-b458-4c57-829e-243b2b0b7882",
+			"e9e5f062-33c5-4d4e-bfc4-c6ffad39013a",
+			"4a7aa875-96d6-43d1-8338-be823e8e2125",
+			"1432a91a-ff6c-4127-ba2c-8c21bca0aaf4",
+			"694115ed-afb6-4520-a776-3d41695fe925",
+			"691880b0-980b-4477-bde2-c09e73638512",
+			"eea3e62b-ee1a-4944-aa0f-8ed0170df6b6",
+			"b6a74441-9d2d-40a5-9982-125191ce1920",
+			"b65eafa0-fdaa-4855-bc54-f7e62f206374",
+			"3bb5c7db-b01f-4fe3-b677-99253280273e",
+			"90b0d350-8346-4648-9870-bca6c7afd9b0",
+			"db6621f9-61ea-4aef-a1d5-c0e501e947d5",
+			"82458fe6-bc7d-4bd9-8089-6817283958f9"
+		]
+	},
+	{
+		"id": "87018830-27b4-4cb0-8b9b-fe52f1167679",
+		"prefix": "PK/DP/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"629ef8f0-13a6-4dde-820b-9210f02f89aa",
+			"4c3c6ec8-ff50-4ca5-8f83-b0e1a3fff31f",
+			"7adc41aa-ae5f-4d14-8e7b-94bfeaf58d4d",
+			"92d97103-a268-4ae4-a889-aaed4020c154",
+			"aeaaf692-bbff-42f0-9401-12301719e4fb",
+			"fea6c1d0-abc9-4200-8a6e-7aadcd30c25d",
+			"4f729dfc-3f28-48b9-b174-a7b218c560a9"
+		]
+	},
+	{
+		"id": "74d305a7-7edd-4bc9-a20c-03b685c01634",
+		"prefix": "PK/DP/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"6e67fd94-bd47-4182-96e6-dfb161628614",
+			"dcee56c9-c453-4417-9405-e7dd5422dc55"
+		]
+	},
+	{
+		"id": "22a0daba-d2a7-4e3f-8914-1653977e6396",
+		"prefix": "PK/EO/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b227b685-80f1-4364-a278-a7a3f29d7c91",
+			"2e8bb199-e566-4272-93ff-41cfb7d8b8bf",
+			"4bb1a1a9-4545-4d50-93fc-8381b99706c0",
+			"e18c9fa5-df9e-458a-8f84-9f293c5e31ad",
+			"0af4f1cd-4d9b-443d-a32c-90c42ed644b4",
+			"b2ecd2cc-296c-40cc-82fe-91a6c5e0b59d",
+			"7214f22f-f62f-424e-b7d7-a3234951587f",
+			"afc0d912-3a7e-4046-8abf-d57d1f7424bd",
+			"00873621-9274-4f61-849e-4570493879b3",
+			"c597c9f4-8b59-47cb-8e63-16aa6f35280b",
+			"32566a8f-78c4-4b4d-a669-f209eca2e7d5",
+			"1b47b673-3538-42f4-b411-54bd32c8ebbf",
+			"e6c6f10e-b539-432f-90eb-9ea707c2c3e0",
+			"fee149e0-e597-4b93-8719-606b46fe9c04",
+			"1129d05a-242a-4456-b22b-968ff890a316",
+			"c9ec9896-6b68-4357-b3da-bd425ba5aaaa"
+		]
+	},
+	{
+		"id": "faa57ae7-c1ea-4032-8d0f-e159a1f83ea2",
+		"prefix": "PK/EO/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7f902699-32df-46da-a671-51d4a09a90d8",
+			"a4252359-96a7-4bea-b4e3-5d99259b2522",
+			"e32c5ef2-890f-4de5-aa56-c4d577003264",
+			"d0463d7e-8255-4f51-a0df-b30c9254a454",
+			"2643a5be-d377-42c2-84f1-1a3c99bc6a67",
+			"6812c2c5-193f-489f-aa12-32657e6f9104"
+		]
+	},
+	{
+		"id": "c62b05d6-fff1-42f1-99b7-ddfa6758e6da",
+		"prefix": "PK/EO/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c08c48f7-1a63-4316-bad1-8bd18be8c1fc",
+			"51b9844f-acfb-45e4-8c6c-4658b5a28fdc"
+		]
+	},
+	{
+		"id": "dda45b2e-8564-4df9-87d7-b01b938e85e5",
+		"prefix": "PK/GR/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b15ffb57-4686-4ca0-85dc-c865c418bcab",
+			"050011cf-51d5-4888-82c9-ca0cc2420190",
+			"8856a172-5ee7-4b85-add3-c319bd157e15",
+			"af5b3b14-192e-43fb-8dae-e6b3a2c8428c",
+			"5cf52d8c-6d94-4f5a-8763-2bc08d9353c0",
+			"50e062b9-aae9-4ab9-9eb6-21e2eb93b0ed",
+			"3891d323-b5bb-42c9-a507-42ad1ad3c73b",
+			"5f13468f-6556-42d9-b3b4-70ec1b26343b",
+			"54b8ddee-53a1-445c-a19d-6e495ee63383",
+			"6140726c-6a3a-4201-9a01-d55f674b96da",
+			"716ac0f1-a95f-4cc6-927f-9e50a8c59e86",
+			"6682b20d-a508-49bc-9040-eff371cab10c",
+			"129bb140-df20-413b-9008-8925f984f0cf",
+			"f9d937bb-27be-4224-8ee9-4773e502fb13",
+			"b69f6d0d-6b18-4132-a9e7-fa6b8c92a824",
+			"8cb69755-7497-4d2d-9450-58f7e3701858",
+			"961a2b6d-a958-498e-a114-0cd46f610fc9",
+			"85f776af-0a96-4922-a6d9-7a3120780f04"
+		]
+	},
+	{
+		"id": "87519d17-030e-4a9f-b07b-425c89c6e1bf",
+		"prefix": "PK/GR/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d3798c8d-399c-415a-bb33-2021d4915374",
+			"5609c1c7-c43e-42b3-9f16-3a831554f0ef",
+			"613771d0-d72a-4ecb-8a66-da661e32a0e5",
+			"6735ac2e-bf6f-4f01-b5cd-92b7a821ea6c",
+			"62ae0a0c-5d41-4b8c-b916-64fe899fa1e9",
+			"fa1f24cb-2c89-4359-b651-6a7a826dadd2",
+			"256d87eb-34dc-42b4-b5ef-a09e9ef932df",
+			"d82c0b9c-6ae3-4d61-ab5f-7d9be0291f04"
+		]
+	},
+	{
+		"id": "37c17fd4-f4be-4c04-a9cf-53fb9b44ba57",
+		"prefix": "PK/GR/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a551fb0d-5648-4202-831d-6b6e9ee265f6",
+			"cc9ca074-389f-4cda-8229-983c242fded8"
+		]
+	},
+	{
+		"id": "cf66dc30-97c3-4184-a6ab-ff6501333355",
+		"prefix": "PK/HBR/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"334284a9-0d7a-4940-a766-644eec19dec1",
+			"57e78470-dc5e-4a70-b8c0-419f267f987c",
+			"71e3d580-14f9-42c1-8330-99e28727645e",
+			"b5922d8a-5d90-40a5-a200-41b67e8d3f15",
+			"d7b09c1f-6313-450e-8f7a-2d19bdba70d3",
+			"113ba54b-9f5e-4f92-85c1-ecbd05357184",
+			"13b6c4fd-822a-47d8-88e3-fb3737295f29",
+			"97967ff2-e9fd-4d43-9d80-8930185bae16",
+			"48feee35-560a-4d34-b94b-71ff7f2bc53a",
+			"b3cdee5c-f5d8-471b-9398-ee7e94236515",
+			"f0d2a042-9fc1-4b9f-bb5b-5849d24bd4eb",
+			"4f7942c6-927f-412b-ad92-ab097ce30b64",
+			"89ebd82b-1781-42f9-8fea-b739988be685",
+			"fe1733f2-96d2-4cb6-915a-62769d7e153a",
+			"3db82240-4f50-43b7-ae00-e03ef2be67e2",
+			"db9dc0c2-c353-4f25-b94e-b2fe91f03eb0"
+		]
+	},
+	{
+		"id": "7d2ce942-9f6b-4c23-9046-e10e3d8568bb",
+		"prefix": "PK/HBR/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c539577b-cdef-4b80-87b3-99703ecbd6b3",
+			"a097162f-c3ba-4a1e-9eb7-054633f8449e",
+			"a2d9c261-f38e-4113-accc-be394a7e6f0f",
+			"4e0b715b-069a-4cfb-a5a6-846121169b25",
+			"b2ae2576-0e09-4918-b61d-0fcfa0ee81cd",
+			"dc883eb0-bab7-4ef5-b04b-ac040ebac7d9",
+			"a6a2ff4b-be6d-4489-bac8-769e068e7ab6",
+			"3798682f-475a-4d51-ae1e-0cd2b7e37817",
+			"5f603b4c-8b73-4454-945f-08c5c620e65f",
+			"b2683457-7422-43e1-9160-f8afa1ed1e51"
+		]
+	},
+	{
+		"id": "75b3687d-76f3-4785-8efb-f9f268169fb0",
+		"prefix": "PK/HBR/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"eedb9259-39c7-4a48-8ac0-b098c725da14",
+			"42153110-37ce-4c1d-b14b-5eb6268d8bfb"
+		]
+	},
+	{
+		"id": "1dee2e41-60d1-437c-8c18-363bc2f5f8a2",
+		"prefix": "PK/MT/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f07d9e65-35f4-47a4-bf80-f55b02a3cc29",
+			"94ac3e97-8ee5-4271-9db7-e10b8edf0780",
+			"2cd040d4-2ed3-4b08-9ee1-4bed84f949ef",
+			"f60f1b32-aaf3-4c9c-b7d5-dd793891423f",
+			"30ed8278-3409-4b78-adfe-6724ba5b38e1",
+			"a89c8e59-95e7-473d-b3c2-97ab8ac476a7",
+			"4b8728bc-922c-4432-b5d0-7c4d463a80f2",
+			"fc965fa9-a30c-49a1-a31a-b1c14e31ac10",
+			"a07e543d-c45e-4de5-a946-ff67118bf9b4",
+			"2ce40ba7-6a3f-4d89-a703-9507accd893c",
+			"6877caa8-8de1-45f1-96d1-633721f30105",
+			"ac2ebe3f-8553-42e0-89d4-3857cbf90944",
+			"b42d3e07-a002-45d7-bf63-60552dff16c3",
+			"21cc30ab-de67-4a01-a1cc-5f3b70157125",
+			"9de38d21-c3ee-4467-9bda-de3c54f32029",
+			"d2cebd3c-9ec6-4590-8247-0397cc9c116a"
+		]
+	},
+	{
+		"id": "84ac6650-819b-45b4-b112-5d076349a4e1",
+		"prefix": "PK/MT/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b111c047-8fdf-4b17-9d7d-d09c73c36d74",
+			"664b5acb-b26d-4af9-96c0-88db2a3ae32a",
+			"8392be1f-43e9-491a-bca2-e71902014756",
+			"f5528aff-fabe-4b2e-b5de-96d876e0b680",
+			"17bc6bed-48ac-4719-ad3a-5c2a44ccf21f",
+			"a2fe0f6b-07c3-4379-a73b-75ccfacd88d4",
+			"0e280dd0-c254-454b-a7c0-c540d29291cb",
+			"79093c4e-826e-48ee-baec-b59282baba18",
+			"bae298d7-253f-4899-b498-fe811f2f47c8",
+			"7b3109ad-d379-4e98-9427-af90e5a9b627",
+			"d8201c81-c180-4f84-9ca6-6af408b32426",
+			"73ec453d-0c97-4acf-8d49-03b9dfc321ba",
+			"b8f0e34d-b4da-4c83-b2af-30736a4249a2",
+			"b0963104-a8d7-4a13-ab41-29f6c0d72c78",
+			"1cb7b538-6d99-463e-8cf6-7f6430c12b05",
+			"cae99c91-c289-4f3b-a474-fd66bd8bf1f5",
+			"53313c0f-12d9-4d56-9c72-799f9d8b444a",
+			"11108aab-a5e1-4891-a6d4-bf528c2cf985",
+			"3b4e8b67-289d-4270-8c41-fb3bb1f3964c",
+			"fab015a1-1e94-412b-8721-312b229d9d1e",
+			"2710d67c-4de5-49df-9840-9ff50cecec98",
+			"20d4081b-bdcd-4147-8db5-ec20f8e15264",
+			"f42546df-719b-4ae1-a5ec-46bb72057536"
+		]
+	},
+	{
+		"id": "e0e00c3c-7330-4ed3-9da7-878ec1e4f6e3",
+		"prefix": "PK/MT/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"52359ac5-6b26-43c1-9ba8-268af986d2d6",
+			"fa5c387f-1818-44dc-8915-e8281dc13aad"
+		]
+	},
+	{
+		"id": "85a11ee2-b2a2-475e-958b-1442323b4c37",
+		"prefix": "PK/MVI/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"9915ba38-47b2-4d8b-9928-a1c71a7617a0",
+			"7c7f6a18-4b72-479a-bb7d-815a6f6e63d6",
+			"b0ee843d-6ed0-4b49-adc3-4e910a8a6abf",
+			"cc9cb544-1f92-4cd1-95b4-6fc3aa3c0ca8",
+			"7337ae01-9a84-4641-9fb7-633fd5f28df1",
+			"885221d6-53c8-4f78-a0da-f0cd455181dd",
+			"4501b156-e2e4-4446-8755-6e26f6d20a16",
+			"8ae1c028-548e-4fba-83bb-31ea5c1410ad",
+			"cade7c12-4c9e-441e-beb0-ecb1739e45c7",
+			"a30e44c4-6015-419e-a842-a2232054d9d5",
+			"4b8c45c2-1ab6-45e2-b8b9-566e20a4a024",
+			"01f83b0b-1e7c-4b82-885a-06d8ee417110",
+			"fae03d0c-e6ea-4a54-a2c8-25a0c395f96d",
+			"79785e40-987e-4235-930f-d9def984a00e",
+			"90d5a42a-d225-479f-8609-7d7f26e8859e",
+			"9e8b6233-f217-443c-9e17-9226fe9082be"
+		]
+	},
+	{
+		"id": "a01bd5f9-ec30-4c30-847a-2c62700198b4",
+		"prefix": "PK/MVI/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b6f03dc2-d4b9-4a3b-bd27-8e2d28bfdeef",
+			"baf34c43-121c-42f4-89b3-ebdb7612cc00",
+			"b797d26b-f0c2-4482-aecf-566b82fcb066",
+			"66bc53a6-8a89-436d-853c-caf853e298e9",
+			"709cefd2-61af-4050-ab52-07854b665865",
+			"0d36f885-1d97-4d11-8c03-ef9fbe41ce4a",
+			"73c9b08f-b8a9-4987-b028-26555635d72e",
+			"537e5a33-e39a-46ab-b6fa-17255c70442f",
+			"de1873bc-ba7b-48a8-bfb8-821b56eb98b9",
+			"7c536140-0838-456d-8404-69c6bc6ef27b",
+			"12d9cadf-4dc8-42e4-b055-a15c361cba07",
+			"1d7cb9bd-f1cc-40ac-8db9-1aeeecc2602e",
+			"3e74e880-02b4-4465-a453-3e44e5f34c65",
+			"c841ff19-547d-4c14-abb3-a98c0ef9805e",
+			"96751aa8-163e-4783-8635-a4788a0fec51",
+			"d83da7e5-3891-4f67-bce0-cfa332046e6e",
+			"a1b0c527-7ee1-46a5-9bee-d06c122c576f",
+			"effc337b-f71e-470c-9595-eef0300fba33",
+			"7651a4c5-cc57-4e35-b7ce-805478581fd8",
+			"c16fdb59-a600-4639-9abf-165af16e69fc",
+			"fc3e969f-ecd4-4626-b1c1-3aaef1d9efef",
+			"2bae8021-9451-425d-ba7e-fef5d54ab1ee",
+			"b0425f4c-3e4f-4dd1-998a-cbc28b0e771a"
+		]
+	},
+	{
+		"id": "394601be-ce48-4b65-a724-1279a7626630",
+		"prefix": "PK/MVI/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"0c0c5092-b904-4a34-93e0-78da7538096e",
+			"d98adc16-f709-42b2-9c93-4db0cc595977"
+		]
+	},
+	{
+		"id": "3ae58713-83a2-4d70-b7dc-e70a76109f4e",
+		"prefix": "PK/MET/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"65d105e9-0f39-43d6-8181-4709d5f566be",
+			"ddfe9a28-fb33-49ac-9a80-d9461526516c",
+			"ae0525e4-68f6-45ac-a273-584b71030a1c",
+			"d5baceaa-c867-4e7a-ac7d-78861fd602bc",
+			"09b7f8e8-238a-4895-9e45-7398662ac14e",
+			"7692013e-b156-4b40-bfd2-d03d519e9aaf",
+			"72e5a4a5-934a-420c-a7e0-7496f7fbdd04",
+			"5506636f-3dce-4777-8ac8-9f5bfa7af64d",
+			"3972ac88-5667-4003-870b-96dce5665fdc",
+			"687e0535-8161-4d20-b7da-ab215f8bfd49",
+			"98d97511-52c1-42d6-92e2-a7e5a6f3202c",
+			"26083fe5-ebbe-4e19-bccc-1f4e939695a0",
+			"e01165cc-5ca8-4626-be9e-7c343a882079",
+			"25302cc7-81e4-456d-8662-271fb893545e",
+			"aca0041e-0296-498e-bfd2-3e69fc8c08ac",
+			"1cd891e6-ad53-45cf-9c7e-435670827e7e"
+		]
+	},
+	{
+		"id": "895e867c-20d5-4431-bf28-8165e722c05c",
+		"prefix": "PK/MET/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d2b5cb4c-4ce7-4479-b63c-daa4832b02cd",
+			"2d0996e2-c9f0-47cb-a073-cdb283cf46d9",
+			"c01262fc-462a-4f4a-a174-5dfe6ab48450",
+			"c60e31fc-4b4b-47ee-8c31-4b3bc33bd42b",
+			"bff58e0c-60ec-4a97-97f0-c6db9c1fa706",
+			"559a1724-296c-4fee-a38c-81018ab00880",
+			"76c457f3-2a5f-42a4-bd74-c620b95c88f4",
+			"4911970a-0e25-47cf-a07b-d9c60c239529",
+			"2b4437f2-3607-43ce-8665-52132f1cde44",
+			"2c573299-8286-4714-84ab-f506e39ac2ce",
+			"3a30970d-1b2a-48f8-88da-54f61c8cfe36",
+			"cde96925-0579-4013-83b9-89f22eb25fb6",
+			"fac0f6fe-b847-46fb-91a6-b160697f888b",
+			"c5bc4fcc-88c0-4958-b923-bbadf02d981b",
+			"79ae0647-7826-4a76-9ff9-5a87378de7c0",
+			"37b0edf4-b83b-464b-bc9c-a68a60de5c90",
+			"7cb0251c-be5b-4394-a90c-9401289f0def",
+			"485855f6-f9ee-4aee-abc4-f317903119eb",
+			"d232b2f8-7f4a-4524-b265-2ea84b5ebdfe",
+			"d0bfc099-bd1f-4499-90dc-0cf78982ef81",
+			"d088782f-f206-429a-9607-d69a65616ecc",
+			"47688f88-8fe3-4fdb-b90f-1743f8b0460a",
+			"0d98d284-49bf-4789-8e2b-7eccaa5cba00"
+		]
+	},
+	{
+		"id": "02b299fa-f15e-4212-a522-500b24f4a722",
+		"prefix": "PK/MET/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"86928bc1-3618-4b03-9d0a-0d29f93d9a48",
+			"12fa7062-1bab-4aba-ad15-8bfe06dcf552"
+		]
+	},
+	{
+		"id": "ae21e010-ddf5-45b2-aef8-12fbeed883c4",
+		"prefix": "PK/PIE/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"0732f04e-dd0b-4333-899d-239a1e0885c7",
+			"1a5203d7-a455-4d23-93cd-7d4b7095e3a1",
+			"ab2f3513-e846-4480-b0b4-c5fa8435b580",
+			"43eacb9d-767d-41c8-8821-6c7dab5d3b33",
+			"d2f37548-46bc-44c8-a521-0a72d5dffb88",
+			"b5f0b02c-43a7-43a7-83f9-9a29677dbcec",
+			"7d4127b1-2f10-4524-aa03-47b8a856a4b7",
+			"0e7dd8a5-733a-4e20-965d-d1f611fab99b",
+			"d8854310-1854-4b9f-99fe-28d2c9ef07af",
+			"443794b7-8c8f-46b2-bd29-6b95ea3d2415",
+			"63e9b616-7018-469f-b9fd-c366a807c84f",
+			"8d2c541c-a508-4c28-8e47-68c6c9395eb7",
+			"47dba916-eaa5-476a-972f-6c358544ad18",
+			"0e836d1a-0c2a-476c-abf8-2fc13aee4266",
+			"c5dd51ae-d59a-427b-af5c-2fe16807eccc",
+			"a015d1da-dc38-4845-96ca-b5f63658560f"
+		]
+	},
+	{
+		"id": "6e970c94-172a-489c-95c0-5ffcd622cb03",
+		"prefix": "PK/PIE/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"cbf4161e-acfb-444b-9cab-175e9bd687d0",
+			"4e43ecef-6898-492c-a8fc-80a3193989b1",
+			"5ec9c10e-0158-47f4-bdad-5f086eae53b1",
+			"72f1ab58-af1c-4d47-baba-1b6481a4eac6",
+			"ecd22115-e683-4399-b1f8-0c6cf8de576c",
+			"25312939-4075-4bcf-9179-c6c9fc6c1d33",
+			"563c8c96-a98f-45c1-9e1a-dbc4d1537750",
+			"769c1ffb-1b81-4fb3-87fb-d968980c6135",
+			"bc60f9d2-f9c7-431f-be09-464232665e3a",
+			"62d012d0-e9e6-4a3a-b7ca-04df945e9419",
+			"c0784e93-a145-46aa-a358-b1065f2658f4",
+			"5842d30e-75de-49cc-a415-7b2b8f95eb1c",
+			"75efbc24-ea46-42dc-a50c-8a1c6f2c49c2",
+			"cd575280-d4da-40f0-86d8-1114c3248a0a",
+			"1b8c8123-04fe-4d1a-8308-ab5213f245e0",
+			"1048a4a3-5b24-470b-8892-d63a9f0118a9",
+			"911ba9b4-773d-409a-bee5-f1813d6d96ec",
+			"26b02831-b304-4c71-a99c-6397e210f1ab",
+			"ab94dd7b-cd0a-4781-94f0-8c2ad25cbb69",
+			"b6505192-7d79-40e7-a5d0-cf92faae3ffa",
+			"6d603aae-7a82-4ed1-9e18-5179e291013e",
+			"b9a97029-9517-44f1-98e1-672ca3fc8b73",
+			"6c570966-bdf8-4b79-8930-6b28c232f649"
+		]
+	},
+	{
+		"id": "234fefbd-0e1d-45e9-a4cf-604c0f074490",
+		"prefix": "PK/PIE/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5521c240-4c09-4e92-b065-d88f2858201f",
+			"acdfc19a-cbd3-4d18-918b-101d0739522e"
+		]
+	},
+	{
+		"id": "2155dbbc-d6ee-4c97-b665-0c4c33a5f8a4",
+		"prefix": "PK/ZW/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"feaa9459-7f52-44d1-afc5-522033465910",
+			"fdea4471-9d6a-42da-ba9d-dcee740f6ba7",
+			"515799eb-6b5b-43ce-aac9-e72c89bee4d2",
+			"999bfd98-a670-471d-99ba-2435db44c351",
+			"2ca52860-c69d-4784-875c-b62593a09b3a",
+			"241960b7-a62a-4e2f-9645-afe62f96df23",
+			"f086d4aa-1013-449f-8373-287a535f57fa",
+			"93fab3bd-fb37-40f2-9fe3-6f3eb94cd8c3",
+			"7c1ec62d-f27f-4d23-9ca6-4f8430506587",
+			"3ded1b54-34f6-4dd4-856b-b707ff3b10e9",
+			"4bddf853-805a-4c39-8294-491cea93bd61",
+			"3c4861a1-9544-4623-919a-cfa98c4f1e3c",
+			"525301a4-40d2-4024-924b-6e9276b54791",
+			"dd876a9d-f60d-4f5e-9774-89f39aee36c2",
+			"5aada3a7-d5fd-4f30-8f8a-bc1a2cf7e115",
+			"ffaf6f61-6ecf-473b-8e02-64e11fe0148a"
+		]
+	},
+	{
+		"id": "f6d5db4e-b438-4712-842f-2045df184cc3",
+		"prefix": "PK/ZW/b",
+		"title": "Professionele kennis en vaardigheden",
+		"description": "De kern van de vmbo sector Zorg en Welzijn bestaat uit drie te onderscheiden maar niet te scheiden aspecten: persoonlijk functioneren / werken met en voor de klant / werken in de beroepsomgeving (met 'de klant' wordt bedoeld: de cliënt, gebruiker, zorgvrager, hulpvrager)",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"733af88d-3c49-4985-853b-bf7a5b83a463",
+			"cfcfaf22-5574-4ab0-8465-7a4bab3c12d8",
+			"e9d06843-a377-4108-a39f-a0356e3ae015",
+			"c154a22c-8f8c-457c-9551-e7aceaa4bbb6",
+			"6be00213-12b3-406e-b463-9862baa8642d",
+			"f673a795-4d31-424c-8963-d8f696084974",
+			"98dd57a2-ed88-40f6-b456-30b241441927",
+			"157b90e2-5914-48d4-921a-9f5236db71d2",
+			"d0c992cc-1c37-49e5-a43f-a58d2f8dd80a",
+			"d6b1e778-31ea-431a-bc09-d73ccc9869e1",
+			"962d1c25-8112-4a08-a37f-9eeb94ed0f4c",
+			"c67ada08-c9d7-400b-aee2-8635ce231c85",
+			"9ddab3c5-4b7b-432d-bb32-c66b0b53c50d",
+			"d80a3dec-328d-4fdb-a9bc-a5031eef3e9b",
+			"fa8879a6-538e-4012-924c-227278b75b80",
+			"9716bf78-f21a-49de-9d5c-9b4aa8c8597b",
+			"7f504de0-1831-4582-9d20-04e1d2735a47",
+			"4070a481-7b8f-4b19-a7a4-70690b48ac1b",
+			"eefc045e-7b98-45bf-9518-844c36dccaf8",
+			"c815a6af-3a8b-44c8-8651-24249acfeafe"
+		]
+	},
+	{
+		"id": "f01d38fa-f769-42a7-b57f-4c386508522a",
+		"prefix": "PK/ZW/c",
+		"title": "Loopbaanoriëntatie en -ontwikkeling",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"bc4a6b1a-0134-4833-8930-cc046f7bf88c",
+			"1e528184-759c-4269-8e82-f2e7afcdf85b"
+		]
+	}
+]

@@ -1,1 +1,102 @@
-[]
+[
+	{
+		"id": "532886e3-3e8a-4dbb-8ed6-4fcd9fe1e137",
+		"prefix": "PK/BWI",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"80546a8d-a6dc-454b-8891-77ee07b69089",
+			"824362c1-c66d-422d-ae68-86127320a60d",
+			"6e9a2114-454e-43af-b42f-686acea6136c"
+		]
+	},
+	{
+		"id": "3656a3fc-7a0f-4421-a58a-06632e72f7e6",
+		"prefix": "PK/MDP",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"6b11d341-87d6-4061-9ff2-3985bb79a9e9",
+			"87018830-27b4-4cb0-8b9b-fe52f1167679",
+			"74d305a7-7edd-4bc9-a20c-03b685c01634"
+		]
+	},
+	{
+		"id": "d002a173-d7df-41ec-81a1-044618eade0a",
+		"prefix": "PK/MEO",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"22a0daba-d2a7-4e3f-8914-1653977e6396",
+			"faa57ae7-c1ea-4032-8d0f-e159a1f83ea2",
+			"c62b05d6-fff1-42f1-99b7-ddfa6758e6da"
+		]
+	},
+	{
+		"id": "971140ac-0de6-4afe-9861-3fad6c562779",
+		"prefix": "PK/GR",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"dda45b2e-8564-4df9-87d7-b01b938e85e5",
+			"87519d17-030e-4a9f-b07b-425c89c6e1bf",
+			"37c17fd4-f4be-4c04-a9cf-53fb9b44ba57"
+		]
+	},
+	{
+		"id": "4af006a2-49fb-4459-bc8b-36d7cd7e14ce",
+		"prefix": "PK/MHBR",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"cf66dc30-97c3-4184-a6ab-ff6501333355",
+			"7d2ce942-9f6b-4c23-9046-e10e3d8568bb",
+			"75b3687d-76f3-4785-8efb-f9f268169fb0"
+		]
+	},
+	{
+		"id": "ca2058ef-ed0c-4141-a8c3-e72e29cd71eb",
+		"prefix": "PK/MT",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"1dee2e41-60d1-437c-8c18-363bc2f5f8a2",
+			"84ac6650-819b-45b4-b112-5d076349a4e1",
+			"e0e00c3c-7330-4ed3-9da7-878ec1e4f6e3"
+		]
+	},
+	{
+		"id": "b9694e4e-fe39-4756-b8e6-8e6b7ce8e1fc",
+		"prefix": "PK/MVI",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"85a11ee2-b2a2-475e-958b-1442323b4c37",
+			"a01bd5f9-ec30-4c30-847a-2c62700198b4",
+			"394601be-ce48-4b65-a724-1279a7626630"
+		]
+	},
+	{
+		"id": "b41526d0-66c1-4348-8c40-5e49d1c182ef",
+		"prefix": "PK/MET",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"3ae58713-83a2-4d70-b7dc-e70a76109f4e",
+			"895e867c-20d5-4431-bf28-8165e722c05c",
+			"02b299fa-f15e-4212-a522-500b24f4a722"
+		]
+	},
+	{
+		"id": "27df5c1e-fd17-4d29-8179-92f409b60bb2",
+		"prefix": "PK/PIE",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"ae21e010-ddf5-45b2-aef8-12fbeed883c4",
+			"6e970c94-172a-489c-95c0-5ffcd622cb03",
+			"234fefbd-0e1d-45e9-a4cf-604c0f074490"
+		]
+	},
+	{
+		"id": "f214013c-ec76-49f1-b845-076deb0b8a09",
+		"prefix": "PK/ZW",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"2155dbbc-d6ee-4c97-b665-0c4c33a5f8a4",
+			"f6d5db4e-b438-4712-842f-2045df184cc3",
+			"f01d38fa-f769-42a7-b57f-4c386508522a"
+		]
+	}
+]

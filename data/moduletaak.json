@@ -1,1 +1,202 @@
-[]
+[
+	{
+		"id": "8c7ea2eb-3e79-498d-a792-b6390c1193ee",
+		"prefix": "P/BWI/01/MT",
+		"title": "Een kleinschalig bouwproject voorbereiden en het bouwproces organiseren / maatvoeren en uitzetten / profielen en kozijnen stellen"
+	},
+	{
+		"id": "5c9564c6-d450-43a1-b132-7478406cb234",
+		"prefix": "P/BWI/02/MT",
+		"title": "Een bekisting voor een strokenfundering en een ps systeembekisting maken / een halfsteensmuur metselen / isolatiematerialen verwerken / veilig werken op steigers en ladders"
+	},
+	{
+		"id": "8b80d719-f186-4cdc-ba42-e7ef7a1186f8",
+		"prefix": "P/BWI/03/MT",
+		"title": "Werkstuk met enkelvoudige verbindingen maken / hout zagen en verspanen met behulp van gangbare elektrische-, pneumatische- en niet-aangedreven handgereedschappen en houtbewerkingsmachines"
+	},
+	{
+		"id": "12f99d41-492f-4312-aaac-002cba5dd69b",
+		"prefix": "P/BWI/04/MT",
+		"title": "Een interieurelement ontwerpen / een ontwerp maken voor de afwerking van een interieurelement / een interieurelement maken / een interieurelement afwerken en decoreren"
+	},
+	{
+		"id": "b17ba9ac-fe86-4b10-98ec-18297fadcf2b",
+		"prefix": "P/DP/01/MT",
+		"title": "Een opdracht bespreken met de opdrachtgever, onderzoek doen naar de te organiseren activiteit en uitkomsten presenteren aan de opdrachtgever / een activiteit organiseren / facilitaire werkzaamheden uitvoeren / regelgeving op het terrein van veiligheid en milieu met betrekking tot de organisatie van activiteiten herkennen, benoemen en toepassen"
+	},
+	{
+		"id": "f0267de0-20f8-4178-968c-734bf2ddc5e1",
+		"prefix": "P/DP/02/MT",
+		"title": "Verschillende manieren van communicatie en communicatiemiddelen (her)kennen, benoemen en professioneel toepassen / een product of dienst promoten en verkopen / doelgericht informatie verstrekken en instructies geven"
+	},
+	{
+		"id": "ae6fa943-cf5c-4204-886e-9e4abcf19d82",
+		"prefix": "P/DP/03/MT",
+		"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 2D en 3D / een product maken"
+	},
+	{
+		"id": "b0abbf40-4a10-403c-ac44-09edbc0efc87",
+		"prefix": "P/DP/04/MT",
+		"title": "Aan de hand van een programma van eisen een digitaal ontwerp maken / een instructiefilm maken / een website ontwerpen en samenstellen / een applicatie ontwerpen en maken"
+	},
+	{
+		"id": "d9d5b850-c3da-475e-be8d-6064f4b65572",
+		"prefix": "P/EO/01/MT",
+		"title": "De retailormule en de marketinginstrumenten herkennen en toepassen ten aanzien van de doelgroep, het assortiment en de marktpositie / verkopen en afrekenen"
+	},
+	{
+		"id": "6599c2f3-b4d2-4a71-9f79-eaf2d371bc64",
+		"prefix": "P/EO/02/MT",
+		"title": "Secretariële werkzaamheden uitvoeren / backoffice werkzaamheden uitvoeren / frontoffice werkzaamheden uitvoeren"
+	},
+	{
+		"id": "5233d5a8-688f-4e1e-9761-11bb12f70df6",
+		"prefix": "P/EO/03/MT",
+		"title": "Magazijnwerkzaamheden uitvoeren (eventueel in gesimuleerde omgeving) ten aanzien van ontvangst en opslag van goederen / verzamelen, verpakken en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen"
+	},
+	{
+		"id": "9a2beeff-21fe-4bbe-8dba-451d7c01a675",
+		"prefix": "P/EO/04/MT",
+		"title": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de boekhouding van de (handels)onderneming bijhouden"
+	},
+	{
+		"id": "ed94955d-68d3-4ece-8f8c-41c3490059c5",
+		"prefix": "P/GR/01/MT",
+		"title": "Groene productie mogelijk maken: eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren / plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie gebruiken / bedrijfsmatig houden van productiedieren en hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid gericht op dieren en het productieproces"
+	},
+	{
+		"id": "44c9b1f9-84f6-4385-9e4c-1c20e38bed09",
+		"prefix": "P/GR/02/MT",
+		"title": "Voedingsmiddelen uit de groene sector adequaat en verantwoord, hanteren, verwerken, bereiden en bewaren / in de groene sector geproduceerde producten, sorteren, verpakken en transport klaar maken / een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending"
+	},
+	{
+		"id": "f99d2426-00c5-46c7-9d4c-39a069d9c0ed",
+		"prefix": "P/GR/03/MT",
+		"title": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren / een ontwerp voor een groene ruimte met planten en dieren realiseren / een groene ruimte onderhouden en beheren / anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten"
+	},
+	{
+		"id": "dd1362b0-d4f8-41b6-b46c-dbeb264b2ae5",
+		"prefix": "P/GR/04/MT",
+		"title": "In de groene sector: verschillen tussen winkelformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen / ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule / producten verkopen"
+	},
+	{
+		"id": "9a750049-90c8-4020-8ca0-d008aa511810",
+		"prefix": "P/HBR/01/MT",
+		"title": "Een bijdrage leveren aan de bedrijfsvoering binnen een Horeca-, Bakkerij- en Recreatie omgeving / een aangenaam verblijf en de verzorging van gasten / het uitvoeren van dagelijkse facilitaire werkzaamheden / het bereiden en serveren van kleine gerechten en drank"
+	},
+	{
+		"id": "c68c77be-699e-49c3-8471-526bb367d272",
+		"prefix": "P/HBR/02/MT",
+		"title": "Een bijdrage leveren aan het beheren en vervaardigen van bakkerijproducten"
+	},
+	{
+		"id": "22751ffe-f597-4c78-99c3-feadddb97fc4",
+		"prefix": "P/HBR/03/MT",
+		"title": "Een bijdrage leveren aan het beheren van horecaproducten en bereiden van gerechten in een horecagelegenheid"
+	},
+	{
+		"id": "f997a400-6acc-4670-aaf8-bdcfcddabe37",
+		"prefix": "P/HBR/04/MT",
+		"title": "Een bijdrage leveren aan de uitvoering van recreatieve activiteiten"
+	},
+	{
+		"id": "8c132679-8588-4f30-9286-4933f342547f",
+		"prefix": "P/MT/01/MT",
+		"title": "Maritiem vervoer onderscheiden, benoemen en verklaren / een presentatie geven over Nederland als maritiem land / assisteren bij laad- en loswerkzaamheden /communiceren en beroepsmatig handelen /ondernemend handelen"
+	},
+	{
+		"id": "57d84f61-5282-4b48-a175-ae5a2a97f4ba",
+		"prefix": "P/MT/02/MT",
+		"title": "Werken volgens de wettelijke voorschriften in de maritieme sector op het gebied van veiligheid, gezondheid en milieu / kordaat optreden in noodgevallen en bij calamiteiten / brandpreventiemaatregelen treffen / in geval van brand instructies opvolgen, brandbestrijdingsmiddelen kiezen en gebruiken"
+	},
+	{
+		"id": "1897a8a6-5d2e-4ceb-90b5-8fd7ecf6ff7b",
+		"prefix": "P/MT/03/MT",
+		"title": "Werkzaamheden aan een maritieme installatie en -uitrustingen voorbereiden / installaties op de werkplek herkennen, benoemen en gebruiken / een eenvoudig hydraulisch, pneumatisch en elektrisch systeem verklaren en demonstreren"
+	},
+	{
+		"id": "e3f3b6ce-7484-4a69-a997-1b83328f3231",
+		"prefix": "P/MT/04/MT",
+		"title": "Bijdragen aan de algemene technische veiligheid / onnderhoudswerkzaamheden uitvoeren / eenvoudige reparaties uitvoeren"
+	},
+	{
+		"id": "19c693d6-717d-4d23-bd28-db25b8273729",
+		"prefix": "P/MVI/01/MT",
+		"title": "Een audiovisuele (AV) productie van 2 tot 3 minuten maken van script tot film en deze presenteren / een AV animatie van 20 seconden maken en presenteren van script tot eindproduct / een fotoserie maken en deze presenteren"
+	},
+	{
+		"id": "71463c85-364c-4130-8e22-a6e0d97e0671",
+		"prefix": "P/MVI/02/MT",
+		"title": "Een 2D mediaproduct passend bij een doelgroep vormgeven, maken en presenteren / een 3D product passend bij een doelgroep vormgeven, maken en presenteren"
+	},
+	{
+		"id": "c2cff500-a228-4b1c-ac18-6a6aaa842ffc",
+		"prefix": "P/MVI/03/MT",
+		"title": "Hardware onderdelen demonteren en monteren, aansluiten en onderdelen vervangen / software installeren en veelvoorkomende problemen oplossen / een ICT-infrastructuur installeren in een gebouw / eindgebruikers informeren en adviseren over ICT-producten en het gebruik ervan"
+	},
+	{
+		"id": "ca7f90c7-fbb0-4a3a-a117-c499c147c84e",
+		"prefix": "P/MVI/04/MT",
+		"title": "Aan de hand van een thema een digitaal interactief product ontwerpen en maken voor verschillende soorten apparaten / een website ontwerpen en maken voor verschillende soorten apparaten"
+	},
+	{
+		"id": "3a177cfd-b6dd-45c8-abb7-9f8fe509120b",
+		"prefix": "P/MET/01/MT",
+		"title": "Motormechanische delen meten en testen / werkzaamheden aan een smeersysteem uitvoeren / werkzaamheden aan een koelsysteem uitvoeren"
+	},
+	{
+		"id": "1163172a-81ac-4a4f-9862-9e9ade949c8d",
+		"prefix": "P/MET/02/MT",
+		"title": "Wielophanging en veersysteem controleren, beoordelen en vervangen / banden en wielen controleren, vervangen, repareren en balanceren / delen van de carrosserie inbouwen, uitbouwen en afstellen"
+	},
+	{
+		"id": "9882da4d-86fb-40e9-b488-41c69948f8cf",
+		"prefix": "P/MET/03/MT",
+		"title": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen"
+	},
+	{
+		"id": "57a7c992-59eb-49e6-aee1-90bf5b144c7e",
+		"prefix": "P/MET/04/MT",
+		"title": "Een bedrijfsvoertuig veilig laden en lossen / een bedrijfsvoertuig vervoersklaar maken en een technische rijklaar-controle uitvoeren / een ritplanning en een routeplanning maken (nationaal en internationaal)"
+	},
+	{
+		"id": "cbb910a6-a792-434d-a282-264464ce3e8e",
+		"prefix": "P/PIE/01/MT",
+		"title": "Een ontwerp van een product maken met behulp van 2D en 3D CAD-software en de uitvoering voorbereiden / een ontworpen product produceren / een ontworpen schakeling beproeven / onderdelen uit het ontwerp samenstellen, monteren en aansluiten"
+	},
+	{
+		"id": "d1ffdbeb-71a6-44d0-8db3-c16f30b14503",
+		"prefix": "P/PIE/02/MT",
+		"title": "Producten maken door het vervormen en scheiden van materialen / onderdelen samenstellen aan de hand van een werktekening"
+	},
+	{
+		"id": "7318045a-1485-48da-8506-7a40cebe2839",
+		"prefix": "P/PIE/03/MT",
+		"title": "In een practicum een besturingsinstallatie opbouwen / in een practicum een regelsysteem opbouwen / in een practicum een domotica installatie opbouwen / in een practicum metingen uitvoeren, een verslag maken van de resultaten en deze presenteren / een automatische besturing van een proces opbouwen, aansluiten, testen, demonstreren en presenteren"
+	},
+	{
+		"id": "3e052cfe-dc01-4ad7-9f9a-15bfb8dab6ff",
+		"prefix": "P/PIE/04/MT",
+		"title": "Een sanitaire installatie aanleggen / een elektrische huisinstallatie aanleggen"
+	},
+	{
+		"id": "8d1ff8ef-9dfe-41ca-8878-5513f2127376",
+		"prefix": "P/ZW/01/MT",
+		"title": "Ondersteunen bij keuzes voor een gezonde leefstijl"
+	},
+	{
+		"id": "151d32b9-c860-4226-bf3e-510b2a33ef65",
+		"prefix": "P/ZW/02/MT",
+		"title": "Ondersteunen bij het creëren van een verzorgde, schone en veilige leef- en werkomgeving"
+	},
+	{
+		"id": "167caebe-46f2-401b-9e50-2adeeb79bfe3",
+		"prefix": "P/ZW/03/MT",
+		"title": "Activiteiten organiseren en begeleiden met als doel de klant te activeren"
+	},
+	{
+		"id": "16e3e11d-5e8e-425c-aa9f-d2e74e22900d",
+		"prefix": "P/ZW/04/MT",
+		"title": "Ondersteunende handelingen verrichten bij het zorg verlenen aan de klant"
+	}
+]

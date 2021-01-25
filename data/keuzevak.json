@@ -1789,5 +1789,20 @@
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"0e3d1be4-7af0-492b-b3a3-33c2bba98b33"
 		]
+	},
+	{
+		"description": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
+		"prefix": "K/GR/14",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"1a982f8a-613d-461c-b19b-ad2e89a26076"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"efc945af-bc48-4187-bc7b-3296714ada29",
+			"ce28f9d6-c124-422c-8447-59586ecfb1c3",
+			"a3a13b7b-98e8-4675-940c-6d44d8b0515d"
+		],
+		"title": "Actief in de natuur",
+		"id": "01f367b6-c8ad-461d-9444-dba1353f8e26",
+		"unreleased": true
 	}
 ]

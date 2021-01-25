@@ -1805,5 +1805,20 @@
 		"title": "Visstandbeheer en sportvisserij",
 		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14",
 		"unreleased": true
+	},
+	{
+		"description": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
+		"prefix": "K/GR/14",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"29b022be-b615-4844-a64e-12e91ca97b23"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"08840cce-210e-4efd-a5f6-6401bbe649a1",
+			"8250ff57-480a-4546-a047-21e133e3503e",
+			"aa075e24-28b0-4c1b-b306-c166c6d9b09e"
+		],
+		"title": "Actief in de natuur",
+		"id": "43d649b5-fbb4-44f7-9271-998bba546221",
+		"unreleased": true
 	}
 ]

@@ -19374,8 +19374,7 @@
 	{
 		"id": "46bd0d66-9e18-4625-b3d0-dfbb9db65fd6",
 		"prefix": "PK/MET/b-2",
-		"title": "De kandidaat kan relaties leggen tussen productieprocessen, technische systemen te weten input, proces, output en bronnen met name energie, materie en informatie",
-		"niveau_id": []
+		"title": "De kandidaat kan relaties leggen tussen productieprocessen, technische systemen te weten input, proces, output en bronnen met name energie, materie en informatie"
 	},
 	{
 		"id": "1b0971af-1f7f-4c5d-b4f8-30a1c89c62f8",
@@ -19390,8 +19389,7 @@
 	{
 		"id": "394057a2-b7c5-4031-bb88-6503a4034057",
 		"prefix": "PK/MET/b-4",
-		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie;Voorbereiden",
-		"niveau_id": []
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie;Voorbereiden"
 	},
 	{
 		"id": "d0eb1207-ecf8-4412-8bc8-a119fbcf3169",
@@ -25782,8 +25780,7 @@
 	{
 		"id": "2b790112-7f5c-4c5b-ac64-3b3ca1cf8d48",
 		"prefix": "PK/ZW/b-1b",
-		"title": "De kandidaat kan een relatie leggen tussen het eigen functioneren en welbevinden en eigen levensfase (reflecteren)",
-		"niveau_id": []
+		"title": "De kandidaat kan een relatie leggen tussen het eigen functioneren en welbevinden en eigen levensfase (reflecteren)"
 	},
 	{
 		"id": "1212d020-799c-4b9d-8d85-722ec3632ebb",
@@ -25798,8 +25795,7 @@
 	{
 		"id": "28e8bc1e-36aa-448f-85f1-e004e7bdd7a3",
 		"prefix": "PK/ZW/b-2b",
-		"title": "De kandidaat kan de eigen leefstijl omschrijven en aangeven welke keuzes hij/zij zelf maakt (reflecteren)",
-		"niveau_id": []
+		"title": "De kandidaat kan de eigen leefstijl omschrijven en aangeven welke keuzes hij/zij zelf maakt (reflecteren)"
 	},
 	{
 		"id": "5f6b83c9-02d9-4922-ac30-ef633eece24c",
@@ -29146,5 +29142,147 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/01-01",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een overzicht maken van mogelijke recreatieve activiteiten in de natuur, gecategoriseerd per doelgroep",
+		"id": "43c43c9e-746f-450d-9b25-0c1e4d115ab5",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/01-02",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan sportieve en recreatieve groepsactiviteiten voorbereiden",
+		"id": "c1c2efcb-7a9c-4a43-82ba-34e92a85de3f",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan sportieve en recreatieve groepsactiviteiten in de natuur op veilige wijze begeleiden",
+		"id": "34b695cc-308a-4feb-83c0-0306fdd6d493",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan instructies geven en deelnemers activeren en motiveren",
+		"id": "615f4225-8307-4377-be34-630d293fdaee",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/01-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan activiteiten uitvoeren en begeleiden, rekening houdend met de belangen van andere gebruikers van de natuurlijke omgeving",
+		"id": "dd95440d-2559-4a71-aea2-712b8159999a",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan ter voorbereiding op een recreatieve activiteit, deelnemers informeren over de gevolgen van wisselende meteorologische omstandigheden",
+		"id": "69a7382f-bfec-4db3-be16-74831a60393d",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan natuurkrachten onderscheiden en gebruiksmogelijkheden en gevaren daarvan benoemen",
+		"id": "2157a02e-a877-42c7-aea1-431e61dc07e9",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan tijdens begeleiding van een recreatieve activiteit, kennis over aldaar aanwezige planten, dieren en bodem overdragen op de deelnemers",
+		"id": "5febb958-cf64-45d6-8cb4-e7e8f9546342",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan wilde planten herkennen die te gebruiken zijn voor voedselbereiding of een genezende werking hebben",
+		"id": "743971a3-69f1-4b4a-9c76-fbe714491127",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan natuurlijk materiaal inzetten voor het maken van (gebruiks)voorwerpen en onderkomen",
+		"id": "5239f369-a805-4a9a-8aa1-0b56e4e5d53e",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/03-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan navigeren in de natuur, gebruikmakend van zowel natuurlijke als technische hulpmiddelen",
+		"id": "bb3c5b35-4275-43aa-9b06-25f257bc243b",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/14/03-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in het natuurlijk werkterrein onderhoudstaken verrichten ten behoeve van de recreatieve activiteiten",
+		"id": "a9b37278-e08f-45b3-8d07-f36d7483ee64",
+		"unreleased": true
 	}
 ]

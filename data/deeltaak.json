@@ -6649,5 +6649,41 @@
 		"title": "Uitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten.",
 		"id": "a7eae7e2-5d47-4f65-be46-7798305ac1e5",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/14/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"1101eb28-40be-46a9-93c7-8448f2643b98",
+			"7834e0ec-91c9-44bc-b731-468b8b07aaf2",
+			"a47781ab-098f-45dd-96f0-623db503363a",
+			"4f2eb720-53fb-4fb3-be15-8c4cdcc6e291",
+			"f8472b21-66ce-4e83-82d9-8b232abf5c35"
+		],
+		"title": "Recreatieve activiteiten in de natuur actief organiseren en begeleiden.",
+		"id": "08840cce-210e-4efd-a5f6-6401bbe649a1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/14/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fe6608a0-a2a4-46cf-b796-9934f1cb3803",
+			"125d96be-e3da-43cc-9560-4e382e995c63",
+			"e80a232f-892f-4d88-bbb2-20daf3b8702b"
+		],
+		"title": "Recreanten informeren over het natuurlijke werkterrein, haar uitdagingen en gevaren, en maatregelen noemen om (persoonlijke of materiële) schade door natuurkrachten te beperken.",
+		"id": "8250ff57-480a-4546-a047-21e133e3503e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/14/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c61d331b-adfb-4853-be80-437772da4a1d",
+			"01c6a86a-f183-498f-acc0-ba93d1546874",
+			"77711a5c-a792-4c7b-bd96-75793f3ae298",
+			"b9dee44b-c729-4b30-a50a-ae298774c35a"
+		],
+		"title": "In samenhang met andere gebruikers en beroepsbeoefenaren in de natuurlijke omgeving,  de natuur optimaal en duurzaam gebruiken.",
+		"id": "aa075e24-28b0-4c1b-b306-c166c6d9b09e",
+		"unreleased": true
 	}
 ]

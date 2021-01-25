@@ -29145,144 +29145,126 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/01-01",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een overzicht maken van mogelijke recreatieve activiteiten in de natuur, gecategoriseerd per doelgroep",
-		"id": "43c43c9e-746f-450d-9b25-0c1e4d115ab5",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/01-02",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan sportieve en recreatieve groepsactiviteiten voorbereiden",
-		"id": "c1c2efcb-7a9c-4a43-82ba-34e92a85de3f",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/01-03",
+		"prefix": "K/GR/15/01-01",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan sportieve en recreatieve groepsactiviteiten in de natuur op veilige wijze begeleiden",
-		"id": "34b695cc-308a-4feb-83c0-0306fdd6d493",
+		"title": "De kandidaat kan onderzoek doen binnen een plangebied met behulp van schepnetvissen, vissen met een zeeg of andere vistechnieken",
+		"id": "5cb9dd51-21ac-4be4-bc85-f22be115483f",
 		"unreleased": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/01-04",
+		"prefix": "K/GR/15/01-02",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan instructies geven en deelnemers activeren en motiveren",
-		"id": "615f4225-8307-4377-be34-630d293fdaee",
+		"title": "De kandidaat kan aanwezige vissoorten, waterplanten en waterorganismen inventariseren om het ecologisch niveau van een watersysteem te bepalen",
+		"id": "47aa1437-6664-493b-b68b-4df7220f1f5d",
 		"unreleased": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/01-05",
+		"prefix": "K/GR/15/01-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een onderzoeksrapport opstellen en belanghebbende adviseren over aquatische organismen en het ecologische niveau",
+		"id": "fa0f1f57-f58f-4bf0-9c4c-9f89518780d1",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/15/02-01",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan activiteiten uitvoeren en begeleiden, rekening houdend met de belangen van andere gebruikers van de natuurlijke omgeving",
-		"id": "dd95440d-2559-4a71-aea2-712b8159999a",
+		"title": "De kandidaat kan watersystemen herkennen en kan benoemen tot welk type watersysteem een vissoort behoort",
+		"id": "a647f7d8-9ff6-491c-8d6f-e022dc687150",
 		"unreleased": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/02-01",
+		"prefix": "K/GR/15/02-02",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan ter voorbereiding op een recreatieve activiteit, deelnemers informeren over de gevolgen van wisselende meteorologische omstandigheden",
-		"id": "69a7382f-bfec-4db3-be16-74831a60393d",
+		"title": "De kandidaat kan gangbare beheersystemen benoemen en herkennen in relatie tot de visstand",
+		"id": "4b121657-9db5-4fc9-a598-17cc851d3bc7",
 		"unreleased": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/02-02",
+		"prefix": "K/GR/15/02-03",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderzoek doen naar waterkwaliteit in relatie tot de visstand",
+		"id": "8d00944d-2a39-411f-b776-9869d8657f9a",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/15/02-04",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de relatie benoemen tussen sportvissen en de visstand",
+		"id": "306fc06b-60a0-48c1-88c0-048ed0acdc27",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/15/03-01",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan natuurkrachten onderscheiden en gebruiksmogelijkheden en gevaren daarvan benoemen",
-		"id": "2157a02e-a877-42c7-aea1-431e61dc07e9",
+		"title": "De kandidaat kan gangbare kweekvissen en de functies van viskwekerijen benoemen",
+		"id": "5a04a545-d049-4624-801b-3ca1ff3e07fa",
 		"unreleased": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/02-03",
+		"prefix": "K/GR/15/03-02",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de voor- en nadelen van het kweken van vissen benoemen",
+		"id": "db908b36-de57-4e23-9b61-929825cd9129",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/15/04-01",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderhoudswerkzaamheden inventariseren en voor deze werkzaamheden een begroting maken van kosten van de werkzaamheden.",
+		"id": "413f16dd-934d-43f1-80db-3a8c7151fe02",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/15/04-02",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan tijdens begeleiding van een recreatieve activiteit, kennis over aldaar aanwezige planten, dieren en bodem overdragen op de deelnemers",
-		"id": "5febb958-cf64-45d6-8cb4-e7e8f9546342",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/03-01",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan wilde planten herkennen die te gebruiken zijn voor voedselbereiding of een genezende werking hebben",
-		"id": "743971a3-69f1-4b4a-9c76-fbe714491127",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/03-02",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan natuurlijk materiaal inzetten voor het maken van (gebruiks)voorwerpen en onderkomen",
-		"id": "5239f369-a805-4a9a-8aa1-0b56e4e5d53e",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/03-03",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan navigeren in de natuur, gebruikmakend van zowel natuurlijke als technische hulpmiddelen",
-		"id": "bb3c5b35-4275-43aa-9b06-25f257bc243b",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/GR/14/03-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan in het natuurlijk werkterrein onderhoudstaken verrichten ten behoeve van de recreatieve activiteiten",
-		"id": "a9b37278-e08f-45b3-8d07-f36d7483ee64",
+		"title": "De kandidaat kan gangbare onderhoudswerkzaamheden uitvoeren",
+		"id": "46553d76-7eac-4f4b-bc90-c52372003551",
 		"unreleased": true
 	}
 ]

@@ -6605,7 +6605,42 @@
 	{
 		"id": "966eee0b-61ec-446e-9d8a-dbfc0a73b873",
 		"prefix": "K/ZW/13/03",
-		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)",
-		"examenprogramma_bg_globale_eindterm_id": []
+		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)"
+	},
+	{
+		"prefix": "K/GR/14/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"43c43c9e-746f-450d-9b25-0c1e4d115ab5",
+			"c1c2efcb-7a9c-4a43-82ba-34e92a85de3f",
+			"34b695cc-308a-4feb-83c0-0306fdd6d493",
+			"615f4225-8307-4377-be34-630d293fdaee",
+			"dd95440d-2559-4a71-aea2-712b8159999a"
+		],
+		"title": "Recreatieve activiteiten in de natuur actief organiseren en begeleiden.",
+		"id": "efc945af-bc48-4187-bc7b-3296714ada29",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/14/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"69a7382f-bfec-4db3-be16-74831a60393d",
+			"2157a02e-a877-42c7-aea1-431e61dc07e9",
+			"5febb958-cf64-45d6-8cb4-e7e8f9546342"
+		],
+		"title": "Recreanten informeren over het natuurlijke werkterrein, haar uitdagingen en gevaren, en maatregelen noemen om (persoonlijke of materiële) schade door natuurkrachten te beperken.",
+		"id": "ce28f9d6-c124-422c-8447-59586ecfb1c3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/14/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"743971a3-69f1-4b4a-9c76-fbe714491127",
+			"5239f369-a805-4a9a-8aa1-0b56e4e5d53e",
+			"bb3c5b35-4275-43aa-9b06-25f257bc243b",
+			"a9b37278-e08f-45b3-8d07-f36d7483ee64"
+		],
+		"title": "In samenhang met andere gebruikers en beroepsbeoefenaren in de natuurlijke omgeving,  de natuur optimaal en duurzaam gebruiken.",
+		"id": "a3a13b7b-98e8-4675-940c-6d44d8b0515d",
+		"unreleased": true
 	}
 ]

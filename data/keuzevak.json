@@ -1789,5 +1789,34 @@
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"0e3d1be4-7af0-492b-b3a3-33c2bba98b33"
 		]
+	},
+	{
+		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"prefix": "K/GR/15",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9d22d163-e54b-4185-b870-62daefeb5ba8"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"14a27178-8996-4594-ac37-835ad6de6ea5",
+			"82dd0599-1b2a-4645-b8da-52809ddecd8b",
+			"82c38468-71f9-4ef7-bdf0-fae13e494f89",
+			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
+		],
+		"title": "Visstandbeheer en sportvisserij",
+		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
+	},
+	{
+		"description": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
+		"prefix": "K/GR/14",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"29b022be-b615-4844-a64e-12e91ca97b23"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"08840cce-210e-4efd-a5f6-6401bbe649a1",
+			"8250ff57-480a-4546-a047-21e133e3503e",
+			"aa075e24-28b0-4c1b-b306-c166c6d9b09e"
+		],
+		"title": "Actief in de natuur",
+		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
 	}
 ]

@@ -82,35 +82,6 @@
 		]
 	},
 	{
-		"id": "6c57b253-59aa-48dd-b905-2e5babcd05fa",
-		"prefix": "GR",
-		"title": "Groen",
-		"examenprogramma_bg_kern_id": [
-			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
-		],
-		"examenprogramma_bg_module_id": [
-			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
-			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
-			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
-			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"d8978d84-4255-4bbe-8fab-2e6cac75d7ec",
-			"e15e151c-c490-4c9e-8050-1795fa2b0b47",
-			"a80d8918-34f5-4588-ab31-a597fc61c1b4",
-			"de2016c7-e10c-48dc-8e6a-343b277c1de0",
-			"762a08b2-cceb-42d9-bc6d-10c79247b51e",
-			"cc6059c2-b22b-484b-bbe1-491e65744bd7",
-			"095cf7a1-68d6-4b72-abd3-0eeccb84b3ce",
-			"0920dfd6-ffe5-43db-8f19-8090d372cc8e",
-			"d0c218ed-2649-40bd-8b5e-af850b64baa9",
-			"47d3d724-1116-4eaf-b604-2d06378e3600",
-			"f9ecfa81-8708-4bc1-a826-893089d406ed",
-			"95d29130-a495-4ac2-9b37-7c3b413ddb66",
-			"7b4dd57b-b384-42a1-bbb7-56603a98de9b"
-		]
-	},
-	{
 		"id": "a28cd5c9-d020-434a-a4dd-8a539fa35092",
 		"prefix": "HBR",
 		"title": "Horeca, bakkerij en recreatie",
@@ -281,6 +252,46 @@
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
 			"9962df41-0936-465e-9df4-e8d612fb5339"
+		]
+	},
+	{
+		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		],
+		"examenprogramma_bg_module_id": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"43d649b5-fbb4-44f7-9271-998bba546221"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
+		]
+	},
+	{
+		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		],
+		"examenprogramma_bg_module_id": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"43d649b5-fbb4-44f7-9271-998bba546221"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		]
 	}
 ]

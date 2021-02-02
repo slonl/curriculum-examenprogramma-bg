@@ -82,24 +82,6 @@
 		]
 	},
 	{
-		"id": "6c57b253-59aa-48dd-b905-2e5babcd05fa",
-		"prefix": "GR",
-		"title": "Groen",
-		"examenprogramma_bg_kern_id": [
-			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
-		],
-		"examenprogramma_bg_module_id": [
-			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
-			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
-			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
-			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"43d649b5-fbb4-44f7-9271-998bba546221"
-		],
-		"dirty": true
-	},
-	{
 		"id": "a28cd5c9-d020-434a-a4dd-8a539fa35092",
 		"prefix": "HBR",
 		"title": "Horeca, bakkerij en recreatie",
@@ -270,6 +252,46 @@
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
 			"9962df41-0936-465e-9df4-e8d612fb5339"
+		]
+	},
+	{
+		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		],
+		"examenprogramma_bg_module_id": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"43d649b5-fbb4-44f7-9271-998bba546221"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
+		]
+	},
+	{
+		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		],
+		"examenprogramma_bg_module_id": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"43d649b5-fbb4-44f7-9271-998bba546221"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		]
 	}
 ]

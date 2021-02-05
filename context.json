@@ -176,9 +176,17 @@
 					]
 				}
 			},
-			"required": [
-				"id","title","examenprogramma_bg_kern_id","examenprogramma_bg_module_id","examenprogramma_bg_keuzevak_id"
-			]
+			"anyOf": [
+                {
+                    "required": ["id","title","examenprogramma_bg_kern_id"]
+                },
+                {
+                    "required": ["id","title","examenprogramma_bg_module_id"]
+                },
+                {
+                    "required": ["id","title","examenprogramma_bg_keuzevak_id"]
+                }
+            ]
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma-bg/context.json",
@@ -206,7 +214,6 @@
 				"$ref": "#/definitions/examenprogramma_bg_kerndeel"
 			}
 		},
-
 		"examenprogramma_bg_moduletaak": {
 			"#file": "data/moduletaak.json",
 			"type" : "array",

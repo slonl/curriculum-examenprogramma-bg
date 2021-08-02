@@ -6678,5 +6678,43 @@
 		],
 		"title": "In samenhang met andere gebruikers en beroepsbeoefenaren in de natuurlijke omgeving,  de natuur optimaal en duurzaam gebruiken.",
 		"id": "aa075e24-28b0-4c1b-b306-c166c6d9b09e"
+	},
+	{
+		"prefix": "K/BWI/1.24/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a904cd56-2911-4652-9b59-0bc924316a09",
+			"85179902-803c-4a4b-856b-ebeb7aa60d9d",
+			"0eddc3f1-af77-4abb-8b28-004f61d3c644",
+			"d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5"
+		],
+		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en  bouwkundige oplossingen hiervoor presenteren.",
+		"id": "99adc334-71c2-4a1c-b40b-7d923d2e0990",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"91dcedb8-ad99-4cd2-9083-638240c993f0",
+			"4637fbd1-2f96-4b36-a76d-c57478fa307e",
+			"705cde32-2ab9-4fd9-bd21-931594a55e06",
+			"d9500b7f-f79b-4c82-b9dc-15a1d8fac34f",
+			"166da165-a506-4178-af7a-ef6a5d90ca3c"
+		],
+		"title": "Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige  woning en hiervan een maquette maken.",
+		"id": "3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a39cfe64-f952-4b1d-9868-bd559aa9ec85",
+			"90237718-dcad-4473-832f-1dea551d1bf1",
+			"4ad13b23-44d3-4570-b10c-822bd73d56b0",
+			"b16b6c43-a000-4da3-9789-e34b165dd263",
+			"63a9d899-7a40-4ec7-98f6-a2121dbf185b"
+		],
+		"title": "Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
+		"id": "8d429910-c9f5-44c8-90eb-3530fb8f1605",
+		"unreleased": true
 	}
 ]

@@ -30060,5 +30060,190 @@
 		"title": "De kandidaat kan het werk controleren, het meubel schoonmaken en opleveren.",
 		"id": "8c55792d-2475-44f9-9f6c-3fbbec51adb4",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen en laten zien hoe, met het juiste gereedschap en stofvrij, gewerkt kan worden.",
+		"id": "155d2bd2-5a03-4f00-bfb3-616dd9032381",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen en laten zien hoe ondergronden dienen te worden voorbereid en de juiste materialen kiezen.",
+		"id": "600e7ddc-40c7-4cfd-b14e-e1397a799279",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan ondergronden geschikt maken voor tegelwerk.",
+		"id": "aa466115-cd09-438a-bf05-f62093a411e3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werk voorbereiden voor eenvoudig wandtegelwerk.",
+		"id": "43261975-5449-4337-af68-df5510d69e6a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een juiste verdeling maken ten behoeve van wandtegelwerk.",
+		"id": "31fac227-f929-46b1-9514-fddcc7bfe88e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan lijm egaal aanbrengen op een voorbehandelde ondergrond.",
+		"id": "3a7347cf-7741-44fa-ab4a-910057875d51",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan wandtegels snijden en vlak en maatvast aanbrengen.",
+		"id": "18b5e6dd-104a-4e84-a2d5-71e8b5a00336",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een eenvoudige decoratie maken in wandtegelwerk en werken met diverse afmetingen.",
+		"id": "5999d972-cb85-4ea1-83a0-0df23fb2bc4c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een wand voegen en de wand schoon opleveren.",
+		"id": "b83d8162-ef91-42d9-9828-46b735bf71f4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werk voorbereiden voor eenvoudig vloertegelwerk.",
+		"id": "0968c382-abce-46d3-94f8-d47b1fcd0b27",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vloeroppervlakken voorbereiden en voorbehandelen.",
+		"id": "4e309a7b-3750-4547-86f3-d5ffb2419289",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mortel aanmaken en vloeren egaliseren ten behoeve van vloertegelwerk.",
+		"id": "2b245cf4-8e33-49ba-952a-04649228af97",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vloertegels snijden en vlak en maatvast aanbrengen.",
+		"id": "6b575746-bbca-4c8c-852f-862837fc48bf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een aansluiting maken tussen wand- en vloertegelwerk.",
+		"id": "09d57913-14cb-4e26-8e8b-46b2462073b7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een vloer invoegen en de vloer schoon opleveren.",
+		"id": "c51795e7-289b-4cc4-b3a6-ac5a0a680b9b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/5.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan diverse manieren van snijwerk uitvoeren ten behoeve van leidingdoorvoeren  in vloer- en wandtegelwerk.",
+		"id": "848f4cd7-b8a9-4076-bfcc-c49e4d35624e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/5.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan zelfstandig veilig en stofvrij met diverse snijgereedschappen werken.",
+		"id": "4f952b77-3000-4821-961d-5afd6631096f",
+		"unreleased": true
 	}
 ]

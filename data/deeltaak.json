@@ -6877,5 +6877,54 @@
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
 		"id": "40ab9ae9-50b0-442f-923d-374f666fdcd3",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"155d2bd2-5a03-4f00-bfb3-616dd9032381",
+			"600e7ddc-40c7-4cfd-b14e-e1397a799279",
+			"aa466115-cd09-438a-bf05-f62093a411e3"
+		],
+		"title": "Voorbehandelen van de ondergrond en veilig werken.",
+		"id": "11c746cd-0c12-43ba-a052-4427c585ba7f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"43261975-5449-4337-af68-df5510d69e6a",
+			"31fac227-f929-46b1-9514-fddcc7bfe88e",
+			"3a7347cf-7741-44fa-ab4a-910057875d51",
+			"18b5e6dd-104a-4e84-a2d5-71e8b5a00336",
+			"5999d972-cb85-4ea1-83a0-0df23fb2bc4c",
+			"b83d8162-ef91-42d9-9828-46b735bf71f4"
+		],
+		"title": "Uitvoeren van eenvoudig wandtegelwerk.",
+		"id": "9c85b60d-efa9-4f19-90ad-d2bc9be634e8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"0968c382-abce-46d3-94f8-d47b1fcd0b27",
+			"4e309a7b-3750-4547-86f3-d5ffb2419289",
+			"2b245cf4-8e33-49ba-952a-04649228af97",
+			"6b575746-bbca-4c8c-852f-862837fc48bf",
+			"09d57913-14cb-4e26-8e8b-46b2462073b7",
+			"c51795e7-289b-4cc4-b3a6-ac5a0a680b9b"
+		],
+		"title": "Uitvoeren van eenvoudig vloertegelwerk.",
+		"id": "d10bffab-f6b4-4724-9af0-4282458d5204",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"848f4cd7-b8a9-4076-bfcc-c49e4d35624e",
+			"4f952b77-3000-4821-961d-5afd6631096f"
+		],
+		"title": "Uitvoeren van diverse snijwerk.",
+		"id": "73a12178-f765-4518-9170-3e681bdc2b7d",
+		"unreleased": true
 	}
 ]

@@ -1242,5 +1242,12 @@
 		"prefix": "K/GR/14/KT",
 		"title": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
 		"id": "29b022be-b615-4844-a64e-12e91ca97b23"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.24/taak",
+		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en bouwkundige oplossingen hiervoor presenteren/ Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige woning en hiervan een maquette maken/ Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
+		"id": "c878f15a-7a65-4095-8ebe-d9e8da52db10",
+		"unreleased": true
 	}
 ]

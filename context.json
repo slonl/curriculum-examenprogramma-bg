@@ -157,6 +157,9 @@
 			"properties": {
 				"description": { "type": "string" },
 				"prefix": { "type": "string" },
+                "vakleergebied_id": {
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
+                },
 				"examenprogramma_bg_kern_id": {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },

@@ -29385,5 +29385,151 @@
 		],
 		"title": "De kandidaat kan in het natuurlijk werkterrein onderhoudstaken verrichten ten behoeve van de recreatieve activiteiten",
 		"id": "b9dee44b-c729-4b30-a50a-ae298774c35a"
+	},
+	{
+		"prefix": "K/BWI/1.24/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan informatie opzoeken over het ontstaan van geïnduceerde aardbevingen en de gevolgen hiervan voor het bouwproces en de waterhuishouding.",
+		"id": "a904cd56-2911-4652-9b59-0bc924316a09",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de schade veroorzaakt door aardbevingen herkennen en benoemen.",
+		"id": "85179902-803c-4a4b-856b-ebeb7aa60d9d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bouwkundige oplossingen onderzoeken om schade, als gevolg van aardbevingen, te voorkomen en te herstellen.",
+		"id": "0eddc3f1-af77-4abb-8b28-004f61d3c644",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kaneen presentatie maken en verzorgen over de gevolgen van aardbevingen en de bouwkundige oplossingen om deze gevolgen te voorkomen en de ontstane schade te herstellen.",
+		"id": "d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de bouwkundige oplossingen voor een aardbevingbestendige woning omzetten in een ontwerpschets.",
+		"id": "91dcedb8-ad99-4cd2-9083-638240c993f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een 3D CAD tekening maken van een ontwerp ten behoeve van een maquette.",
+		"id": "4637fbd1-2f96-4b36-a76d-c57478fa307e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van CAD werktekeningen maken voor een maquette.",
+		"id": "705cde32-2ab9-4fd9-bd21-931594a55e06",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een maquette van een aardbevingbestendige woning op schaal 1:50 maken.",
+		"id": "d9500b7f-f79b-4c82-b9dc-15a1d8fac34f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/2.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een 3D ontwerp en een maquette de bouwkundige oplossingen demonstreren om schade, als gevolg van aardbevingen te voorkomen.",
+		"id": "166da165-a506-4178-af7a-ef6a5d90ca3c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan beschadigde voegen herstellen door de voegen uit te slijpen, aluminium strips te plaatsen en opnieuw in te voegen.",
+		"id": "a39cfe64-f952-4b1d-9868-bd559aa9ec85",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan helpen bij het herstellen van de balkconstructie.",
+		"id": "90237718-dcad-4473-832f-1dea551d1bf1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan helpen bij het herstellen van gescheurde muren door de gescheurde stenen weg te slijpen en te hakken en nieuwe stenen in te metselen of steenstrips te plaatsen.",
+		"id": "4ad13b23-44d3-4570-b10c-822bd73d56b0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan herkennen en benoemen van de benodigde materialen en gereedschappen.",
+		"id": "b16b6c43-a000-4da3-9789-e34b165dd263",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.24/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan de werkplek opruimen en schoonmaken.",
+		"id": "63a9d899-7a40-4ec7-98f6-a2121dbf185b",
+		"unreleased": true
 	}
 ]

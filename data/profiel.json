@@ -311,5 +311,23 @@
 		"replaces": [
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		]
+	},
+	{
+		"prefix": "BWI",
+		"examenprogramma_bg_keuzevak_id": [
+			"22fc912b-1848-4641-8c3d-67ac55033247"
+		],
+		"title": "Bouwen, wonen en interieur",
+		"id": "746040a3-5625-4c78-bcd7-e4d56cabeb3e",
+		"unreleased": true
+	},
+	{
+		"prefix": "BWI",
+		"examenprogramma_bg_keuzevak_id": [
+			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
+		],
+		"title": "Bouwen, wonen en interieur",
+		"id": "746040a3-5626-4c78-bcd7-e4d56cabeb3e",
+		"unreleased": true
 	}
 ]

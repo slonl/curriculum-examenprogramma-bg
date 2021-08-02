@@ -1249,5 +1249,19 @@
 		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en bouwkundige oplossingen hiervoor presenteren/ Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige woning en hiervan een maquette maken/ Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
 		"id": "c878f15a-7a65-4095-8ebe-d9e8da52db10",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.25/taak",
+		"title": "Voorbehandelen van de ondergrond en veilig werken/ uitvoeren van eenvoudig wandtegelwerk/ uitvoeren van eenvoudig vloertegelwerk/ uitvoeren van diverse snijwerk.",
+		"id": "34af4d71-6f76-4701-b96f-16ec168eace6",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.26/taak",
+		"title": "Oriëntatie op het beroep van meubelstoffeerder/ Werkzaamheden voorbereiden voor het stofferen van meubels/ Meubels demonteren/ Vul- en bekledingsmaterialen op maat maken en aanbrengen/ Gestoffeerde meubels afwerken en opleveren.",
+		"id": "bb03e82d-20da-4f1a-a864-4803c23ec578",
+		"unreleased": true
 	}
 ]

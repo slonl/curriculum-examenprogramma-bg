@@ -29531,5 +29531,362 @@
 		"title": "De kandidaat kan de werkplek opruimen en schoonmaken.",
 		"id": "63a9d899-7a40-4ec7-98f6-a2121dbf185b",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen en laten zien hoe, met het juiste gereedschap en stofvrij, gewerkt kan worden.",
+		"id": "883b3c26-1c53-4586-a87e-4bf4cd82ec14",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen en laten zien hoe ondergronden dienen te worden voorbereid en de juiste materialen kiezen.",
+		"id": "df40238f-d288-4af2-a057-dacd1a244032",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan ondergronden geschikt maken voor tegelwerk.",
+		"id": "5a23a852-a4f0-4232-8eac-5e47c7fe2c16",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werk voorbereiden voor eenvoudig wandtegelwerk.",
+		"id": "8535f2e0-344d-4f57-92fd-1c1eabfd779c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een juiste verdeling maken ten behoeve van wandtegelwerk.",
+		"id": "f8b3407e-dce7-440c-a2d0-45636304d35e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan lijm egaal aanbrengen op een voorbehandelde ondergrond.",
+		"id": "6ef4da0a-a9bc-4500-a852-621e9025a5d6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan wandtegels snijden en vlak en maatvast aanbrengen.",
+		"id": "4ed7e86f-b2ac-44e0-a2e5-e83ec80d803a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een eenvoudige decoratie maken in wandtegelwerk en werken met diverse afmetingen.",
+		"id": "193dda88-3a25-452f-a0c1-f957168eb473",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/2.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een wand voegen en de wand schoon opleveren.",
+		"id": "a92385f0-5926-4eaf-9147-c8d738af0be4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werk voorbereiden voor eenvoudig vloertegelwerk.",
+		"id": "76167a31-e318-415f-86c8-3b4dd4a00a78",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vloeroppervlakken voorbereiden en voorbehandelen.",
+		"id": "9e2b0cfa-0eb2-4f85-ba71-6ca2e68af7c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mortel aanmaken en vloeren egaliseren ten behoeve van vloertegelwerk.",
+		"id": "eeba0e27-d2c1-4c0b-8a8a-f94946327a61",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vloertegels snijden en vlak en maatvast aanbrengen.",
+		"id": "06a0ee2b-bc37-4294-9bc4-8dd2a8bd6692",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een aansluiting maken tussen wand- en vloertegelwerk.",
+		"id": "10a7a8c8-984b-4196-9b06-d133ceff7442",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/3.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een vloer invoegen en de vloer schoon opleveren.",
+		"id": "944eaa3b-fdc5-4387-866b-b77f1240cbf1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/5.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan diverse manieren van snijwerk uitvoeren ten behoeve van leidingdoorvoeren  in vloer- en wandtegelwerk.",
+		"id": "e31a906d-f107-4b85-ad5e-289ef5e09161",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25/5.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan zelfstandig veilig en stofvrij met diverse snijgereedschappen werken.",
+		"id": "2f491b68-d079-41e1-930b-224003a635a0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan benoemen wat het beroep van meubelstoffeerder inhoudt.",
+		"id": "ae2799a9-1b55-42ef-8d47-f38094972ea5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/1.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen en presenteren wat het beroep van meubelstoffeerder inhoudt.",
+		"id": "098361a1-3b31-4b99-8f7a-051fded5ce69",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het werk voorbereiden, stoffeermaterialen, -gereedschappen en -hulpmiddelen benoemen, selecteren, controleren en transporteren.",
+		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van een snijplan bepalen hoeveel stof er nodig is voor de stoffering van een meubel.",
+		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een tekening projectiemethodes, normalisatie, schaalformats en materiaalsoorten uitleggen.",
+		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een meubel demonteren om opnieuw te kunnen bekleden.",
+		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan na het demonteren het restmateriaal op een veilige, milieuvriendelijke manier afvoeren of hergebruiken.",
+		"id": "c5047feb-6305-4041-84e8-0fc83c531b17",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de vorm van het meubel op de materialen meten en aftekenen.",
+		"id": "73a04ba3-e717-40de-8477-3bbf144969eb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan machines zoals snij-, knip-, en heftafels veilig bedienen en ergonomisch gebruiken.",
+		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het vul- en bekledingsmateriaal op maat knippen of snijden op een snijtafel.",
+		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de instelling van de machines aanpassen op soort en dikte van het materiaal.",
+		"id": "a3d1fe06-981b-4223-ac7e-70136b160505",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een elektrische naaimachine en lockmachine veilig en effectief toepassen.",
+		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van de opbouw van het meubel de stoffeerbasis aanbrengen.",
+		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/4.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vul- en bekledingsmateriaal met behulp van een mal aanbrengen.",
+		"id": "bca080ed-35e0-4a57-8b57-401f70b82770",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/5.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het meubel afwerken met afwerkmateriaal.",
+		"id": "6a571128-69de-4e36-b511-87e459e9117e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.26/5.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het werk controleren, het meubel schoonmaken en opleveren.",
+		"id": "a8ee82ce-7334-4d89-b2a0-911e589b953b",
+		"unreleased": true
 	}
 ]

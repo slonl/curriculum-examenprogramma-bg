@@ -1818,5 +1818,19 @@
 		],
 		"title": "Actief in de natuur",
 		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
+	},
+	{
+		"prefix": "K/BWI/1.24",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"c878f15a-7a65-4095-8ebe-d9e8da52db10"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"99adc334-71c2-4a1c-b40b-7d923d2e0990",
+			"3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+			"8d429910-c9f5-44c8-90eb-3530fb8f1605"
+		],
+		"title": "Aardbevingbestendig bouwen",
+		"id": "5a575e25-a677-44d6-be73-484cd17bec72",
+		"unreleased": true
 	}
 ]

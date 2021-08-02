@@ -1270,5 +1270,12 @@
 		"title": "Oriëntatie op het beroep van meubelstoffeerder/ Werkzaamheden voorbereiden voor het stofferen van meubels/ Meubels demonteren/ Vul- en bekledingsmaterialen op maat maken en aanbrengen/ Gestoffeerde meubels afwerken en opleveren.",
 		"id": "0b091ce9-d189-4572-a8f5-6f6f9ced0ad3",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.25/taak",
+		"title": "Voorbehandelen van de ondergrond en veilig werken/ uitvoeren van eenvoudig wandtegelwerk/ uitvoeren van eenvoudig vloertegelwerk/ uitvoeren van diverse snijwerk.",
+		"id": "9d8c2c8b-b0b8-4dcb-a89c-f6341c3f4b71",
+		"unreleased": true
 	}
 ]

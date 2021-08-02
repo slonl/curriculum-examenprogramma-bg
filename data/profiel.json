@@ -13,6 +13,7 @@
 			"c4aaca16-abd8-4600-9fca-eb62c8172f88"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"7a306034-33a8-45d6-bae9-291f7571e473",
 			"5a575e25-a677-44d6-be73-484cd17bec72",
 			"a968e63d-caf4-464f-a561-5fde942d84b0",
 			"763f57e1-533c-448a-aef3-9d76ba4e3c30",
@@ -311,5 +312,23 @@
 		"replaces": [
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		]
+	},
+	{
+		"prefix": "BWI",
+		"examenprogramma_bg_keuzevak_id": [
+			"22fc912b-1848-4641-8c3d-67ac55033247"
+		],
+		"title": "Bouwen, wonen en interieur",
+		"id": "746040a3-5625-4c78-bcd7-e4d56cabeb3e",
+		"unreleased": true
+	},
+	{
+		"prefix": "BWI",
+		"examenprogramma_bg_keuzevak_id": [
+			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
+		],
+		"title": "Bouwen, wonen en interieur",
+		"id": "746040a3-5626-4c78-bcd7-e4d56cabeb3e",
+		"unreleased": true
 	}
 ]

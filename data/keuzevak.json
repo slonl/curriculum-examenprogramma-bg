@@ -1879,5 +1879,20 @@
 		"title": "Meubelstofferen voor het vmbo",
 		"id": "7a306034-33a8-45d6-bae9-291f7571e473",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9d8c2c8b-b0b8-4dcb-a89c-f6341c3f4b71"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"11c746cd-0c12-43ba-a052-4427c585ba7f",
+			"9c85b60d-efa9-4f19-90ad-d2bc9be634e8",
+			"d10bffab-f6b4-4724-9af0-4282458d5204",
+			"73a12178-f765-4518-9170-3e681bdc2b7d"
+		],
+		"title": "Tegelzetten voor het vmbo",
+		"id": "f6fd9ceb-a5ad-4bc1-aebd-4fdd08ba9d18",
+		"unreleased": true
 	}
 ]

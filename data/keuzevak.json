@@ -1832,36 +1832,5 @@
 		"title": "Aardbevingbestendig bouwen",
 		"id": "5a575e25-a677-44d6-be73-484cd17bec72",
 		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/1.25",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"34af4d71-6f76-4701-b96f-16ec168eace6"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
-			"f9bffaad-bf29-4164-8d07-7f0f8c10162d",
-			"46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
-			"83cddf4f-083a-47ba-b3ff-550c4c415910"
-		],
-		"title": "Tegelzetten voor het vmbo",
-		"id": "22fc912b-1848-4641-8c3d-67ac55033247",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/1.26",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"bb03e82d-20da-4f1a-a864-4803c23ec578"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"33766062-ac78-454c-b7eb-75b5644085cb",
-			"28bcce62-44d5-46a9-b5a9-167189d69b9c",
-			"75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
-			"aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
-			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
-		],
-		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-		"unreleased": true
 	}
 ]

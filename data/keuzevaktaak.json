@@ -1322,5 +1322,17 @@
 		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid/ In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications)/ Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
 		"id": "f3b9dfee-b68f-4267-98a3-9705fd472e9c",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.27/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het vliegen met een drone in een beroepssituatie.",
+		"id": "ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e",
+		"unreleased": true
 	}
 ]

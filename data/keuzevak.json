@@ -1967,5 +1967,20 @@
 		"title": "Cloud en cyversecurity",
 		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"04531f55-147e-4f31-ba18-e7190939d4ac",
+			"416604ac-1329-491f-9457-ca59c9d1e0a2",
+			"4bca37a9-2d92-4110-bdd0-4cc7a1b46f87",
+			"346f29ca-7335-4a81-8ef5-24ec1da8efe1"
+		],
+		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
+		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
+		"unreleased": true
 	}
 ]

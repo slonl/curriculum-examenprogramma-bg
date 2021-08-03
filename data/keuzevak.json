@@ -1982,5 +1982,21 @@
 		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
 		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
 		"unreleased": true
+	},
+	{
+		"description": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever",
+		"prefix": "K/PIE/2.28",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"2185f625-4b84-41da-a5ea-678d23cabf46"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"e7a94b38-6766-4f4d-8f85-80b21f4027f0",
+			"eccc0103-d818-4dcf-80c9-2d4cf103bf7b",
+			"cd385697-979c-4182-b3a8-ad6c88a3c52a",
+			"1f31a952-cb74-4161-be7e-fb6c25f3029f"
+		],
+		"title": "Dronetechniek II: inspecteren met behulp van drones",
+		"id": "24471646-f67a-472e-8e66-6d6f365d7cda",
+		"unreleased": true
 	}
 ]

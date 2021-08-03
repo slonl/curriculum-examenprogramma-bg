@@ -30655,5 +30655,165 @@
 		"title": "De kandidaat kan bij het samenstellen van een compleet product gebruik maken van de juiste montage- gereedschappen.",
 		"id": "14a699bc-062b-4c4e-8195-ed12b11a8804",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de benamingen van de onderdelen en functies van de lasrobot noemen.",
+		"id": "95eda211-a131-4be9-800e-1af8bd5e564f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/1.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beschrijven hoe de lasrobot in de X, Y en Z-as moet bewegen en wat daarbij wel en niet kan.",
+		"id": "2105f727-ced9-4f8f-8975-c44c466602e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/1.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de veiligheidsaspecten die bij het werken met een lasrobot om de hoek komen kijken noemen.",
+		"id": "e06a8adc-02ae-463d-a62a-13b29dd67ec1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het lasproces starten op de lasrobot (G2/G3 besturing).",
+		"id": "d3e2b330-04e7-48a3-8bb1-6356288c41e1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een rechte las maken.",
+		"id": "804812f7-2467-4f84-af32-a36482d2a8a1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een hoeklas in meerdere lagen maken (recht en om een koker).",
+		"id": "858b9b07-fe02-42d9-8627-bc7da98461f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een hoeklas maken rond een ronde buis.",
+		"id": "f96826f1-b8ac-465d-b8d1-2850dc584963",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zwaaiend aflassen van een buitenhoeklas.",
+		"id": "07388630-8589-4191-9729-742a4130ea9b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/3.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een 3D tekening maken van een laswerkstuk.",
+		"id": "711a8cbb-449c-46b2-817a-f00997aed8f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/3.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de lasrobot offline programmeren.",
+		"id": "a89f742d-4fd6-41fa-afba-c0e0b8fdd2c6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/3.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een programma offline schrijven voor het getekende werkstuk.",
+		"id": "60340616-8376-4a91-9a22-08aa309a40ad",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/3.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan offline het werkstuk laten aflassen.",
+		"id": "f777c899-bf09-44eb-8739-7af15f5ea535",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/4.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan 3D tekenen op de PC.",
+		"id": "747ad647-93e9-4847-b0b0-a578067e973c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/4.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een lasrobot on- en offline programmeren.",
+		"id": "d0a02a2c-edd6-4166-a8ed-5dbe04515f5a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/4.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de geldende veiligheidseisen in acht houden.",
+		"id": "c4a24586-9ef8-4d93-9258-7b1c81a5f84f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/4.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan snel en netjes werken om tot een eindproduct te komen.",
+		"id": "d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80",
+		"unreleased": true
 	}
 ]

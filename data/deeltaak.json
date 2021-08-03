@@ -7036,5 +7036,53 @@
 		"title": "Verschillende machineonderdelen assembleren tot een pleet product.",
 		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"95eda211-a131-4be9-800e-1af8bd5e564f",
+			"2105f727-ced9-4f8f-8975-c44c466602e0",
+			"e06a8adc-02ae-463d-a62a-13b29dd67ec1"
+		],
+		"title": "Het besturen van de lasrobot met daarbij in achtneming de veiligheid van de lasrobot en de personen in de ruimte.",
+		"id": "bf2da18b-3511-4c66-bdc6-e7f37b5b9928",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d3e2b330-04e7-48a3-8bb1-6356288c41e1",
+			"804812f7-2467-4f84-af32-a36482d2a8a1",
+			"858b9b07-fe02-42d9-8627-bc7da98461f0",
+			"f96826f1-b8ac-465d-b8d1-2850dc584963",
+			"07388630-8589-4191-9729-742a4130ea9b"
+		],
+		"title": "Het laten programmeren en lassen van de lasrobot, zodat er met het MIG/MAG proces een las gemaakt kan worden in diverse vormen, soorten en maten",
+		"id": "297b8de7-d047-46ce-8376-c7482f71c611",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"711a8cbb-449c-46b2-817a-f00997aed8f0",
+			"a89f742d-4fd6-41fa-afba-c0e0b8fdd2c6",
+			"60340616-8376-4a91-9a22-08aa309a40ad",
+			"f777c899-bf09-44eb-8739-7af15f5ea535"
+		],
+		"title": "Een 3D tekening maken van een laswerkstuk en deze offline programmeren",
+		"id": "666d9602-efdb-446e-8819-1ba8db13682b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.24/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"747ad647-93e9-4847-b0b0-a578067e973c",
+			"d0a02a2c-edd6-4166-a8ed-5dbe04515f5a",
+			"c4a24586-9ef8-4d93-9258-7b1c81a5f84f",
+			"d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80"
+		],
+		"title": "Ter beoordeling een 3D laswerkstuk ontwerpen, zagen en in elkaar hechten en aflassen op de lasrobot, on- en offline geprogrammeerd",
+		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9",
+		"unreleased": true
 	}
 ]

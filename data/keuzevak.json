@@ -1715,7 +1715,7 @@
 	{
 		"id": "6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 		"prefix": "K/ZW/09",
-		"title": "Facilitaire Dienstverlening: inrichting en verzorging",
+		"title": "Facilitaire Dienstverlening: catering en inrichting",
 		"description": "eenvoudige dienstverlenende activiteiten verrichten",
 		"examenprogramma_bg_deeltaak_id": [
 			"f8f70b44-9ff5-43f5-87cd-f217cea88ddb",
@@ -1760,8 +1760,8 @@
 	},
 	{
 		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-		"prefix": "K/ZW/12",
-		"title": "Sport en bewegen",
+		"prefix": "K/ZW/6.15",
+		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [
 			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
@@ -1964,9 +1964,10 @@
 			"27a240e0-4770-47b2-be41-a48dc6c337dc",
 			"b85bf3cd-b331-43c7-9fde-7e25542b4b48"
 		],
-		"title": "Cloud en cyversecurity",
+		"title": "Cloud en cybersecurity",
 		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/2.27",

@@ -239,6 +239,7 @@
 			"212b4ac9-57c5-40b9-af5a-0b5782e56eb5"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
 			"770b962d-b46b-4668-89e2-2ac8f6ab5952",
 			"684d1888-fb0b-4d20-9e87-298e65f7e853",
 			"4573f49d-8569-48b5-8b6f-976fb76c4b4b",
@@ -260,7 +261,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"b8f15528-dedb-4db8-81ee-c820da8453bc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "a363d4e3-9296-468e-ad5f-7faf6c1c7518",

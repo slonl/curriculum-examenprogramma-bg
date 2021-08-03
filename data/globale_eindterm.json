@@ -31072,5 +31072,133 @@
 		"title": "De kandidaat kan (recente) cybersecurity incidenten interpreteren en in relatie brengen met clouddiensten.",
 		"id": "e2e724dd-a99e-48f3-8ee6-7b29af60b28d",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen uit welke (technische) onderdelen een drone is opgebouwd en kent de functie daarvan.",
+		"id": "5c605f9b-c013-4fd7-97cb-3787e48ad722",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de hoofdgroepen van drones (typen) en hun vluchtsensoren onderscheiden en kent de eigenschappen.",
+		"id": "a4e4cbf7-5889-4d79-a14f-1c3ea1e5ed97",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op basis van de eigenschappen voorbeelden benoemen van de toepassing van drones in verschillende (beroeps)situaties en sectoren.",
+		"id": "04a0ebab-8c92-497a-8ea6-a2b6edbd073a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de basis luchtvaart wet- en regelgeving die geldt voor het veilig inzetten van een drone noemen.",
+		"id": "e4447f89-3deb-45b5-b222-0e0596f7537b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de basiskenmerken van een vluchtlocatie in kaart brengen en risico's voor de vlucht benoemen.",
+		"id": "5ed40151-7da9-4494-8094-dfa552433f98",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de onderdelen van een vluchtplan benoemen en kan een pre-vluchtplan lezen.",
+		"id": "449dff9f-4b28-4322-bcdb-aa235d8d10af",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor de locatie van de vlucht zelf belangrijke informatie vinden.",
+		"id": "28204754-d762-4fb8-9ec4-89e31f4ad354",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een risicoanalyse uivoeren volgens het VMS (veiligheidsmanagementsysteem).",
+		"id": "6163f807-9781-4e98-a312-e48e750ee22c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een eenvoudig bestaand vluchtplan interpreteren.",
+		"id": "85b2f7e0-16f5-4047-b702-61fcd03e50d3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/3.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zelfstandig voor de locatie relevante informatie verwerken in een eenvoudig vluchtplan en dat toelichten.",
+		"id": "e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan een eenvoudig vluchtplan interpreteren en op basis daarvan een drone in de lucht brengen in een beroepssituatie.",
+		"id": "3d6bbbae-4716-416c-a27a-23d36e6efd88",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/4.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor de locatie relevante informatie verwerken in een eigen vluchtplan en op basis daarvan een drone in de lucht brengen in een beroepssituatie.",
+		"id": "970f2090-46ab-4fbb-bb7e-12763fbe18d2",
+		"unreleased": true
 	}
 ]

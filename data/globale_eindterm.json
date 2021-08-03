@@ -28137,12 +28137,13 @@
 	{
 		"id": "3088cd41-c1a3-4912-adfd-714dbcae3155",
 		"prefix": "K/ZW/09/04-01",
-		"title": "De kandidaat kan eenvoudige kassawerkzaamheden verrichten met name rekening maken, afrekenen en geld tellen",
+		"title": "De kandidaat kan eenvoudige kassawerkzaamheden verrichten, in het bijzonder een rekening maken, afrekenen en geld tellen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9a4c9856-0a8c-4c8f-8d72-42d31e0f514a",
@@ -28636,132 +28637,145 @@
 	},
 	{
 		"id": "765b2733-7092-4c70-a2d9-ceaeb081dfbe",
-		"prefix": "K/ZW/12/01-01",
+		"prefix": "K/ZW/6.15/1.1",
 		"title": "De kandidaat kan informatie verzamelen over sport en bewegingsmogelijkheden in de regio",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4632f4e5-6c06-4459-acc9-a7142f056433",
-		"prefix": "K/ZW/12/01-02",
-		"title": "De kandidaat kan de informatie presenteren",
+		"prefix": "K/ZW/6.15/1.2",
+		"title": "De kandidaat kan de informatie presenteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
-		"prefix": "K/ZW/12/02-01",
-		"title": "De kandidaat kan een bij de doelgroep passende sport- bewegingsactiviteit kiezen",
+		"prefix": "K/ZW/6.15/2.1",
+		"title": "De kandidaat kan een bij de doelgroep passende sport- bewegingsactiviteit kiezen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ff0e8849-9f9c-4e6c-91fc-0f21483dda71",
-		"prefix": "K/ZW/12/02-02",
-		"title": "De kandidaat kan een plan opstellen voor het organiseren van een sportevenement of toernooi",
+		"prefix": "K/ZW/6.15/2.2",
+		"title": "De kandidaat kan een plan opstellen voor het organiseren van een sportevenement of toernooi.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "df1e6e0e-624b-4be4-ae45-bf0177e87c57",
-		"prefix": "K/ZW/12/02-03",
-		"title": "De kandidaat kan deelnemers werven",
+		"prefix": "K/ZW/6.15/2.3",
+		"title": "De kandidaat kan deelnemers werven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3a117b67-85e3-4e88-890e-5a5e477d7091",
-		"prefix": "K/ZW/12/02-04",
-		"title": "De kandidaat kan deelnemers informeren",
+		"prefix": "K/ZW/6.15/2.4",
+		"title": "De kandidaat kan deelnemers informeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ca9da90b-8c84-4cad-acee-2d43b4a2ff96",
-		"prefix": "K/ZW/12/02-05",
-		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze uitvoeren",
+		"prefix": "K/ZW/6.15/2.5",
+		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "494263c1-b571-4eee-8192-98b2cc9ecd39",
-		"prefix": "K/ZW/12/02-06",
-		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze afsluiten",
+		"prefix": "K/ZW/6.15/2.6",
+		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze afsluiten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
-		"prefix": "K/ZW/12/03-01",
-		"title": "De kandidaat kan uitleg geven over sport- of bewegingsactiviteit",
+		"prefix": "K/ZW/6.15/3.1",
+		"title": "De kandidaat kan uitleg geven over sport- of bewegingsactiviteit.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "d2574650-1cae-4a9b-bff9-1b2f265fa312",
-		"prefix": "K/ZW/12/03-02",
-		"title": "De kandidaat kan een bewegingsvaardigheid voordoen aan de groep",
+		"prefix": "K/ZW/6.15/3.2",
+		"title": "De kandidaat kan een bewegingsvaardigheid voordoen aan de groep.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fe3d722d-4b9d-4824-ab69-5af1887d81d2",
-		"prefix": "K/ZW/12/03-03",
-		"title": "De kandidaat kan eenvoudige aanwijzingen geven aan de deelnemers",
+		"prefix": "K/ZW/6.15/3.3",
+		"title": "De kandidaat kan eenvoudige aanwijzingen geven aan de deelnemers.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ea40f557-099f-4028-8908-09c1d76ca64f",
-		"prefix": "K/ZW/12/03-04",
-		"title": "De kandidaat kan deelnemers voor de sport- of bewegingsactiviteit stimuleren en enthousiasmeren",
+		"prefix": "K/ZW/6.15/3.4",
+		"title": "De kandidaat kan deelnemers voor de sport- of bewegingsactiviteit stimuleren en enthousiasmeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7df9f06c-8688-44f8-8bb2-c727b423dd33",
-		"prefix": "K/ZW/12/03-05",
-		"title": "De kandidaat kan flexibel omgaan met verschillen tussen deelnemers",
+		"prefix": "K/ZW/6.15/3.5",
+		"title": "De kandidaat kan flexibel omgaan met verschillen tussen deelnemers.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4a4efc90-f2d5-49ce-ba5f-ff071088b22a",
@@ -28775,23 +28789,25 @@
 	},
 	{
 		"id": "5b6093d1-c764-4bb3-b4ff-e192609caf69",
-		"prefix": "K/ZW/12/04-01",
-		"title": "De kandidaat kan letten op de veiligheid van de sportaccommodatie zoals materialen, toestellen en apparatuur",
+		"prefix": "K/ZW/6.15/4.1",
+		"title": "De kandidaat kan letten op de veiligheid van de sportaccommodatie zoals materialen, toestellen en apparatuur.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "94bdcf24-810d-453e-a0d9-a0e0536f8a0e",
-		"prefix": "K/ZW/12/04-02",
-		"title": "De kandidaat kan in bewegingssituaties eenvoudige regels en afspraken maken die blessures helpen voorkomen bij sportief spel",
+		"prefix": "K/ZW/6.15/4.2",
+		"title": "De kandidaat kan in bewegingssituaties eenvoudige regels en afspraken maken die blessures helpen voorkomen bij sportief spel.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e361fa4f-c8a7-4c38-976f-2425dfa5e8d9",
@@ -31300,5 +31316,49 @@
 		"title": "De kandidaat kan op basis van de verzamelde data aan de opdrachtgever onderbouwd en begrijpelijk rapporteren.",
 		"id": "34724de1-7830-4a58-ba6d-2c649cde5f2b",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"id": "3eb39c2b-77fe-4795-802b-0e5e57e95a60",
+		"prefix": "K/ZW/6.15/5.1",
+		"title": "De kandidaat kan eenvoudige sportmetingen uitvoeren en aflezen zoals loopsnelheid, lenigheid, armkracht, sprongkracht.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"id": "f5ea66b3-9d48-4d07-8076-9fd484273f11",
+		"prefix": "K/ZW/6.15/5.2",
+		"title": "De kandidaat kan assisteren bij een warming up en cooling down.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"id": "e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
+		"prefix": "K/ZW/6.15/5.3",
+		"title": "De kandidaat kan advies en informatie geven over passende sport- en bewegingsactiviteiten.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"id": "55a95897-95d9-41a1-b916-0f0aa8c8fbff",
+		"prefix": "K/ZW/6.15/5.4",
+		"title": "De kandidaat kan informatie geven over de relatie tussen bewegen en gezondheid en over een passende sportuitrusting.",
+		"description": ""
 	}
 ]

@@ -7244,6 +7244,13 @@
 		"id": "133e0e5e-d9c9-48ef-8127-1c31b6ece385",
 		"prefix": "K/ZW/6.15/5",
 		"title": "Assisteren bij de uitvoering van bewegingsprogramma's.",
-		"description": ""
+		"description": "",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3eb39c2b-77fe-4795-802b-0e5e57e95a60",
+			"f5ea66b3-9d48-4d07-8076-9fd484273f11",
+			"e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
+			"55a95897-95d9-41a1-b916-0f0aa8c8fbff"
+		],
+		"dirty": "1"
 	}
 ]

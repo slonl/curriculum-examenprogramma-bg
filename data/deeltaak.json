@@ -7148,5 +7148,49 @@
 		"title": "Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
 		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5c605f9b-c013-4fd7-97cb-3787e48ad722",
+			"a4e4cbf7-5889-4d79-a14f-1c3ea1e5ed97",
+			"04a0ebab-8c92-497a-8ea6-a2b6edbd073a"
+		],
+		"title": "Het onderscheiden van de type drones en het kennen van de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan.",
+		"id": "04531f55-147e-4f31-ba18-e7190939d4ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e4447f89-3deb-45b5-b222-0e0596f7537b",
+			"5ed40151-7da9-4494-8094-dfa552433f98",
+			"449dff9f-4b28-4322-bcdb-aa235d8d10af"
+		],
+		"title": "Het kennen van de wet- en regelgeving die geldt voor het vliegen met drones.",
+		"id": "416604ac-1329-491f-9457-ca59c9d1e0a2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"28204754-d762-4fb8-9ec4-89e31f4ad354",
+			"6163f807-9781-4e98-a312-e48e750ee22c",
+			"85b2f7e0-16f5-4047-b702-61fcd03e50d3",
+			"e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2"
+		],
+		"title": "Interpreteren van een eenvoudig vluchtplan en een ontwerp daarvoor maken.",
+		"id": "4bca37a9-2d92-4110-bdd0-4cc7a1b46f87",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.27/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3d6bbbae-4716-416c-a27a-23d36e6efd88",
+			"970f2090-46ab-4fbb-bb7e-12763fbe18d2"
+		],
+		"title": "Het uitvoeren van een vlucht met een drone in een beroepssituatie op basis van een (zelfontworpen) vluchtplan.",
+		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1",
+		"unreleased": true
 	}
 ]

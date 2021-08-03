@@ -1894,5 +1894,19 @@
 		"title": "Tegelzetten voor het vmbo",
 		"id": "f6fd9ceb-a5ad-4bc1-aebd-4fdd08ba9d18",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"2c7e81a9-9479-4005-9bad-bb01d0c779ec"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"331d0874-b674-4dc3-b97c-888bfb6a6835",
+			"f87ae0c5-9277-4a41-8247-6925cd505602",
+			"4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
+		],
+		"title": "Circulair en duurzaam bouwen",
+		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066",
+		"unreleased": true
 	}
 ]

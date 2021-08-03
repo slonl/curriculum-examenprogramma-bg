@@ -6926,5 +6926,52 @@
 		"title": "Uitvoeren van diverse snijwerk.",
 		"id": "73a12178-f765-4518-9170-3e681bdc2b7d",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"55731c14-cd3f-43c7-b115-5b6b0c28b3aa",
+			"84349b83-791c-4b15-a70d-a105ec9c6f66",
+			"91751fab-b5ca-4a97-ba7a-d0215990aa9a",
+			"57fbd210-a4cb-4758-8ea5-d7cf84dba755",
+			"452eddb8-3d51-4373-b34b-ff12538bb6c8",
+			"08b1055e-e03f-4e66-a36e-2a096d0959d9",
+			"9fbd9c1f-4eb8-41e1-8b69-cf5b4ed0789d",
+			"f891f33a-cda8-46c1-8e55-d47c9a85ed70",
+			"4274082d-bc5d-4d83-9d1e-30804da81825",
+			"5218558c-88f7-446d-abba-c7f4a951754d"
+		],
+		"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren.",
+		"id": "331d0874-b674-4dc3-b97c-888bfb6a6835",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7f909918-2f4d-478d-b88b-9b49afb56a13",
+			"53d24a73-fe61-4b9f-a0b2-22fcec5f9892",
+			"3cb3afb4-431c-4a07-9fc4-e49c3375f602",
+			"933be757-62e9-44e4-b9d8-47cfc14be7cb",
+			"86529e47-b123-4d54-9d83-fa9d1755eb42",
+			"02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1"
+		],
+		"title": "Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen.",
+		"id": "f87ae0c5-9277-4a41-8247-6925cd505602",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ab353c4c-431e-4bc1-b1ad-5155198f3418",
+			"f9a4c931-61d9-4099-bc80-9dd6beda8d10",
+			"4adc1ae3-81e4-42b3-80c0-0750956be129",
+			"460fc1da-7bc7-404e-9f19-9d3bebadb580",
+			"8fcee9fc-1557-42f6-8fd7-fe8d764f39c0",
+			"b484fa17-e8f1-4423-8f02-d1135e57219f",
+			"cbbb5d69-f158-478e-ba29-a37a84e10236"
+		],
+		"title": "Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
+		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
+		"unreleased": true
 	}
 ]

@@ -1296,5 +1296,12 @@
 		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen/ werkvoorbereiding met daarin de bewerkingsstappen uitvoeren/ machines instellen en voorbereiden/ verspanende gereedschappen selecteren en instellen/ machineonderdelen produceren door middel van verspanen/ verschillende machineonderdelen assembleren tot een compleet product",
 		"id": "f28af2b8-9baa-4d9a-8b94-dd076eee34aa",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.24/KT",
+		"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en afloassen op de lasrobot",
+		"id": "21eff436-e42f-4b35-810e-d123c3149877",
+		"unreleased": true
 	}
 ]

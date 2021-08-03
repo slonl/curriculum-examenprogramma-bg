@@ -1908,5 +1908,22 @@
 		"title": "Circulair en duurzaam bouwen",
 		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f28af2b8-9baa-4d9a-8b94-dd076eee34aa"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"ff7410d2-c003-4898-bd2c-ca7429310b78",
+			"c52c1464-20ea-43b5-baac-7eacf91dc7e5",
+			"2c14a544-63e1-4dc1-92b3-d86ca80482f9",
+			"5cd25d0f-7756-4b39-9800-d17ae9d8fe37",
+			"19553373-9d6e-4718-8044-3c4b45c8d971",
+			"87e263dc-cfab-4858-8d28-9dc2ae61d34d"
+		],
+		"title": "Machinebouw - verspanen",
+		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
+		"unreleased": true
 	}
 ]

@@ -1953,5 +1953,19 @@
 		"title": "Slimme technologie",
 		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.26",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f3b9dfee-b68f-4267-98a3-9705fd472e9c"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc",
+			"27a240e0-4770-47b2-be41-a48dc6c337dc",
+			"b85bf3cd-b331-43c7-9fde-7e25542b4b48"
+		],
+		"title": "Cloud en cyversecurity",
+		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
+		"unreleased": true
 	}
 ]

@@ -1284,5 +1284,17 @@
 		"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren/ Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen/ Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
 		"id": "2c7e81a9-9479-4005-9bad-bb01d0c779ec",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.22/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen/ werkvoorbereiding met daarin de bewerkingsstappen uitvoeren/ machines instellen en voorbereiden/ verspanende gereedschappen selecteren en instellen/ machineonderdelen produceren door middel van verspanen/ verschillende machineonderdelen assembleren tot een compleet product",
+		"id": "f28af2b8-9baa-4d9a-8b94-dd076eee34aa",
+		"unreleased": true
 	}
 ]

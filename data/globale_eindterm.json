@@ -31200,5 +31200,105 @@
 		"title": "De kandidaat kan voor de locatie relevante informatie verwerken in een eigen vluchtplan en op basis daarvan een drone in de lucht brengen in een beroepssituatie.",
 		"id": "970f2090-46ab-4fbb-bb7e-12763fbe18d2",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen uit welke (technische) onderdelen een drone is opgebouwd en kent de functie daarvan.",
+		"id": "96dfbd89-77e6-4e42-9376-6182704f7f78",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/1.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de hoofdgroepen van drones (typen) en data-sensoren onderscheiden en kent de eigenschappen.",
+		"id": "8a446cbf-1c88-48c9-912f-84fed3307c5e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/1.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op basis van de eigenschappen van typen sonsoren en drones voorbeelden benoemen van de toepassing in verschillende beroepssituaties en sectoren.",
+		"id": "75b7051a-9b00-4e09-8d65-05d5f9cc69a0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende soorten data onderscheiden en benoemen met welk doel deze worden verzameld.",
+		"id": "4d504211-910f-44a2-aa34-6786e3e0d555",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan eenvoudige data genereren in een beroepssituatie.",
+		"id": "2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/3.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende type data handmatig en digitaal verwerken met een daarvoor passende methode.",
+		"id": "d7ab84ad-aec8-48d0-ae24-8b2a7c9fe144",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/3.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende type data systematisch analyseren.",
+		"id": "a6355fbd-5d4d-4157-b874-27f60e555826",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/3.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan uitkomsten van een data-analyse interpreteren en daaraan een passende conclusie verbinden.",
+		"id": "92066b99-6457-4f0d-beda-3e8ba0196056",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/4.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de vraag van een opdrachtgever inventariseren en concreet maken.",
+		"id": "2fa75064-2e7f-436c-ac76-537e2e232c85",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/4.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op basis van de verzamelde data aan de opdrachtgever onderbouwd en begrijpelijk rapporteren.",
+		"id": "34724de1-7830-4a58-ba6d-2c649cde5f2b",
+		"unreleased": true
 	}
 ]

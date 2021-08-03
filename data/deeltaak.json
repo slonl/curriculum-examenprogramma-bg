@@ -6973,5 +6973,68 @@
 		"title": "Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
 		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"21a1309c-56a8-44cf-ae3e-6644a3fabada",
+			"755666a4-e189-4f8e-819a-816a6651e757",
+			"504f6d95-5e29-476d-892d-085c9bcf51fc",
+			"2a5f3635-a842-4f9d-9f9e-a2c7378d27c1"
+		],
+		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen.",
+		"id": "ff7410d2-c003-4898-bd2c-ca7429310b78",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d11a7e21-a2a1-4c15-a77d-7fa7dcc79c5c",
+			"870621b8-8a1a-41a1-beae-a966e6035334"
+		],
+		"title": "Werkvoorbereiding maken met daarin de bewerkingsstappen uitvoeren.",
+		"id": "c52c1464-20ea-43b5-baac-7eacf91dc7e5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b943c949-7480-498a-9bb8-75aebe7e097b",
+			"873c8796-e421-401f-8a2b-552c7d08770d"
+		],
+		"title": "Machines instellen, voorbereiden en verspanende gereedschappen selecteren en instellen.",
+		"id": "2c14a544-63e1-4dc1-92b3-d86ca80482f9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"446f16ef-b490-4b82-8aa8-c048ba9e1f97",
+			"5406bff5-8075-4ba2-bae2-5d4ae2c61198",
+			"586e732f-1a11-423a-9ed7-5ada8b81ae25"
+		],
+		"title": "Verspanende gereedschappen selecteren en instellen.",
+		"id": "5cd25d0f-7756-4b39-9800-d17ae9d8fe37",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f63395c1-1505-413a-9430-1cf1eb71243e",
+			"04692c4d-281c-4667-acd9-31fcf13faf63"
+		],
+		"title": "Machine onderdelen produceren door middel van verspanen.",
+		"id": "19553373-9d6e-4718-8044-3c4b45c8d971",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"16cb5604-d5e3-4fa3-81b4-cac72b4a7671",
+			"14a699bc-062b-4c4e-8195-ed12b11a8804"
+		],
+		"title": "Verschillende machineonderdelen assembleren tot een pleet product.",
+		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d",
+		"unreleased": true
 	}
 ]

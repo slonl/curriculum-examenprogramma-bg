@@ -1940,5 +1940,18 @@
 		"title": "De lasrobot",
 		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7f21881e-d214-4781-9628-599487a02b56"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"563673e9-1b37-4232-85a5-17193d900735",
+			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
+		],
+		"title": "Slimme technologie",
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
+		"unreleased": true
 	}
 ]

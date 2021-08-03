@@ -30492,5 +30492,168 @@
 		"title": "De kandidaat kan een eenvoudig product met circulaire beton of beton vervangend bouwmateriaal samenstellen.",
 		"id": "cbbb5d69-f158-478e-ba29-a37a84e10236",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerpvraagstuk voor het produceren van een machineonderdeel analyseren, beschrijven en het ontwerp schetsen, uitvoeren, testen en evalueren.",
+		"id": "21a1309c-56a8-44cf-ae3e-6644a3fabada",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp, met behulp van CAD met name 2D en 3D, voor een verspaningsmachine maken.",
+		"id": "755666a4-e189-4f8e-819a-816a6651e757",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan stuklijsten en materiaalstaten maken aan de hand van tekeningen en schema’s.",
+		"id": "504f6d95-5e29-476d-892d-085c9bcf51fc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van tekeningen, stuklijsten en materiaalstaten een eenvoudige calculatie maken.",
+		"id": "2a5f3635-a842-4f9d-9f9e-a2c7378d27c1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werktekeningen en schema’s lezen en interpreteren.",
+		"id": "d11a7e21-a2a1-4c15-a77d-7fa7dcc79c5c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkvoorbereiding met de verschillende bewerkingsstappen voor verspanenende bewerkingen uitvoeren.",
+		"id": "870621b8-8a1a-41a1-beae-a966e6035334",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een keuze maken tussen de verschillende snijgereedschappen en materialen in relatie tot de gebruikte materialen.",
+		"id": "b943c949-7480-498a-9bb8-75aebe7e097b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/3.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verspanende bewerkingen met behulp van snijsnelhedentabellen voorbereiden op verschillende machines.",
+		"id": "873c8796-e421-401f-8a2b-552c7d08770d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de juiste gereedschappen selecteren voor de bewerking.",
+		"id": "446f16ef-b490-4b82-8aa8-c048ba9e1f97",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de geselecteerde gereedschappen afstellen met behulp van boltaster, middelpuntzoeker, nonius en digitale uitlezing op de machine.",
+		"id": "5406bff5-8075-4ba2-bae2-5d4ae2c61198",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/4.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het juiste toerental op de machine instellen.",
+		"id": "586e732f-1a11-423a-9ed7-5ada8b81ae25",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/5.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen vervaardigen op een verspaningsmachine.",
+		"id": "f63395c1-1505-413a-9430-1cf1eb71243e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/5.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan maatregelen treffen op het moment dat de oppervlakte eisen niet worden gehaald of wanneer er vreemde geluiden ontstaan tijdens het verspanen.",
+		"id": "04692c4d-281c-4667-acd9-31fcf13faf63",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/6.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een compleet product volgens tekening samenstellen.",
+		"id": "16cb5604-d5e3-4fa3-81b4-cac72b4a7671",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.22/6.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij het samenstellen van een compleet product gebruik maken van de juiste montage- gereedschappen.",
+		"id": "14a699bc-062b-4c4e-8195-ed12b11a8804",
+		"unreleased": true
 	}
 ]

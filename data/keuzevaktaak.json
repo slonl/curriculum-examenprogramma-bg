@@ -1310,5 +1310,17 @@
 		"title": "Toepassen van slimme technologie door het aannemen en uitvoeren van een klantopdracht voor de ontwikkeling van een slimme technologische oplossing voor een technisch probleem. Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
 		"id": "7f21881e-d214-4781-9628-599487a02b56",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.26/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid/ In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications)/ Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
+		"id": "f3b9dfee-b68f-4267-98a3-9705fd472e9c",
+		"unreleased": true
 	}
 ]

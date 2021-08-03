@@ -1215,13 +1215,14 @@
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
-		"prefix": "K/ZW/12/KT",
+		"prefix": "K/ZW/6.15/KT",
 		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",

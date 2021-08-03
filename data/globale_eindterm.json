@@ -30245,5 +30245,252 @@
 		"title": "De kandidaat kan zelfstandig veilig en stofvrij met diverse snijgereedschappen werken.",
 		"id": "4f952b77-3000-4821-961d-5afd6631096f",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan begrippen lineaire en een circulaire economie kunnen omschrijven.",
+		"id": "55731c14-cd3f-43c7-b115-5b6b0c28b3aa",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voorbeelden van de biologische en de technische kringloop herkennen en benoemen.",
+		"id": "84349b83-791c-4b15-a70d-a105ec9c6f66",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan duurzaam bouwen en circulair bouwen omschrijven.",
+		"id": "91751fab-b5ca-4a97-ba7a-d0215990aa9a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan duurzaamheidseisen en meetinstrumenten voor circulair en duurzaam bouwen herkennen, benoemen en omschrijven.",
+		"id": "57fbd210-a4cb-4758-8ea5-d7cf84dba755",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan duurzame, circulaire en biobased materialen herkennen en benoemen.",
+		"id": "452eddb8-3d51-4373-b34b-ff12538bb6c8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan gebruikte materialen van een gebouw registreren.",
+		"id": "08b1055e-e03f-4e66-a36e-2a096d0959d9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met een warmtebeeldcamera metingen verrichten in een bestaand gebouw.",
+		"id": "9fbd9c1f-4eb8-41e1-8b69-cf5b4ed0789d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.8",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verduurzamingsmaatregelen voorstellen in en aan een bestaande woning.",
+		"id": "f891f33a-cda8-46c1-8e55-d47c9a85ed70",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.9",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan isolatiematerialen herkennen en het doel en de functie van isolatie en ventilatie omschrijven.",
+		"id": "4274082d-bc5d-4d83-9d1e-30804da81825",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/1.10",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de juiste soorten isolatiematerialen kiezen.",
+		"id": "5218558c-88f7-446d-abba-c7f4a951754d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan relevante informatie verzamelen, ordenen en toepassen, zoals eisen van een opdrachtgever en specificaties van materialen en producten.",
+		"id": "7f909918-2f4d-478d-b88b-9b49afb56a13",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van 3D CAD een eenvoudig ontwerp van een product/interieurelement maken van circulaire materialen en omzetten naar een werktekening.",
+		"id": "53d24a73-fe61-4b9f-a0b2-22fcec5f9892",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werktekening lezen en een materiaalstaat maken.",
+		"id": "3cb3afb4-431c-4a07-9fc4-e49c3375f602",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkplanning maken.",
+		"id": "933be757-62e9-44e4-b9d8-47cfc14be7cb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een product/interieurelement maken van circulaire materialen.",
+		"id": "86529e47-b123-4d54-9d83-fa9d1755eb42",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/2.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een circulair product/interieurelement beoordelen op kwaliteitseisen en opleveren.",
+		"id": "02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een 3D CAD een eenvoudig ontwerp maken voor een constructie, waarbij rekening wordt gehouden met duurzame en circulaire uitgangspunten.",
+		"id": "ab353c4c-431e-4bc1-b1ad-5155198f3418",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werktekening lezen en een materiaalstaat maken.",
+		"id": "f9a4c931-61d9-4099-bc80-9dd6beda8d10",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkplanning maken.",
+		"id": "4adc1ae3-81e4-42b3-80c0-0750956be129",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een prefab constructie samenstellen (bv HSB).",
+		"id": "460fc1da-7bc7-404e-9f19-9d3bebadb580",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een remontabele gevel opbouwen met een (droog)stapelmethode.",
+		"id": "8fcee9fc-1557-42f6-8fd7-fe8d764f39c0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan demontabele gevelbekleding aanbrengen op een HSB wand.",
+		"id": "b484fa17-e8f1-4423-8f02-d1135e57219f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/1.28/3.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een eenvoudig product met circulaire beton of beton vervangend bouwmateriaal samenstellen.",
+		"id": "cbbb5d69-f158-478e-ba29-a37a84e10236",
+		"unreleased": true
 	}
 ]

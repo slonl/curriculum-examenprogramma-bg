@@ -1334,5 +1334,16 @@
 		"title": "Het vliegen met een drone in een beroepssituatie.",
 		"id": "ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.28/KT",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever.",
+		"id": "2185f625-4b84-41da-a5ea-678d23cabf46",
+		"unreleased": true
 	}
 ]

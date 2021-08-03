@@ -6347,7 +6347,7 @@
 	{
 		"id": "56b5bba1-859b-4e26-b0cc-c4ef357949a7",
 		"prefix": "K/ZW/09/02",
-		"title": "Eenvoudige cateringwerkzaamheden verrichten volgens HACCP richtlijnen",
+		"title": "Eenvoudige cateringwerkzaamheden verrichten en werken volgens HACCP richtlijnen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"77750d4d-48d6-4335-bf0c-94b0eeb89690",
 			"526e72e8-1493-43b7-961b-18da5d21acca",
@@ -6356,7 +6356,8 @@
 			"08de13d2-93f5-4db5-ab34-1c02efc12944",
 			"1e8b1d9c-870d-4c46-92df-4f618bf2d06f",
 			"dd91824e-f585-4a20-8b9c-65f759df85ef"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "cd68989d-547b-4891-a221-3d2a2e6a9904",
@@ -6490,17 +6491,18 @@
 	},
 	{
 		"id": "4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-		"prefix": "K/ZW/12/01",
+		"prefix": "K/ZW/6.15/1",
 		"title": "Informatie verstrekken over mogelijkheden om te bewegen en te sporten in de eigen regio",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"765b2733-7092-4c70-a2d9-ceaeb081dfbe",
 			"4632f4e5-6c06-4459-acc9-a7142f056433"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0637ff48-2763-41dd-be0f-3327abac8445",
-		"prefix": "K/ZW/12/02",
-		"title": "Voor een doelgroep een eenvoudig sportevenement of toernooi organiseren en uitvoeren",
+		"prefix": "K/ZW/6.15/2",
+		"title": "Voor een doelgroep een eenvoudig sportevenement of toernooi organiseren en uitvoeren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
 			"ff0e8849-9f9c-4e6c-91fc-0f21483dda71",
@@ -6508,29 +6510,32 @@
 			"3a117b67-85e3-4e88-890e-5a5e477d7091",
 			"ca9da90b-8c84-4cad-acee-2d43b4a2ff96",
 			"494263c1-b571-4eee-8192-98b2cc9ecd39"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ad49151b-a667-452d-ac5d-f7a8d4845a26",
-		"prefix": "K/ZW/12/03",
-		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten",
+		"prefix": "K/ZW/6.15/3",
+		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
 			"d2574650-1cae-4a9b-bff9-1b2f265fa312",
 			"fe3d722d-4b9d-4824-ab69-5af1887d81d2",
 			"ea40f557-099f-4028-8908-09c1d76ca64f",
-			"7df9f06c-8688-44f8-8bb2-c727b423dd33",
-			"4a4efc90-f2d5-49ce-ba5f-ff071088b22a"
-		]
+			"7df9f06c-8688-44f8-8bb2-c727b423dd33"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-		"prefix": "K/ZW/12/04",
-		"title": "Omgaan met veiligheid en het voorkomen van blessures",
+		"prefix": "K/ZW/6.15/4",
+		"title": "Omgaan met veiligheid en het voorkomen van blessures.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5b6093d1-c764-4bb3-b4ff-e192609caf69",
 			"94bdcf24-810d-453e-a0d9-a0e0536f8a0e"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7a21797f-04dd-4631-8cb1-9ae3934a6431",
@@ -7234,5 +7239,11 @@
 		"title": "Analyseren van een concrete vraag van een opdrachtgever en geven van een onderbouwd advies op basis van data.",
 		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f",
 		"unreleased": true
+	},
+	{
+		"id": "133e0e5e-d9c9-48ef-8127-1c31b6ece385",
+		"prefix": "K/ZW/6.15/5",
+		"title": "Assisteren bij de uitvoering van bewegingsprogramma's.",
+		"description": ""
 	}
 ]

@@ -36,7 +36,11 @@
 			"c29782e9-e263-4e3e-82da-31e17604df98",
 			"a1a280e4-6757-45cc-8182-5b0784f334f3"
 		],
-		"dirty": true
+		"dirty": true,
+		"description": "",
+		"vakleergebied_id": [
+			"26eb622d-6239-4f26-bdef-0c9662891285"
+		]
 	},
 	{
 		"id": "05b2246b-6271-41e8-b932-8fd7f899f8a0",
@@ -59,6 +63,10 @@
 			"724c8197-a8dc-4fe2-aaad-9ccaf176de35",
 			"b5f25b30-60c3-4040-9b5a-2b6daacd56be",
 			"1c6736d1-ec8c-478c-b826-432640e1b459"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		]
 	},
 	{
@@ -83,6 +91,10 @@
 			"d387b653-51b2-4d2d-9647-df7c6330513b",
 			"0fbdbc20-ea30-4b04-b9d2-79ee1b363bf2",
 			"41789f35-86f2-4deb-9a31-37d0036ad556"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"18126dde-b79b-4231-826d-b902a6fa70db"
 		]
 	},
 	{
@@ -107,6 +119,10 @@
 			"7894feb2-74ec-4738-8246-e0d409ac6bea",
 			"24769c77-4e28-4344-b588-19d70d8e581d",
 			"7020a2e6-af93-44ec-beaa-91dee3522a5e"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"430c341c-d861-4076-bbce-b8adcda81555"
 		]
 	},
 	{
@@ -138,6 +154,10 @@
 			"b474e23a-a04f-43a9-967b-c0ce10fc1cc6",
 			"95184a61-d273-4f98-86ae-c4f86924235b",
 			"a29ee1dc-2bbb-4a77-ac29-4c53509479be"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		]
 	},
 	{
@@ -166,6 +186,10 @@
 			"ffb530f6-1f87-4ced-b8b5-becb3fee3b18",
 			"b02bed86-145c-45b5-8ce0-d1777d2452e0",
 			"b1bb0bee-bf70-4219-8c3e-57cf3666eec7"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"f4848ad5-47b5-4539-8d50-437d15385368"
 		]
 	},
 	{
@@ -194,6 +218,10 @@
 			"ed281e61-55e9-4129-aef1-2e3a3da1f1f4",
 			"c7d60a95-4d28-4057-99e6-fbfd3e43ca26",
 			"2cea6419-6ad6-463f-89a3-d4d1ce1bcba5"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"aa197275-236f-451e-85be-ed0902848f08"
 		]
 	},
 	{
@@ -256,6 +284,10 @@
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
 			"9962df41-0936-465e-9df4-e8d612fb5339"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"73cef23f-df24-4015-8516-072a13dcd369"
 		]
 	},
 	{
@@ -292,7 +324,10 @@
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		],
 		"description": "",
-		"dirty": "1"
+		"dirty": "1",
+		"vakleergebied_id": [
+			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
+		]
 	},
 	{
 		"id": "28b7d506-689b-4328-8a06-6892262c2edd",

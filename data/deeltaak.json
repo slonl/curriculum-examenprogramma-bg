@@ -7192,5 +7192,47 @@
 		"title": "Het uitvoeren van een vlucht met een drone in een beroepssituatie op basis van een (zelfontworpen) vluchtplan.",
 		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"96dfbd89-77e6-4e42-9376-6182704f7f78",
+			"8a446cbf-1c88-48c9-912f-84fed3307c5e",
+			"75b7051a-9b00-4e09-8d65-05d5f9cc69a0"
+		],
+		"title": "Het onderscheiden van de type drones en de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan kennen.",
+		"id": "e7a94b38-6766-4f4d-8f85-80b21f4027f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"4d504211-910f-44a2-aa34-6786e3e0d555",
+			"2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e"
+		],
+		"title": "Verschillende type data onderscheiden en kan benoemen hoe deze kunnen worden verzameld.",
+		"id": "eccc0103-d818-4dcf-80c9-2d4cf103bf7b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d7ab84ad-aec8-48d0-ae24-8b2a7c9fe144",
+			"a6355fbd-5d4d-4157-b874-27f60e555826",
+			"92066b99-6457-4f0d-beda-3e8ba0196056"
+		],
+		"title": "Verschillende type data op een correcte manier verwerken en de betekenis ervan kennen.",
+		"id": "cd385697-979c-4182-b3a8-ad6c88a3c52a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.28/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2fa75064-2e7f-436c-ac76-537e2e232c85",
+			"34724de1-7830-4a58-ba6d-2c649cde5f2b"
+		],
+		"title": "Analyseren van een concrete vraag van een opdrachtgever en geven van een onderbouwd advies op basis van data.",
+		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f",
+		"unreleased": true
 	}
 ]

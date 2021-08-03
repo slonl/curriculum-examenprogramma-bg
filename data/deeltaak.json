@@ -7084,5 +7084,29 @@
 		"title": "Ter beoordeling een 3D laswerkstuk ontwerpen, zagen en in elkaar hechten en aflassen op de lasrobot, on- en offline geprogrammeerd",
 		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"87e0f56f-9243-4393-a5e2-e2ae36e16aa6",
+			"440590aa-d177-43e4-8951-32ca62920a1f",
+			"e8a070a1-e974-43ca-b223-c3b2ea0f028d",
+			"6cf2e709-6a99-4e31-a84c-0f4cfd4b1883"
+		],
+		"title": "Een klantopdracht aannemen en uitvoeren voor de ontwikkeling van een slimme technologische oplossing voor een probleem.",
+		"id": "563673e9-1b37-4232-85a5-17193d900735",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"1ea93282-98ec-4908-b8b5-29163a1c3303",
+			"c11ce575-bb4e-432b-82d6-f87fc818aa30",
+			"d4203825-66a2-4826-a918-04574e038bd6",
+			"be64d8de-29aa-421c-8965-8e2615a0f130"
+		],
+		"title": "Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
+		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6",
+		"unreleased": true
 	}
 ]

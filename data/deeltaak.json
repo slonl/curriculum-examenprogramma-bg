@@ -7108,5 +7108,45 @@
 		"title": "Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
 		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.26/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"349b34d3-6310-485e-a46e-55bf4d10d5c7",
+			"250b11ea-4e57-408a-85b7-67e21fa10be7",
+			"d26b0fec-48b5-41af-bac5-5cfe996cc31d",
+			"0f310b64-9d00-4337-87b4-ed505aa08d4a",
+			"a3f9f8cb-db9d-4d6c-8b54-8d823edd1771"
+		],
+		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid.",
+		"id": "dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.26/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"6f246666-50fb-4a12-acf4-33621305c0f9",
+			"28e1950f-0908-47f2-bddf-d44396be25fa",
+			"103889b1-136f-4fc2-87b8-6150502070ba",
+			"cd4db10c-2e3e-4fa1-967f-3066396023db",
+			"8131a07d-ad4f-4a70-9ef9-a9c2c34419d3"
+		],
+		"title": "In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications).",
+		"id": "27a240e0-4770-47b2-be41-a48dc6c337dc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.26/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"9b42d420-4143-47c8-a9e4-32dc5c534ad0",
+			"e6396914-ba93-4e19-80a7-688d3f54ed8b",
+			"666ca235-b340-4ae7-978a-a7d9ecaf20c8",
+			"d68fe8fa-3668-4429-8dad-9235da596cf1",
+			"df39202b-dffd-4235-901a-c256330cd67a",
+			"e2e724dd-a99e-48f3-8ee6-7b29af60b28d"
+		],
+		"title": "Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
+		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48",
+		"unreleased": true
 	}
 ]

@@ -2000,7 +2000,7 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MET",
+		"prefix": "K/MET/3.17",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"9507a0fc-1939-477d-9b1e-bf8ca91dff25"
 		],
@@ -2011,7 +2011,8 @@
 		],
 		"title": "Elektrische voertuigen",
 		"id": "ae26c88a-98f5-436e-be53-bd3bb0a6890d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/MVI/4.17",
@@ -2026,19 +2027,6 @@
 		],
 		"title": "Innovatie en prototypen",
 		"id": "407bf354-bb98-40a8-aef8-29cbb87e893f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"eba847a9-49de-444c-aa7d-ed10ef5bdaab"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"13f2a1b2-b89f-40c5-84aa-a455c2cea3f1",
-			"7c611278-80cf-4b64-b8ad-f7a060227cf4"
-		],
-		"title": "Commerciële visserij",
-		"id": "e5ba5ef8-0b8f-48d0-ab36-801d19e221c1",
 		"unreleased": true
 	}
 ]

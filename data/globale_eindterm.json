@@ -31570,5 +31570,134 @@
 		"title": "De kandidaat kan een elektrisch voertuig laden bij verschillende laadvoorzieningen.",
 		"id": "63b8d845-59e1-45b1-8a1e-f3b1830a6b41",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan moderne technische (hulp)middelen en innovaties herkennen en benoemen, met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "05adc159-3394-41db-b16b-2e7afbd5f15c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende problemen analyseren en beschrijven, met name op het gebied van constructie, vormgeving, besturing en functionaliteit.",
+		"id": "4ea2ae01-793e-4561-90e9-33e8d36a45e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan nieuwe technische (hulp)middelen en innovaties voor toekomstige oplossingen toepassen met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "d898658d-68ea-46a9-a5d8-3f16d30a41d6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van een analyse oplossingen bedenken en presenteren.",
+		"id": "4fa3be67-7ecd-4e0e-8e8a-7e4e06428343",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de haalbaarheid van de gekozen oplossing aan de hand van de huidige techniek omschrijven.",
+		"id": "c0faf26d-d2d8-4f47-9912-50060cf108c7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de invloed van moderne technieken en innovaties op het productieproces beschrijven met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "e92ca491-0a28-4b2a-b9c9-5d67bdf1a193",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan keuzes voor de gekozen technieken beargumenteren.",
+		"id": "e20dd305-3c36-4788-94d0-80c701a16fcf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van een ontwerp een prototype maken.",
+		"id": "6eb8b53f-8ab8-44b5-8cbe-35ccaf98082e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de functie, de werking en de vorm van het product beargumenteren.",
+		"id": "a89028b6-4f3d-433f-a475-931bd242514d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een prototype testen, evalueren en op basis van verkregen feedback creatieve verbetervoorstellen ontwikkelen.",
+		"id": "d1b75ee4-f34b-47f0-836f-209580bb71f8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan correcties op basis van de evaluatie beargumenteren en doorvoeren.",
+		"id": "7b3c3c4e-d64f-495d-9622-5058be504e5a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het resultaat vastleggen en presenteren.",
+		"id": "8792f941-ce9f-44fc-b689-5266de08b7f5",
+		"unreleased": true
 	}
 ]

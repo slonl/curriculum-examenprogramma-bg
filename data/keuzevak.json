@@ -1715,7 +1715,7 @@
 	{
 		"id": "6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 		"prefix": "K/ZW/09",
-		"title": "Facilitaire Dienstverlening: catering en inrichting",
+		"title": "Facilitaire Dienstverlening: inrichting en verzorging",
 		"description": "eenvoudige dienstverlenende activiteiten verrichten",
 		"examenprogramma_bg_deeltaak_id": [
 			"f8f70b44-9ff5-43f5-87cd-f217cea88ddb",
@@ -1760,20 +1760,19 @@
 	},
 	{
 		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-		"prefix": "K/ZW/6.15",
-		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
+		"prefix": "K/ZW/12",
+		"title": "Sport en bewegen",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [
 			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
 			"0637ff48-2763-41dd-be0f-3327abac8445",
 			"ad49151b-a667-452d-ac5d-f7a8d4845a26",
 			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
+			"7a21797f-04dd-4631-8cb1-9ae3934a6431"
 		],
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
-		],
-		"dirty": "1"
+		]
 	},
 	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
@@ -1965,10 +1964,9 @@
 			"27a240e0-4770-47b2-be41-a48dc6c337dc",
 			"b85bf3cd-b331-43c7-9fde-7e25542b4b48"
 		],
-		"title": "Cloud en cybersecurity",
+		"title": "Cloud en cyversecurity",
 		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
-		"unreleased": true,
-		"description": ""
+		"unreleased": true
 	},
 	{
 		"prefix": "K/PIE/2.27",
@@ -1999,6 +1997,20 @@
 		],
 		"title": "Dronetechniek II: inspecteren met behulp van drones",
 		"id": "24471646-f67a-472e-8e66-6d6f365d7cda",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9507a0fc-1939-477d-9b1e-bf8ca91dff25"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5b90a084-0115-4121-a5c4-bad7269435e5",
+			"69cdeb6a-8241-4ec8-94e7-9a288ccbf526",
+			"f0c32efe-415f-4dd8-b7a4-315d8f095d42"
+		],
+		"title": "Elektrische voertuigen",
+		"id": "ae26c88a-98f5-436e-be53-bd3bb0a6890d",
 		"unreleased": true
 	}
 ]

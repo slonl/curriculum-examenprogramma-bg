@@ -7284,5 +7284,49 @@
 		"title": "Laden van hybride en elektrische voertuigen",
 		"id": "f0c32efe-415f-4dd8-b7a4-315d8f095d42",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"05adc159-3394-41db-b16b-2e7afbd5f15c",
+			"4ea2ae01-793e-4561-90e9-33e8d36a45e0"
+		],
+		"title": "Een maatschappelijk probleem analyseren en beschrijven.",
+		"id": "c6493b13-a55b-47b4-8fe9-4840df660b9b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d898658d-68ea-46a9-a5d8-3f16d30a41d6",
+			"4fa3be67-7ecd-4e0e-8e8a-7e4e06428343",
+			"c0faf26d-d2d8-4f47-9912-50060cf108c7"
+		],
+		"title": "Oplossingen bedenken en uitwerken en daarbij het gebruik maken van moderne technieken beargumenteren.",
+		"id": "caa6696d-2dc3-401b-8e05-dcf1f5e3ee10",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e92ca491-0a28-4b2a-b9c9-5d67bdf1a193",
+			"e20dd305-3c36-4788-94d0-80c701a16fcf",
+			"6eb8b53f-8ab8-44b5-8cbe-35ccaf98082e",
+			"a89028b6-4f3d-433f-a475-931bd242514d"
+		],
+		"title": "Een (deels) werkend prototype maken.",
+		"id": "f991893d-2508-40e8-9c39-ec5b1a42d1be",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d1b75ee4-f34b-47f0-836f-209580bb71f8",
+			"7b3c3c4e-d64f-495d-9622-5058be504e5a",
+			"8792f941-ce9f-44fc-b689-5266de08b7f5"
+		],
+		"title": "Een prototype testen, evalueren en verbeteren.",
+		"id": "5ad1f7fb-fb9e-42cb-a269-a7e18fa70eed",
+		"unreleased": true
 	}
 ]

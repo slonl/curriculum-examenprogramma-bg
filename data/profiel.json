@@ -129,7 +129,7 @@
 	{
 		"id": "29567373-b655-46a4-9c6a-6f04001c139b",
 		"prefix": "MT",
-		"title": "Maritiem en techniek",
+		"title": "Maritiem en Techniek",
 		"examenprogramma_bg_kern_id": [
 			"0866408c-fd90-48e5-bcf3-6167c1f04ca7"
 		],
@@ -140,6 +140,7 @@
 			"44464c45-3349-4758-8ef5-8a58dd936ac9"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"e5ba5ef8-0b8f-48d0-ab36-801d19e221c1",
 			"74c5e558-1a0f-4222-8581-66b4ab33c4f9",
 			"5c783336-57df-44e8-805d-fccdf01e8ede",
 			"d964b059-6961-4ac4-9993-edf24da2b44b",
@@ -159,7 +160,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "a3569749-440e-4d1c-bd98-b328ec57a9a7",

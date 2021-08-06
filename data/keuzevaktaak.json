@@ -1215,14 +1215,13 @@
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
-		"prefix": "K/ZW/6.15/KT",
+		"prefix": "K/ZW/12/KT",
 		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
@@ -1345,6 +1344,13 @@
 		],
 		"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever.",
 		"id": "2185f625-4b84-41da-a5ea-678d23cabf46",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/MET/3.17/Taak",
+		"title": "Hybride en elektrische aandrijfsystemen herkennen en benoemen / Veilig werken aan hybride en elektrische voertuigen / Laden van hybride en elektrische voertuigen",
+		"id": "9507a0fc-1939-477d-9b1e-bf8ca91dff25",
 		"unreleased": true
 	}
 ]

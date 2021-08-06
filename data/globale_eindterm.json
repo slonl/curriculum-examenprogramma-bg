@@ -31699,5 +31699,137 @@
 		"title": "De kandidaat kan het resultaat vastleggen en presenteren.",
 		"id": "8792f941-ce9f-44fc-b689-5266de08b7f5",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de meest voorkomende vissoorten die in de commerciële visserij worden gevangen, herkennen en benoemen en in verband brengen met de verschillende vismethoden.",
+		"id": "6b2e8591-78f9-46dc-96a8-a706f7d818a1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan eigenschappen van verschillende commerciële vismethoden benoemen en in verband brengen met de constructie van het vissersschip en het toegepaste visnetwerk.",
+		"id": "082082a3-e8fc-4b76-8011-427576d8c438",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk maken over duurzame commerciële visserij.",
+		"id": "199920c1-0b07-497c-a28c-238c61e5fc40",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij werkzaamheden aan dek de voorgeschreven PBM’s en veiligheidsprocedures toepassen.",
+		"id": "15564ac6-1072-4e8e-9bcc-57659d9b1d25",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij de eerste vissortering zoals vis strippen, spoelen en ijzen.",
+		"id": "11a29648-25c8-4a7f-b705-6cac2a735046",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan veilig, hygiënisch en duurzaam werken tijdens de eerste vissortering volgens voorgeschreven procedures.",
+		"id": "836a8fab-1a67-4860-968b-5d00ceb1a987",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij laad- en loswerkzaamheden van het visproduct.",
+		"id": "e0a1a877-8305-4231-b962-c01aef5fe1dc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen van het visgerei benoemen en beschrijven.",
+		"id": "77167b6f-38e9-4c07-846c-052a4ac10e88",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werken met verschillende soorten touwwerk rekening houdend met materiaaleigenschappen. Het gaat hier om sterkte, dikte en buigzaamheid van het touwwerk.",
+		"id": "0c2b0524-050e-4fae-abf3-4a7f496079f5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een rechthoekige scheur repareren in een visnetwerk.",
+		"id": "cabd3f6f-edd7-4b6c-a586-78511a9ecb30",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vissersknopen maken. Het gaat hier om de achtknoop, chirurgenknoop, constrictorknoop, kettingsteek, timmersteek, twee zoete liefjes, vissersknoop en het keesje.",
+		"id": "c6fdb582-9b31-4e7f-acdf-320b6861bec0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan schiemanswerk uitvoeren. Het gaat hier om het maken van een takeling, korte splits, eindsplits en een oogsplits.",
+		"id": "ba13ce16-dc1d-4638-92db-c5872def0f7a",
+		"unreleased": true
 	}
 ]

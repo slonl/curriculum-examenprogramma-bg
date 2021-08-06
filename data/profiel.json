@@ -195,8 +195,8 @@
 	},
 	{
 		"id": "43c567e5-d5a9-480e-b03c-3c377215ecf6",
-		"prefix": "MT",
-		"title": "Mobiliteit en transport",
+		"prefix": "BWI",
+		"title": "Mobiliteit en Transport",
 		"examenprogramma_bg_kern_id": [
 			"09dd2988-44cb-43b8-ad27-1cc934ea9d7f"
 		],
@@ -207,6 +207,7 @@
 			"a88692f5-10a3-4aac-9e19-73d87c7015df"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"ae26c88a-98f5-436e-be53-bd3bb0a6890d",
 			"21fefb79-81c0-4f43-b8ae-f0c231f30cff",
 			"fe7101ce-5399-43df-bac5-e9d53a614712",
 			"6c4e965f-fe26-48fa-97b7-89c49fde2c9a",
@@ -223,7 +224,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"aa197275-236f-451e-85be-ed0902848f08"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "fa4d75da-d045-4360-ac45-a772378e46d1",
@@ -292,15 +294,15 @@
 			"96a16743-6543-46a7-a0a5-3933598ce670",
 			"bbacafd8-0087-4809-9047-fc1e3516da05",
 			"6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
+			"9bf40365-f7e5-4b7e-9384-26a1683c1d81",
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
-			"9962df41-0936-465e-9df4-e8d612fb5339",
-			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
+			"9962df41-0936-465e-9df4-e8d612fb5339"
 		],
 		"description": "",
 		"vakleergebied_id": [
 			"73cef23f-df24-4015-8516-072a13dcd369"
-		],
-		"dirty": "1"
+		]
 	},
 	{
 		"id": "28b7d506-689b-4328-8a06-6892262c2edd",

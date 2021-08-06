@@ -164,7 +164,7 @@
 	{
 		"id": "a3569749-440e-4d1c-bd98-b328ec57a9a7",
 		"prefix": "MVI",
-		"title": "Media, vormgeving en ict",
+		"title": "Media, vormgeving en ICT",
 		"examenprogramma_bg_kern_id": [
 			"6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a"
 		],
@@ -175,6 +175,7 @@
 			"35421908-139e-430b-b076-6ec2167c0d4c"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"407bf354-bb98-40a8-aef8-29cbb87e893f",
 			"18bd9e65-4779-41c0-bd7c-6c031165e1eb",
 			"71425a7a-d418-447f-9d78-48ff71a3c0a0",
 			"aee14f60-8e6c-4d87-966c-f965036355c8",
@@ -191,7 +192,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"f4848ad5-47b5-4539-8d50-437d15385368"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "43c567e5-d5a9-480e-b03c-3c377215ecf6",

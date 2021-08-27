@@ -7384,5 +7384,32 @@
 		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
 		"id": "17b28d6a-a983-4d8d-8aac-19c2ece59eb9",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"493fe13b-9fd8-412f-8055-5af45885f777",
+			"c4a8d7e1-d6a2-4efd-b231-88c507f170bb",
+			"ded3c591-2b36-4c3f-a9b8-299a351b9d3f",
+			"903dbd6d-4488-4870-8d23-2bbbfa1e29b6"
+		],
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen.",
+		"id": "c3139c50-6bd3-4120-a817-9ec47eabc65b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d03748a4-2b00-451a-8c42-61f84d57c644",
+			"396f1620-a602-4237-809e-ce17c6cc2443",
+			"c471b7b6-73d9-424c-b9e8-07a67dac83d4",
+			"3a71d3ef-ebbf-46ce-9522-c72b5717b34e",
+			"845b0ba7-8b3e-49ac-98be-2f67b2b60e92",
+			"921e65bc-486d-4c8a-85ac-9814a299b84f",
+			"2f41fccc-b6d8-4cd8-be29-c7ebd5df3ad9"
+		],
+		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"id": "38965d11-f00b-495f-93d9-dbe726f8b3ab",
+		"unreleased": true
 	}
 ]

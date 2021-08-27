@@ -7411,5 +7411,43 @@
 		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
 		"id": "38965d11-f00b-495f-93d9-dbe726f8b3ab",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.14/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"69a984f1-326b-4d71-9503-c22aecd131ad",
+			"9de461c9-c880-4500-8eb7-056e04ad61ec",
+			"1ea45e8d-7e56-485e-a5fa-eb815cbca2f1",
+			"0e0f5bf7-a11b-46d6-ae1a-3736f04b5018",
+			"0d11a6a8-1bc6-44bd-aea0-c02242ef8b3e",
+			"23c6c40d-a318-4e62-bd40-fb7154fc5239"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het bedenken van een woonstijlconcept.",
+		"id": "9e30755d-98ba-41a8-920d-025cda9d3719",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d8e41c48-a1b8-45f4-bb5f-fd219e44f89a",
+			"64da4b89-99f9-43df-a832-3a0250d03af5",
+			"8c1d0031-0c2e-4dc2-abab-a846ceb7d563"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het ontwerpen van een sample passend bij een woonstijlconcept.",
+		"id": "384fdad4-6251-485c-8144-c6c8f12ee5ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"9f8e4ec0-f329-416b-b452-4a913158bbe2",
+			"e687c780-9386-412b-a2cb-703a9c61aaa0",
+			"43062fc2-a535-46b0-a046-23227cbc36ac",
+			"175fd205-d23e-4ac0-bf79-d97a60206b8a",
+			"8adca5b5-b457-43e5-b9c5-918cc9658e8d"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"id": "bb69f1f8-dfdf-4674-a218-5fddf635be52",
+		"unreleased": true
 	}
 ]

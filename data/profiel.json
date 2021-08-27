@@ -73,7 +73,7 @@
 	{
 		"id": "d2508ab9-cb99-480a-a9fd-5973ca28efff",
 		"prefix": "EO",
-		"title": "Economie en ondernemen",
+		"title": "Economie en Ondernemen",
 		"examenprogramma_bg_kern_id": [
 			"2ba68b18-0986-4515-9321-fd31417161a7"
 		],
@@ -84,6 +84,7 @@
 			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"30d19557-3ef7-476e-879b-db9a22d030e5",
 			"8d1b5ab0-a0b8-40fe-9db5-9a6feba9dd95",
 			"bd152ac2-f7eb-492b-ad20-e84fa78fefc1",
 			"9682cac6-6ddc-4946-bdcc-6b169616e1ca",
@@ -96,7 +97,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"18126dde-b79b-4231-826d-b902a6fa70db"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "a28cd5c9-d020-434a-a4dd-8a539fa35092",

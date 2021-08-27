@@ -2054,5 +2054,19 @@
 		"title": "Internationale handel",
 		"id": "30d19557-3ef7-476e-879b-db9a22d030e5",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.14",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"e5e52d4c-e877-4eaf-9168-3cab7ba52bb9"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"9e30755d-98ba-41a8-920d-025cda9d3719",
+			"384fdad4-6251-485c-8144-c6c8f12ee5ec",
+			"bb69f1f8-dfdf-4674-a218-5fddf635be52"
+		],
+		"title": "Wonen en design",
+		"id": "0af1283f-c0fe-460f-b2f9-7ea963879d17",
+		"unreleased": true
 	}
 ]

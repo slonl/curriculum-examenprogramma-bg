@@ -7356,5 +7356,33 @@
 		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
 		"id": "7c611278-80cf-4b64-b8ad-f7a060227cf4",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"81c61428-3a0c-4cff-92f4-cffe2171d391",
+			"58f65843-9376-4c9b-a081-2028a5bee4e1",
+			"ed5601bf-be75-4a81-b7ca-0f45b0ace79c",
+			"55dd7673-99f7-4423-97cf-e8dbdfd85c97",
+			"b1161414-d6c5-4168-99e1-88f02cdbfe0e",
+			"cfa2d299-a126-40c7-b847-47c2856733c7",
+			"c0eb4de5-e3bd-49d3-888c-d45265a7c333"
+		],
+		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
+		"id": "13066910-f12c-456c-bd8b-5ca208a0c0ca",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"aaf9e8ae-691d-47a3-a411-55df36cdf7e7",
+			"a94b41ec-0b81-4e8e-9701-86e9b33915be",
+			"3d547e49-cd5b-4011-b2c8-f901521c2539",
+			"04a7d1ba-6d46-46b5-9dd8-3761122f335d",
+			"57df9a97-f42e-45b0-ba42-5e7a2763d8db"
+		],
+		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
+		"id": "17b28d6a-a983-4d8d-8aac-19c2ece59eb9",
+		"unreleased": true
 	}
 ]

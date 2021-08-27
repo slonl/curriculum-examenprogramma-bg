@@ -2041,5 +2041,18 @@
 		"title": "Commerciële visserij",
 		"id": "5a85e1bf-dc86-482a-b138-80cd10c71a6f",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"4ae3e4da-774c-4004-95ad-4f746aa765c5"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"c3139c50-6bd3-4120-a817-9ec47eabc65b",
+			"38965d11-f00b-495f-93d9-dbe726f8b3ab"
+		],
+		"title": "Internationale handel",
+		"id": "30d19557-3ef7-476e-879b-db9a22d030e5",
+		"unreleased": true
 	}
 ]

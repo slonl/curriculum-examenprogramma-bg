@@ -2028,5 +2028,18 @@
 		"title": "Innovatie en prototypen",
 		"id": "407bf354-bb98-40a8-aef8-29cbb87e893f",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"8f701ae5-8301-454b-a677-cc1da4884904"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"13066910-f12c-456c-bd8b-5ca208a0c0ca",
+			"17b28d6a-a983-4d8d-8aac-19c2ece59eb9"
+		],
+		"title": "Commerciële visserij",
+		"id": "5a85e1bf-dc86-482a-b138-80cd10c71a6f",
+		"unreleased": true
 	}
 ]

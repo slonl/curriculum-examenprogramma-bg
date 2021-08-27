@@ -32073,5 +32073,159 @@
 		"title": "De kandidaat kan vormen van internationaal betalingsverkeer herkennen en benoemen.",
 		"id": "2f41fccc-b6d8-4cd8-be29-c7ebd5df3ad9",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.14/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de opdracht bespreken met de opdrachtgever waarbij de wensen en verwachtingen worden geïnventariseerd.",
+		"id": "69a984f1-326b-4d71-9503-c22aecd131ad",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan research uitvoeren, bijvoorbeeld op grond van een woonstijl, lifestyle, doelgroep, rages en trends, thema en kleur.",
+		"id": "9de461c9-c880-4500-8eb7-056e04ad61ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan woonstijlen en lifestyletrends in een presentatievorm herkennen en toepassen, bijvoorbeeld sfeercollage of flat lay.",
+		"id": "1ea45e8d-7e56-485e-a5fa-eb815cbca2f1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een stalenkaart van materialen samenstellen zoals gordijnstof, leer, behang, meubelstof, vloerbedekking passend bij het woonstijlconcept.",
+		"id": "0e0f5bf7-a11b-46d6-ae1a-3736f04b5018",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan textiele producten en materialen m.b.t. grondstof, ontstaanstechniek, bewerkingstechniek en de toepassing ervan herkennen en benoemen.",
+		"id": "0d11a6a8-1bc6-44bd-aea0-c02242ef8b3e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het woonstijlconcept presenteren aan de opdrachtgever waarbij haalbaarheid van het concept wordt besproken m.b.t. de wensen en verwachtingen.",
+		"id": "23c6c40d-a318-4e62-bd40-fb7154fc5239",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beeldaspecten zoals vorm, kleur, ruimte, licht, structuur, compositie en vormgevingsprincipes zoals ritme, herhaling en patroon toepassen t.b.v. het ontwerpen van een sample passend binnen het woonstijlconcept.",
+		"id": "d8e41c48-a1b8-45f4-bb5f-fd219e44f89a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp van een sample passend binnen het woonstijlconcept presenteren aan de opdrachtgever waarbij de haalbaarheid van het ontwerp wordt besproken m.b.t. de wensen en verwachtingen en de (technische) uitvoerbaarheid van het ontwerp.",
+		"id": "64da4b89-99f9-43df-a832-3a0250d03af5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan internationale keurmerken kennen en weten toe te passen voor de eigen onderneming.",
+		"id": "8c1d0031-0c2e-4dc2-abab-a846ceb7d563",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample zoals kruk, poef, lampenkap, meubelstof of kamerscherm bedenken en uitwerken binnen het woonstijlconcept en binnen de wensen van de opdrachtgever.",
+		"id": "9f8e4ec0-f329-416b-b452-4a913158bbe2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan stoffeertechnieken toepassen zoals meubel stofferen.",
+		"id": "e687c780-9386-412b-a2cb-703a9c61aaa0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technieken toepassen m.b.t. het bewerken en stylen van textiele materialen zoals sjabloneren, stempelen, zeefdrukken, appliqueren, plooien, Zaans stikwerk, borduren en mola techniek.",
+		"id": "43062fc2-a535-46b0-a046-23227cbc36ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan apparatuur en handgereedschap bedienen zoals (borduur-)naaimachine, pneumatische tacker, ontnieter, lijmpistool en transferpers.",
+		"id": "175fd205-d23e-4ac0-bf79-d97a60206b8a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample, passend binnen het woonstijlconcept, aan de opdrachtgever presenteren en evalueren voor suggesties ter verbetering.",
+		"id": "8adca5b5-b457-43e5-b9c5-918cc9658e8d",
+		"unreleased": true
 	}
 ]

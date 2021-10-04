@@ -28137,13 +28137,12 @@
 	{
 		"id": "3088cd41-c1a3-4912-adfd-714dbcae3155",
 		"prefix": "K/ZW/09/04-01",
-		"title": "De kandidaat kan eenvoudige kassawerkzaamheden verrichten, in het bijzonder een rekening maken, afrekenen en geld tellen.",
+		"title": "De kandidaat kan eenvoudige kassawerkzaamheden verrichten met name rekening maken, afrekenen en geld tellen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "9a4c9856-0a8c-4c8f-8d72-42d31e0f514a",
@@ -28637,145 +28636,132 @@
 	},
 	{
 		"id": "765b2733-7092-4c70-a2d9-ceaeb081dfbe",
-		"prefix": "K/ZW/6.15/1.1",
+		"prefix": "K/ZW/12/01-01",
 		"title": "De kandidaat kan informatie verzamelen over sport en bewegingsmogelijkheden in de regio",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "4632f4e5-6c06-4459-acc9-a7142f056433",
-		"prefix": "K/ZW/6.15/1.2",
-		"title": "De kandidaat kan de informatie presenteren.",
+		"prefix": "K/ZW/12/01-02",
+		"title": "De kandidaat kan de informatie presenteren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
-		"prefix": "K/ZW/6.15/2.1",
-		"title": "De kandidaat kan een bij de doelgroep passende sport- bewegingsactiviteit kiezen.",
+		"prefix": "K/ZW/12/02-01",
+		"title": "De kandidaat kan een bij de doelgroep passende sport- bewegingsactiviteit kiezen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "ff0e8849-9f9c-4e6c-91fc-0f21483dda71",
-		"prefix": "K/ZW/6.15/2.2",
-		"title": "De kandidaat kan een plan opstellen voor het organiseren van een sportevenement of toernooi.",
+		"prefix": "K/ZW/12/02-02",
+		"title": "De kandidaat kan een plan opstellen voor het organiseren van een sportevenement of toernooi",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "df1e6e0e-624b-4be4-ae45-bf0177e87c57",
-		"prefix": "K/ZW/6.15/2.3",
-		"title": "De kandidaat kan deelnemers werven.",
+		"prefix": "K/ZW/12/02-03",
+		"title": "De kandidaat kan deelnemers werven",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "3a117b67-85e3-4e88-890e-5a5e477d7091",
-		"prefix": "K/ZW/6.15/2.4",
-		"title": "De kandidaat kan deelnemers informeren.",
+		"prefix": "K/ZW/12/02-04",
+		"title": "De kandidaat kan deelnemers informeren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "ca9da90b-8c84-4cad-acee-2d43b4a2ff96",
-		"prefix": "K/ZW/6.15/2.5",
-		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze uitvoeren.",
+		"prefix": "K/ZW/12/02-05",
+		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze uitvoeren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "494263c1-b571-4eee-8192-98b2cc9ecd39",
-		"prefix": "K/ZW/6.15/2.6",
-		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze afsluiten.",
+		"prefix": "K/ZW/12/02-06",
+		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze afsluiten",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
-		"prefix": "K/ZW/6.15/3.1",
-		"title": "De kandidaat kan uitleg geven over sport- of bewegingsactiviteit.",
+		"prefix": "K/ZW/12/03-01",
+		"title": "De kandidaat kan uitleg geven over sport- of bewegingsactiviteit",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "d2574650-1cae-4a9b-bff9-1b2f265fa312",
-		"prefix": "K/ZW/6.15/3.2",
-		"title": "De kandidaat kan een bewegingsvaardigheid voordoen aan de groep.",
+		"prefix": "K/ZW/12/03-02",
+		"title": "De kandidaat kan een bewegingsvaardigheid voordoen aan de groep",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "fe3d722d-4b9d-4824-ab69-5af1887d81d2",
-		"prefix": "K/ZW/6.15/3.3",
-		"title": "De kandidaat kan eenvoudige aanwijzingen geven aan de deelnemers.",
+		"prefix": "K/ZW/12/03-03",
+		"title": "De kandidaat kan eenvoudige aanwijzingen geven aan de deelnemers",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "ea40f557-099f-4028-8908-09c1d76ca64f",
-		"prefix": "K/ZW/6.15/3.4",
-		"title": "De kandidaat kan deelnemers voor de sport- of bewegingsactiviteit stimuleren en enthousiasmeren.",
+		"prefix": "K/ZW/12/03-04",
+		"title": "De kandidaat kan deelnemers voor de sport- of bewegingsactiviteit stimuleren en enthousiasmeren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "7df9f06c-8688-44f8-8bb2-c727b423dd33",
-		"prefix": "K/ZW/6.15/3.5",
-		"title": "De kandidaat kan flexibel omgaan met verschillen tussen deelnemers.",
+		"prefix": "K/ZW/12/03-05",
+		"title": "De kandidaat kan flexibel omgaan met verschillen tussen deelnemers",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "4a4efc90-f2d5-49ce-ba5f-ff071088b22a",
@@ -28789,25 +28775,23 @@
 	},
 	{
 		"id": "5b6093d1-c764-4bb3-b4ff-e192609caf69",
-		"prefix": "K/ZW/6.15/4.1",
-		"title": "De kandidaat kan letten op de veiligheid van de sportaccommodatie zoals materialen, toestellen en apparatuur.",
+		"prefix": "K/ZW/12/04-01",
+		"title": "De kandidaat kan letten op de veiligheid van de sportaccommodatie zoals materialen, toestellen en apparatuur",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "94bdcf24-810d-453e-a0d9-a0e0536f8a0e",
-		"prefix": "K/ZW/6.15/4.2",
-		"title": "De kandidaat kan in bewegingssituaties eenvoudige regels en afspraken maken die blessures helpen voorkomen bij sportief spel.",
+		"prefix": "K/ZW/12/04-02",
+		"title": "De kandidaat kan in bewegingssituaties eenvoudige regels en afspraken maken die blessures helpen voorkomen bij sportief spel",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "e361fa4f-c8a7-4c38-976f-2425dfa5e8d9",
@@ -31318,47 +31302,930 @@
 		"unreleased": true
 	},
 	{
+		"prefix": "K/MET/3.17/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"id": "3eb39c2b-77fe-4795-802b-0e5e57e95a60",
-		"prefix": "K/ZW/6.15/5.1",
-		"title": "De kandidaat kan eenvoudige sportmetingen uitvoeren en aflezen zoals loopsnelheid, lenigheid, armkracht, sprongkracht.",
-		"description": ""
+		"title": "De kandidaat kan verschillende aandrijfsystemen voor hybride- en elektrische voertuigen herkennen en benoemen. Het gaat hier om: PHEV, EREV, BEV en FCEV.",
+		"id": "84b9b5f0-2849-4a81-805b-33b17c2afc0e",
+		"unreleased": true
 	},
 	{
+		"prefix": "K/MET/3.17/1.2",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"id": "f5ea66b3-9d48-4d07-8076-9fd484273f11",
-		"prefix": "K/ZW/6.15/5.2",
-		"title": "De kandidaat kan assisteren bij een warming up en cooling down.",
-		"description": ""
+		"title": "De kandidaat kan bij een leermodel of compleet voertuigen de componenten van hybride en elektrische aandrijfsystemen herkennen en benoemen. Het gaat hier om: inverter, converter, elektromotor/generator, HV-batterij, HV-kabels, interne lader, laadaansluiting, hoogspanningsverwarming, elektrische airconditioner, compressor, brandstofcel, waterstoftanks.",
+		"id": "4e5eee98-5da3-4c38-9796-ae8b16bf5238",
+		"unreleased": true
 	},
 	{
+		"prefix": "K/MET/3.17/1.3",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"id": "e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
-		"prefix": "K/ZW/6.15/5.3",
-		"title": "De kandidaat kan advies en informatie geven over passende sport- en bewegingsactiviteiten.",
-		"description": ""
+		"title": "De kandidaat kan bij een leermodel of compleet voertuigen de componenten van hybride en elektrische aandrijfsystemen herkennen, benoemen en de functie kunnen omschrijven. Het gaat hier om: inverter, converter, elektromotor/generator, HVbatterij, HV-kabels interne lader, laadaansluiting, hoogspanningsverwarming, elektrische airconditioner compressor, brandstofcel, waterstoftanks",
+		"id": "d2a3d95a-c37c-4d03-acee-d10f7a6ba7b1",
+		"unreleased": true
 	},
 	{
+		"prefix": "K/MET/3.17/1.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een FCEV de werking omschrijven.",
+		"id": "ffa5a641-1547-4e7a-a767-bfa80d8ac5d4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.17/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan de opbouw van een elektromotor/generator benoemen. Het gaat hier om: rotor, stator, koppeling.",
+		"id": "8ef11cbb-8023-4caf-8a0a-b411d86e77d2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.17/1.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een elektromotor/generator de opbouw benoemen en het werkingsprincipe omschrijven.",
+		"id": "03a37242-8f5d-4457-abd1-47802f315d40",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.17/1.7",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de HV-aansluitingen van de componenten van een BEV schematisch kunnen tekenen.",
+		"id": "7d13aa7e-ed37-4cc8-9f90-0cd947b5b8b2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.17/1.8",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de veiligheidslijn van een BEV schematisch kunnen tekenen en de functie van de veiligheidslijn kunnen benoemen.",
+		"id": "8b68002e-58da-42b0-8632-f0bddd86fa63",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"id": "55a95897-95d9-41a1-b916-0f0aa8c8fbff",
-		"prefix": "K/ZW/6.15/5.4",
-		"title": "De kandidaat kan informatie geven over de relatie tussen bewegen en gezondheid en over een passende sportuitrusting.",
-		"description": ""
+		"title": "De kandidaat kan de risico’s benoemen bij het werken aan hybride- en elektrische voertuigen.",
+		"id": "b7dce455-f5f6-4d09-998c-9f30bc697fe7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de verschillende waarschuwingsstickers herkennen en de betekenis benoemen.",
+		"id": "088fb653-85d2-46f6-b5aa-36df870fcdea",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de veiligheidseisen benoemen voor het werken aan elektrische voertuigen",
+		"id": "e6b5eec6-9983-45e0-bd68-f638e188a8a8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een practicum of leermodel de stappen uitvoeren om een voertuig spanningsvrij te schakelen (LET OP: Uitsluitend in een practicumopstelling waarbij geen hoogspanning aanwezig is).",
+		"id": "840d2d52-65ff-4c48-86ba-757959899930",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de verschillende gereedschappen en PBM’s benoemen voor het werken aan elektrische voertuigen. Het gaat hier o.a. om: de Duspol en de Megger).",
+		"id": "9ff3b8d8-fc4f-4d16-83c6-1def8a1a57bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan gereedschappen en PBM’s op een juiste manier inzetten bij het spanningsvrij schakelen van een voertuig (LET OP: Uitsluitend in een practicumopstelling waarbij geen hoogspanning aanwezig is).",
+		"id": "07348a50-558d-4546-9518-5a3cef92de0d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een practicummodel van een brandstofcelaandrijving opbouwen en de werking verklaren.",
+		"id": "5dce341f-c39a-4b73-902d-10a496ec5d9c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.8",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een EV de voertuiggegevens uitlezen met behulp van diagnose apparatuur.",
+		"id": "33deaa21-6291-440c-a5ce-c97f64e01d41",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.9",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan controle metingen uitvoeren aan een veiligheidslijn van een elektrisch voertuig (LET OP: Uitsluitend in een practicumopstelling of gesimuleerde opstelling waarbij geen hoogspanning aanwezig is).",
+		"id": "01f2773e-e4e1-448d-9f82-d0bc82e48a70",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan metingen verrichten aan spanningsloze componenten. Het gaat hier o.a. om: de elektromotor, de aircocompressor en de HV-kabels.",
+		"id": "d6603ea7-8835-4713-9150-119c0fc26388",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2.11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan toepassingen noemen van AR/VR. Het gaat hier o.a. om de uitvoering van onderhoud met ondersteuning op afstand mogelijk te kunnen maken.",
+		"id": "124e361d-2c15-4803-bc11-11800ad46086",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan benoemen welke hybride- of elektrische voertuigen extern kunnen worden geladen.",
+		"id": "b6ef47c4-1ea4-4789-9817-7de116863563",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan verschillende connectoren om een voertuig te laden herkennen en benoemen.",
+		"id": "0787a501-d4c0-4708-9940-da452bedf2d8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende connectoren om een voertuig op te laden herkennen en benoemen en de functie van de verschillende aansluitingen omschrijven.",
+		"id": "8d72e8db-520d-40aa-bc84-ce6fd88fce29",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij een gegeven accucapaciteit en het laadvermogen de laadtijd berekenen.",
+		"id": "e82514b2-7776-4da0-bfc6-e90d2d3d033b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij een gegeven laadvermogen en energieverbruik de laadsnelheid berekenen.",
+		"id": "bbda176b-3234-4849-add1-cd94e20ef1ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende laadvoorzieningen herkennen en benoemen. Het gaat hier o.a. om oplaadpaal voor thuis, publiek laadpunt, snellaadpaal en inductieladen.",
+		"id": "4127c798-5a11-4899-9b46-3b2cda914c58",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een elektrisch voertuig laden bij verschillende laadvoorzieningen.",
+		"id": "63b8d845-59e1-45b1-8a1e-f3b1830a6b41",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan moderne technische (hulp)middelen en innovaties herkennen en benoemen, met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "05adc159-3394-41db-b16b-2e7afbd5f15c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende problemen analyseren en beschrijven, met name op het gebied van constructie, vormgeving, besturing en functionaliteit.",
+		"id": "4ea2ae01-793e-4561-90e9-33e8d36a45e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan nieuwe technische (hulp)middelen en innovaties voor toekomstige oplossingen toepassen met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "d898658d-68ea-46a9-a5d8-3f16d30a41d6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van een analyse oplossingen bedenken en presenteren.",
+		"id": "4fa3be67-7ecd-4e0e-8e8a-7e4e06428343",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de haalbaarheid van de gekozen oplossing aan de hand van de huidige techniek omschrijven.",
+		"id": "c0faf26d-d2d8-4f47-9912-50060cf108c7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de invloed van moderne technieken en innovaties op het productieproces beschrijven met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "e92ca491-0a28-4b2a-b9c9-5d67bdf1a193",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan keuzes voor de gekozen technieken beargumenteren.",
+		"id": "e20dd305-3c36-4788-94d0-80c701a16fcf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van een ontwerp een prototype maken.",
+		"id": "6eb8b53f-8ab8-44b5-8cbe-35ccaf98082e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de functie, de werking en de vorm van het product beargumenteren.",
+		"id": "a89028b6-4f3d-433f-a475-931bd242514d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een prototype testen, evalueren en op basis van verkregen feedback creatieve verbetervoorstellen ontwikkelen.",
+		"id": "d1b75ee4-f34b-47f0-836f-209580bb71f8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan correcties op basis van de evaluatie beargumenteren en doorvoeren.",
+		"id": "7b3c3c4e-d64f-495d-9622-5058be504e5a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/4.17/4.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het resultaat vastleggen en presenteren.",
+		"id": "8792f941-ce9f-44fc-b689-5266de08b7f5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de meest voorkomende vissoorten die in de commerciële visserij worden gevangen, herkennen en benoemen en in verband brengen met de verschillende vismethoden.",
+		"id": "6b2e8591-78f9-46dc-96a8-a706f7d818a1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan eigenschappen van verschillende commerciële vismethoden benoemen en in verband brengen met de constructie van het vissersschip en het toegepaste visnetwerk.",
+		"id": "082082a3-e8fc-4b76-8011-427576d8c438",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk maken over duurzame commerciële visserij.",
+		"id": "199920c1-0b07-497c-a28c-238c61e5fc40",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij werkzaamheden aan dek de voorgeschreven PBM’s en veiligheidsprocedures toepassen.",
+		"id": "15564ac6-1072-4e8e-9bcc-57659d9b1d25",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij de eerste vissortering zoals vis strippen, spoelen en ijzen.",
+		"id": "11a29648-25c8-4a7f-b705-6cac2a735046",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan veilig, hygiënisch en duurzaam werken tijdens de eerste vissortering volgens voorgeschreven procedures.",
+		"id": "836a8fab-1a67-4860-968b-5d00ceb1a987",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij laad- en loswerkzaamheden van het visproduct.",
+		"id": "e0a1a877-8305-4231-b962-c01aef5fe1dc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen van het visgerei benoemen en beschrijven.",
+		"id": "77167b6f-38e9-4c07-846c-052a4ac10e88",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werken met verschillende soorten touwwerk rekening houdend met materiaaleigenschappen. Het gaat hier om sterkte, dikte en buigzaamheid van het touwwerk.",
+		"id": "0c2b0524-050e-4fae-abf3-4a7f496079f5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een rechthoekige scheur repareren in een visnetwerk.",
+		"id": "cabd3f6f-edd7-4b6c-a586-78511a9ecb30",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vissersknopen maken. Het gaat hier om de achtknoop, chirurgenknoop, constrictorknoop, kettingsteek, timmersteek, twee zoete liefjes, vissersknoop en het keesje.",
+		"id": "c6fdb582-9b31-4e7f-acdf-320b6861bec0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan schiemanswerk uitvoeren. Het gaat hier om het maken van een takeling, korte splits, eindsplits en een oogsplits.",
+		"id": "ba13ce16-dc1d-4638-92db-c5872def0f7a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de meest voorkomende vissoorten die in de commerciële visserij worden gevangen, herkennen en benoemen en in verband brengen met de verschillende vismethoden.",
+		"id": "81c61428-3a0c-4cff-92f4-cffe2171d391",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan eigenschappen van verschillende commerciële vismethoden benoemen en in verband brengen met de constructie van het vissersschip en het toegepaste visnetwerk.",
+		"id": "58f65843-9376-4c9b-a081-2028a5bee4e1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk maken over duurzame commerciële visserij.",
+		"id": "ed5601bf-be75-4a81-b7ca-0f45b0ace79c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bij werkzaamheden aan dek de voorgeschreven PBM’s en veiligheidsprocedures toepassen.",
+		"id": "55dd7673-99f7-4423-97cf-e8dbdfd85c97",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij de eerste vissortering zoals vis strippen, spoelen en ijzen.",
+		"id": "b1161414-d6c5-4168-99e1-88f02cdbfe0e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan veilig, hygiënisch en duurzaam werken tijdens de eerste vissortering volgens voorgeschreven procedures.",
+		"id": "cfa2d299-a126-40c7-b847-47c2856733c7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/1.7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan assisteren bij laad- en loswerkzaamheden van het visproduct.",
+		"id": "c0eb4de5-e3bd-49d3-888c-d45265a7c333",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen van het visgerei benoemen en beschrijven.",
+		"id": "aaf9e8ae-691d-47a3-a411-55df36cdf7e7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werken met verschillende soorten touwwerk rekening houdend met materiaaleigenschappen. Het gaat hier om sterkte, dikte en buigzaamheid van het touwwerk.",
+		"id": "a94b41ec-0b81-4e8e-9701-86e9b33915be",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een rechthoekige scheur repareren in een visnetwerk.",
+		"id": "3d547e49-cd5b-4011-b2c8-f901521c2539",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vissersknopen maken. Het gaat hier om de achtknoop, chirurgenknoop, constrictorknoop, kettingsteek, timmersteek, twee zoete liefjes, vissersknoop en het keesje.",
+		"id": "04a7d1ba-6d46-46b5-9dd8-3761122f335d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/5.20/2.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan schiemanswerk uitvoeren. Het gaat hier om het maken van een takeling, korte splits, eindsplits en een oogsplits.",
+		"id": "57df9a97-f42e-45b0-ba42-5e7a2763d8db",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beroepen herkennen en benoemen in de internationale handel.",
+		"id": "493fe13b-9fd8-412f-8055-5af45885f777",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan omgaan met internationaal cultuurverschillen in de beroepscontext.",
+		"id": "c4a8d7e1-d6a2-4efd-b231-88c507f170bb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan topografische kennis van de belangrijkste handelspartners van Nederland gebruiken en aantonen, zoals Duitsland, Zweden, China, Frankrijk en Verenigde Staten.",
+		"id": "ded3c591-2b36-4c3f-a9b8-299a351b9d3f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een modern vreemde taal communiceren met buitenlandse handelspartners m.b.v. telefoon, mail/contactformulier, social media, persoonlijk.",
+		"id": "903dbd6d-4488-4870-8d23-2bbbfa1e29b6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan door te handelen met internationale (junior)ondernemingen omgaan met duurzaam ondernemen: people, planet, profit.",
+		"id": "d03748a4-2b00-451a-8c42-61f84d57c644",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan regels, bepalingen en wetten gebruiken die te maken hebben met internationale handel voor de onderneming.",
+		"id": "396f1620-a602-4237-809e-ce17c6cc2443",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan internationale keurmerken kennen en weten toe te passen voor de eigen onderneming.",
+		"id": "c471b7b6-73d9-424c-b9e8-07a67dac83d4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan formulieren m.b.t. internationale handel invullen, zoals: bill of lading, CMR/CIM vrachtbrief, ATA/CIR Carnet, certificaat van oorsprong, offerte, letter of credit.",
+		"id": "3a71d3ef-ebbf-46ce-9522-c72b5717b34e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren die van belang zijn bij de eigen internationale onderneming, zoals: vreemde valuta, transportkosten, BTW met andere percentages, invoerrechten.",
+		"id": "845b0ba7-8b3e-49ac-98be-2f67b2b60e92",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vormen van fysieke distributie herkennen en benoemen die van belang zijn bij internationale handel en voor de onderneming/het product de juiste transportmethode kiezen.",
+		"id": "921e65bc-486d-4c8a-85ac-9814a299b84f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.7",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vormen van internationaal betalingsverkeer herkennen en benoemen.",
+		"id": "2f41fccc-b6d8-4cd8-be29-c7ebd5df3ad9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.14/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de opdracht bespreken met de opdrachtgever waarbij de wensen en verwachtingen worden geïnventariseerd.",
+		"id": "69a984f1-326b-4d71-9503-c22aecd131ad",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan research uitvoeren, bijvoorbeeld op grond van een woonstijl, lifestyle, doelgroep, rages en trends, thema en kleur.",
+		"id": "9de461c9-c880-4500-8eb7-056e04ad61ec",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan woonstijlen en lifestyletrends in een presentatievorm herkennen en toepassen, bijvoorbeeld sfeercollage of flat lay.",
+		"id": "1ea45e8d-7e56-485e-a5fa-eb815cbca2f1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een stalenkaart van materialen samenstellen zoals gordijnstof, leer, behang, meubelstof, vloerbedekking passend bij het woonstijlconcept.",
+		"id": "0e0f5bf7-a11b-46d6-ae1a-3736f04b5018",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan textiele producten en materialen m.b.t. grondstof, ontstaanstechniek, bewerkingstechniek en de toepassing ervan herkennen en benoemen.",
+		"id": "0d11a6a8-1bc6-44bd-aea0-c02242ef8b3e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het woonstijlconcept presenteren aan de opdrachtgever waarbij haalbaarheid van het concept wordt besproken m.b.t. de wensen en verwachtingen.",
+		"id": "23c6c40d-a318-4e62-bd40-fb7154fc5239",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beeldaspecten zoals vorm, kleur, ruimte, licht, structuur, compositie en vormgevingsprincipes zoals ritme, herhaling en patroon toepassen t.b.v. het ontwerpen van een sample passend binnen het woonstijlconcept.",
+		"id": "d8e41c48-a1b8-45f4-bb5f-fd219e44f89a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp van een sample passend binnen het woonstijlconcept presenteren aan de opdrachtgever waarbij de haalbaarheid van het ontwerp wordt besproken m.b.t. de wensen en verwachtingen en de (technische) uitvoerbaarheid van het ontwerp.",
+		"id": "64da4b89-99f9-43df-a832-3a0250d03af5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan internationale keurmerken kennen en weten toe te passen voor de eigen onderneming.",
+		"id": "8c1d0031-0c2e-4dc2-abab-a846ceb7d563",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample zoals kruk, poef, lampenkap, meubelstof of kamerscherm bedenken en uitwerken binnen het woonstijlconcept en binnen de wensen van de opdrachtgever.",
+		"id": "9f8e4ec0-f329-416b-b452-4a913158bbe2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan stoffeertechnieken toepassen zoals meubel stofferen.",
+		"id": "e687c780-9386-412b-a2cb-703a9c61aaa0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technieken toepassen m.b.t. het bewerken en stylen van textiele materialen zoals sjabloneren, stempelen, zeefdrukken, appliqueren, plooien, Zaans stikwerk, borduren en mola techniek.",
+		"id": "43062fc2-a535-46b0-a046-23227cbc36ac",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan apparatuur en handgereedschap bedienen zoals (borduur-)naaimachine, pneumatische tacker, ontnieter, lijmpistool en transferpers.",
+		"id": "175fd205-d23e-4ac0-bf79-d97a60206b8a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/7.13/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample, passend binnen het woonstijlconcept, aan de opdrachtgever presenteren en evalueren voor suggesties ter verbetering.",
+		"id": "8adca5b5-b457-43e5-b9c5-918cc9658e8d",
+		"unreleased": true
 	}
 ]

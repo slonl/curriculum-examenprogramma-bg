@@ -75,7 +75,7 @@
 	{
 		"id": "d2508ab9-cb99-480a-a9fd-5973ca28efff",
 		"prefix": "EO",
-		"title": "Economie en Ondernemen",
+		"title": "Economie en ondernemen",
 		"examenprogramma_bg_kern_id": [
 			"2ba68b18-0986-4515-9321-fd31417161a7"
 		],
@@ -86,8 +86,6 @@
 			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"0af1283f-c0fe-460f-b2f9-7ea963879d17",
-			"30d19557-3ef7-476e-879b-db9a22d030e5",
 			"8d1b5ab0-a0b8-40fe-9db5-9a6feba9dd95",
 			"bd152ac2-f7eb-492b-ad20-e84fa78fefc1",
 			"9682cac6-6ddc-4946-bdcc-6b169616e1ca",
@@ -100,8 +98,7 @@
 		"description": "",
 		"vakleergebied_id": [
 			"18126dde-b79b-4231-826d-b902a6fa70db"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "a28cd5c9-d020-434a-a4dd-8a539fa35092",
@@ -134,7 +131,7 @@
 	{
 		"id": "29567373-b655-46a4-9c6a-6f04001c139b",
 		"prefix": "MT",
-		"title": "Maritiem en Techniek",
+		"title": "Maritiem en techniek",
 		"examenprogramma_bg_kern_id": [
 			"0866408c-fd90-48e5-bcf3-6167c1f04ca7"
 		],
@@ -145,7 +142,6 @@
 			"44464c45-3349-4758-8ef5-8a58dd936ac9"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"5a85e1bf-dc86-482a-b138-80cd10c71a6f",
 			"74c5e558-1a0f-4222-8581-66b4ab33c4f9",
 			"5c783336-57df-44e8-805d-fccdf01e8ede",
 			"d964b059-6961-4ac4-9993-edf24da2b44b",
@@ -165,13 +161,12 @@
 		"description": "",
 		"vakleergebied_id": [
 			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "a3569749-440e-4d1c-bd98-b328ec57a9a7",
 		"prefix": "MVI",
-		"title": "Media, vormgeving en ICT",
+		"title": "Media, vormgeving en ict",
 		"examenprogramma_bg_kern_id": [
 			"6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a"
 		],
@@ -182,7 +177,6 @@
 			"35421908-139e-430b-b076-6ec2167c0d4c"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"407bf354-bb98-40a8-aef8-29cbb87e893f",
 			"18bd9e65-4779-41c0-bd7c-6c031165e1eb",
 			"71425a7a-d418-447f-9d78-48ff71a3c0a0",
 			"aee14f60-8e6c-4d87-966c-f965036355c8",
@@ -199,13 +193,12 @@
 		"description": "",
 		"vakleergebied_id": [
 			"f4848ad5-47b5-4539-8d50-437d15385368"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "43c567e5-d5a9-480e-b03c-3c377215ecf6",
-		"prefix": "BWI",
-		"title": "Mobiliteit en Transport",
+		"prefix": "MT",
+		"title": "Mobiliteit en transport",
 		"examenprogramma_bg_kern_id": [
 			"09dd2988-44cb-43b8-ad27-1cc934ea9d7f"
 		],
@@ -216,7 +209,6 @@
 			"a88692f5-10a3-4aac-9e19-73d87c7015df"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"ae26c88a-98f5-436e-be53-bd3bb0a6890d",
 			"21fefb79-81c0-4f43-b8ae-f0c231f30cff",
 			"fe7101ce-5399-43df-bac5-e9d53a614712",
 			"6c4e965f-fe26-48fa-97b7-89c49fde2c9a",
@@ -233,8 +225,7 @@
 		"description": "",
 		"vakleergebied_id": [
 			"aa197275-236f-451e-85be-ed0902848f08"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"id": "fa4d75da-d045-4360-ac45-a772378e46d1",
@@ -303,15 +294,15 @@
 			"96a16743-6543-46a7-a0a5-3933598ce670",
 			"bbacafd8-0087-4809-9047-fc1e3516da05",
 			"6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
-			"9bf40365-f7e5-4b7e-9384-26a1683c1d81",
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
-			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-			"9962df41-0936-465e-9df4-e8d612fb5339"
+			"9962df41-0936-465e-9df4-e8d612fb5339",
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
 		],
 		"description": "",
 		"vakleergebied_id": [
 			"73cef23f-df24-4015-8516-072a13dcd369"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "28b7d506-689b-4328-8a06-6892262c2edd",

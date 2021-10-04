@@ -1715,7 +1715,7 @@
 	{
 		"id": "6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 		"prefix": "K/ZW/09",
-		"title": "Facilitaire Dienstverlening: inrichting en verzorging",
+		"title": "Facilitaire Dienstverlening: catering en inrichting",
 		"description": "eenvoudige dienstverlenende activiteiten verrichten",
 		"examenprogramma_bg_deeltaak_id": [
 			"f8f70b44-9ff5-43f5-87cd-f217cea88ddb",
@@ -1760,19 +1760,20 @@
 	},
 	{
 		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-		"prefix": "K/ZW/12",
-		"title": "Sport en bewegen",
+		"prefix": "K/ZW/6.15",
+		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [
 			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
 			"0637ff48-2763-41dd-be0f-3327abac8445",
 			"ad49151b-a667-452d-ac5d-f7a8d4845a26",
 			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-			"7a21797f-04dd-4631-8cb1-9ae3934a6431"
+			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
 		],
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
@@ -1964,9 +1965,10 @@
 			"27a240e0-4770-47b2-be41-a48dc6c337dc",
 			"b85bf3cd-b331-43c7-9fde-7e25542b4b48"
 		],
-		"title": "Cloud en cyversecurity",
+		"title": "Cloud en cybersecurity",
 		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/2.27",
@@ -1997,76 +1999,6 @@
 		],
 		"title": "Dronetechniek II: inspecteren met behulp van drones",
 		"id": "24471646-f67a-472e-8e66-6d6f365d7cda",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.17",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"9507a0fc-1939-477d-9b1e-bf8ca91dff25"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"5b90a084-0115-4121-a5c4-bad7269435e5",
-			"69cdeb6a-8241-4ec8-94e7-9a288ccbf526",
-			"f0c32efe-415f-4dd8-b7a4-315d8f095d42"
-		],
-		"title": "Elektrische voertuigen",
-		"id": "ae26c88a-98f5-436e-be53-bd3bb0a6890d",
-		"unreleased": true,
-		"description": ""
-	},
-	{
-		"prefix": "K/MVI/4.17",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"09bb7c70-f808-4a33-8dff-288587354c75"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"c6493b13-a55b-47b4-8fe9-4840df660b9b",
-			"caa6696d-2dc3-401b-8e05-dcf1f5e3ee10",
-			"f991893d-2508-40e8-9c39-ec5b1a42d1be",
-			"5ad1f7fb-fb9e-42cb-a269-a7e18fa70eed"
-		],
-		"title": "Innovatie en prototypen",
-		"id": "407bf354-bb98-40a8-aef8-29cbb87e893f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"8f701ae5-8301-454b-a677-cc1da4884904"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"13066910-f12c-456c-bd8b-5ca208a0c0ca",
-			"17b28d6a-a983-4d8d-8aac-19c2ece59eb9"
-		],
-		"title": "Commerciële visserij",
-		"id": "5a85e1bf-dc86-482a-b138-80cd10c71a6f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.13",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"4ae3e4da-774c-4004-95ad-4f746aa765c5"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"c3139c50-6bd3-4120-a817-9ec47eabc65b",
-			"38965d11-f00b-495f-93d9-dbe726f8b3ab"
-		],
-		"title": "Internationale handel",
-		"id": "30d19557-3ef7-476e-879b-db9a22d030e5",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.14",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"e5e52d4c-e877-4eaf-9168-3cab7ba52bb9"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"9e30755d-98ba-41a8-920d-025cda9d3719",
-			"384fdad4-6251-485c-8144-c6c8f12ee5ec",
-			"bb69f1f8-dfdf-4674-a218-5fddf635be52"
-		],
-		"title": "Wonen en design",
-		"id": "0af1283f-c0fe-460f-b2f9-7ea963879d17",
 		"unreleased": true
 	}
 ]

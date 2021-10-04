@@ -6347,7 +6347,7 @@
 	{
 		"id": "56b5bba1-859b-4e26-b0cc-c4ef357949a7",
 		"prefix": "K/ZW/09/02",
-		"title": "Eenvoudige cateringwerkzaamheden verrichten volgens HACCP richtlijnen",
+		"title": "Eenvoudige cateringwerkzaamheden verrichten en werken volgens HACCP richtlijnen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"77750d4d-48d6-4335-bf0c-94b0eeb89690",
 			"526e72e8-1493-43b7-961b-18da5d21acca",
@@ -6356,7 +6356,8 @@
 			"08de13d2-93f5-4db5-ab34-1c02efc12944",
 			"1e8b1d9c-870d-4c46-92df-4f618bf2d06f",
 			"dd91824e-f585-4a20-8b9c-65f759df85ef"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "cd68989d-547b-4891-a221-3d2a2e6a9904",
@@ -6490,17 +6491,18 @@
 	},
 	{
 		"id": "4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-		"prefix": "K/ZW/12/01",
+		"prefix": "K/ZW/6.15/1",
 		"title": "Informatie verstrekken over mogelijkheden om te bewegen en te sporten in de eigen regio",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"765b2733-7092-4c70-a2d9-ceaeb081dfbe",
 			"4632f4e5-6c06-4459-acc9-a7142f056433"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0637ff48-2763-41dd-be0f-3327abac8445",
-		"prefix": "K/ZW/12/02",
-		"title": "Voor een doelgroep een eenvoudig sportevenement of toernooi organiseren en uitvoeren",
+		"prefix": "K/ZW/6.15/2",
+		"title": "Voor een doelgroep een eenvoudig sportevenement of toernooi organiseren en uitvoeren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
 			"ff0e8849-9f9c-4e6c-91fc-0f21483dda71",
@@ -6508,29 +6510,32 @@
 			"3a117b67-85e3-4e88-890e-5a5e477d7091",
 			"ca9da90b-8c84-4cad-acee-2d43b4a2ff96",
 			"494263c1-b571-4eee-8192-98b2cc9ecd39"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ad49151b-a667-452d-ac5d-f7a8d4845a26",
-		"prefix": "K/ZW/12/03",
-		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten",
+		"prefix": "K/ZW/6.15/3",
+		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
 			"d2574650-1cae-4a9b-bff9-1b2f265fa312",
 			"fe3d722d-4b9d-4824-ab69-5af1887d81d2",
 			"ea40f557-099f-4028-8908-09c1d76ca64f",
-			"7df9f06c-8688-44f8-8bb2-c727b423dd33",
-			"4a4efc90-f2d5-49ce-ba5f-ff071088b22a"
-		]
+			"7df9f06c-8688-44f8-8bb2-c727b423dd33"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-		"prefix": "K/ZW/12/04",
-		"title": "Omgaan met veiligheid en het voorkomen van blessures",
+		"prefix": "K/ZW/6.15/4",
+		"title": "Omgaan met veiligheid en het voorkomen van blessures.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5b6093d1-c764-4bb3-b4ff-e192609caf69",
 			"94bdcf24-810d-453e-a0d9-a0e0536f8a0e"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7a21797f-04dd-4631-8cb1-9ae3934a6431",
@@ -7236,218 +7241,16 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MET/3.17/1",
+		"id": "133e0e5e-d9c9-48ef-8127-1c31b6ece385",
+		"prefix": "K/ZW/6.15/5",
+		"title": "Assisteren bij de uitvoering van bewegingsprogramma's.",
+		"description": "",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"84b9b5f0-2849-4a81-805b-33b17c2afc0e",
-			"4e5eee98-5da3-4c38-9796-ae8b16bf5238",
-			"d2a3d95a-c37c-4d03-acee-d10f7a6ba7b1",
-			"ffa5a641-1547-4e7a-a767-bfa80d8ac5d4",
-			"8ef11cbb-8023-4caf-8a0a-b411d86e77d2",
-			"03a37242-8f5d-4457-abd1-47802f315d40",
-			"7d13aa7e-ed37-4cc8-9f90-0cd947b5b8b2",
-			"8b68002e-58da-42b0-8632-f0bddd86fa63"
+			"3eb39c2b-77fe-4795-802b-0e5e57e95a60",
+			"f5ea66b3-9d48-4d07-8076-9fd484273f11",
+			"e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
+			"55a95897-95d9-41a1-b916-0f0aa8c8fbff"
 		],
-		"title": "Hybride- en elektrische aandrijfsystemen herkennen en benoemen",
-		"id": "5b90a084-0115-4121-a5c4-bad7269435e5",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"b7dce455-f5f6-4d09-998c-9f30bc697fe7",
-			"088fb653-85d2-46f6-b5aa-36df870fcdea",
-			"e6b5eec6-9983-45e0-bd68-f638e188a8a8",
-			"840d2d52-65ff-4c48-86ba-757959899930",
-			"9ff3b8d8-fc4f-4d16-83c6-1def8a1a57bc",
-			"07348a50-558d-4546-9518-5a3cef92de0d",
-			"5dce341f-c39a-4b73-902d-10a496ec5d9c",
-			"33deaa21-6291-440c-a5ce-c97f64e01d41",
-			"01f2773e-e4e1-448d-9f82-d0bc82e48a70",
-			"d6603ea7-8835-4713-9150-119c0fc26388",
-			"124e361d-2c15-4803-bc11-11800ad46086"
-		],
-		"title": "Veilig werken aan hybride en elektrische voertuigen",
-		"id": "69cdeb6a-8241-4ec8-94e7-9a288ccbf526",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"b6ef47c4-1ea4-4789-9817-7de116863563",
-			"0787a501-d4c0-4708-9940-da452bedf2d8",
-			"8d72e8db-520d-40aa-bc84-ce6fd88fce29",
-			"e82514b2-7776-4da0-bfc6-e90d2d3d033b",
-			"bbda176b-3234-4849-add1-cd94e20ef1ac",
-			"4127c798-5a11-4899-9b46-3b2cda914c58",
-			"63b8d845-59e1-45b1-8a1e-f3b1830a6b41"
-		],
-		"title": "Laden van hybride en elektrische voertuigen",
-		"id": "f0c32efe-415f-4dd8-b7a4-315d8f095d42",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/4.17/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"05adc159-3394-41db-b16b-2e7afbd5f15c",
-			"4ea2ae01-793e-4561-90e9-33e8d36a45e0"
-		],
-		"title": "Een maatschappelijk probleem analyseren en beschrijven.",
-		"id": "c6493b13-a55b-47b4-8fe9-4840df660b9b",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/4.17/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d898658d-68ea-46a9-a5d8-3f16d30a41d6",
-			"4fa3be67-7ecd-4e0e-8e8a-7e4e06428343",
-			"c0faf26d-d2d8-4f47-9912-50060cf108c7"
-		],
-		"title": "Oplossingen bedenken en uitwerken en daarbij het gebruik maken van moderne technieken beargumenteren.",
-		"id": "caa6696d-2dc3-401b-8e05-dcf1f5e3ee10",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/4.17/3",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"e92ca491-0a28-4b2a-b9c9-5d67bdf1a193",
-			"e20dd305-3c36-4788-94d0-80c701a16fcf",
-			"6eb8b53f-8ab8-44b5-8cbe-35ccaf98082e",
-			"a89028b6-4f3d-433f-a475-931bd242514d"
-		],
-		"title": "Een (deels) werkend prototype maken.",
-		"id": "f991893d-2508-40e8-9c39-ec5b1a42d1be",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/4.17/4",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d1b75ee4-f34b-47f0-836f-209580bb71f8",
-			"7b3c3c4e-d64f-495d-9622-5058be504e5a",
-			"8792f941-ce9f-44fc-b689-5266de08b7f5"
-		],
-		"title": "Een prototype testen, evalueren en verbeteren.",
-		"id": "5ad1f7fb-fb9e-42cb-a269-a7e18fa70eed",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"6b2e8591-78f9-46dc-96a8-a706f7d818a1",
-			"082082a3-e8fc-4b76-8011-427576d8c438",
-			"199920c1-0b07-497c-a28c-238c61e5fc40",
-			"15564ac6-1072-4e8e-9bcc-57659d9b1d25",
-			"11a29648-25c8-4a7f-b705-6cac2a735046",
-			"836a8fab-1a67-4860-968b-5d00ceb1a987",
-			"e0a1a877-8305-4231-b962-c01aef5fe1dc"
-		],
-		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
-		"id": "13f2a1b2-b89f-40c5-84aa-a455c2cea3f1",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"77167b6f-38e9-4c07-846c-052a4ac10e88",
-			"0c2b0524-050e-4fae-abf3-4a7f496079f5",
-			"cabd3f6f-edd7-4b6c-a586-78511a9ecb30",
-			"c6fdb582-9b31-4e7f-acdf-320b6861bec0",
-			"ba13ce16-dc1d-4638-92db-c5872def0f7a"
-		],
-		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
-		"id": "7c611278-80cf-4b64-b8ad-f7a060227cf4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"81c61428-3a0c-4cff-92f4-cffe2171d391",
-			"58f65843-9376-4c9b-a081-2028a5bee4e1",
-			"ed5601bf-be75-4a81-b7ca-0f45b0ace79c",
-			"55dd7673-99f7-4423-97cf-e8dbdfd85c97",
-			"b1161414-d6c5-4168-99e1-88f02cdbfe0e",
-			"cfa2d299-a126-40c7-b847-47c2856733c7",
-			"c0eb4de5-e3bd-49d3-888c-d45265a7c333"
-		],
-		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
-		"id": "13066910-f12c-456c-bd8b-5ca208a0c0ca",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MT/5.20/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"aaf9e8ae-691d-47a3-a411-55df36cdf7e7",
-			"a94b41ec-0b81-4e8e-9701-86e9b33915be",
-			"3d547e49-cd5b-4011-b2c8-f901521c2539",
-			"04a7d1ba-6d46-46b5-9dd8-3761122f335d",
-			"57df9a97-f42e-45b0-ba42-5e7a2763d8db"
-		],
-		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
-		"id": "17b28d6a-a983-4d8d-8aac-19c2ece59eb9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.13/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"493fe13b-9fd8-412f-8055-5af45885f777",
-			"c4a8d7e1-d6a2-4efd-b231-88c507f170bb",
-			"ded3c591-2b36-4c3f-a9b8-299a351b9d3f",
-			"903dbd6d-4488-4870-8d23-2bbbfa1e29b6"
-		],
-		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen.",
-		"id": "c3139c50-6bd3-4120-a817-9ec47eabc65b",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.13/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d03748a4-2b00-451a-8c42-61f84d57c644",
-			"396f1620-a602-4237-809e-ce17c6cc2443",
-			"c471b7b6-73d9-424c-b9e8-07a67dac83d4",
-			"3a71d3ef-ebbf-46ce-9522-c72b5717b34e",
-			"845b0ba7-8b3e-49ac-98be-2f67b2b60e92",
-			"921e65bc-486d-4c8a-85ac-9814a299b84f",
-			"2f41fccc-b6d8-4cd8-be29-c7ebd5df3ad9"
-		],
-		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
-		"id": "38965d11-f00b-495f-93d9-dbe726f8b3ab",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.14/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"69a984f1-326b-4d71-9503-c22aecd131ad",
-			"9de461c9-c880-4500-8eb7-056e04ad61ec",
-			"1ea45e8d-7e56-485e-a5fa-eb815cbca2f1",
-			"0e0f5bf7-a11b-46d6-ae1a-3736f04b5018",
-			"0d11a6a8-1bc6-44bd-aea0-c02242ef8b3e",
-			"23c6c40d-a318-4e62-bd40-fb7154fc5239"
-		],
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het bedenken van een woonstijlconcept.",
-		"id": "9e30755d-98ba-41a8-920d-025cda9d3719",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.13/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d8e41c48-a1b8-45f4-bb5f-fd219e44f89a",
-			"64da4b89-99f9-43df-a832-3a0250d03af5",
-			"8c1d0031-0c2e-4dc2-abab-a846ceb7d563"
-		],
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het ontwerpen van een sample passend bij een woonstijlconcept.",
-		"id": "384fdad4-6251-485c-8144-c6c8f12ee5ec",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/7.13/3",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"9f8e4ec0-f329-416b-b452-4a913158bbe2",
-			"e687c780-9386-412b-a2cb-703a9c61aaa0",
-			"43062fc2-a535-46b0-a046-23227cbc36ac",
-			"175fd205-d23e-4ac0-bf79-d97a60206b8a",
-			"8adca5b5-b457-43e5-b9c5-918cc9658e8d"
-		],
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
-		"id": "bb69f1f8-dfdf-4674-a218-5fddf635be52",
-		"unreleased": true
+		"dirty": "1"
 	}
 ]

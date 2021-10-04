@@ -1215,13 +1215,14 @@
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
-		"prefix": "K/ZW/12/KT",
+		"prefix": "K/ZW/6.15/KT",
 		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
@@ -1344,48 +1345,6 @@
 		],
 		"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever.",
 		"id": "2185f625-4b84-41da-a5ea-678d23cabf46",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MET/3.17/Taak",
-		"title": "Hybride en elektrische aandrijfsystemen herkennen en benoemen / Veilig werken aan hybride en elektrische voertuigen / Laden van hybride en elektrische voertuigen",
-		"id": "9507a0fc-1939-477d-9b1e-bf8ca91dff25",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MVI/4.17/taak",
-		"title": "Een maatschappelijk probleem analyseren en beschrijven / Oplossingen bedenken en uitwerken door middel van een creatief proces en daarbij het gebruik maken van moderne technieken beargumenteren / Een (deels) werkend prototype maken / Een prototype testen, evalueren en verbeteren / het eindresultaat vastleggen en presenteren",
-		"id": "09bb7c70-f808-4a33-8dff-288587354c75",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MT/5.20/taak",
-		"title": "Assisteren bij het vissen door een commercieel vissersschip / Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip",
-		"id": "eba847a9-49de-444c-aa7d-ed10ef5bdaab",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MT/5.20/taak",
-		"title": "Assisteren bij het vissen door een commercieel vissersschip / Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip",
-		"id": "8f701ae5-8301-454b-a677-cc1da4884904",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/EO/7.13",
-		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
-		"id": "4ae3e4da-774c-4004-95ad-4f746aa765c5",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/EO/7.14",
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
-		"id": "e5e52d4c-e877-4eaf-9168-3cab7ba52bb9",
 		"unreleased": true
 	}
 ]

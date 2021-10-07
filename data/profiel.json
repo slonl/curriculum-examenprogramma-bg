@@ -342,25 +342,5 @@
 		"vakleergebied_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		]
-	},
-	{
-		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
-		"prefix": "GR",
-		"title": "Groen",
-		"examenprogramma_bg_kern_id": [
-			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
-		],
-		"examenprogramma_bg_module_id": [
-			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
-			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
-			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
-			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"43d649b5-fbb4-44f7-9271-998bba546221"
-		],
-		"replaces": [
-			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
-		]
 	}
 ]

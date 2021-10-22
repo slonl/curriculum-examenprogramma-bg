@@ -19374,7 +19374,13 @@
 	{
 		"id": "46bd0d66-9e18-4625-b3d0-dfbb9db65fd6",
 		"prefix": "PK/MET/b-2",
-		"title": "De kandidaat kan relaties leggen tussen productieprocessen, technische systemen te weten input, proces, output en bronnen met name energie, materie en informatie"
+		"title": "De kandidaat kan relaties leggen tussen productieprocessen, technische systemen te weten input, proces, output en bronnen met name energie, materie en informatie",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
 		"id": "1b0971af-1f7f-4c5d-b4f8-30a1c89c62f8",
@@ -19389,7 +19395,13 @@
 	{
 		"id": "394057a2-b7c5-4031-bb88-6503a4034057",
 		"prefix": "PK/MET/b-4",
-		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie;Voorbereiden"
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie;Voorbereiden",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
 		"id": "d0eb1207-ecf8-4412-8bc8-a119fbcf3169",
@@ -25780,7 +25792,13 @@
 	{
 		"id": "2b790112-7f5c-4c5b-ac64-3b3ca1cf8d48",
 		"prefix": "PK/ZW/b-1b",
-		"title": "De kandidaat kan een relatie leggen tussen het eigen functioneren en welbevinden en eigen levensfase (reflecteren)"
+		"title": "De kandidaat kan een relatie leggen tussen het eigen functioneren en welbevinden en eigen levensfase (reflecteren)",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
 		"id": "1212d020-799c-4b9d-8d85-722ec3632ebb",
@@ -25795,7 +25813,13 @@
 	{
 		"id": "28e8bc1e-36aa-448f-85f1-e004e7bdd7a3",
 		"prefix": "PK/ZW/b-2b",
-		"title": "De kandidaat kan de eigen leefstijl omschrijven en aangeven welke keuzes hij/zij zelf maakt (reflecteren)"
+		"title": "De kandidaat kan de eigen leefstijl omschrijven en aangeven welke keuzes hij/zij zelf maakt (reflecteren)",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
 		"id": "5f6b83c9-02d9-4922-ac30-ef633eece24c",

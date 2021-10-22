@@ -1866,22 +1866,6 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/BWI/1.26",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"0b091ce9-d189-4572-a8f5-6f6f9ced0ad3"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"fb20e5c1-ab91-4bc7-b474-f55cad6a4dcd",
-			"21fd3657-53e4-44fa-8977-cd49260aaea0",
-			"7ca87ea6-5778-4e1f-b0b5-c5417eea1961",
-			"00366f6e-e9a7-44f3-b568-14e7dca58ffa",
-			"40ab9ae9-50b0-442f-923d-374f666fdcd3"
-		],
-		"title": "Meubelstofferen voor het vmbo",
-		"id": "7a306034-33a8-45d6-bae9-291f7571e473",
-		"unreleased": true
-	},
-	{
 		"prefix": "K/BWI/1.25",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"9d8c2c8b-b0b8-4dcb-a89c-f6341c3f4b71"

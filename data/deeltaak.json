@@ -6582,19 +6582,9 @@
 			"f7c550ab-3357-4fad-b68d-a3e064bc491c",
 			"6b1a433c-96bf-4db8-a535-70b8f81f43fe",
 			"4730df24-af6c-486b-8d33-4d81cd172608",
-			"680d99ef-b665-429c-828d-134a37379275",
-			"dbfa4290-ffd6-4905-9548-9c5fb07bc66e",
-			"be4a3563-ea89-4ae3-bf18-824adc27774e",
-			"a800caa4-5976-461d-9f86-3abb9d31b43d",
-			"efebbb54-5fca-48cb-bbb1-d01e025032f1",
-			"bd3cca98-6f47-494a-b0b5-3a63c19f4734",
-			"399c14fc-faab-4272-847f-1db8ab0c09ae",
-			"7a77dfc6-6071-4de1-8fec-df452ffd25e4",
-			"15a8ee0a-5b79-4d93-ab3e-0440e8f895bf",
-			"2e49bcb7-0047-4911-a15e-1f6d8df8ed62",
-			"6584ab44-e4b6-4470-a9e2-926b95cc9cf7",
-			"15263017-50ae-4c5e-9b2f-afb2e2cf58ad"
-		]
+			"680d99ef-b665-429c-828d-134a37379275"
+		],
+		"description": ""
 	},
 	{
 		"id": "ccae0cfb-56ca-4fa0-8ad8-b521377a32ac",
@@ -6609,8 +6599,22 @@
 	},
 	{
 		"id": "966eee0b-61ec-446e-9d8a-dbfc0a73b873",
-		"prefix": "K/ZW/13/03",
-		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)"
+		"prefix": "K/ZW/13/05",
+		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)",
+		"description": "",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"dbfa4290-ffd6-4905-9548-9c5fb07bc66e",
+			"be4a3563-ea89-4ae3-bf18-824adc27774e",
+			"a800caa4-5976-461d-9f86-3abb9d31b43d",
+			"efebbb54-5fca-48cb-bbb1-d01e025032f1",
+			"bd3cca98-6f47-494a-b0b5-3a63c19f4734",
+			"399c14fc-faab-4272-847f-1db8ab0c09ae",
+			"7a77dfc6-6071-4de1-8fec-df452ffd25e4",
+			"15a8ee0a-5b79-4d93-ab3e-0440e8f895bf",
+			"2e49bcb7-0047-4911-a15e-1f6d8df8ed62",
+			"6584ab44-e4b6-4470-a9e2-926b95cc9cf7",
+			"15263017-50ae-4c5e-9b2f-afb2e2cf58ad"
+		]
 	},
 	{
 		"prefix": "K/GR/15/01",

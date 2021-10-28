@@ -2,101 +2,111 @@
 	{
 		"id": "b1e5c55d-5017-477e-984b-857f392f1745",
 		"prefix": "PK/BWI",
-		"title": "Kern",
+		"title": "Kern Bouwen, wonen en interieur",
 		"examenprogramma_bg_kerndeel_id": [
 			"b04030f5-6ccf-4347-ae57-36207c916600",
 			"a642a3fa-0724-496e-8b19-6c661a88258e",
 			"68d11a1f-efbf-4919-85d1-b14edce33dac"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "74f15305-e375-4efa-a81e-5101311d5cc2",
-		"prefix": "PK/MDP",
-		"title": "Kern",
+		"prefix": "PK/DP",
+		"title": "Kern Dienstverlening en producten",
 		"examenprogramma_bg_kerndeel_id": [
 			"344925be-3f94-4d2c-8d83-680ea68645ac",
 			"e0664128-ef21-4667-ae4b-861ede654029",
 			"49f727fd-6789-4468-9e2b-3e3dde4b9e66"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2ba68b18-0986-4515-9321-fd31417161a7",
-		"prefix": "PK/MEO",
-		"title": "Kern",
+		"prefix": "PK/EO",
+		"title": "Kern Economie en ondernemen",
 		"examenprogramma_bg_kerndeel_id": [
 			"b1fa0db1-0df5-4f7d-b740-a79b61d250b2",
 			"d3c61b72-f262-485c-8dab-e50dc81ad2ca",
 			"f8fc0905-85f9-4fbf-a62a-8e76241c2beb"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "1b7ce11c-ce79-4f0f-bddf-829dc1c646ed",
 		"prefix": "PK/GR",
-		"title": "Kern",
+		"title": "Kern Groen",
 		"examenprogramma_bg_kerndeel_id": [
 			"1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
 			"c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",
 			"b6b00857-5275-4d7a-bcc0-5efbe9503565"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4354969f-756d-460f-98c4-dba4cdf9461f",
-		"prefix": "PK/MHBR",
-		"title": "Kern",
+		"prefix": "PK/HBR",
+		"title": "Kern Horeca, bakkerij en recreatie",
 		"examenprogramma_bg_kerndeel_id": [
 			"de51704a-0688-43d5-8a4b-04fb3e0ffb95",
 			"6c75891e-adc8-4c3e-89d7-5ea916e5e2c6",
 			"a854b547-5774-4633-94dc-43ef34e62606"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0866408c-fd90-48e5-bcf3-6167c1f04ca7",
 		"prefix": "PK/MT",
-		"title": "Kern",
+		"title": "Kern Maritiem en techniek",
 		"examenprogramma_bg_kerndeel_id": [
 			"18da26ae-19b7-4bfb-8191-205c8e2232a1",
 			"42ade637-d82e-4630-bfc6-07bfe6337264",
 			"92c0770a-d08c-420e-b395-db1a56e25653"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a",
 		"prefix": "PK/MVI",
-		"title": "Kern",
+		"title": "Kern Media, vormgeving en ICT",
 		"examenprogramma_bg_kerndeel_id": [
 			"6d0ffd6e-748c-4e17-b19d-4bff44331fbe",
 			"97938cc4-74ce-4c5d-b1d8-bb5cad281703",
 			"7aff3554-86dd-413c-a93d-68df7f6c964c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "09dd2988-44cb-43b8-ad27-1cc934ea9d7f",
 		"prefix": "PK/MET",
-		"title": "Kern",
+		"title": "Kern Mobiliteit en Transport",
 		"examenprogramma_bg_kerndeel_id": [
 			"4344c2b0-3807-4c4b-9a51-a34b93b40cea",
 			"3ad8192d-6c27-486d-b758-df179ca033d6",
 			"1f3e0182-8422-4b38-b20d-0efad48120f8"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5b1dad69-5aff-4ec3-a109-303707b34bd2",
 		"prefix": "PK/PIE",
-		"title": "Kern",
+		"title": "Kern Produceren, installeren en energie",
 		"examenprogramma_bg_kerndeel_id": [
 			"a26a0e5f-26bb-4b42-8183-84f15dcfa4ef",
 			"62a29017-3bfa-409b-a4ff-b16d016ed265",
 			"87703079-5b2c-4d2d-b5f3-25b8a86a5d80"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9e487dfc-1257-4121-88c2-42a82df71aca",
 		"prefix": "PK/ZW",
-		"title": "Kern",
+		"title": "Kern Zorg en welzijn",
 		"examenprogramma_bg_kerndeel_id": [
 			"2347d9f8-a347-4077-b50d-b7ff46a50497",
 			"9b26e7d8-46c5-4fb9-bdbd-0cd783a8baf7",
 			"330e996a-a150-4fa0-a3a9-3ac4b6c1b969"
-		]
+		],
+		"description": ""
 	}
 ]

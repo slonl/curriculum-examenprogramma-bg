@@ -1373,5 +1373,16 @@
 		"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever.",
 		"id": "2185f625-4b84-41da-a5ea-678d23cabf46",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.29/KT",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het elementaire introductie van het vak goudsmeden en kennismaken met diverse basistechnieken.",
+		"id": "aa7db8db-2d39-4c1b-9391-35695f79cadd",
+		"unreleased": true
 	}
 ]

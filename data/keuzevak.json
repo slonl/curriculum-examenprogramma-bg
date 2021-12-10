@@ -1969,5 +1969,18 @@
 		"title": "Dronetechniek II: inspecteren met behulp van drones",
 		"id": "24471646-f67a-472e-8e66-6d6f365d7cda",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.29",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"aa7db8db-2d39-4c1b-9391-35695f79cadd"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"d331775d-04b4-4c82-9705-7d74a53017a4",
+			"e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
+		],
+		"title": "Edelmetaal bewerken",
+		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356",
+		"unreleased": true
 	}
 ]

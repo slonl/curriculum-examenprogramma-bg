@@ -7256,5 +7256,29 @@
 			"55a95897-95d9-41a1-b916-0f0aa8c8fbff"
 		],
 		"dirty": "1"
+	},
+	{
+		"prefix": "K/PIE/2.29/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8e553917-950a-4ef9-a284-cb9ffb87a79b",
+			"96a50fcf-1f20-4d5b-9c02-6fda4ea40da6",
+			"b9d592a0-36c7-4a9d-ba69-65a08835a7f9",
+			"d72d1bb2-98eb-4b87-884f-a4d13b53eccb"
+		],
+		"title": "Elementaire introductie van het vak goudsmeden",
+		"id": "d331775d-04b4-4c82-9705-7d74a53017a4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.29/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"11da95b1-35fe-4b2c-a6be-73ae7d6646bc",
+			"c9a5f7f6-9bf5-4787-90d7-97d9be72a701",
+			"dada0ab5-8b02-4df1-a12a-fe545546078f",
+			"eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57"
+		],
+		"title": "Kennismaken met diverse basistechnieken",
+		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87",
+		"unreleased": true
 	}
 ]

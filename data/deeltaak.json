@@ -1698,20 +1698,21 @@
 	{
 		"id": "7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e",
 		"prefix": "P/GR/01/01",
-		"title": "Eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren",
+		"title": "Kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"fe9ef900-52be-4fe4-b55a-15cb1e2cd375",
 			"e9b99248-dff3-491f-ba28-7d125e7219cf",
 			"4c6d59d1-bbcc-4a03-b5f6-1855682cf164",
 			"6610bd33-09f0-45a7-a998-8d2865f8f584",
-			"8f491d5c-b3b6-40d7-a614-02e6ac4059ef",
-			"d23aa91c-9592-46a9-9dc3-9e68836b0f50"
-		]
+			"8f491d5c-b3b6-40d7-a614-02e6ac4059ef"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "199ed36f-32d1-4d0a-9fd8-229177a7617a",
 		"prefix": "P/GR/01/02",
-		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie gebruiken",
+		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d64b69f3-31d6-476f-b24b-14a15e8c2853",
 			"a546fd12-1ac8-4ea6-a062-447630005209",
@@ -1719,12 +1720,13 @@
 			"01e1db45-8eb7-4885-affb-2d03cd41fb88",
 			"44afe6d4-5138-4421-88f9-1e0a64be7747",
 			"f087e957-8fa1-4fe0-b518-1000fbbf0776"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5a5a3631-1cbd-41ac-94c2-bf90a017cae9",
 		"prefix": "P/GR/01/03",
-		"title": "Bedrijfsmatig houden van productiedieren en hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid, gericht op dieren en het productieproces",
+		"title": "Op bedrijfsmatige wijze dieren houden en hierbij verantwoorde keuzes maken met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"c0ba3481-4e81-41a5-bcdc-bddf2fae1b67",
 			"30f93eca-a570-49ee-a4b9-0f4aa194cdb9",
@@ -1734,42 +1736,46 @@
 			"7f07d6d7-4d9d-4fea-85d3-50b49f965e85",
 			"16dd62aa-d7e6-4a58-a9d9-516342b6ecb5",
 			"4170c33f-1a66-4485-a548-2a47cae5eac2"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "477ef8b0-d22d-44eb-b850-4a42799ab615",
 		"prefix": "P/GR/02/01",
-		"title": "Voedingsmiddelen uit de groene sector adequaat en verantwoord hanteren, verwerken, bereiden en bewaren",
+		"title": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f339abf2-346e-4da6-84d4-6f128822d356",
 			"7b41d0e5-0541-4516-8daf-4815c46c1b67",
 			"590facba-797c-476f-a806-332613c7d2c4",
 			"988fcc02-dc4a-4ec6-a402-52ce2545860c",
-			"2f6b8eeb-bb33-4286-a4e4-7a1c2a8bc974",
 			"208893fb-edcf-4f8e-bd2c-75fca899f58b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
 		"prefix": "P/GR/02/02",
-		"title": "In de groene sector geproduceerde producten sorteren, verpakken en transport klaar maken",
+		"title": "In de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"485f1a7d-15b4-427a-8a1d-8a817aeb63a1",
 			"e6913e24-9cd7-4f0b-9f00-9029ad97f29e",
 			"b0b7b206-190f-4c45-ba1a-b33f72b11ac8",
 			"9301c086-2a41-4b9d-8e21-b4c549486870"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "46b36d86-9a32-4616-a4dd-1f13d02fedad",
 		"prefix": "P/GR/02/03",
-		"title": "Een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
+		"title": "Een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3393e062-3f16-45e7-9ec4-7b7e100a705e",
 			"e649e519-6c32-4169-b8d0-a558eda02eab",
 			"7ce1ec1e-17f4-423a-bf6a-9c142c40bddb",
 			"3fd729cd-6fc7-40a9-91ac-88d9902de6a9"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5a2a1653-3ca3-4622-8de8-32edb266d75a",
@@ -1781,7 +1787,8 @@
 			"1926ebac-9ba5-477b-a695-8a5f3d54e28b",
 			"3d1d0d1c-7205-4135-bace-eb3287eae20a",
 			"81fa8ec2-a705-4009-8a0d-44e1ef8b57e4"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fcfed1e1-6c84-4319-9539-0c8bd43ed520",
@@ -1806,31 +1813,33 @@
 			"178c6317-edb1-4d88-97a8-0422cef0cccd",
 			"ae95a7bc-6ae9-4503-8012-8ec8f3b68e81",
 			"2f68c25a-3310-40f9-a066-ff0300757299"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "89edea69-9cd8-4d1a-a214-82dcdf041974",
 		"prefix": "P/GR/03/04",
-		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten",
+		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
 			"8a62fe18-3210-4f85-8d1f-2246a271612f",
-			"011f3048-d5f2-47af-9091-92fea75b5f8a",
-			"cd8e60b2-a491-4533-861f-2576aca99386",
-			"b48ea5dd-e1ba-40d3-a270-8c879194888b"
-		]
+			"011f3048-d5f2-47af-9091-92fea75b5f8a"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "d6ea3664-bf83-4078-af70-2d9eb42bface",
 		"prefix": "P/GR/04/01",
-		"title": "Verschillen tussen winkelformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen",
+		"title": "Verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"408513c6-6dea-40aa-b412-53e6faf0839f",
 			"f4771a6c-0964-4d57-b27b-13e6ef1946b1",
 			"1020a32a-8e58-4353-b4b3-24bcca9fd28e",
 			"a288f545-98e6-4b3e-b56f-665bf78a60a6",
 			"f881ba54-48f3-4e84-a5d9-b1892d6f73ec"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "602054a1-8df7-46b8-b6c0-d25ee2619621",

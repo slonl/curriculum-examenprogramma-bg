@@ -184,13 +184,14 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7894510c-897e-4ff8-86b8-759cc3f7dc29",
 			"92cd5c52-3836-4f2a-a1e5-343a5ff92041",
-			"6d572486-495e-4580-b9e1-60c01a9d6c6f",
 			"033ebbd5-1751-429c-adca-6b1ca75b69db",
 			"669b40fa-63ba-4cca-8627-9faed78aa9fe",
 			"daeae4f7-f84a-484a-ba3e-5df2f3fd46c4",
 			"8f35767a-6936-472c-82b8-aa126cd1f196",
 			"cdcbfbcb-43d8-456e-bd54-ccf5ae9c2413"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "b6b00857-5275-4d7a-bcc0-5efbe9503565",
@@ -199,7 +200,8 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"2b1cb3b2-d579-4a6e-b824-2798d4ad59e3",
 			"f30589a7-3cbf-479e-aa3d-0270b82deb64"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "de51704a-0688-43d5-8a4b-04fb3e0ffb95",

@@ -8532,12 +8532,14 @@
 	{
 		"id": "92cd5c52-3836-4f2a-a1e5-343a5ff92041",
 		"prefix": "PK/GR/b-02",
-		"title": "De kandidaat kan de begrippen duurzaamheid en kringloop (her)kennen, benoemen en toepassen. Op basis daarvan kan de kandidaat bewuste afwegingen maken en relaties leggen tussen milieu, mensen en werkprocessen in arbeid en beroep met het oog op concepten als people, planet en profit",
+		"title": "De kandidaat kan de begrippen duurzaamheid en kringloop (her)kennen, benoemen en hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "6d572486-495e-4580-b9e1-60c01a9d6c6f",
@@ -8551,114 +8553,135 @@
 	},
 	{
 		"id": "033ebbd5-1751-429c-adca-6b1ca75b69db",
-		"prefix": "PK/GR/b-04",
+		"prefix": "PK/GR/b-03",
 		"title": "De kandidaat kan gangbare technieken hanteren ten behoeve van onderhoud, reparatie, creatie en realisatie in een groene context",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "669b40fa-63ba-4cca-8627-9faed78aa9fe",
-		"prefix": "PK/GR/b-05",
+		"prefix": "PK/GR/b-04",
 		"title": "De kandidaat kan gangbare gereedschappen, apparaten en materialen gebruiken en onderhouden in een groene context",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "daeae4f7-f84a-484a-ba3e-5df2f3fd46c4",
-		"prefix": "PK/GR/b-06",
+		"prefix": "PK/GR/b-05",
 		"title": "De kandidaat kan met behulp van informatiebronnen organismen of groepen van organismen op naam brengen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8f35767a-6936-472c-82b8-aa126cd1f196",
-		"prefix": "PK/GR/b-07",
+		"prefix": "PK/GR/b-06",
 		"title": "De kandidaat kan onderzoeksactiviteiten verrichten en daarbij onder andere vergelijken, meten en wegen, resultaten verwerken en beargumenteerde keuzes maken",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "cdcbfbcb-43d8-456e-bd54-ccf5ae9c2413",
-		"prefix": "PK/GR/b-08",
+		"prefix": "PK/GR/b-07",
 		"title": "De kandidaat kan meerdere oplossingen en variaties bedenken voor een ontwerp of een probleem en daarbij verschillende denkstrategieën gebruiken",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2b1cb3b2-d579-4a6e-b824-2798d4ad59e3",
 		"prefix": "PK/GR/c-01",
-		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’",
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’:\n1. kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?)\n2. motievenreflectie (waar ga en sta ik voor en waarom dan?)\n3. werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)\n4. loopbaansturing (hoe bereik ik mijn doel en waarom zo?)\n5. netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f30589a7-3cbf-479e-aa3d-0270b82deb64",
 		"prefix": "PK/GR/c-02",
-		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’",
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’.\nIn een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier worden bij de uitgevoerde activiteiten de volgende punten beschreven:\nI. de beoogde doelen\nII. de resultaten\nIII. de evaluatie en een conclusie\nIV. welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fe9ef900-52be-4fe4-b55a-15cb1e2cd375",
 		"prefix": "P/GR/01/01-01",
-		"title": "De kandidaat kan de meest gangbare bedrijfsvisies herkennen en benoemen",
+		"title": "De kandidaat kan de meest voorkomende bedrijfsvormen en nevenactiviteiten herkennen en benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "e9b99248-dff3-491f-ba28-7d125e7219cf",
 		"prefix": "P/GR/01/01-02",
-		"title": "De kandidaat kan op basis van instructies teeltwerkzaamheden uitvoeren",
+		"title": "De kandidaat kan bedrijfskolommen benoemen.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "4c6d59d1-bbcc-4a03-b5f6-1855682cf164",
 		"prefix": "P/GR/01/01-03",
-		"title": "De kandidaat kan teeltwerkzaamheden benoemen, kiezen en uitvoeren",
+		"title": "De kandidaat kan verschillende technologische en innovatieve ontwikkelingen herkennen en benoemen.",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "6610bd33-09f0-45a7-a998-8d2865f8f584",
 		"prefix": "P/GR/01/01-04",
-		"title": "De kandidaat kan de effecten van teeltwerkzaamheden op het milieu en de kwaliteit van voeding beschrijven",
+		"title": "De kandidaat kan de effecten benoemen van agrarische productie op het milieu en op de eindproducten.",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "8f491d5c-b3b6-40d7-a614-02e6ac4059ef",
 		"prefix": "P/GR/01/01-05",
-		"title": "De kandidaat kan op basis van instructies werkzaamheden uitvoeren ten behoeve van beheer van het landelijk gebied",
+		"title": "De kandidaat kan vormen van het beheer van het landelijk gebied herkennen en benoemen.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "d23aa91c-9592-46a9-9dc3-9e68836b0f50",
@@ -8671,51 +8694,58 @@
 	{
 		"id": "d64b69f3-31d6-476f-b24b-14a15e8c2853",
 		"prefix": "P/GR/01/02-01",
-		"title": "De kandidaat kan op basis van instructies op generatieve en vegetatieve wijze vermeerderingsmethoden bij planten uitvoeren",
+		"title": "De kandidaat kan op basis van instructies teeltwerkzaamheden uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "a546fd12-1ac8-4ea6-a062-447630005209",
 		"prefix": "P/GR/01/02-02",
-		"title": "De kandidaat kan generatieve en vegetatieve vermeerderingsmethoden bij planten toepassen",
+		"title": "De kandidaat kan teeltwerkzaamheden benoemen, kiezen, voorbereiden en uitvoeren.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "19e900c6-e2d4-4aa6-aafb-e417630d1fc6",
-		"prefix": "P/GR/01/02-03",
-		"title": "De kandidaat kan de groeivoorwaarden van planten in een teelt toepassen",
+		"prefix": "P/GR/01/02-05",
+		"title": "De kandidaat kan de groeivoorwaarden van planten benoemen en toepassen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "01e1db45-8eb7-4885-affb-2d03cd41fb88",
-		"prefix": "P/GR/01/02-04",
-		"title": "De kandidaat kan op basis van instructies het juiste moment van oogsten vaststellen en de teelt oogsten en sorteren",
+		"prefix": "P/GR/01/02-03",
+		"title": "De kandidaat kan op basis van instructies op generatieve en vegetatieve wijze vermeerderingsmethoden bij planten uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "44afe6d4-5138-4421-88f9-1e0a64be7747",
-		"prefix": "P/GR/01/02-05",
-		"title": "De kandidaat kan bij een teelt de normen voor oogstrijpheid en sorteren gebruiken en deze toepassen",
+		"prefix": "P/GR/01/02-04",
+		"title": "De kandidaat kan generatieve en vegetatieve vermeerderingsmethoden bij planten toepassen.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f087e957-8fa1-4fe0-b518-1000fbbf0776",
 		"prefix": "P/GR/01/02-06",
-		"title": "De kandidaat kan gangbare technologie herkennen en in een simulatie gebruiken",
+		"title": "De kandidaat kan op basis van instructies het juiste moment van oogsten vaststellen, oogsten en producten sorteren en bewaren.",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c0ba3481-4e81-41a5-bcdc-bddf2fae1b67",
@@ -8737,65 +8767,72 @@
 	},
 	{
 		"id": "76eb9b25-9aaa-44bb-aecf-d947699881fc",
-		"prefix": "P/GR/01/03-03",
-		"title": "De kandidaat kan begrippen van voortplanting en het belang van voortplanting en veredeling bij dieren benoemen",
+		"prefix": "P/GR/01/03-04",
+		"title": "De kandidaat kan begrippen van voortplanting en het belang van voortplanting en fokkerij bij dieren benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c2583e6b-b173-42fc-9462-27d0f11faeb7",
-		"prefix": "P/GR/01/03-04",
-		"title": "De kandidaat kan afhankelijk van het productiedoel, huisvestingsvormen herkennen en benoemen en aan de hand van normen de huisvesting beoordelen",
+		"prefix": "P/GR/01/03-03",
+		"title": "De kandidaat kan op basis van huisvestingsnormen een verblijf voor productiedieren beoordelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0a8cc32d-06a0-418d-8b6a-2e39a1f11ff3",
 		"prefix": "P/GR/01/03-05",
-		"title": "De kandidaat kan afhankelijk van het productiedoel, voersoorten herkennen en benoemen, een voeradvies opstellen en voer afwegen",
+		"title": "De kandidaat kan voersoorten herkennen en benoemen en voer afwegen volgens het voeradvies.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7f07d6d7-4d9d-4fea-85d3-50b49f965e85",
 		"prefix": "P/GR/01/03-06",
-		"title": "De kandidaat kan op basis van instructie de gezondheid van dieren beoordelen en het welzijn van dieren beoordelen en beïnvloeden",
+		"title": "De kandidaat kan op basis van instructie de gezondheid en het welzijn van dieren beoordelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "16dd62aa-d7e6-4a58-a9d9-516342b6ecb5",
 		"prefix": "P/GR/01/03-07",
-		"title": "De kandidaat kan de gezondheid van dieren beoordelen en het welzijn van dieren beoordelen en beïnvloeden",
+		"title": "De kandidaat kan de gezondheid en het welzijn van dieren beoordelen en eventuele verbeterpunten aangeven.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4170c33f-1a66-4485-a548-2a47cae5eac2",
 		"prefix": "P/GR/01/03-08",
-		"title": "De kandidaat kan technologische toepassingen in de productiedierhouderij herkennen en benoemen",
+		"title": "De kandidaat kan gegevens aflezen uit automatiseringssystemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f339abf2-346e-4da6-84d4-6f128822d356",
 		"prefix": "P/GR/02/01-01",
-		"title": "De kandidaat kan grondstoffen bewerken en bereiden tot producten",
+		"title": "De kandidaat kan grondstoffen bewerken en bereiden tot houdbare producten",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7b41d0e5-0541-4516-8daf-4815c46c1b67",
@@ -8810,21 +8847,25 @@
 	{
 		"id": "590facba-797c-476f-a806-332613c7d2c4",
 		"prefix": "P/GR/02/01-03",
-		"title": "De kandidaat kan een product bereiden",
+		"title": "De kandidaat kan aan de hand van een recept een product bereiden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "988fcc02-dc4a-4ec6-a402-52ce2545860c",
 		"prefix": "P/GR/02/01-04",
-		"title": "De kandidaat kan een maaltijd samenstellen",
+		"title": "De kandidaat kan een maaltijd samenstellen en de gemaakte keuze van de samenstelling motiveren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "2f6b8eeb-bb33-4286-a4e4-7a1c2a8bc974",
@@ -8836,13 +8877,14 @@
 	},
 	{
 		"id": "208893fb-edcf-4f8e-bd2c-75fca899f58b",
-		"prefix": "P/GR/02/01-06",
-		"title": "De kandidaat kan voor een product een verpakking inclusief opdruk ontwerpen en maken",
+		"prefix": "P/GR/02/01-05",
+		"title": "De kandidaat kan een product voorzien van informatie.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "485f1a7d-15b4-427a-8a1d-8a817aeb63a1",
@@ -8883,12 +8925,13 @@
 	{
 		"id": "3393e062-3f16-45e7-9ec4-7b7e100a705e",
 		"prefix": "P/GR/02/03-01",
-		"title": "De kandidaat kan bestelopdrachten in ontvangst nemen, bevestigen en verwerken",
+		"title": "De kandidaat kan bestelopdrachten en inkomende goederen in ontvangst nemen, bevestigen en verwerken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e649e519-6c32-4169-b8d0-a558eda02eab",
@@ -8922,11 +8965,12 @@
 	{
 		"id": "3b2dc922-76cb-40ac-8c28-38cd78609135",
 		"prefix": "P/GR/03/01-01",
-		"title": "De kandidaat kan een ontwerptekening maken voor een groen object en een groene ruimte",
+		"title": "De kandidaat kan een ontwerptekening maken voor een groene ruimte met daarin een groen object voor een groen object en een groene ruimte",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8f377457-5c8a-414f-9405-95d53057c3f3",
@@ -9030,10 +9074,11 @@
 	{
 		"id": "08c6b8a6-3ef6-4254-8971-ebb609599641",
 		"prefix": "P/GR/03/03-03",
-		"title": "De kandidaat kan een beheerplan opstellen en uitvoeren",
+		"title": "De kandidaat kan een onderhoudsplan opstellen en uitvoeren",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "178c6317-edb1-4d88-97a8-0422cef0cccd",
@@ -9048,10 +9093,11 @@
 	{
 		"id": "ae95a7bc-6ae9-4503-8012-8ec8f3b68e81",
 		"prefix": "P/GR/03/03-05",
-		"title": "De kandidaat kan groei en productievoorwaarden voor stadslandbouwgewassen toepassen",
+		"title": "De kandidaat kan groei- en productievoorwaarden toepassen voor landbouwgewassen in een stedelijke omgeving.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2f68c25a-3310-40f9-a066-ff0300757299",
@@ -9064,22 +9110,24 @@
 	{
 		"id": "3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
 		"prefix": "P/GR/03/04-01",
-		"title": "De kandidaat kan op eigentijdse wijze informatie geven over de functie en het belang van planten en dieren",
+		"title": "De kandidaat kan informatie geven over de functie en het belang van planten en dieren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8a62fe18-3210-4f85-8d1f-2246a271612f",
 		"prefix": "P/GR/03/04-02",
-		"title": "De kandidaat kan informatie geven over de herkomst van natuurlijke producten, met name voeding",
+		"title": "De kandidaat kan informatie geven over de herkomst van natuurlijke producten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "011f3048-d5f2-47af-9091-92fea75b5f8a",
@@ -9110,11 +9158,12 @@
 	{
 		"id": "408513c6-6dea-40aa-b412-53e6faf0839f",
 		"prefix": "P/GR/04/01-01",
-		"title": "De kandidaat kan verschillen tussen winkelformules in de groene sector benoemen en hiernaar handelen",
+		"title": "De kandidaat kan verschillen tussen retailformules in de groene sector benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f4771a6c-0964-4d57-b27b-13e6ef1946b1",
@@ -9187,20 +9236,22 @@
 	{
 		"id": "1f8bef43-d6cf-47f5-9b19-14da32bab048",
 		"prefix": "P/GR/04/02-05",
-		"title": "De kandidaat kan een decoratie ontwerpen en maken met bind- en steektechnieken",
+		"title": "De kandidaat kan een decoratieve schikking ontwerpen en maken met behulp van steektechnieken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9a1215a2-5183-4010-9668-84b965853b5a",
-		"prefix": "P/GR/04/02-06",
+		"prefix": "P/GR/04/02-07",
 		"title": "De kandidaat kan een ontwerp maken voor de inrichting van een ruimte en een ruimte inrichten passend bij de winkelformule, een doelgroep, seizoenen en trends",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "315bf59d-4adf-4bc1-8575-853a2106e27c",
@@ -31464,5 +31515,34 @@
 		"title": "De kandidaat kan veilig en duurzaam werken",
 		"id": "eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"id": "31f6c928-6704-4b7d-aeef-87c24470869d",
+		"prefix": "P/GR/04/02.6",
+		"title": "De kandidaat kan een boeket samenstellen me behulp van een korenschoof bindtechniek",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"id": "f1fe8b27-2148-46aa-8dbb-946bcec32b26",
+		"prefix": "P/GR/01/02-07",
+		"title": "De kandidaat kan het juiste moment van oogsten vaststellen, oogsten, producten sorteren en bewaren.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"id": "f5885637-3276-4108-80ff-3fff11aaf9ff",
+		"prefix": "P/GR/01/02-08",
+		"title": "De kandidaat kan gangbare technologie en technieken toepassen.",
+		"description": ""
 	}
 ]

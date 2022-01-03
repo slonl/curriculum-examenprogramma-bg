@@ -155,7 +155,7 @@
 	{
 		"id": "1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
 		"prefix": "PK/GR/a",
-		"title": "Competenties",
+		"title": "Algemene kennis en vaardigheden",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"67f30612-f731-4fe0-9763-07b2b71afe47",
 			"306eb282-ad6d-4be5-af31-43bdd410e268",
@@ -175,7 +175,9 @@
 			"87856085-0837-4fef-a146-b369625fc9b6",
 			"f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
 			"53f8607e-4667-4b67-8481-d558847fe4cf"
-		]
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",

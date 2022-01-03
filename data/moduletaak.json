@@ -116,11 +116,12 @@
 	{
 		"id": "9ca45977-85c4-4c24-95aa-344a83e67edf",
 		"prefix": "P/GR/01/MT",
-		"title": "Groene productie mogelijk maken: eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren / plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie gebruiken / bedrijfsmatig houden van productiedieren en hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid gericht op dieren en het productieproces",
+		"title": "Groene productie mogelijk maken: kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren / plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken/ op bedrijfsmatige wijze dieren houden, hierbij verantwoorde keuzes maken, me respect voor welzijn, voedselveiligheid, milieu en duurzaamheid.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4b7a7cc5-53bb-41a1-9513-c96c645bc95a",
@@ -145,11 +146,12 @@
 	{
 		"id": "190da8cc-8420-41da-84da-1db580399ef4",
 		"prefix": "P/GR/04/MT",
-		"title": "In de groene sector: verschillen tussen winkelformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen / ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule / producten verkopen",
+		"title": "In de groene sector: verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen / ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule / producten verkopen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6ba547a1-811f-441b-8117-52dafd0edcfb",

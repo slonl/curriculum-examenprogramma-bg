@@ -8342,72 +8342,79 @@
 	{
 		"id": "67f30612-f731-4fe0-9763-07b2b71afe47",
 		"prefix": "PK/GR/a-01",
-		"title": "De kandidaat kan beslissen en activiteiten uitvoeren",
+		"title": "De kandidaat kan de Nederlandse taal in opleidings- en beroepssituaties gebruiken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "306eb282-ad6d-4be5-af31-43bdd410e268",
 		"prefix": "PK/GR/a-02",
-		"title": "De kandidaat kan met mensen samenwerken en overleggen",
+		"title": "De kandidaat kan een informatiebehoefte signaleen en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4b54aeac-e2b9-4892-9d60-3365699c57c3",
 		"prefix": "PK/GR/a-03",
-		"title": "De kandidaat kan verantwoordelijk, ethisch en integer, handelen",
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2f58157d-e11e-4fd4-9690-acb3c9351238",
 		"prefix": "PK/GR/a-04",
-		"title": "De kandidaat kan relaties opbouwen en netwerken onderhouden",
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "47240c98-1648-428c-a659-c4172c2ee0dd",
 		"prefix": "PK/GR/a-05",
-		"title": "De kandidaat kan communiceren en zich presenteren, zowel verbaal als non-verbaal",
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
 		"prefix": "PK/GR/a-06",
-		"title": "De kandidaat kan schriftelijk formuleren en rapporteren",
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "16e0552f-7f03-4db3-b21c-d5d43e958540",
 		"prefix": "PK/GR/a-07",
-		"title": "De kandidaat kan beroepshandelingen uitvoeren en vakdeskundigheid toepassen",
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situaties",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c3335313-9f0e-432d-832d-46e922b0bbb1",

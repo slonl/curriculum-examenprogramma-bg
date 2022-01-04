@@ -8419,112 +8419,123 @@
 	{
 		"id": "c3335313-9f0e-432d-832d-46e922b0bbb1",
 		"prefix": "PK/GR/a-08",
-		"title": "De kandidaat kan juiste materialen en middelen inzetten",
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6b7da7a1-9992-4367-a6b1-7ede174aef7d",
 		"prefix": "PK/GR/a-09",
-		"title": "De kandidaat kan analyseren en problemen oplossen",
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c9958f81-d756-45f4-8ad6-f5406beb0565",
 		"prefix": "PK/GR/a-10",
-		"title": "De kandidaat kan informatie verwerven en verwerken om iets doelgericht te onderzoeken",
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f2a94dee-b52c-44cd-8541-767327fd9a3b",
 		"prefix": "PK/GR/a-11",
-		"title": "De kandidaat kan leren en reflecteren op eigen toekomstmogelijkheden en interesses",
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
 		"prefix": "PK/GR/a-12",
-		"title": "De kandidaat kan planmatig en doelgericht werken",
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3e825404-169a-4927-aa38-2caca703eb79",
 		"prefix": "PK/GR/a-13",
-		"title": "De kandidaat kan op de behoefte en verwachtingen van de klant richten en klanten helpen",
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "531bdd06-260f-4a55-8715-55dc3e96e738",
 		"prefix": "PK/GR/a-14",
-		"title": "De kandidaat kan zorgdragen voor een goede werkuitvoering en een goede kwaliteit van het eindproduct",
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "44adfbb8-8a41-4033-a704-65b5bcfa5361",
 		"prefix": "PK/GR/a-15",
-		"title": "De kandidaat kan volgens instructie en geldende procedures werken",
+		"title": "De kandidaat kan hygiënisch werken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "87856085-0837-4fef-a146-b369625fc9b6",
 		"prefix": "PK/GR/a-16",
-		"title": "De kandidaat kan met veranderingen omgaan en zich aanpassen",
+		"title": "De kandidaat kan milieubewust handelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
 		"prefix": "PK/GR/a-17",
-		"title": "De kandidaat kan omgaan met druk en tegenslagen",
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "53f8607e-4667-4b67-8481-d558847fe4cf",
 		"prefix": "PK/GR/a-18",
-		"title": "De kandidaat kan met productiemiddelen omgaan en bedrijfsmatig handelen",
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de branche.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7894510c-897e-4ff8-86b8-759cc3f7dc29",
@@ -31550,6 +31561,17 @@
 		"id": "f5885637-3276-4108-80ff-3fff11aaf9ff",
 		"prefix": "P/GR/01/02-08",
 		"title": "De kandidaat kan gangbare technologie en technieken toepassen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"id": "cee3dedf-6ba8-4190-95e7-ac857902db29",
+		"prefix": "PR/GR/a-19",
+		"title": "De kandidaat kan in een (gesimuleerde) beroepssituatie en stage in een bedrijf omgaan me verschillen op basis van culturele gebondenheid en geslacht.",
 		"description": ""
 	}
 ]

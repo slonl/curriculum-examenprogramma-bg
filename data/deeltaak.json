@@ -7295,5 +7295,41 @@
 		"title": "Kennismaken met diverse basistechnieken",
 		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/16/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"871c76b3-5ade-4301-ae10-7e857d3289ba",
+			"e6dfe4cc-9336-453f-8508-b1b17a2620b3",
+			"b48ada58-7f3b-4d54-8230-fd6dd849fad5",
+			"cdbea1de-f323-42f2-9601-5aa75f1b03fa"
+		],
+		"title": "Bijdragen aan het opzetten van duurzame melkveehouderij.",
+		"id": "75be94ba-e0ba-4710-8a79-a46fc169589f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/16/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"4704ba24-0d73-40f4-ba04-5a8dab6c792c",
+			"ddcbb24f-6f3b-4ed4-b5f8-48e10ba49330",
+			"c77f2832-fd44-417c-95e5-fce484e5ea5a",
+			"77c1cc05-e45d-40ad-ae36-cbdf36c0ca69"
+		],
+		"title": "Diergezondheid en welzijn van melkvee waarnemen en bevorderen.",
+		"id": "1df8d853-e719-405a-b0ca-8251bae0fe56",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/GR/16/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d96b1da5-05ac-47e5-bec6-613f854eef98",
+			"b2fcf8fe-1f30-4a69-839a-ffd60ba098ba",
+			"79f5edd0-36ad-40f1-8584-704310c2fa27",
+			"6f93eec4-0b7f-4f66-9fed-fc0d300e7c73"
+		],
+		"title": "Weidegang inplannen en uitvoeren.",
+		"id": "3029102e-6aa1-4af2-af1d-220b765da542",
+		"unreleased": true
 	}
 ]

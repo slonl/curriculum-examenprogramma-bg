@@ -31573,5 +31573,146 @@
 		"prefix": "PR/GR/a-19",
 		"title": "De kandidaat kan in een (gesimuleerde) beroepssituatie en stage in een bedrijf omgaan me verschillen op basis van culturele gebondenheid en geslacht.",
 		"description": ""
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan oplossingen herkennen die bijdragen aan klimaatneutraal melkveehouderij bedrijven.",
+		"id": "871c76b3-5ade-4301-ae10-7e857d3289ba",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/01-02",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan oplossingen aandragen om klimaatneutraal melkveehouderij te bedrijven.",
+		"id": "e6dfe4cc-9336-453f-8508-b1b17a2620b3",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van instructies milieu-bevorderende maatregelen kunnen herkennen, benoemen en uitvoeren. Hierbij valt te denken aan aanpassingen met betrekking tot huisvesting, watergebruik en verwerking of bewerking van mest.",
+		"id": "b48ada58-7f3b-4d54-8230-fd6dd849fad5",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan biodiversiteit herkennen en maatregelen nemen om biodiversiteit te vergroten.",
+		"id": "cdbea1de-f323-42f2-9601-5aa75f1b03fa",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan dierwelzijn borgen doormiddel van huisvesting en verzorging,  te denken valt aan: controle op welzijnseisen en gezondheids- en gedragskenmerken beoordelen.",
+		"id": "4704ba24-0d73-40f4-ba04-5a8dab6c792c",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan antibioticagebruik verminderende maatregelen benoemen en weten waarom dit belangrijk is.",
+		"id": "ddcbb24f-6f3b-4ed4-b5f8-48e10ba49330",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan nut en noodzaak van zaken, zoals het koekompas, benoemen en dit toepassen.",
+		"id": "c77f2832-fd44-417c-95e5-fce484e5ea5a",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan jongvee-opfok optimaliseren en jongvee verzorgen om de levensvatbaarheid te vergroten, zodat het dierenwelzijn wordt vergroot.",
+		"id": "77c1cc05-e45d-40ad-ae36-cbdf36c0ca69",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het graslandgebruik plannen en meedenken in het uitvoeren aan de hand van criteria, waarbij rekening gehouden wordt met: natuurbeheer (weidevogels, bloemvegetatie, insecten en reekalfjes), graswinning, onderhoud, waterbeheer en circulair denken.",
+		"id": "d96b1da5-05ac-47e5-bec6-613f854eef98",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende beweidingsvormen herkennen en benoemen rekening houdend met stikstofuitstoot en het milieu.",
+		"id": "b2fcf8fe-1f30-4a69-839a-ffd60ba098ba",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/03-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan (tijdelijke) afrastering kiezen en plaatsen ten behoeve van de beweiding.",
+		"id": "79f5edd0-36ad-40f1-8584-704310c2fa27",
+		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/GR/16/03-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan grasgroei en inschaarmoment aan de hand van verschillende factoren (seizoen, weersomstandigheden en dergelijke) bepalen.",
+		"id": "6f93eec4-0b7f-4f66-9fed-fc0d300e7c73",
+		"unreleased": true
 	}
 ]

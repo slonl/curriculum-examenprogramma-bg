@@ -1982,5 +1982,20 @@
 		"title": "Edelmetaal bewerken",
 		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "K/GR/16",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7dab6d62-4982-4cd2-9563-b25aa4aec7da"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"75be94ba-e0ba-4710-8a79-a46fc169589f",
+			"1df8d853-e719-405a-b0ca-8251bae0fe56",
+			"3029102e-6aa1-4af2-af1d-220b765da542"
+		],
+		"title": "Duurzame melkveehouderij",
+		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
+		"unreleased": true
 	}
 ]

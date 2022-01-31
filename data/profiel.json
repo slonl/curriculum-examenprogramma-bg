@@ -112,6 +112,7 @@
 			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
 			"43d649b5-fbb4-44f7-9271-998bba546221",
 			"d8978d84-4255-4bbe-8fab-2e6cac75d7ec",
 			"e15e151c-c490-4c9e-8050-1795fa2b0b47",
@@ -132,7 +133,7 @@
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
 		],
 		"description": "",
-		"dirty": "1",
+		"dirty": true,
 		"vakleergebied_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
 		]

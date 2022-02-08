@@ -7331,5 +7331,69 @@
 		"title": "Weidegang inplannen en uitvoeren.",
 		"id": "3029102e-6aa1-4af2-af1d-220b765da542",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"10539bac-5c52-4ef6-8ba4-151f28f5127d",
+			"26ae7e71-28b8-4018-ac79-469f24a91615",
+			"8949bb4e-5e89-46f4-9feb-d275e3d2dff0",
+			"f4b64bff-0590-460d-95cc-f1f80d0001f3",
+			"c82bceef-5082-4034-8ddd-c05d0cb41c6f"
+		],
+		"title": "Verschillende technieken voor (regen) wateropvang toepassen bij het bouwen en monteren van een circulair watersysteem.",
+		"id": "c524dac0-0946-4c9e-9d66-445075778674",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ca588b25-3a37-4d06-b3aa-963a1aee5631",
+			"24d4a119-dffc-4347-a3d9-3e8f9e0e3d87",
+			"4e24662f-58bf-4404-ba4a-72363c393bac",
+			"900a76d2-a243-4baf-b649-3ca61c9b5487"
+		],
+		"title": "Verschillende technieken voor (regen) waterzuivering toepassen bij het ontwerpen en bouwen van een circulair watersysteem.",
+		"id": "3a3d88af-b929-4b1c-9a7c-80feb90410be",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"19fd56db-b5fe-4f35-b24e-25f7ef9fdc35",
+			"807c9782-84ef-4275-9e18-e3b8ed2b7f9b",
+			"9515ad2d-8832-44f2-9561-a035b976e09b",
+			"36bb6435-b480-4af4-a038-9bf123bc8414",
+			"60b61bd5-eb74-4ab4-b8a5-7e9d0737dfaa",
+			"c48bc5d5-a05c-402f-ba39-a20793be7661",
+			"7fb91fd9-8955-437c-9dd0-1f8b346492ed"
+		],
+		"title": "De werking van een helofytenfilter begrijpen voor grijswaterzuivering en dit toepassen bij het samenstellen en bouwen van een circulair watersysteem.",
+		"id": "0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"58418453-1138-4be0-8d93-693598066699",
+			"fb5ac9d1-3a0d-4bd5-a4ed-07b6d80ce40f",
+			"960a83f2-6503-404f-a2c7-662c65ed09d1",
+			"ced0569a-4696-4a68-ad04-f2e4f626a2f7",
+			"5c3500bd-a6e9-4899-b4bc-fe5ef9fbe63b",
+			"58b61d49-607f-4ec2-b3b7-6d120ba33055"
+		],
+		"title": "Het samenstellen, bouwen en monteren van een pompsysteem waarbij regen- en vuilwater wordt rondgepompt, sensoren en kleppen worden geïnstalleerd en bestuurbaar gemaakt en de waterkwaliteit wordt gemeten.",
+		"id": "cb7a5b03-e547-421c-b786-b644c76f6cbb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f07de2d0-d1a9-4910-babb-fa3d51e72985",
+			"f8e88ac4-ad2b-4c97-aead-aea465656f81"
+		],
+		"title": "Een energieneutraal circulair watersysteem bouwen.",
+		"id": "de3b33a8-d451-4417-bf29-e9007fa22528",
+		"unreleased": true
 	}
 ]

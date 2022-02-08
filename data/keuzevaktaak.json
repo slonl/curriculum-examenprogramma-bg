@@ -1390,5 +1390,17 @@
 		"title": "Bijdragen aan het opzetten van duurzame melkveehouderij / diergezondheid en welzijn van melkvee waarnemen en bevorderen / weidegang inplannen en uitvoeren.",
 		"id": "7dab6d62-4982-4cd2-9563-b25aa4aec7da",
 		"unreleased": true
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.25/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Water opvangen en opslaan, water drinkbaar maken, vuil water schoonmaken, water rondpompen en besturen, een energieneutraal circulair watersysteem bouwen.",
+		"id": "b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a",
+		"unreleased": true
 	}
 ]

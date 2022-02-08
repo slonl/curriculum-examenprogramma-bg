@@ -1997,5 +1997,21 @@
 		"title": "Duurzame melkveehouderij",
 		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"c524dac0-0946-4c9e-9d66-445075778674",
+			"3a3d88af-b929-4b1c-9a7c-80feb90410be",
+			"0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4",
+			"cb7a5b03-e547-421c-b786-b644c76f6cbb",
+			"de3b33a8-d451-4417-bf29-e9007fa22528"
+		],
+		"title": "Water, techniek en duurzaamheid",
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5",
+		"unreleased": true
 	}
 ]

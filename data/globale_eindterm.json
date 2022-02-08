@@ -31714,5 +31714,253 @@
 		"title": "De kandidaat kan grasgroei en inschaarmoment aan de hand van verschillende factoren (seizoen, weersomstandigheden en dergelijke) bepalen.",
 		"id": "6f93eec4-0b7f-4f66-9fed-fc0d300e7c73",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een afvoer en een waterdichte regenwateropvang samenstellen, bouwen en monteren van een circulair watersysteem.",
+		"id": "10539bac-5c52-4ef6-8ba4-151f28f5127d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een hottub samenstellen uit verschillende onderdelen, bouwen en/of monteren.",
+		"id": "26ae7e71-28b8-4018-ac79-469f24a91615",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een afvalwaterzuiveringsbak samenstellen, bouwen en monteren.",
+		"id": "8949bb4e-5e89-46f4-9feb-d275e3d2dff0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan drie vaten met elkaar verbinden als onderdelen van een circulair watersysteem.",
+		"id": "f4b64bff-0590-460d-95cc-f1f80d0001f3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/1.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met voorbeelden uitleggen op welke wijze het opvangen van water bijdraagt aan het oplossen van het klimaatvraagstuk.",
+		"id": "c82bceef-5082-4034-8ddd-c05d0cb41c6f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan uitleggen hoe je van regenwater drinkbaar water kunt maken.",
+		"id": "ca588b25-3a37-4d06-b3aa-963a1aee5631",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een waterzuiveringssysteem samenstellen.",
+		"id": "24d4a119-dffc-4347-a3d9-3e8f9e0e3d87",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een waterzuiveringssysteem monteren.",
+		"id": "4e24662f-58bf-4404-ba4a-72363c393bac",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/2.4",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan uitleggen welke overeenkomsten er zijn tussen onze drinkwaterzuivering en een drinkwaterzuiveringsfabriek.",
+		"id": "900a76d2-a243-4baf-b649-3ca61c9b5487",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.1",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan begrijpen op welke wijze een helofytenfilter vuil water reinigt en waarvoor ze worden toegepast.",
+		"id": "19fd56db-b5fe-4f35-b24e-25f7ef9fdc35",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een helofytenfilter samenstellen met water aan- en afvoer en vetafscheider.",
+		"id": "807c9782-84ef-4275-9e18-e3b8ed2b7f9b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de montagewerkzaamheden uitvoeren.",
+		"id": "9515ad2d-8832-44f2-9561-a035b976e09b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het helofytenfilter vullen met verschillende bodemsubstraten en riet inplanten.",
+		"id": "36bb6435-b480-4af4-a038-9bf123bc8414",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkend helofytenfilter opleveren.",
+		"id": "60b61bd5-eb74-4ab4-b8a5-7e9d0737dfaa",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de werking van een afvalwaterzuivering (AWZ) uitleggen.",
+		"id": "c48bc5d5-a05c-402f-ba39-a20793be7661",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/3.7",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de overeenkomsten zijn tussen een afvalwaterzuivering en een helofytenfilter kunnen beschrijven.",
+		"id": "7fb91fd9-8955-437c-9dd0-1f8b346492ed",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een pompsysteem samenstellen voor een circulair watersysteem.",
+		"id": "58418453-1138-4be0-8d93-693598066699",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het pompsysteem monteren.",
+		"id": "fb5ac9d1-3a0d-4bd5-a4ed-07b6d80ce40f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.3",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderzoeken welke sensoren er toegepast kunnen worden in het circylaire watersysteem.",
+		"id": "960a83f2-6503-404f-a2c7-662c65ed09d1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan kennismaken met het op afstand bestuurbaar maken van sensoren.",
+		"id": "ced0569a-4696-4a68-ad04-f2e4f626a2f7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillende waterkwaliteitsonderzoeken m.b.v. indicatoren uitvoeren en conclusies trekken, o.a.helderheid, pH, temperatuur, hardheid, chloride en nitraat.",
+		"id": "5c3500bd-a6e9-4899-b4bc-fe5ef9fbe63b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/4.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vertellen wat de overeenkomst is tussen het pompsysteem in het circulaire watersysteem en gemalen van het waterschap.",
+		"id": "58b61d49-607f-4ec2-b3b7-6d120ba33055",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/5.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een zonnepaneel en een zonneboiler aansluiten op het circulaiure watersysteeem.",
+		"id": "f07de2d0-d1a9-4910-babb-fa3d51e72985",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/PIE/2.25/5.2",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een energie-neutraal watersysteem werkend opleveren.",
+		"id": "f8e88ac4-ad2b-4c97-aead-aea465656f81",
+		"unreleased": true
 	}
 ]

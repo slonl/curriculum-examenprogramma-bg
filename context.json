@@ -262,7 +262,7 @@
 				"$ref": "#/definitions/examenprogramma_bg_globale_eindterm"
 			}
 		},
-		"examenprogramma_bg_deprecated": {
+		"deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
 		}

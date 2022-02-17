@@ -153,53 +153,14 @@
 		]
 	},
 	{
-		"id": "1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
-		"prefix": "PK/GR/a",
-		"title": "Competenties",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"67f30612-f731-4fe0-9763-07b2b71afe47",
-			"306eb282-ad6d-4be5-af31-43bdd410e268",
-			"4b54aeac-e2b9-4892-9d60-3365699c57c3",
-			"2f58157d-e11e-4fd4-9690-acb3c9351238",
-			"47240c98-1648-428c-a659-c4172c2ee0dd",
-			"9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
-			"16e0552f-7f03-4db3-b21c-d5d43e958540",
-			"c3335313-9f0e-432d-832d-46e922b0bbb1",
-			"6b7da7a1-9992-4367-a6b1-7ede174aef7d",
-			"c9958f81-d756-45f4-8ad6-f5406beb0565",
-			"f2a94dee-b52c-44cd-8541-767327fd9a3b",
-			"7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
-			"3e825404-169a-4927-aa38-2caca703eb79",
-			"531bdd06-260f-4a55-8715-55dc3e96e738",
-			"44adfbb8-8a41-4033-a704-65b5bcfa5361",
-			"87856085-0837-4fef-a146-b369625fc9b6",
-			"f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
-			"53f8607e-4667-4b67-8481-d558847fe4cf"
-		]
-	},
-	{
-		"id": "c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",
-		"prefix": "PK/GR/b",
-		"title": "Professionele kennis en vaardigheden",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"7894510c-897e-4ff8-86b8-759cc3f7dc29",
-			"92cd5c52-3836-4f2a-a1e5-343a5ff92041",
-			"6d572486-495e-4580-b9e1-60c01a9d6c6f",
-			"033ebbd5-1751-429c-adca-6b1ca75b69db",
-			"669b40fa-63ba-4cca-8627-9faed78aa9fe",
-			"daeae4f7-f84a-484a-ba3e-5df2f3fd46c4",
-			"8f35767a-6936-472c-82b8-aa126cd1f196",
-			"cdcbfbcb-43d8-456e-bd54-ccf5ae9c2413"
-		]
-	},
-	{
 		"id": "b6b00857-5275-4d7a-bcc0-5efbe9503565",
 		"prefix": "PK/GR/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"2b1cb3b2-d579-4a6e-b824-2798d4ad59e3",
 			"f30589a7-3cbf-479e-aa3d-0270b82deb64"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "de51704a-0688-43d5-8a4b-04fb3e0ffb95",
@@ -556,6 +517,54 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b5bc6790-81ca-4af3-9ee1-0abc035ea157",
 			"3aeccbdc-a04c-40f5-8ecb-e40cf77921c0"
+		]
+	},
+	{
+		"id": "0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+		"prefix": "PK/GR/a",
+		"title": "Algemene kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"67f30612-f731-4fe0-9763-07b2b71afe47",
+			"306eb282-ad6d-4be5-af31-43bdd410e268",
+			"4b54aeac-e2b9-4892-9d60-3365699c57c3",
+			"2f58157d-e11e-4fd4-9690-acb3c9351238",
+			"47240c98-1648-428c-a659-c4172c2ee0dd",
+			"9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
+			"16e0552f-7f03-4db3-b21c-d5d43e958540",
+			"c3335313-9f0e-432d-832d-46e922b0bbb1",
+			"6b7da7a1-9992-4367-a6b1-7ede174aef7d",
+			"c9958f81-d756-45f4-8ad6-f5406beb0565",
+			"f2a94dee-b52c-44cd-8541-767327fd9a3b",
+			"7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
+			"3e825404-169a-4927-aa38-2caca703eb79",
+			"531bdd06-260f-4a55-8715-55dc3e96e738",
+			"44adfbb8-8a41-4033-a704-65b5bcfa5361",
+			"87856085-0837-4fef-a146-b369625fc9b6",
+			"f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
+			"53f8607e-4667-4b67-8481-d558847fe4cf",
+			"cee3dedf-6ba8-4190-95e7-ac857902db29"
+		],
+		"description": "",
+		"replaces": [
+			"1eabe591-ec3b-4506-8f4e-a3a7906ea3a8"
+		]
+	},
+	{
+		"id": "50fae4fd-a122-4c93-92ef-d9c1bf3ed8be",
+		"prefix": "PK/GR/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7894510c-897e-4ff8-86b8-759cc3f7dc29",
+			"804c4087-d0c4-443e-880f-315295ddb104",
+			"033ebbd5-1751-429c-adca-6b1ca75b69db",
+			"669b40fa-63ba-4cca-8627-9faed78aa9fe",
+			"daeae4f7-f84a-484a-ba3e-5df2f3fd46c4",
+			"8f35767a-6936-472c-82b8-aa126cd1f196",
+			"cdcbfbcb-43d8-456e-bd54-ccf5ae9c2413"
+		],
+		"description": "",
+		"replaces": [
+			"c42d0cb6-43e0-438f-a614-9c7fbf7de2ab"
 		]
 	}
 ]

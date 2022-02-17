@@ -1215,13 +1215,14 @@
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
-		"prefix": "K/ZW/12/KT",
+		"prefix": "K/ZW/6.15/KT",
 		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
@@ -1235,12 +1236,158 @@
 	},
 	{
 		"prefix": "K/GR/15/KT",
-		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
-		"id": "9d22d163-e54b-4185-b870-62daefeb5ba8"
+		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\nHerkennen en benoemen van functies van viskwekerijen\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"id": "9d22d163-e54b-4185-b870-62daefeb5ba8",
+		"description": "",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
 	},
 	{
 		"prefix": "K/GR/14/KT",
 		"title": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
-		"id": "29b022be-b615-4844-a64e-12e91ca97b23"
+		"id": "29b022be-b615-4844-a64e-12e91ca97b23",
+		"description": "",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.24/taak",
+		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en bouwkundige oplossingen hiervoor presenteren/ Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige woning en hiervan een maquette maken/ Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
+		"id": "c878f15a-7a65-4095-8ebe-d9e8da52db10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.25/taak",
+		"title": "Voorbehandelen van de ondergrond en veilig werken/ uitvoeren van eenvoudig wandtegelwerk/ uitvoeren van eenvoudig vloertegelwerk/ uitvoeren van diverse snijwerk.",
+		"id": "34af4d71-6f76-4701-b96f-16ec168eace6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.26/taak",
+		"title": "Oriëntatie op het beroep van meubelstoffeerder/ Werkzaamheden voorbereiden voor het stofferen van meubels/ Meubels demonteren/ Vul- en bekledingsmaterialen op maat maken en aanbrengen/ Gestoffeerde meubels afwerken en opleveren.",
+		"id": "bb03e82d-20da-4f1a-a864-4803c23ec578",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/BWI/1.28/taak",
+		"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren/ Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen/ Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
+		"id": "2c7e81a9-9479-4005-9bad-bb01d0c779ec",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.22/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen/ werkvoorbereiding met daarin de bewerkingsstappen uitvoeren/ machines instellen en voorbereiden/ verspanende gereedschappen selecteren en instellen/ machineonderdelen produceren door middel van verspanen/ verschillende machineonderdelen assembleren tot een compleet product",
+		"id": "f28af2b8-9baa-4d9a-8b94-dd076eee34aa"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.24/KT",
+		"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en afloassen op de lasrobot",
+		"id": "21eff436-e42f-4b35-810e-d123c3149877",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.25/KT",
+		"title": "Toepassen van slimme technologie door het aannemen en uitvoeren van een klantopdracht voor de ontwikkeling van een slimme technologische oplossing voor een technisch probleem. Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
+		"id": "7f21881e-d214-4781-9628-599487a02b56",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.26/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid/ In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications)/ Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
+		"id": "f3b9dfee-b68f-4267-98a3-9705fd472e9c"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.27/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het vliegen met een drone in een beroepssituatie.",
+		"id": "ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.28/KT",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever.",
+		"id": "2185f625-4b84-41da-a5ea-678d23cabf46"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.29/KT",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Het elementaire introductie van het vak goudsmeden en kennismaken met diverse basistechnieken.",
+		"id": "aa7db8db-2d39-4c1b-9391-35695f79cadd"
+	},
+	{
+		"prefix": "K/GR/16/KT",
+		"title": "Bijdragen aan het opzetten van duurzame melkveehouderij / diergezondheid en welzijn van melkvee waarnemen en bevorderen / weidegang inplannen en uitvoeren.",
+		"id": "7dab6d62-4982-4cd2-9563-b25aa4aec7da"
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/PIE/2.25/KT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Water opvangen en opslaan, water drinkbaar maken, vuil water schoonmaken, water rondpompen en besturen, een energieneutraal circulair watersysteem bouwen.",
+		"id": "b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
 	}
 ]

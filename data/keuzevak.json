@@ -1715,7 +1715,7 @@
 	{
 		"id": "6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 		"prefix": "K/ZW/09",
-		"title": "Facilitaire Dienstverlening: inrichting en verzorging",
+		"title": "Facilitaire Dienstverlening: catering en inrichting",
 		"description": "eenvoudige dienstverlenende activiteiten verrichten",
 		"examenprogramma_bg_deeltaak_id": [
 			"f8f70b44-9ff5-43f5-87cd-f217cea88ddb",
@@ -1759,22 +1759,6 @@
 		]
 	},
 	{
-		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-		"prefix": "K/ZW/12",
-		"title": "Sport en bewegen",
-		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
-		"examenprogramma_bg_deeltaak_id": [
-			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-			"0637ff48-2763-41dd-be0f-3327abac8445",
-			"ad49151b-a667-452d-ac5d-f7a8d4845a26",
-			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-			"7a21797f-04dd-4631-8cb1-9ae3934a6431"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
-		]
-	},
-	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
 		"prefix": "K/ZW/13",
 		"title": "Voorkomen van ongevallen en EHBO",
@@ -1789,6 +1773,20 @@
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"0e3d1be4-7af0-492b-b3a3-33c2bba98b33"
 		]
+	},
+	{
+		"description": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
+		"prefix": "K/GR/14",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"29b022be-b615-4844-a64e-12e91ca97b23"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"08840cce-210e-4efd-a5f6-6401bbe649a1",
+			"8250ff57-480a-4546-a047-21e133e3503e",
+			"aa075e24-28b0-4c1b-b306-c166c6d9b09e"
+		],
+		"title": "Actief in de natuur",
+		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
 	},
 	{
 		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
@@ -1806,17 +1804,203 @@
 		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
 	},
 	{
-		"description": "Vanuit kennis van en ervaringen met de natuur, deze inzetten en benutten ten behoeve en ondersteuning van recreatieve doeleinden, in een groene omgeving",
-		"prefix": "K/GR/14",
+		"prefix": "K/BWI/1.24",
 		"examenprogramma_bg_keuzevaktaak_id": [
-			"29b022be-b615-4844-a64e-12e91ca97b23"
+			"c878f15a-7a65-4095-8ebe-d9e8da52db10"
 		],
 		"examenprogramma_bg_deeltaak_id": [
-			"08840cce-210e-4efd-a5f6-6401bbe649a1",
-			"8250ff57-480a-4546-a047-21e133e3503e",
-			"aa075e24-28b0-4c1b-b306-c166c6d9b09e"
+			"99adc334-71c2-4a1c-b40b-7d923d2e0990",
+			"3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+			"8d429910-c9f5-44c8-90eb-3530fb8f1605"
 		],
-		"title": "Actief in de natuur",
-		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
+		"title": "Aardbevingbestendig bouwen",
+		"id": "5a575e25-a677-44d6-be73-484cd17bec72"
+	},
+	{
+		"prefix": "K/BWI/1.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"34af4d71-6f76-4701-b96f-16ec168eace6"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
+			"f9bffaad-bf29-4164-8d07-7f0f8c10162d",
+			"46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
+			"83cddf4f-083a-47ba-b3ff-550c4c415910"
+		],
+		"title": "Tegelzetten voor het vmbo",
+		"id": "22fc912b-1848-4641-8c3d-67ac55033247"
+	},
+	{
+		"prefix": "K/BWI/1.26",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"bb03e82d-20da-4f1a-a864-4803c23ec578"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"33766062-ac78-454c-b7eb-75b5644085cb",
+			"28bcce62-44d5-46a9-b5a9-167189d69b9c",
+			"75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
+			"aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
+			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
+		],
+		"title": "Meubelstofferen voor het vmbo",
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
+	},
+	{
+		"prefix": "K/BWI/1.28",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"2c7e81a9-9479-4005-9bad-bb01d0c779ec"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"331d0874-b674-4dc3-b97c-888bfb6a6835",
+			"f87ae0c5-9277-4a41-8247-6925cd505602",
+			"4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
+		],
+		"title": "Circulair en duurzaam bouwen",
+		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066"
+	},
+	{
+		"prefix": "K/PIE/2.22",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f28af2b8-9baa-4d9a-8b94-dd076eee34aa"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"ff7410d2-c003-4898-bd2c-ca7429310b78",
+			"c52c1464-20ea-43b5-baac-7eacf91dc7e5",
+			"2c14a544-63e1-4dc1-92b3-d86ca80482f9",
+			"5cd25d0f-7756-4b39-9800-d17ae9d8fe37",
+			"19553373-9d6e-4718-8044-3c4b45c8d971",
+			"87e263dc-cfab-4858-8d28-9dc2ae61d34d"
+		],
+		"title": "Machinebouw - verspanen",
+		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f"
+	},
+	{
+		"prefix": "K/PIE/2.24",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"21eff436-e42f-4b35-810e-d123c3149877"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"bf2da18b-3511-4c66-bdc6-e7f37b5b9928",
+			"297b8de7-d047-46ce-8376-c7482f71c611",
+			"666d9602-efdb-446e-8819-1ba8db13682b",
+			"8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
+		],
+		"title": "De lasrobot",
+		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1"
+	},
+	{
+		"prefix": "K/PIE/2.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7f21881e-d214-4781-9628-599487a02b56"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"563673e9-1b37-4232-85a5-17193d900735",
+			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
+		],
+		"title": "Slimme technologie",
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6"
+	},
+	{
+		"prefix": "K/PIE/2.26",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f3b9dfee-b68f-4267-98a3-9705fd472e9c"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc",
+			"27a240e0-4770-47b2-be41-a48dc6c337dc",
+			"b85bf3cd-b331-43c7-9fde-7e25542b4b48"
+		],
+		"title": "Cloud en cybersecurity",
+		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
+		"description": ""
+	},
+	{
+		"prefix": "K/PIE/2.27",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"04531f55-147e-4f31-ba18-e7190939d4ac",
+			"416604ac-1329-491f-9457-ca59c9d1e0a2",
+			"4bca37a9-2d92-4110-bdd0-4cc7a1b46f87",
+			"346f29ca-7335-4a81-8ef5-24ec1da8efe1"
+		],
+		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
+		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2"
+	},
+	{
+		"description": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever",
+		"prefix": "K/PIE/2.28",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"2185f625-4b84-41da-a5ea-678d23cabf46"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"e7a94b38-6766-4f4d-8f85-80b21f4027f0",
+			"eccc0103-d818-4dcf-80c9-2d4cf103bf7b",
+			"cd385697-979c-4182-b3a8-ad6c88a3c52a",
+			"1f31a952-cb74-4161-be7e-fb6c25f3029f"
+		],
+		"title": "Dronetechniek II: inspecteren met behulp van drones",
+		"id": "24471646-f67a-472e-8e66-6d6f365d7cda"
+	},
+	{
+		"prefix": "K/PIE/2.29",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"aa7db8db-2d39-4c1b-9391-35695f79cadd"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"d331775d-04b4-4c82-9705-7d74a53017a4",
+			"e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
+		],
+		"title": "Edelmetaal bewerken",
+		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356"
+	},
+	{
+		"description": "",
+		"prefix": "K/GR/16",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7dab6d62-4982-4cd2-9563-b25aa4aec7da"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"75be94ba-e0ba-4710-8a79-a46fc169589f",
+			"1df8d853-e719-405a-b0ca-8251bae0fe56",
+			"3029102e-6aa1-4af2-af1d-220b765da542"
+		],
+		"title": "Duurzame melkveehouderij",
+		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894"
+	},
+	{
+		"prefix": "K/PIE/2.25",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"c524dac0-0946-4c9e-9d66-445075778674",
+			"3a3d88af-b929-4b1c-9a7c-80feb90410be",
+			"0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4",
+			"cb7a5b03-e547-421c-b786-b644c76f6cbb",
+			"de3b33a8-d451-4417-bf29-e9007fa22528"
+		],
+		"title": "Water, techniek en duurzaamheid",
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5"
+	},
+	{
+		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+		"prefix": "K/ZW/6.15",
+		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
+		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"examenprogramma_bg_deeltaak_id": [
+			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
+			"0637ff48-2763-41dd-be0f-3327abac8445",
+			"388131d0-3378-4ab9-a0a8-ea6aa13d242c",
+			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
+			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
+		],
+		"replaces": [
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
+		]
 	}
 ]

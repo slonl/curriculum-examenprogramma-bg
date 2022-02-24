@@ -33,5 +33,546 @@
 		"types": [
 			"examenprogramma_bg_profiel"
 		]
+	},
+	{
+		"id": "746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+		"prefix": "BWI",
+		"title": "Bouwen, wonen en interieur",
+		"examenprogramma_bg_kern_id": [
+			"b1e5c55d-5017-477e-984b-857f392f1745"
+		],
+		"examenprogramma_bg_module_id": [
+			"84a0278b-ddeb-4735-a81f-f6188ba41d71",
+			"033e49aa-fc55-4d65-afcc-87fa16d03604",
+			"6a828277-fdc0-4601-9ddf-98af46b89588",
+			"c4aaca16-abd8-4600-9fca-eb62c8172f88"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"a968e63d-caf4-464f-a561-5fde942d84b0",
+			"763f57e1-533c-448a-aef3-9d76ba4e3c30",
+			"2b5c02d7-dae8-4014-b47f-555ba78f7bd1",
+			"70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
+			"483a724d-6871-4c31-9d26-a4809fe39bfe",
+			"92e1dc36-6b14-445d-be8d-13a0adc97831",
+			"cbcc72e7-e62f-44d4-a8be-5c8c82aa6c63",
+			"d4498abc-a629-4c4d-8ca5-e119c0f19307",
+			"1d9fbf27-3df1-496c-849d-a2691dee48fd",
+			"c40efb24-6a7e-44bf-a0fa-8b86500f6c34",
+			"8fb58c5d-9eee-4dbe-8e2d-65722c3f7bfe",
+			"04793b08-fd5d-402e-811f-cd2cdc1c1f7d",
+			"e30b2027-5cff-43ad-bef1-8660628632fe",
+			"ce75f363-9312-4b51-9719-7574a1041aa1",
+			"e6f03d76-7c1a-459d-b26c-829a09333b26",
+			"98db9892-d63d-4380-9e4c-1dd2b46f8f60",
+			"ad657c7d-9ca1-4179-95bd-27650f03b2cf",
+			"c29782e9-e263-4e3e-82da-31e17604df98",
+			"a1a280e4-6757-45cc-8182-5b0784f334f3"
+		],
+		"replacedBy": [
+			"1890251e-08f8-4520-a495-f28607eb0b6e"
+		],
+		"types": [
+			"examenprogramma_bg_profiel"
+		]
+	},
+	{
+		"id": "28b7d506-689b-4328-8a06-6892262c2edd",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		],
+		"examenprogramma_bg_module_id": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf",
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"43d649b5-fbb4-44f7-9271-998bba546221"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa"
+		],
+		"replacedBy": [
+			"94eac546-91dd-4c15-8912-fd0c13667824"
+		],
+		"types": [
+			"examenprogramma_bg_profiel"
+		]
+	},
+	{
+		"id": "fa4d75da-d045-4360-ac45-a772378e46d1",
+		"prefix": "PIE",
+		"title": "Produceren, installeren en energie",
+		"examenprogramma_bg_kern_id": [
+			"5b1dad69-5aff-4ec3-a109-303707b34bd2"
+		],
+		"examenprogramma_bg_module_id": [
+			"7efa8277-604f-4046-a95b-d4cb7ffda432",
+			"f983412c-13a0-4969-9c0d-507ec1808778",
+			"98a808b6-5772-4c56-ad69-974025964e75",
+			"212b4ac9-57c5-40b9-af5a-0b5782e56eb5"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"770b962d-b46b-4668-89e2-2ac8f6ab5952",
+			"684d1888-fb0b-4d20-9e87-298e65f7e853",
+			"4573f49d-8569-48b5-8b6f-976fb76c4b4b",
+			"0553f9a8-dc70-4788-8de6-c0005448b0b9",
+			"b35a6165-84d8-46ee-85a0-0aa2c68cc302",
+			"5fa40061-db79-406f-bf2e-4a47e4343529",
+			"3102e482-9e6d-4466-a872-4515280e704c",
+			"b543cbbf-c9b4-44ee-a77e-7e32d1a90800",
+			"e6d15706-4d23-4e8d-982f-3b14981fb8a6",
+			"eb45d00e-7824-4a72-a87d-61d609aa0b14",
+			"9c0558cb-9ced-4d47-adae-31047d41cfa4",
+			"f03101ba-4da8-4604-b454-0998b6d57024",
+			"7612f9df-fdd7-4602-bd79-c1f3325bb7d7",
+			"89251139-4d74-4b9c-845e-c1fdd31f1fa1",
+			"3635d8c8-584f-46e2-b5e3-20378dbbc1fc",
+			"cb5d1754-4cdc-4a78-89a3-dee84b323413",
+			"2305cdf1-fe62-4d0a-b9e1-e59d9bf7b67a"
+		],
+		"replacedBy": [
+			"72caf5df-dc9e-40bc-a46f-63714e11c87b"
+		],
+		"types": [
+			"examenprogramma_bg_profiel"
+		]
+	},
+	{
+		"id": "a363d4e3-9296-468e-ad5f-7faf6c1c7518",
+		"prefix": "ZW",
+		"title": "Zorg en welzijn",
+		"examenprogramma_bg_kern_id": [
+			"9e487dfc-1257-4121-88c2-42a82df71aca"
+		],
+		"examenprogramma_bg_module_id": [
+			"5c6a2462-e384-4f2b-9ff1-48238fd501c4",
+			"16d79800-484f-42e1-9dc7-21410c022127",
+			"1c98259e-fc3f-4cb5-95b8-d6097fbe4c8c",
+			"afaeefaf-f234-4a0d-aa78-9fe187800496"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"744b2bac-08b6-4b86-a9ef-2030137d356b",
+			"5555b9a1-11ba-40a4-8637-894428b274a3",
+			"e145123d-3b34-48b0-9067-6bca8a78787b",
+			"a14c1eac-9e56-4c57-9d8b-ede9ad6232ee",
+			"6ad585d1-9fe1-4f69-850f-8a906e4500e8",
+			"f4479add-d34c-47f7-9516-232e339fa1ef",
+			"96a16743-6543-46a7-a0a5-3933598ce670",
+			"bbacafd8-0087-4809-9047-fc1e3516da05",
+			"6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
+			"9bf40365-f7e5-4b7e-9384-26a1683c1d81",
+			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
+			"9962df41-0936-465e-9df4-e8d612fb5339"
+		],
+		"replacedBy": [
+			"7f7d127e-3d05-42ae-8bf1-79b164116d6f"
+		],
+		"types": [
+			"examenprogramma_bg_profiel"
+		]
+	},
+	{
+		"id": "1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
+		"prefix": "PK/GR/a",
+		"title": "Competenties",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"67f30612-f731-4fe0-9763-07b2b71afe47",
+			"306eb282-ad6d-4be5-af31-43bdd410e268",
+			"4b54aeac-e2b9-4892-9d60-3365699c57c3",
+			"2f58157d-e11e-4fd4-9690-acb3c9351238",
+			"47240c98-1648-428c-a659-c4172c2ee0dd",
+			"9d0492c8-31a7-4c9e-a3cc-69bf6464624a",
+			"16e0552f-7f03-4db3-b21c-d5d43e958540",
+			"c3335313-9f0e-432d-832d-46e922b0bbb1",
+			"6b7da7a1-9992-4367-a6b1-7ede174aef7d",
+			"c9958f81-d756-45f4-8ad6-f5406beb0565",
+			"f2a94dee-b52c-44cd-8541-767327fd9a3b",
+			"7186036b-ab1b-4e1a-a0d5-29d6ce0391de",
+			"3e825404-169a-4927-aa38-2caca703eb79",
+			"531bdd06-260f-4a55-8715-55dc3e96e738",
+			"44adfbb8-8a41-4033-a704-65b5bcfa5361",
+			"87856085-0837-4fef-a146-b369625fc9b6",
+			"f982c2ea-45ac-4ce3-b04c-b6d1a99beedf",
+			"53f8607e-4667-4b67-8481-d558847fe4cf"
+		],
+		"replacedBy": [
+			"0f888a78-0a56-4b8b-b77a-a7346648ba3d"
+		],
+		"types": [
+			"examenprogramma_bg_kerndeel"
+		]
+	},
+	{
+		"id": "c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",
+		"prefix": "PK/GR/b",
+		"title": "Professionele kennis en vaardigheden",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7894510c-897e-4ff8-86b8-759cc3f7dc29",
+			"92cd5c52-3836-4f2a-a1e5-343a5ff92041",
+			"6d572486-495e-4580-b9e1-60c01a9d6c6f",
+			"033ebbd5-1751-429c-adca-6b1ca75b69db",
+			"669b40fa-63ba-4cca-8627-9faed78aa9fe",
+			"daeae4f7-f84a-484a-ba3e-5df2f3fd46c4",
+			"8f35767a-6936-472c-82b8-aa126cd1f196",
+			"cdcbfbcb-43d8-456e-bd54-ccf5ae9c2413"
+		],
+		"replacedBy": [
+			"50fae4fd-a122-4c93-92ef-d9c1bf3ed8be"
+		],
+		"types": [
+			"examenprogramma_bg_kerndeel"
+		]
+	},
+	{
+		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
+		"prefix": "K/ZW/12",
+		"title": "Sport en bewegen",
+		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"examenprogramma_bg_deeltaak_id": [
+			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
+			"0637ff48-2763-41dd-be0f-3327abac8445",
+			"ad49151b-a667-452d-ac5d-f7a8d4845a26",
+			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
+			"7a21797f-04dd-4631-8cb1-9ae3934a6431"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
+		],
+		"replacedBy": [
+			"7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b"
+		],
+		"types": [
+			"examenprogramma_bg_keuzevak"
+		]
+	},
+	{
+		"id": "7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e",
+		"prefix": "P/GR/01/01",
+		"title": "Eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fe9ef900-52be-4fe4-b55a-15cb1e2cd375",
+			"e9b99248-dff3-491f-ba28-7d125e7219cf",
+			"4c6d59d1-bbcc-4a03-b5f6-1855682cf164",
+			"6610bd33-09f0-45a7-a998-8d2865f8f584",
+			"8f491d5c-b3b6-40d7-a614-02e6ac4059ef",
+			"d23aa91c-9592-46a9-9dc3-9e68836b0f50"
+		],
+		"replacedBy": [
+			"4c14267c-bf27-486e-b600-44a46c95f6db"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "199ed36f-32d1-4d0a-9fd8-229177a7617a",
+		"prefix": "P/GR/01/02",
+		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie gebruiken",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d64b69f3-31d6-476f-b24b-14a15e8c2853",
+			"a546fd12-1ac8-4ea6-a062-447630005209",
+			"19e900c6-e2d4-4aa6-aafb-e417630d1fc6",
+			"01e1db45-8eb7-4885-affb-2d03cd41fb88",
+			"44afe6d4-5138-4421-88f9-1e0a64be7747",
+			"f087e957-8fa1-4fe0-b518-1000fbbf0776"
+		],
+		"replacedBy": [
+			"d4072b7d-9257-46c0-94f4-c6a3d7d00500"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "477ef8b0-d22d-44eb-b850-4a42799ab615",
+		"prefix": "P/GR/02/01",
+		"title": "Voedingsmiddelen uit de groene sector adequaat en verantwoord hanteren, verwerken, bereiden en bewaren",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f339abf2-346e-4da6-84d4-6f128822d356",
+			"7b41d0e5-0541-4516-8daf-4815c46c1b67",
+			"590facba-797c-476f-a806-332613c7d2c4",
+			"988fcc02-dc4a-4ec6-a402-52ce2545860c",
+			"2f6b8eeb-bb33-4286-a4e4-7a1c2a8bc974",
+			"208893fb-edcf-4f8e-bd2c-75fca899f58b"
+		],
+		"replacedBy": [
+			"09976a10-d65c-40d9-ba6d-8a050e450c9f"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "89edea69-9cd8-4d1a-a214-82dcdf041974",
+		"prefix": "P/GR/03/04",
+		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
+			"8a62fe18-3210-4f85-8d1f-2246a271612f",
+			"011f3048-d5f2-47af-9091-92fea75b5f8a",
+			"cd8e60b2-a491-4533-861f-2576aca99386",
+			"b48ea5dd-e1ba-40d3-a270-8c879194888b"
+		],
+		"replacedBy": [
+			"5f7e3e78-e7fd-48b4-ad55-31a2d94fa317"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "602054a1-8df7-46b8-b6c0-d25ee2619621",
+		"prefix": "P/GR/04/02",
+		"title": "Ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9",
+			"a17d610d-e3c3-46fd-bb0c-6ca2af696f6a",
+			"610d3fd1-2b3d-4256-9660-4d028f84e956",
+			"5ba821db-05f3-4b8f-ab65-fb7065ebcc60",
+			"1f8bef43-d6cf-47f5-9b19-14da32bab048",
+			"9a1215a2-5183-4010-9668-84b965853b5a"
+		],
+		"replacedBy": [
+			"a58accde-3c8b-4c68-ae50-a55ed8c41608"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "ad49151b-a667-452d-ac5d-f7a8d4845a26",
+		"prefix": "K/ZW/12/03",
+		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
+			"d2574650-1cae-4a9b-bff9-1b2f265fa312",
+			"fe3d722d-4b9d-4824-ab69-5af1887d81d2",
+			"ea40f557-099f-4028-8908-09c1d76ca64f",
+			"7df9f06c-8688-44f8-8bb2-c727b423dd33",
+			"4a4efc90-f2d5-49ce-ba5f-ff071088b22a"
+		],
+		"replacedBy": [
+			"388131d0-3378-4ab9-a0a8-ea6aa13d242c"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "92cd5c52-3836-4f2a-a1e5-343a5ff92041",
+		"prefix": "PK/GR/b-02",
+		"title": "De kandidaat kan de begrippen duurzaamheid en kringloop (her)kennen, benoemen en toepassen. Op basis daarvan kan de kandidaat bewuste afwegingen maken en relaties leggen tussen milieu, mensen en werkprocessen in arbeid en beroep met het oog op concepten als people, planet en profit",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"replacedBy": [
+			"804c4087-d0c4-443e-880f-315295ddb104"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "fe9ef900-52be-4fe4-b55a-15cb1e2cd375",
+		"prefix": "P/GR/01/01-01",
+		"title": "De kandidaat kan de meest gangbare bedrijfsvisies herkennen en benoemen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"6816ffb3-4331-424c-8469-efb7dbd2d167"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "e9b99248-dff3-491f-ba28-7d125e7219cf",
+		"prefix": "P/GR/01/01-02",
+		"title": "De kandidaat kan op basis van instructies teeltwerkzaamheden uitvoeren",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replacedBy": [
+			"20cd2d95-7377-4a00-b540-f425fe0dc9a5"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "4c6d59d1-bbcc-4a03-b5f6-1855682cf164",
+		"prefix": "P/GR/01/01-03",
+		"title": "De kandidaat kan teeltwerkzaamheden benoemen, kiezen en uitvoeren",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"b4ec9bcf-7e41-474b-b6ec-b08d9a657c02"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "6610bd33-09f0-45a7-a998-8d2865f8f584",
+		"prefix": "P/GR/01/01-04",
+		"title": "De kandidaat kan de effecten van teeltwerkzaamheden op het milieu en de kwaliteit van voeding beschrijven",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"6be6ed2d-5e0a-4f56-8cd4-bbde8a58e078"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "8f491d5c-b3b6-40d7-a614-02e6ac4059ef",
+		"prefix": "P/GR/01/01-05",
+		"title": "De kandidaat kan op basis van instructies werkzaamheden uitvoeren ten behoeve van beheer van het landelijk gebied",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replacedBy": [
+			"f77d5065-281d-4bd8-bb17-2814fe3f1ac0"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "f087e957-8fa1-4fe0-b518-1000fbbf0776",
+		"prefix": "P/GR/01/02-06",
+		"title": "De kandidaat kan gangbare technologie herkennen en in een simulatie gebruiken",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"30203a7b-5dc7-411d-8287-fc4681193627"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "988fcc02-dc4a-4ec6-a402-52ce2545860c",
+		"prefix": "P/GR/02/01-04",
+		"title": "De kandidaat kan een maaltijd samenstellen",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"ca54c5d1-1fbd-4f82-96eb-124ec722228a"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "1b7ce11c-ce79-4f0f-bddf-829dc1c646ed",
+		"prefix": "PK/GR",
+		"title": "Kern",
+		"examenprogramma_bg_kerndeel_id": [
+			"1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
+			"c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",
+			"b6b00857-5275-4d7a-bcc0-5efbe9503565"
+		],
+		"replacedBy": [
+			"94098824-6e06-4997-b06d-93aa3542294c"
+		],
+		"types": [
+			"examenprogramma_bg_kern"
+		]
+	},
+	{
+		"id": "284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
+		"prefix": "P/GR/01",
+		"title": "Groene productie",
+		"description": "Groene productie mogelijk maken: eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren / plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie gebruiken / bedrijfsmatig houden van productiedieren en hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid gericht op dieren en het productieproces",
+		"examenprogramma_bg_deeltaak_id": [
+			"7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e",
+			"199ed36f-32d1-4d0a-9fd8-229177a7617a",
+			"5a5a3631-1cbd-41ac-94c2-bf90a017cae9"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"9ca45977-85c4-4c24-95aa-344a83e67edf"
+		],
+		"replacedBy": [
+			"092652b5-655c-451d-9e5a-4cbcccdb6c5f"
+		],
+		"types": [
+			"examenprogramma_bg_module"
+		]
+	},
+	{
+		"id": "51165ad3-a9fb-4151-ad5c-563152cb10cf",
+		"prefix": "P/GR/02",
+		"title": "Tussen productie en verkoop",
+		"description": "Voedingsmiddelen uit de groene sector adequaat en verantwoord, hanteren, verwerken, bereiden en bewaren / in de groene sector geproduceerde producten, sorteren, verpakken en transport klaar maken / een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
+		"examenprogramma_bg_deeltaak_id": [
+			"477ef8b0-d22d-44eb-b850-4a42799ab615",
+			"367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
+			"46b36d86-9a32-4616-a4dd-1f13d02fedad"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"4b7a7cc5-53bb-41a1-9513-c96c645bc95a"
+		],
+		"replacedBy": [
+			"137a1ae5-13d0-4399-9824-cb92361c41fb"
+		],
+		"types": [
+			"examenprogramma_bg_module"
+		]
+	},
+	{
+		"id": "82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
+		"prefix": "P/GR/03",
+		"title": "Vergroening stedelijke omgeving",
+		"description": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren / een ontwerp voor een groene ruimte met planten en dieren realiseren / een groene ruimte onderhouden en beheren / anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten",
+		"examenprogramma_bg_deeltaak_id": [
+			"5a2a1653-3ca3-4622-8de8-32edb266d75a",
+			"fcfed1e1-6c84-4319-9539-0c8bd43ed520",
+			"393cf337-6cd0-466f-851c-80f84e4027e9",
+			"89edea69-9cd8-4d1a-a214-82dcdf041974"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"11850fcc-25fe-4105-bee3-ec71c87652f8"
+		],
+		"replacedBy": [
+			"4bdfcc78-aab7-434d-898a-bb5c0921cfda"
+		],
+		"types": [
+			"examenprogramma_bg_module"
+		]
+	},
+	{
+		"id": "652ece59-50ae-4a8c-9c56-ae2eb22e7901",
+		"prefix": "P/GR/04",
+		"title": "Groene vormgeving en verkoop",
+		"description": "In de groene sector: verschillen tussen winkelformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen / ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule / producten verkopen",
+		"examenprogramma_bg_deeltaak_id": [
+			"d6ea3664-bf83-4078-af70-2d9eb42bface",
+			"602054a1-8df7-46b8-b6c0-d25ee2619621",
+			"c65ac27f-96ff-4535-a7ef-57e6d5d917f8"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"190da8cc-8420-41da-84da-1db580399ef4"
+		],
+		"replacedBy": [
+			"71da7a70-9cb4-4951-8095-21cb6553e854"
+		],
+		"types": [
+			"examenprogramma_bg_module"
+		]
 	}
 ]

@@ -165,63 +165,6 @@
 		]
 	},
 	{
-		"id": "284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88",
-		"prefix": "P/GR/01",
-		"title": "Groene productie",
-		"description": "Groene productie mogelijk maken: kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren; plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken; op bedrijfsmatige wijze dieren houden, hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid.",
-		"examenprogramma_bg_deeltaak_id": [
-			"7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e",
-			"199ed36f-32d1-4d0a-9fd8-229177a7617a",
-			"5a5a3631-1cbd-41ac-94c2-bf90a017cae9"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"9ca45977-85c4-4c24-95aa-344a83e67edf"
-		]
-	},
-	{
-		"id": "51165ad3-a9fb-4151-ad5c-563152cb10cf",
-		"prefix": "P/GR/02",
-		"title": "Tussen productie en verkoop",
-		"description": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien; in de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal; een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
-		"examenprogramma_bg_deeltaak_id": [
-			"477ef8b0-d22d-44eb-b850-4a42799ab615",
-			"367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
-			"46b36d86-9a32-4616-a4dd-1f13d02fedad"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"4b7a7cc5-53bb-41a1-9513-c96c645bc95a"
-		]
-	},
-	{
-		"id": "82dc8c61-a8bb-4d7a-b2ee-1f8409af9433",
-		"prefix": "P/GR/03",
-		"title": "Vergroening stedelijke omgeving",
-		"description": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren; een ontwerp voor een groene ruimte met planten en dieren realiseren; een groene ruimte onderhouden en beheren; anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
-		"examenprogramma_bg_deeltaak_id": [
-			"5a2a1653-3ca3-4622-8de8-32edb266d75a",
-			"fcfed1e1-6c84-4319-9539-0c8bd43ed520",
-			"393cf337-6cd0-466f-851c-80f84e4027e9",
-			"89edea69-9cd8-4d1a-a214-82dcdf041974"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"11850fcc-25fe-4105-bee3-ec71c87652f8"
-		]
-	},
-	{
-		"id": "652ece59-50ae-4a8c-9c56-ae2eb22e7901",
-		"prefix": "P/GR/04",
-		"title": "Groene vormgeving en verkoop",
-		"description": "In de groene sector: verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen; ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule; producten verkopen",
-		"examenprogramma_bg_deeltaak_id": [
-			"d6ea3664-bf83-4078-af70-2d9eb42bface",
-			"602054a1-8df7-46b8-b6c0-d25ee2619621",
-			"c65ac27f-96ff-4535-a7ef-57e6d5d917f8"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"190da8cc-8420-41da-84da-1db580399ef4"
-		]
-	},
-	{
 		"id": "3609ee5b-46b1-407d-8d2d-04a157073bb4",
 		"prefix": "P/HBR/01",
 		"title": "Gastheerschap",
@@ -567,6 +510,75 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"62b4c690-a905-4345-99fc-ed9bea3cc000"
+		]
+	},
+	{
+		"id": "092652b5-655c-451d-9e5a-4cbcccdb6c5f",
+		"prefix": "P/GR/01",
+		"title": "Groene productie",
+		"description": "Groene productie mogelijk maken: kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren; plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken; op bedrijfsmatige wijze dieren houden, hierbij verantwoorde keuzes maken, met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid.",
+		"examenprogramma_bg_deeltaak_id": [
+			"4c14267c-bf27-486e-b600-44a46c95f6db",
+			"d4072b7d-9257-46c0-94f4-c6a3d7d00500",
+			"5a5a3631-1cbd-41ac-94c2-bf90a017cae9"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"9ca45977-85c4-4c24-95aa-344a83e67edf"
+		],
+		"replaces": [
+			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88"
+		]
+	},
+	{
+		"id": "137a1ae5-13d0-4399-9824-cb92361c41fb",
+		"prefix": "P/GR/02",
+		"title": "Tussen productie en verkoop",
+		"description": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien; in de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal; een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
+		"examenprogramma_bg_deeltaak_id": [
+			"09976a10-d65c-40d9-ba6d-8a050e450c9f",
+			"367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
+			"46b36d86-9a32-4616-a4dd-1f13d02fedad"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"4b7a7cc5-53bb-41a1-9513-c96c645bc95a"
+		],
+		"replaces": [
+			"51165ad3-a9fb-4151-ad5c-563152cb10cf"
+		]
+	},
+	{
+		"id": "4bdfcc78-aab7-434d-898a-bb5c0921cfda",
+		"prefix": "P/GR/03",
+		"title": "Vergroening stedelijke omgeving",
+		"description": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren; een ontwerp voor een groene ruimte met planten en dieren realiseren; een groene ruimte onderhouden en beheren; anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
+		"examenprogramma_bg_deeltaak_id": [
+			"5a2a1653-3ca3-4622-8de8-32edb266d75a",
+			"fcfed1e1-6c84-4319-9539-0c8bd43ed520",
+			"393cf337-6cd0-466f-851c-80f84e4027e9",
+			"5f7e3e78-e7fd-48b4-ad55-31a2d94fa317"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"11850fcc-25fe-4105-bee3-ec71c87652f8"
+		],
+		"replaces": [
+			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433"
+		]
+	},
+	{
+		"id": "71da7a70-9cb4-4951-8095-21cb6553e854",
+		"prefix": "P/GR/04",
+		"title": "Groene vormgeving en verkoop",
+		"description": "In de groene sector: verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen; ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule; producten verkopen",
+		"examenprogramma_bg_deeltaak_id": [
+			"d6ea3664-bf83-4078-af70-2d9eb42bface",
+			"a58accde-3c8b-4c68-ae50-a55ed8c41608",
+			"c65ac27f-96ff-4535-a7ef-57e6d5d917f8"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"190da8cc-8420-41da-84da-1db580399ef4"
+		],
+		"replaces": [
+			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
 		]
 	}
 ]

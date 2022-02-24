@@ -1759,23 +1759,6 @@
 		]
 	},
 	{
-		"id": "34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
-		"prefix": "K/ZW/6.15",
-		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
-		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
-		"examenprogramma_bg_deeltaak_id": [
-			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-			"0637ff48-2763-41dd-be0f-3327abac8445",
-			"ad49151b-a667-452d-ac5d-f7a8d4845a26",
-			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
-		],
-		"dirty": "1"
-	},
-	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
 		"prefix": "K/ZW/13",
 		"title": "Voorkomen van ongevallen en EHBO",
@@ -1831,8 +1814,7 @@
 			"8d429910-c9f5-44c8-90eb-3530fb8f1605"
 		],
 		"title": "Aardbevingbestendig bouwen",
-		"id": "5a575e25-a677-44d6-be73-484cd17bec72",
-		"unreleased": true
+		"id": "5a575e25-a677-44d6-be73-484cd17bec72"
 	},
 	{
 		"prefix": "K/BWI/1.25",
@@ -1846,8 +1828,7 @@
 			"83cddf4f-083a-47ba-b3ff-550c4c415910"
 		],
 		"title": "Tegelzetten voor het vmbo",
-		"id": "22fc912b-1848-4641-8c3d-67ac55033247",
-		"unreleased": true
+		"id": "22fc912b-1848-4641-8c3d-67ac55033247"
 	},
 	{
 		"prefix": "K/BWI/1.26",
@@ -1862,8 +1843,7 @@
 			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
 		],
 		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-		"unreleased": true
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
 	},
 	{
 		"prefix": "K/BWI/1.28",
@@ -1876,8 +1856,7 @@
 			"4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
 		],
 		"title": "Circulair en duurzaam bouwen",
-		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066",
-		"unreleased": true
+		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066"
 	},
 	{
 		"prefix": "K/PIE/2.22",
@@ -1893,8 +1872,7 @@
 			"87e263dc-cfab-4858-8d28-9dc2ae61d34d"
 		],
 		"title": "Machinebouw - verspanen",
-		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
-		"unreleased": true
+		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f"
 	},
 	{
 		"prefix": "K/PIE/2.24",
@@ -1908,8 +1886,7 @@
 			"8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
 		],
 		"title": "De lasrobot",
-		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1",
-		"unreleased": true
+		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1"
 	},
 	{
 		"prefix": "K/PIE/2.25",
@@ -1921,8 +1898,7 @@
 			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 		],
 		"title": "Slimme technologie",
-		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
-		"unreleased": true
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6"
 	},
 	{
 		"prefix": "K/PIE/2.26",
@@ -1936,7 +1912,6 @@
 		],
 		"title": "Cloud en cybersecurity",
 		"id": "aa290a52-929e-4d6f-b03c-d645f124be52",
-		"unreleased": true,
 		"description": ""
 	},
 	{
@@ -1951,8 +1926,7 @@
 			"346f29ca-7335-4a81-8ef5-24ec1da8efe1"
 		],
 		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
-		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
-		"unreleased": true
+		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2"
 	},
 	{
 		"description": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever",
@@ -1967,8 +1941,7 @@
 			"1f31a952-cb74-4161-be7e-fb6c25f3029f"
 		],
 		"title": "Dronetechniek II: inspecteren met behulp van drones",
-		"id": "24471646-f67a-472e-8e66-6d6f365d7cda",
-		"unreleased": true
+		"id": "24471646-f67a-472e-8e66-6d6f365d7cda"
 	},
 	{
 		"prefix": "K/PIE/2.29",
@@ -1980,8 +1953,7 @@
 			"e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
 		],
 		"title": "Edelmetaal bewerken",
-		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356",
-		"unreleased": true
+		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356"
 	},
 	{
 		"description": "",
@@ -1995,8 +1967,7 @@
 			"3029102e-6aa1-4af2-af1d-220b765da542"
 		],
 		"title": "Duurzame melkveehouderij",
-		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
-		"unreleased": true
+		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894"
 	},
 	{
 		"prefix": "K/PIE/2.25",
@@ -2011,7 +1982,25 @@
 			"de3b33a8-d451-4417-bf29-e9007fa22528"
 		],
 		"title": "Water, techniek en duurzaamheid",
-		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5",
-		"unreleased": true
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5"
+	},
+	{
+		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+		"prefix": "K/ZW/6.15",
+		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
+		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"examenprogramma_bg_deeltaak_id": [
+			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
+			"0637ff48-2763-41dd-be0f-3327abac8445",
+			"388131d0-3378-4ab9-a0a8-ea6aa13d242c",
+			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
+			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
+		],
+		"replaces": [
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
+		]
 	}
 ]

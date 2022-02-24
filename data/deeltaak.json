@@ -1696,37 +1696,6 @@
 		]
 	},
 	{
-		"id": "7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e",
-		"prefix": "P/GR/01/01",
-		"title": "Kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"fe9ef900-52be-4fe4-b55a-15cb1e2cd375",
-			"e9b99248-dff3-491f-ba28-7d125e7219cf",
-			"4c6d59d1-bbcc-4a03-b5f6-1855682cf164",
-			"6610bd33-09f0-45a7-a998-8d2865f8f584",
-			"8f491d5c-b3b6-40d7-a614-02e6ac4059ef"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
-		"id": "199ed36f-32d1-4d0a-9fd8-229177a7617a",
-		"prefix": "P/GR/01/02",
-		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d64b69f3-31d6-476f-b24b-14a15e8c2853",
-			"a546fd12-1ac8-4ea6-a062-447630005209",
-			"19e900c6-e2d4-4aa6-aafb-e417630d1fc6",
-			"01e1db45-8eb7-4885-affb-2d03cd41fb88",
-			"44afe6d4-5138-4421-88f9-1e0a64be7747",
-			"f087e957-8fa1-4fe0-b518-1000fbbf0776",
-			"f1fe8b27-2148-46aa-8dbb-946bcec32b26",
-			"f5885637-3276-4108-80ff-3fff11aaf9ff"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "5a5a3631-1cbd-41ac-94c2-bf90a017cae9",
 		"prefix": "P/GR/01/03",
 		"title": "Op bedrijfsmatige wijze dieren houden en hierbij verantwoorde keuzes maken met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid",
@@ -1741,20 +1710,6 @@
 			"4170c33f-1a66-4485-a548-2a47cae5eac2"
 		],
 		"description": ""
-	},
-	{
-		"id": "477ef8b0-d22d-44eb-b850-4a42799ab615",
-		"prefix": "P/GR/02/01",
-		"title": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"f339abf2-346e-4da6-84d4-6f128822d356",
-			"7b41d0e5-0541-4516-8daf-4815c46c1b67",
-			"590facba-797c-476f-a806-332613c7d2c4",
-			"988fcc02-dc4a-4ec6-a402-52ce2545860c",
-			"208893fb-edcf-4f8e-bd2c-75fca899f58b"
-		],
-		"description": "",
-		"dirty": "1"
 	},
 	{
 		"id": "367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
@@ -1820,18 +1775,6 @@
 		"description": ""
 	},
 	{
-		"id": "89edea69-9cd8-4d1a-a214-82dcdf041974",
-		"prefix": "P/GR/03/04",
-		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
-			"8a62fe18-3210-4f85-8d1f-2246a271612f",
-			"011f3048-d5f2-47af-9091-92fea75b5f8a"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "d6ea3664-bf83-4078-af70-2d9eb42bface",
 		"prefix": "P/GR/04/01",
 		"title": "Verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen.",
@@ -1843,22 +1786,6 @@
 			"f881ba54-48f3-4e84-a5d9-b1892d6f73ec"
 		],
 		"description": ""
-	},
-	{
-		"id": "602054a1-8df7-46b8-b6c0-d25ee2619621",
-		"prefix": "P/GR/04/02",
-		"title": "Ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9",
-			"a17d610d-e3c3-46fd-bb0c-6ca2af696f6a",
-			"610d3fd1-2b3d-4256-9660-4d028f84e956",
-			"5ba821db-05f3-4b8f-ab65-fb7065ebcc60",
-			"1f8bef43-d6cf-47f5-9b19-14da32bab048",
-			"9a1215a2-5183-4010-9668-84b965853b5a",
-			"31f6c928-6704-4b7d-aeef-87c24470869d"
-		],
-		"description": "",
-		"dirty": "1"
 	},
 	{
 		"id": "c65ac27f-96ff-4535-a7ef-57e6d5d917f8",
@@ -6529,20 +6456,6 @@
 		"description": ""
 	},
 	{
-		"id": "ad49151b-a667-452d-ac5d-f7a8d4845a26",
-		"prefix": "K/ZW/6.15/3",
-		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
-			"d2574650-1cae-4a9b-bff9-1b2f265fa312",
-			"fe3d722d-4b9d-4824-ab69-5af1887d81d2",
-			"ea40f557-099f-4028-8908-09c1d76ca64f",
-			"7df9f06c-8688-44f8-8bb2-c727b423dd33"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "fa05677b-f72b-4d29-b931-2bcbf75eec4c",
 		"prefix": "K/ZW/6.15/4",
 		"title": "Omgaan met veiligheid en het voorkomen van blessures.",
@@ -6712,8 +6625,7 @@
 			"d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5"
 		],
 		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en  bouwkundige oplossingen hiervoor presenteren.",
-		"id": "99adc334-71c2-4a1c-b40b-7d923d2e0990",
-		"unreleased": true
+		"id": "99adc334-71c2-4a1c-b40b-7d923d2e0990"
 	},
 	{
 		"prefix": "K/BWI/1.24/2",
@@ -6725,8 +6637,7 @@
 			"166da165-a506-4178-af7a-ef6a5d90ca3c"
 		],
 		"title": "Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige  woning en hiervan een maquette maken.",
-		"id": "3f74e5aa-1252-4846-8141-d24c6d39fbbc",
-		"unreleased": true
+		"id": "3f74e5aa-1252-4846-8141-d24c6d39fbbc"
 	},
 	{
 		"prefix": "K/BWI/1.24/3",
@@ -6738,8 +6649,7 @@
 			"63a9d899-7a40-4ec7-98f6-a2121dbf185b"
 		],
 		"title": "Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
-		"id": "8d429910-c9f5-44c8-90eb-3530fb8f1605",
-		"unreleased": true
+		"id": "8d429910-c9f5-44c8-90eb-3530fb8f1605"
 	},
 	{
 		"prefix": "K/BWI/1.25/1",
@@ -6749,8 +6659,7 @@
 			"5a23a852-a4f0-4232-8eac-5e47c7fe2c16"
 		],
 		"title": "Voorbehandelen van de ondergrond en veilig werken.",
-		"id": "fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
-		"unreleased": true
+		"id": "fb080f77-70aa-4ea9-a524-6bcc97fc3a2e"
 	},
 	{
 		"prefix": "K/BWI/1.25/2",
@@ -6763,8 +6672,7 @@
 			"a92385f0-5926-4eaf-9147-c8d738af0be4"
 		],
 		"title": "Uitvoeren van eenvoudig wandtegelwerk.",
-		"id": "f9bffaad-bf29-4164-8d07-7f0f8c10162d",
-		"unreleased": true
+		"id": "f9bffaad-bf29-4164-8d07-7f0f8c10162d"
 	},
 	{
 		"prefix": "K/BWI/1.25/3",
@@ -6777,8 +6685,7 @@
 			"944eaa3b-fdc5-4387-866b-b77f1240cbf1"
 		],
 		"title": "Uitvoeren van eenvoudig vloertegelwerk.",
-		"id": "46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
-		"unreleased": true
+		"id": "46e7dc90-42c6-4f55-a13b-e115bf4ef41f"
 	},
 	{
 		"prefix": "K/BWI/1.25/4",
@@ -6787,8 +6694,7 @@
 			"2f491b68-d079-41e1-930b-224003a635a0"
 		],
 		"title": "Uitvoeren van diverse snijwerk.",
-		"id": "83cddf4f-083a-47ba-b3ff-550c4c415910",
-		"unreleased": true
+		"id": "83cddf4f-083a-47ba-b3ff-550c4c415910"
 	},
 	{
 		"prefix": "K/BWI/1.26/1",
@@ -6797,8 +6703,7 @@
 			"098361a1-3b31-4b99-8f7a-051fded5ce69"
 		],
 		"title": "Oriëntatie op het beroep van meubelstoffeerder.",
-		"id": "33766062-ac78-454c-b7eb-75b5644085cb",
-		"unreleased": true
+		"id": "33766062-ac78-454c-b7eb-75b5644085cb"
 	},
 	{
 		"prefix": "K/BWI/1.26/2",
@@ -6808,8 +6713,7 @@
 			"e951b8aa-3fd8-4a2c-8f20-01819b819d60"
 		],
 		"title": "Werkzaamheden voorbereiden voor het stofferen van meubels.",
-		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c",
-		"unreleased": true
+		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c"
 	},
 	{
 		"prefix": "K/BWI/1.26/3",
@@ -6818,8 +6722,7 @@
 			"c5047feb-6305-4041-84e8-0fc83c531b17"
 		],
 		"title": "Meubels demonteren.",
-		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
-		"unreleased": true
+		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f"
 	},
 	{
 		"prefix": "K/BWI/1.26/4",
@@ -6833,8 +6736,7 @@
 			"bca080ed-35e0-4a57-8b57-401f70b82770"
 		],
 		"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen.",
-		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
-		"unreleased": true
+		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e"
 	},
 	{
 		"prefix": "K/BWI/1.26/5",
@@ -6843,8 +6745,7 @@
 			"a8ee82ce-7334-4d89-b2a0-911e589b953b"
 		],
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
-		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a",
-		"unreleased": true
+		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a"
 	},
 	{
 		"prefix": "K/BWI/1.26/1",
@@ -6853,8 +6754,7 @@
 			"66abbacc-35b0-464f-80bd-184310bfba84"
 		],
 		"title": "Oriëntatie op het beroep van meubelstoffeerder.",
-		"id": "fb20e5c1-ab91-4bc7-b474-f55cad6a4dcd",
-		"unreleased": true
+		"id": "fb20e5c1-ab91-4bc7-b474-f55cad6a4dcd"
 	},
 	{
 		"prefix": "K/BWI/1.26/2",
@@ -6864,8 +6764,7 @@
 			"0c7bd4c6-5b49-477c-a067-580ac9a31392"
 		],
 		"title": "Werkzaamheden voorbereiden voor het stofferen van meubels.",
-		"id": "21fd3657-53e4-44fa-8977-cd49260aaea0",
-		"unreleased": true
+		"id": "21fd3657-53e4-44fa-8977-cd49260aaea0"
 	},
 	{
 		"prefix": "K/BWI/1.26/3",
@@ -6874,8 +6773,7 @@
 			"cec948fd-37fe-47c0-b47c-25075c171a69"
 		],
 		"title": "Meubels demonteren.",
-		"id": "7ca87ea6-5778-4e1f-b0b5-c5417eea1961",
-		"unreleased": true
+		"id": "7ca87ea6-5778-4e1f-b0b5-c5417eea1961"
 	},
 	{
 		"prefix": "K/BWI/1.26/4",
@@ -6889,8 +6787,7 @@
 			"695d7a44-eb38-4450-a647-b1a7322c60ee"
 		],
 		"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen.",
-		"id": "00366f6e-e9a7-44f3-b568-14e7dca58ffa",
-		"unreleased": true
+		"id": "00366f6e-e9a7-44f3-b568-14e7dca58ffa"
 	},
 	{
 		"prefix": "K/BWI/1.26/5",
@@ -6899,8 +6796,7 @@
 			"8c55792d-2475-44f9-9f6c-3fbbec51adb4"
 		],
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
-		"id": "40ab9ae9-50b0-442f-923d-374f666fdcd3",
-		"unreleased": true
+		"id": "40ab9ae9-50b0-442f-923d-374f666fdcd3"
 	},
 	{
 		"prefix": "K/BWI/1.25/1",
@@ -6910,8 +6806,7 @@
 			"aa466115-cd09-438a-bf05-f62093a411e3"
 		],
 		"title": "Voorbehandelen van de ondergrond en veilig werken.",
-		"id": "11c746cd-0c12-43ba-a052-4427c585ba7f",
-		"unreleased": true
+		"id": "11c746cd-0c12-43ba-a052-4427c585ba7f"
 	},
 	{
 		"prefix": "K/BWI/1.25/2",
@@ -6924,8 +6819,7 @@
 			"b83d8162-ef91-42d9-9828-46b735bf71f4"
 		],
 		"title": "Uitvoeren van eenvoudig wandtegelwerk.",
-		"id": "9c85b60d-efa9-4f19-90ad-d2bc9be634e8",
-		"unreleased": true
+		"id": "9c85b60d-efa9-4f19-90ad-d2bc9be634e8"
 	},
 	{
 		"prefix": "K/BWI/1.25/3",
@@ -6938,8 +6832,7 @@
 			"c51795e7-289b-4cc4-b3a6-ac5a0a680b9b"
 		],
 		"title": "Uitvoeren van eenvoudig vloertegelwerk.",
-		"id": "d10bffab-f6b4-4724-9af0-4282458d5204",
-		"unreleased": true
+		"id": "d10bffab-f6b4-4724-9af0-4282458d5204"
 	},
 	{
 		"prefix": "K/BWI/1.25/4",
@@ -6948,8 +6841,7 @@
 			"4f952b77-3000-4821-961d-5afd6631096f"
 		],
 		"title": "Uitvoeren van diverse snijwerk.",
-		"id": "73a12178-f765-4518-9170-3e681bdc2b7d",
-		"unreleased": true
+		"id": "73a12178-f765-4518-9170-3e681bdc2b7d"
 	},
 	{
 		"prefix": "K/BWI/1.28/1",
@@ -6966,8 +6858,7 @@
 			"5218558c-88f7-446d-abba-c7f4a951754d"
 		],
 		"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren.",
-		"id": "331d0874-b674-4dc3-b97c-888bfb6a6835",
-		"unreleased": true
+		"id": "331d0874-b674-4dc3-b97c-888bfb6a6835"
 	},
 	{
 		"prefix": "K/BWI/1.28/2",
@@ -6980,8 +6871,7 @@
 			"02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1"
 		],
 		"title": "Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen.",
-		"id": "f87ae0c5-9277-4a41-8247-6925cd505602",
-		"unreleased": true
+		"id": "f87ae0c5-9277-4a41-8247-6925cd505602"
 	},
 	{
 		"prefix": "K/BWI/1.28/3",
@@ -6995,8 +6885,7 @@
 			"cbbb5d69-f158-478e-ba29-a37a84e10236"
 		],
 		"title": "Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
-		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
-		"unreleased": true
+		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
 	},
 	{
 		"prefix": "K/PIE/2.22/1",
@@ -7007,8 +6896,7 @@
 			"2a5f3635-a842-4f9d-9f9e-a2c7378d27c1"
 		],
 		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen.",
-		"id": "ff7410d2-c003-4898-bd2c-ca7429310b78",
-		"unreleased": true
+		"id": "ff7410d2-c003-4898-bd2c-ca7429310b78"
 	},
 	{
 		"prefix": "K/PIE/2.22/2",
@@ -7017,8 +6905,7 @@
 			"870621b8-8a1a-41a1-beae-a966e6035334"
 		],
 		"title": "Werkvoorbereiding maken met daarin de bewerkingsstappen uitvoeren.",
-		"id": "c52c1464-20ea-43b5-baac-7eacf91dc7e5",
-		"unreleased": true
+		"id": "c52c1464-20ea-43b5-baac-7eacf91dc7e5"
 	},
 	{
 		"prefix": "K/PIE/2.22/3",
@@ -7027,8 +6914,7 @@
 			"873c8796-e421-401f-8a2b-552c7d08770d"
 		],
 		"title": "Machines instellen, voorbereiden en verspanende gereedschappen selecteren en instellen.",
-		"id": "2c14a544-63e1-4dc1-92b3-d86ca80482f9",
-		"unreleased": true
+		"id": "2c14a544-63e1-4dc1-92b3-d86ca80482f9"
 	},
 	{
 		"prefix": "K/PIE/2.22/4",
@@ -7038,8 +6924,7 @@
 			"586e732f-1a11-423a-9ed7-5ada8b81ae25"
 		],
 		"title": "Verspanende gereedschappen selecteren en instellen.",
-		"id": "5cd25d0f-7756-4b39-9800-d17ae9d8fe37",
-		"unreleased": true
+		"id": "5cd25d0f-7756-4b39-9800-d17ae9d8fe37"
 	},
 	{
 		"prefix": "K/PIE/2.22/5",
@@ -7048,8 +6933,7 @@
 			"04692c4d-281c-4667-acd9-31fcf13faf63"
 		],
 		"title": "Machine onderdelen produceren door middel van verspanen.",
-		"id": "19553373-9d6e-4718-8044-3c4b45c8d971",
-		"unreleased": true
+		"id": "19553373-9d6e-4718-8044-3c4b45c8d971"
 	},
 	{
 		"prefix": "K/PIE/2.22/6",
@@ -7058,8 +6942,7 @@
 			"14a699bc-062b-4c4e-8195-ed12b11a8804"
 		],
 		"title": "Verschillende machineonderdelen assembleren tot een pleet product.",
-		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d",
-		"unreleased": true
+		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d"
 	},
 	{
 		"prefix": "K/PIE/2.24/1",
@@ -7069,8 +6952,7 @@
 			"e06a8adc-02ae-463d-a62a-13b29dd67ec1"
 		],
 		"title": "Het besturen van de lasrobot met daarbij in achtneming de veiligheid van de lasrobot en de personen in de ruimte.",
-		"id": "bf2da18b-3511-4c66-bdc6-e7f37b5b9928",
-		"unreleased": true
+		"id": "bf2da18b-3511-4c66-bdc6-e7f37b5b9928"
 	},
 	{
 		"prefix": "K/PIE/2.24/2",
@@ -7082,8 +6964,7 @@
 			"07388630-8589-4191-9729-742a4130ea9b"
 		],
 		"title": "Het laten programmeren en lassen van de lasrobot, zodat er met het MIG/MAG proces een las gemaakt kan worden in diverse vormen, soorten en maten",
-		"id": "297b8de7-d047-46ce-8376-c7482f71c611",
-		"unreleased": true
+		"id": "297b8de7-d047-46ce-8376-c7482f71c611"
 	},
 	{
 		"prefix": "K/PIE/2.24/3",
@@ -7094,8 +6975,7 @@
 			"f777c899-bf09-44eb-8739-7af15f5ea535"
 		],
 		"title": "Een 3D tekening maken van een laswerkstuk en deze offline programmeren",
-		"id": "666d9602-efdb-446e-8819-1ba8db13682b",
-		"unreleased": true
+		"id": "666d9602-efdb-446e-8819-1ba8db13682b"
 	},
 	{
 		"prefix": "K/PIE/2.24/4",
@@ -7106,8 +6986,7 @@
 			"d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80"
 		],
 		"title": "Ter beoordeling een 3D laswerkstuk ontwerpen, zagen en in elkaar hechten en aflassen op de lasrobot, on- en offline geprogrammeerd",
-		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9",
-		"unreleased": true
+		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
 	},
 	{
 		"prefix": "K/PIE/2.25/1",
@@ -7118,8 +6997,7 @@
 			"6cf2e709-6a99-4e31-a84c-0f4cfd4b1883"
 		],
 		"title": "Een klantopdracht aannemen en uitvoeren voor de ontwikkeling van een slimme technologische oplossing voor een probleem.",
-		"id": "563673e9-1b37-4232-85a5-17193d900735",
-		"unreleased": true
+		"id": "563673e9-1b37-4232-85a5-17193d900735"
 	},
 	{
 		"prefix": "K/PIE/2.25/2",
@@ -7130,8 +7008,7 @@
 			"be64d8de-29aa-421c-8965-8e2615a0f130"
 		],
 		"title": "Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
-		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6",
-		"unreleased": true
+		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 	},
 	{
 		"prefix": "K/PIE/2.26/1",
@@ -7143,8 +7020,7 @@
 			"a3f9f8cb-db9d-4d6c-8b54-8d823edd1771"
 		],
 		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid.",
-		"id": "dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc",
-		"unreleased": true
+		"id": "dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc"
 	},
 	{
 		"prefix": "K/PIE/2.26/2",
@@ -7156,8 +7032,7 @@
 			"8131a07d-ad4f-4a70-9ef9-a9c2c34419d3"
 		],
 		"title": "In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications).",
-		"id": "27a240e0-4770-47b2-be41-a48dc6c337dc",
-		"unreleased": true
+		"id": "27a240e0-4770-47b2-be41-a48dc6c337dc"
 	},
 	{
 		"prefix": "K/PIE/2.26/3",
@@ -7170,8 +7045,7 @@
 			"e2e724dd-a99e-48f3-8ee6-7b29af60b28d"
 		],
 		"title": "Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
-		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48",
-		"unreleased": true
+		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48"
 	},
 	{
 		"prefix": "K/PIE/2.27/1",
@@ -7181,8 +7055,7 @@
 			"04a0ebab-8c92-497a-8ea6-a2b6edbd073a"
 		],
 		"title": "Het onderscheiden van de type drones en het kennen van de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan.",
-		"id": "04531f55-147e-4f31-ba18-e7190939d4ac",
-		"unreleased": true
+		"id": "04531f55-147e-4f31-ba18-e7190939d4ac"
 	},
 	{
 		"prefix": "K/PIE/2.27/2",
@@ -7192,8 +7065,7 @@
 			"449dff9f-4b28-4322-bcdb-aa235d8d10af"
 		],
 		"title": "Het kennen van de wet- en regelgeving die geldt voor het vliegen met drones.",
-		"id": "416604ac-1329-491f-9457-ca59c9d1e0a2",
-		"unreleased": true
+		"id": "416604ac-1329-491f-9457-ca59c9d1e0a2"
 	},
 	{
 		"prefix": "K/PIE/2.27/3",
@@ -7204,8 +7076,7 @@
 			"e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2"
 		],
 		"title": "Interpreteren van een eenvoudig vluchtplan en een ontwerp daarvoor maken.",
-		"id": "4bca37a9-2d92-4110-bdd0-4cc7a1b46f87",
-		"unreleased": true
+		"id": "4bca37a9-2d92-4110-bdd0-4cc7a1b46f87"
 	},
 	{
 		"prefix": "K/PIE/2.27/4",
@@ -7214,8 +7085,7 @@
 			"970f2090-46ab-4fbb-bb7e-12763fbe18d2"
 		],
 		"title": "Het uitvoeren van een vlucht met een drone in een beroepssituatie op basis van een (zelfontworpen) vluchtplan.",
-		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1",
-		"unreleased": true
+		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1"
 	},
 	{
 		"prefix": "K/PIE/2.28/1",
@@ -7225,8 +7095,7 @@
 			"75b7051a-9b00-4e09-8d65-05d5f9cc69a0"
 		],
 		"title": "Het onderscheiden van de type drones en de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan kennen.",
-		"id": "e7a94b38-6766-4f4d-8f85-80b21f4027f0",
-		"unreleased": true
+		"id": "e7a94b38-6766-4f4d-8f85-80b21f4027f0"
 	},
 	{
 		"prefix": "K/PIE/2.28/2",
@@ -7235,8 +7104,7 @@
 			"2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e"
 		],
 		"title": "Verschillende type data onderscheiden en kan benoemen hoe deze kunnen worden verzameld.",
-		"id": "eccc0103-d818-4dcf-80c9-2d4cf103bf7b",
-		"unreleased": true
+		"id": "eccc0103-d818-4dcf-80c9-2d4cf103bf7b"
 	},
 	{
 		"prefix": "K/PIE/2.28/3",
@@ -7246,8 +7114,7 @@
 			"92066b99-6457-4f0d-beda-3e8ba0196056"
 		],
 		"title": "Verschillende type data op een correcte manier verwerken en de betekenis ervan kennen.",
-		"id": "cd385697-979c-4182-b3a8-ad6c88a3c52a",
-		"unreleased": true
+		"id": "cd385697-979c-4182-b3a8-ad6c88a3c52a"
 	},
 	{
 		"prefix": "K/PIE/2.28/4",
@@ -7256,8 +7123,7 @@
 			"34724de1-7830-4a58-ba6d-2c649cde5f2b"
 		],
 		"title": "Analyseren van een concrete vraag van een opdrachtgever en geven van een onderbouwd advies op basis van data.",
-		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f",
-		"unreleased": true
+		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f"
 	},
 	{
 		"id": "133e0e5e-d9c9-48ef-8127-1c31b6ece385",
@@ -7269,8 +7135,7 @@
 			"f5ea66b3-9d48-4d07-8076-9fd484273f11",
 			"e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
 			"55a95897-95d9-41a1-b916-0f0aa8c8fbff"
-		],
-		"dirty": "1"
+		]
 	},
 	{
 		"prefix": "K/PIE/2.29/1",
@@ -7281,8 +7146,7 @@
 			"d72d1bb2-98eb-4b87-884f-a4d13b53eccb"
 		],
 		"title": "Elementaire introductie van het vak goudsmeden",
-		"id": "d331775d-04b4-4c82-9705-7d74a53017a4",
-		"unreleased": true
+		"id": "d331775d-04b4-4c82-9705-7d74a53017a4"
 	},
 	{
 		"prefix": "K/PIE/2.29/2",
@@ -7293,8 +7157,7 @@
 			"eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57"
 		],
 		"title": "Kennismaken met diverse basistechnieken",
-		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87",
-		"unreleased": true
+		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
 	},
 	{
 		"prefix": "K/GR/16/01",
@@ -7305,8 +7168,7 @@
 			"cdbea1de-f323-42f2-9601-5aa75f1b03fa"
 		],
 		"title": "Bijdragen aan het opzetten van duurzame melkveehouderij.",
-		"id": "75be94ba-e0ba-4710-8a79-a46fc169589f",
-		"unreleased": true
+		"id": "75be94ba-e0ba-4710-8a79-a46fc169589f"
 	},
 	{
 		"prefix": "K/GR/16/02",
@@ -7317,8 +7179,7 @@
 			"77c1cc05-e45d-40ad-ae36-cbdf36c0ca69"
 		],
 		"title": "Diergezondheid en welzijn van melkvee waarnemen en bevorderen.",
-		"id": "1df8d853-e719-405a-b0ca-8251bae0fe56",
-		"unreleased": true
+		"id": "1df8d853-e719-405a-b0ca-8251bae0fe56"
 	},
 	{
 		"prefix": "K/GR/16/03",
@@ -7329,8 +7190,7 @@
 			"6f93eec4-0b7f-4f66-9fed-fc0d300e7c73"
 		],
 		"title": "Weidegang inplannen en uitvoeren.",
-		"id": "3029102e-6aa1-4af2-af1d-220b765da542",
-		"unreleased": true
+		"id": "3029102e-6aa1-4af2-af1d-220b765da542"
 	},
 	{
 		"prefix": "K/PIE/2.25/1",
@@ -7342,8 +7202,7 @@
 			"c82bceef-5082-4034-8ddd-c05d0cb41c6f"
 		],
 		"title": "Verschillende technieken voor (regen) wateropvang toepassen bij het bouwen en monteren van een circulair watersysteem.",
-		"id": "c524dac0-0946-4c9e-9d66-445075778674",
-		"unreleased": true
+		"id": "c524dac0-0946-4c9e-9d66-445075778674"
 	},
 	{
 		"prefix": "K/PIE/2.25/2",
@@ -7354,8 +7213,7 @@
 			"900a76d2-a243-4baf-b649-3ca61c9b5487"
 		],
 		"title": "Verschillende technieken voor (regen) waterzuivering toepassen bij het ontwerpen en bouwen van een circulair watersysteem.",
-		"id": "3a3d88af-b929-4b1c-9a7c-80feb90410be",
-		"unreleased": true
+		"id": "3a3d88af-b929-4b1c-9a7c-80feb90410be"
 	},
 	{
 		"prefix": "K/PIE/2.25/3",
@@ -7369,8 +7227,7 @@
 			"7fb91fd9-8955-437c-9dd0-1f8b346492ed"
 		],
 		"title": "De werking van een helofytenfilter begrijpen voor grijswaterzuivering en dit toepassen bij het samenstellen en bouwen van een circulair watersysteem.",
-		"id": "0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4",
-		"unreleased": true
+		"id": "0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4"
 	},
 	{
 		"prefix": "K/PIE/2.25/4",
@@ -7383,8 +7240,7 @@
 			"58b61d49-607f-4ec2-b3b7-6d120ba33055"
 		],
 		"title": "Het samenstellen, bouwen en monteren van een pompsysteem waarbij regen- en vuilwater wordt rondgepompt, sensoren en kleppen worden geïnstalleerd en bestuurbaar gemaakt en de waterkwaliteit wordt gemeten.",
-		"id": "cb7a5b03-e547-421c-b786-b644c76f6cbb",
-		"unreleased": true
+		"id": "cb7a5b03-e547-421c-b786-b644c76f6cbb"
 	},
 	{
 		"prefix": "K/PIE/2.25/5",
@@ -7393,7 +7249,105 @@
 			"f8e88ac4-ad2b-4c97-aead-aea465656f81"
 		],
 		"title": "Een energieneutraal circulair watersysteem bouwen.",
-		"id": "de3b33a8-d451-4417-bf29-e9007fa22528",
-		"unreleased": true
+		"id": "de3b33a8-d451-4417-bf29-e9007fa22528"
+	},
+	{
+		"id": "4c14267c-bf27-486e-b600-44a46c95f6db",
+		"prefix": "P/GR/01/01",
+		"title": "Kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"6816ffb3-4331-424c-8469-efb7dbd2d167",
+			"20cd2d95-7377-4a00-b540-f425fe0dc9a5",
+			"b4ec9bcf-7e41-474b-b6ec-b08d9a657c02",
+			"6be6ed2d-5e0a-4f56-8cd4-bbde8a58e078",
+			"f77d5065-281d-4bd8-bb17-2814fe3f1ac0"
+		],
+		"description": "",
+		"replaces": [
+			"7ee8c431-fb6b-4bc7-8bbf-71a5f6c1922e"
+		]
+	},
+	{
+		"id": "d4072b7d-9257-46c0-94f4-c6a3d7d00500",
+		"prefix": "P/GR/01/02",
+		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d64b69f3-31d6-476f-b24b-14a15e8c2853",
+			"a546fd12-1ac8-4ea6-a062-447630005209",
+			"19e900c6-e2d4-4aa6-aafb-e417630d1fc6",
+			"01e1db45-8eb7-4885-affb-2d03cd41fb88",
+			"44afe6d4-5138-4421-88f9-1e0a64be7747",
+			"30203a7b-5dc7-411d-8287-fc4681193627",
+			"f1fe8b27-2148-46aa-8dbb-946bcec32b26",
+			"f5885637-3276-4108-80ff-3fff11aaf9ff"
+		],
+		"description": "",
+		"replaces": [
+			"199ed36f-32d1-4d0a-9fd8-229177a7617a"
+		]
+	},
+	{
+		"id": "09976a10-d65c-40d9-ba6d-8a050e450c9f",
+		"prefix": "P/GR/02/01",
+		"title": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f339abf2-346e-4da6-84d4-6f128822d356",
+			"7b41d0e5-0541-4516-8daf-4815c46c1b67",
+			"590facba-797c-476f-a806-332613c7d2c4",
+			"ca54c5d1-1fbd-4f82-96eb-124ec722228a",
+			"208893fb-edcf-4f8e-bd2c-75fca899f58b"
+		],
+		"description": "",
+		"replaces": [
+			"477ef8b0-d22d-44eb-b850-4a42799ab615"
+		]
+	},
+	{
+		"id": "5f7e3e78-e7fd-48b4-ad55-31a2d94fa317",
+		"prefix": "P/GR/03/04",
+		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
+			"8a62fe18-3210-4f85-8d1f-2246a271612f",
+			"011f3048-d5f2-47af-9091-92fea75b5f8a"
+		],
+		"description": "",
+		"replaces": [
+			"89edea69-9cd8-4d1a-a214-82dcdf041974"
+		]
+	},
+	{
+		"id": "a58accde-3c8b-4c68-ae50-a55ed8c41608",
+		"prefix": "P/GR/04/02",
+		"title": "Ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9",
+			"a17d610d-e3c3-46fd-bb0c-6ca2af696f6a",
+			"610d3fd1-2b3d-4256-9660-4d028f84e956",
+			"5ba821db-05f3-4b8f-ab65-fb7065ebcc60",
+			"1f8bef43-d6cf-47f5-9b19-14da32bab048",
+			"9a1215a2-5183-4010-9668-84b965853b5a",
+			"31f6c928-6704-4b7d-aeef-87c24470869d"
+		],
+		"description": "",
+		"replaces": [
+			"602054a1-8df7-46b8-b6c0-d25ee2619621"
+		]
+	},
+	{
+		"id": "388131d0-3378-4ab9-a0a8-ea6aa13d242c",
+		"prefix": "K/ZW/6.15/3",
+		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
+			"d2574650-1cae-4a9b-bff9-1b2f265fa312",
+			"fe3d722d-4b9d-4824-ab69-5af1887d81d2",
+			"ea40f557-099f-4028-8908-09c1d76ca64f",
+			"7df9f06c-8688-44f8-8bb2-c727b423dd33"
+		],
+		"description": "",
+		"replaces": [
+			"ad49151b-a667-452d-ac5d-f7a8d4845a26"
+		]
 	}
 ]

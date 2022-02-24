@@ -33,17 +33,6 @@
 		"description": ""
 	},
 	{
-		"id": "1b7ce11c-ce79-4f0f-bddf-829dc1c646ed",
-		"prefix": "PK/GR",
-		"title": "Kern Groen",
-		"examenprogramma_bg_kerndeel_id": [
-			"1eabe591-ec3b-4506-8f4e-a3a7906ea3a8",
-			"c42d0cb6-43e0-438f-a614-9c7fbf7de2ab",
-			"b6b00857-5275-4d7a-bcc0-5efbe9503565"
-		],
-		"description": ""
-	},
-	{
 		"id": "4354969f-756d-460f-98c4-dba4cdf9461f",
 		"prefix": "PK/HBR",
 		"title": "Kern Horeca, bakkerij en recreatie",
@@ -108,5 +97,19 @@
 			"330e996a-a150-4fa0-a3a9-3ac4b6c1b969"
 		],
 		"description": ""
+	},
+	{
+		"id": "94098824-6e06-4997-b06d-93aa3542294c",
+		"prefix": "PK/GR",
+		"title": "Kern Groen",
+		"examenprogramma_bg_kerndeel_id": [
+			"0f888a78-0a56-4b8b-b77a-a7346648ba3d",
+			"50fae4fd-a122-4c93-92ef-d9c1bf3ed8be",
+			"b6b00857-5275-4d7a-bcc0-5efbe9503565"
+		],
+		"description": "",
+		"replaces": [
+			"1b7ce11c-ce79-4f0f-bddf-829dc1c646ed"
+		]
 	}
 ]

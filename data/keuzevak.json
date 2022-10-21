@@ -1804,7 +1804,7 @@
 		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
 	},
 	{
-		"prefix": "K/BWI/1.24",
+		"prefix": "K/BWI/22",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"c878f15a-7a65-4095-8ebe-d9e8da52db10"
 		],
@@ -1814,7 +1814,8 @@
 			"8d429910-c9f5-44c8-90eb-3530fb8f1605"
 		],
 		"title": "Aardbevingbestendig bouwen",
-		"id": "5a575e25-a677-44d6-be73-484cd17bec72"
+		"id": "5a575e25-a677-44d6-be73-484cd17bec72",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.25",
@@ -1846,7 +1847,7 @@
 		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
 	},
 	{
-		"prefix": "K/BWI/1.28",
+		"prefix": "K/BWI/23",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"2c7e81a9-9479-4005-9bad-bb01d0c779ec"
 		],
@@ -1856,7 +1857,8 @@
 			"4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
 		],
 		"title": "Circulair en duurzaam bouwen",
-		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066"
+		"id": "6a98a234-4a64-46ed-8056-c7d9a5067066",
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/2.22",

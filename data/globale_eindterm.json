@@ -29407,136 +29407,150 @@
 		"id": "b9dee44b-c729-4b30-a50a-ae298774c35a"
 	},
 	{
-		"prefix": "K/BWI/1.24/1.1",
+		"prefix": "K/BWI/22/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan informatie opzoeken over het ontstaan van geïnduceerde aardbevingen en de gevolgen hiervan voor het bouwproces en de waterhuishouding.",
-		"id": "a904cd56-2911-4652-9b59-0bc924316a09"
+		"id": "a904cd56-2911-4652-9b59-0bc924316a09",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/1.2",
+		"prefix": "K/BWI/22/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de schade veroorzaakt door aardbevingen herkennen en benoemen.",
-		"id": "85179902-803c-4a4b-856b-ebeb7aa60d9d"
+		"id": "85179902-803c-4a4b-856b-ebeb7aa60d9d",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/1.3",
+		"prefix": "K/BWI/22/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan bouwkundige oplossingen onderzoeken om schade, als gevolg van aardbevingen, te voorkomen en te herstellen.",
-		"id": "0eddc3f1-af77-4abb-8b28-004f61d3c644"
+		"id": "0eddc3f1-af77-4abb-8b28-004f61d3c644",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/1.4",
+		"prefix": "K/BWI/22/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kaneen presentatie maken en verzorgen over de gevolgen van aardbevingen en de bouwkundige oplossingen om deze gevolgen te voorkomen en de ontstane schade te herstellen.",
-		"id": "d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5"
+		"id": "d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2.1",
+		"prefix": "K/BWI/22/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de bouwkundige oplossingen voor een aardbevingbestendige woning omzetten in een ontwerpschets.",
-		"id": "91dcedb8-ad99-4cd2-9083-638240c993f0"
+		"id": "91dcedb8-ad99-4cd2-9083-638240c993f0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2.2",
+		"prefix": "K/BWI/22/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een 3D CAD tekening maken van een ontwerp ten behoeve van een maquette.",
-		"id": "4637fbd1-2f96-4b36-a76d-c57478fa307e"
+		"id": "4637fbd1-2f96-4b36-a76d-c57478fa307e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2.3",
+		"prefix": "K/BWI/22/2.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van CAD werktekeningen maken voor een maquette.",
-		"id": "705cde32-2ab9-4fd9-bd21-931594a55e06"
+		"id": "705cde32-2ab9-4fd9-bd21-931594a55e06",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2.4",
+		"prefix": "K/BWI/22/2.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een maquette van een aardbevingbestendige woning op schaal 1:50 maken.",
-		"id": "d9500b7f-f79b-4c82-b9dc-15a1d8fac34f"
+		"id": "d9500b7f-f79b-4c82-b9dc-15a1d8fac34f",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2.5",
+		"prefix": "K/BWI/22/2.5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van een 3D ontwerp en een maquette de bouwkundige oplossingen demonstreren om schade, als gevolg van aardbevingen te voorkomen.",
-		"id": "166da165-a506-4178-af7a-ef6a5d90ca3c"
+		"id": "166da165-a506-4178-af7a-ef6a5d90ca3c",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3.1",
+		"prefix": "K/BWI/22/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan beschadigde voegen herstellen door de voegen uit te slijpen, aluminium strips te plaatsen en opnieuw in te voegen.",
-		"id": "a39cfe64-f952-4b1d-9868-bd559aa9ec85"
+		"id": "a39cfe64-f952-4b1d-9868-bd559aa9ec85",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3.2",
+		"prefix": "K/BWI/22/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan helpen bij het herstellen van de balkconstructie.",
-		"id": "90237718-dcad-4473-832f-1dea551d1bf1"
+		"id": "90237718-dcad-4473-832f-1dea551d1bf1",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3.3",
+		"prefix": "K/BWI/22/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan helpen bij het herstellen van gescheurde muren door de gescheurde stenen weg te slijpen en te hakken en nieuwe stenen in te metselen of steenstrips te plaatsen.",
-		"id": "4ad13b23-44d3-4570-b10c-822bd73d56b0"
+		"id": "4ad13b23-44d3-4570-b10c-822bd73d56b0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3.4",
+		"prefix": "K/BWI/22/3.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan herkennen en benoemen van de benodigde materialen en gereedschappen.",
-		"id": "b16b6c43-a000-4da3-9789-e34b165dd263"
+		"id": "b16b6c43-a000-4da3-9789-e34b165dd263",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3.5",
+		"prefix": "K/BWI/22/3.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan de werkplek opruimen en schoonmaken.",
-		"id": "63a9d899-7a40-4ec7-98f6-a2121dbf185b"
+		"id": "63a9d899-7a40-4ec7-98f6-a2121dbf185b",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.25/1.1",
@@ -30187,228 +30201,251 @@
 		"id": "4f952b77-3000-4821-961d-5afd6631096f"
 	},
 	{
-		"prefix": "K/BWI/1.28/1.1",
+		"prefix": "K/BWI/23/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan begrippen lineaire en een circulaire economie kunnen omschrijven.",
-		"id": "55731c14-cd3f-43c7-b115-5b6b0c28b3aa"
+		"id": "55731c14-cd3f-43c7-b115-5b6b0c28b3aa",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.2",
+		"prefix": "K/BWI/23/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan voorbeelden van de biologische en de technische kringloop herkennen en benoemen.",
-		"id": "84349b83-791c-4b15-a70d-a105ec9c6f66"
+		"id": "84349b83-791c-4b15-a70d-a105ec9c6f66",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.3",
+		"prefix": "K/BWI/23/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan duurzaam bouwen en circulair bouwen omschrijven.",
-		"id": "91751fab-b5ca-4a97-ba7a-d0215990aa9a"
+		"id": "91751fab-b5ca-4a97-ba7a-d0215990aa9a",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.4",
+		"prefix": "K/BWI/23/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan duurzaamheidseisen en meetinstrumenten voor circulair en duurzaam bouwen herkennen, benoemen en omschrijven.",
-		"id": "57fbd210-a4cb-4758-8ea5-d7cf84dba755"
+		"id": "57fbd210-a4cb-4758-8ea5-d7cf84dba755",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.5",
+		"prefix": "K/BWI/23/1.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan duurzame, circulaire en biobased materialen herkennen en benoemen.",
-		"id": "452eddb8-3d51-4373-b34b-ff12538bb6c8"
+		"id": "452eddb8-3d51-4373-b34b-ff12538bb6c8",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.6",
+		"prefix": "K/BWI/23/1.6",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan gebruikte materialen van een gebouw registreren.",
-		"id": "08b1055e-e03f-4e66-a36e-2a096d0959d9"
+		"id": "08b1055e-e03f-4e66-a36e-2a096d0959d9",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.7",
+		"prefix": "K/BWI/23/1.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met een warmtebeeldcamera metingen verrichten in een bestaand gebouw.",
-		"id": "9fbd9c1f-4eb8-41e1-8b69-cf5b4ed0789d"
+		"id": "9fbd9c1f-4eb8-41e1-8b69-cf5b4ed0789d",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.8",
+		"prefix": "K/BWI/23/1.8",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan verduurzamingsmaatregelen voorstellen in en aan een bestaande woning.",
-		"id": "f891f33a-cda8-46c1-8e55-d47c9a85ed70"
+		"id": "f891f33a-cda8-46c1-8e55-d47c9a85ed70",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.9",
+		"prefix": "K/BWI/23/1.9",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan isolatiematerialen herkennen en het doel en de functie van isolatie en ventilatie omschrijven.",
-		"id": "4274082d-bc5d-4d83-9d1e-30804da81825"
+		"id": "4274082d-bc5d-4d83-9d1e-30804da81825",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/1.10",
+		"prefix": "K/BWI/23/1.10",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de juiste soorten isolatiematerialen kiezen.",
-		"id": "5218558c-88f7-446d-abba-c7f4a951754d"
+		"id": "5218558c-88f7-446d-abba-c7f4a951754d",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.1",
+		"prefix": "K/BWI/23/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan relevante informatie verzamelen, ordenen en toepassen, zoals eisen van een opdrachtgever en specificaties van materialen en producten.",
-		"id": "7f909918-2f4d-478d-b88b-9b49afb56a13"
+		"id": "7f909918-2f4d-478d-b88b-9b49afb56a13",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.2",
+		"prefix": "K/BWI/23/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van 3D CAD een eenvoudig ontwerp van een product/interieurelement maken van circulaire materialen en omzetten naar een werktekening.",
-		"id": "53d24a73-fe61-4b9f-a0b2-22fcec5f9892"
+		"id": "53d24a73-fe61-4b9f-a0b2-22fcec5f9892",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.3",
+		"prefix": "K/BWI/23/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een werktekening lezen en een materiaalstaat maken.",
-		"id": "3cb3afb4-431c-4a07-9fc4-e49c3375f602"
+		"id": "3cb3afb4-431c-4a07-9fc4-e49c3375f602",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.4",
+		"prefix": "K/BWI/23/2.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een werkplanning maken.",
-		"id": "933be757-62e9-44e4-b9d8-47cfc14be7cb"
+		"id": "933be757-62e9-44e4-b9d8-47cfc14be7cb",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.5",
+		"prefix": "K/BWI/23/2.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een product/interieurelement maken van circulaire materialen.",
-		"id": "86529e47-b123-4d54-9d83-fa9d1755eb42"
+		"id": "86529e47-b123-4d54-9d83-fa9d1755eb42",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2.6",
+		"prefix": "K/BWI/23/2.6",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een circulair product/interieurelement beoordelen op kwaliteitseisen en opleveren.",
-		"id": "02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1"
+		"id": "02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.1",
+		"prefix": "K/BWI/23/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van een 3D CAD een eenvoudig ontwerp maken voor een constructie, waarbij rekening wordt gehouden met duurzame en circulaire uitgangspunten.",
-		"id": "ab353c4c-431e-4bc1-b1ad-5155198f3418"
+		"id": "ab353c4c-431e-4bc1-b1ad-5155198f3418",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.2",
+		"prefix": "K/BWI/23/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een werktekening lezen en een materiaalstaat maken.",
-		"id": "f9a4c931-61d9-4099-bc80-9dd6beda8d10"
+		"id": "f9a4c931-61d9-4099-bc80-9dd6beda8d10",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.3",
+		"prefix": "K/BWI/23/3.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een werkplanning maken.",
-		"id": "4adc1ae3-81e4-42b3-80c0-0750956be129"
+		"id": "4adc1ae3-81e4-42b3-80c0-0750956be129",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.4",
+		"prefix": "K/BWI/23/3.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een prefab constructie samenstellen (bv HSB).",
-		"id": "460fc1da-7bc7-404e-9f19-9d3bebadb580"
+		"id": "460fc1da-7bc7-404e-9f19-9d3bebadb580",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.5",
+		"prefix": "K/BWI/23/3.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een remontabele gevel opbouwen met een (droog)stapelmethode.",
-		"id": "8fcee9fc-1557-42f6-8fd7-fe8d764f39c0"
+		"id": "8fcee9fc-1557-42f6-8fd7-fe8d764f39c0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.6",
+		"prefix": "K/BWI/23/3.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan demontabele gevelbekleding aanbrengen op een HSB wand.",
-		"id": "b484fa17-e8f1-4423-8f02-d1135e57219f"
+		"id": "b484fa17-e8f1-4423-8f02-d1135e57219f",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3.7",
+		"prefix": "K/BWI/23/3.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een eenvoudig product met circulaire beton of beton vervangend bouwmateriaal samenstellen.",
-		"id": "cbbb5d69-f158-478e-ba29-a37a84e10236"
+		"id": "cbbb5d69-f158-478e-ba29-a37a84e10236",
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/2.22/1.1",

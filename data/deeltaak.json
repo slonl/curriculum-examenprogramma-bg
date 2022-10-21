@@ -6617,7 +6617,7 @@
 		"id": "aa075e24-28b0-4c1b-b306-c166c6d9b09e"
 	},
 	{
-		"prefix": "K/BWI/1.24/1",
+		"prefix": "K/BWI/22/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a904cd56-2911-4652-9b59-0bc924316a09",
 			"85179902-803c-4a4b-856b-ebeb7aa60d9d",
@@ -6625,10 +6625,11 @@
 			"d613e4e0-d2ac-47cd-bbf8-0d50f0a225e5"
 		],
 		"title": "De gevolgen van aardbevingen als gevolg van gaswinning onderzoeken en  bouwkundige oplossingen hiervoor presenteren.",
-		"id": "99adc334-71c2-4a1c-b40b-7d923d2e0990"
+		"id": "99adc334-71c2-4a1c-b40b-7d923d2e0990",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/2",
+		"prefix": "K/BWI/22/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"91dcedb8-ad99-4cd2-9083-638240c993f0",
 			"4637fbd1-2f96-4b36-a76d-c57478fa307e",
@@ -6637,10 +6638,11 @@
 			"166da165-a506-4178-af7a-ef6a5d90ca3c"
 		],
 		"title": "Met behulp van 3D CAD een ontwerp maken voor een aardbevingbestendige  woning en hiervan een maquette maken.",
-		"id": "3f74e5aa-1252-4846-8141-d24c6d39fbbc"
+		"id": "3f74e5aa-1252-4846-8141-d24c6d39fbbc",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.24/3",
+		"prefix": "K/BWI/22/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a39cfe64-f952-4b1d-9868-bd559aa9ec85",
 			"90237718-dcad-4473-832f-1dea551d1bf1",
@@ -6649,7 +6651,8 @@
 			"63a9d899-7a40-4ec7-98f6-a2121dbf185b"
 		],
 		"title": "Helpen bij het uitvoeren van restauratiewerkzaamheden aan een, door een aardbeving, beschadigde woning.",
-		"id": "8d429910-c9f5-44c8-90eb-3530fb8f1605"
+		"id": "8d429910-c9f5-44c8-90eb-3530fb8f1605",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.25/1",
@@ -6844,7 +6847,7 @@
 		"id": "73a12178-f765-4518-9170-3e681bdc2b7d"
 	},
 	{
-		"prefix": "K/BWI/1.28/1",
+		"prefix": "K/BWI/23/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"55731c14-cd3f-43c7-b115-5b6b0c28b3aa",
 			"84349b83-791c-4b15-a70d-a105ec9c6f66",
@@ -6858,10 +6861,11 @@
 			"5218558c-88f7-446d-abba-c7f4a951754d"
 		],
 		"title": "De principes, kenmerken en eigenschappen van circulair en duurzaam bouwen herkennen, benoemen, omschrijven en controleren.",
-		"id": "331d0874-b674-4dc3-b97c-888bfb6a6835"
+		"id": "331d0874-b674-4dc3-b97c-888bfb6a6835",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/2",
+		"prefix": "K/BWI/23/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7f909918-2f4d-478d-b88b-9b49afb56a13",
 			"53d24a73-fe61-4b9f-a0b2-22fcec5f9892",
@@ -6871,10 +6875,11 @@
 			"02dd4e5e-723c-4d25-b9c9-58a7a6aaadd1"
 		],
 		"title": "Een product/interieurelement ontwerpen en maken door gebruik te maken van circulaire materialen.",
-		"id": "f87ae0c5-9277-4a41-8247-6925cd505602"
+		"id": "f87ae0c5-9277-4a41-8247-6925cd505602",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.28/3",
+		"prefix": "K/BWI/23/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ab353c4c-431e-4bc1-b1ad-5155198f3418",
 			"f9a4c931-61d9-4099-bc80-9dd6beda8d10",
@@ -6885,7 +6890,8 @@
 			"cbbb5d69-f158-478e-ba29-a37a84e10236"
 		],
 		"title": "Constructies ontwerpen, maken en samenstellen waarbij rekening gehouden wordt met duurzame en circulaire uitganspunten.",
-		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac"
+		"id": "4ab28753-e7e0-49f1-afc1-9735d0fa0dac",
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/2.22/1",

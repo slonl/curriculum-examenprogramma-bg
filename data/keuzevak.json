@@ -1818,7 +1818,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.25",
+		"prefix": "K/BWI/21",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"34af4d71-6f76-4701-b96f-16ec168eace6"
 		],
@@ -1829,7 +1829,8 @@
 			"83cddf4f-083a-47ba-b3ff-550c4c415910"
 		],
 		"title": "Tegelzetten voor het vmbo",
-		"id": "22fc912b-1848-4641-8c3d-67ac55033247"
+		"id": "22fc912b-1848-4641-8c3d-67ac55033247",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26",
@@ -2004,18 +2005,5 @@
 		"replaces": [
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
 		]
-	},
-	{
-		"prefix": "K/BWI/20",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"f9e77ed3-9539-4901-afd1-bc6523e103f5"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"29521184-e698-4e02-9259-104fe89f03b9",
-			"eaf665e6-67cd-48e5-bad4-337e9c2e01d5"
-		],
-		"title": "Ontwerp duurzame comfortwoning",
-		"id": "cd688789-874b-4504-b457-6737561ab318",
-		"unreleased": true
 	}
 ]

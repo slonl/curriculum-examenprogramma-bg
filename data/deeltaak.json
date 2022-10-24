@@ -6655,17 +6655,18 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.25/1",
+		"prefix": "K/BWI/21/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"883b3c26-1c53-4586-a87e-4bf4cd82ec14",
 			"df40238f-d288-4af2-a057-dacd1a244032",
 			"5a23a852-a4f0-4232-8eac-5e47c7fe2c16"
 		],
 		"title": "Voorbehandelen van de ondergrond en veilig werken.",
-		"id": "fb080f77-70aa-4ea9-a524-6bcc97fc3a2e"
+		"id": "fb080f77-70aa-4ea9-a524-6bcc97fc3a2e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.25/2",
+		"prefix": "K/BWI/21/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"8535f2e0-344d-4f57-92fd-1c1eabfd779c",
 			"f8b3407e-dce7-440c-a2d0-45636304d35e",
@@ -6675,10 +6676,11 @@
 			"a92385f0-5926-4eaf-9147-c8d738af0be4"
 		],
 		"title": "Uitvoeren van eenvoudig wandtegelwerk.",
-		"id": "f9bffaad-bf29-4164-8d07-7f0f8c10162d"
+		"id": "f9bffaad-bf29-4164-8d07-7f0f8c10162d",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.25/3",
+		"prefix": "K/BWI/21/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"76167a31-e318-415f-86c8-3b4dd4a00a78",
 			"9e2b0cfa-0eb2-4f85-ba71-6ca2e68af7c5",
@@ -6688,16 +6690,18 @@
 			"944eaa3b-fdc5-4387-866b-b77f1240cbf1"
 		],
 		"title": "Uitvoeren van eenvoudig vloertegelwerk.",
-		"id": "46e7dc90-42c6-4f55-a13b-e115bf4ef41f"
+		"id": "46e7dc90-42c6-4f55-a13b-e115bf4ef41f",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.25/4",
+		"prefix": "K/BWI/21/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e31a906d-f107-4b85-ad5e-289ef5e09161",
 			"2f491b68-d079-41e1-930b-224003a635a0"
 		],
 		"title": "Uitvoeren van diverse snijwerk.",
-		"id": "83cddf4f-083a-47ba-b3ff-550c4c415910"
+		"id": "83cddf4f-083a-47ba-b3ff-550c4c415910",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26/1",
@@ -7355,25 +7359,5 @@
 		"replaces": [
 			"ad49151b-a667-452d-ac5d-f7a8d4845a26"
 		]
-	},
-	{
-		"prefix": "K/BWI/20/1",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"9cb13538-4094-44a1-b5da-8ac31f4150ed",
-			"ad366f78-fed3-4b6a-a390-f223f2b19bb0"
-		],
-		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt.",
-		"id": "29521184-e698-4e02-9259-104fe89f03b9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20/2",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"d56cc0c1-4efa-4d33-aa4d-2b07f5e913ce",
-			"c6f7212a-94a9-4a2e-a66a-5557ab018eac"
-		],
-		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
-		"id": "eaf665e6-67cd-48e5-bad4-337e9c2e01d5",
-		"unreleased": true
 	}
 ]

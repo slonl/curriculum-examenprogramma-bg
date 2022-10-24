@@ -31791,5 +31791,46 @@
 		"replaces": [
 			"988fcc02-dc4a-4ec6-a402-52ce2545860c"
 		]
+	},
+	{
+		"prefix": "K/BWI/20/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp visualiseren in een 3D-model met moderne tekenprogramma's en eventueel in BIM.",
+		"id": "9cb13538-4094-44a1-b5da-8ac31f4150ed",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan relevante informatie verzamelen, ordenen en toepassen, zoals eisen van een opdrachtgever en specificaties van producten.",
+		"id": "ad366f78-fed3-4b6a-a390-f223f2b19bb0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een tekening interpreteren en verwerken in een werktekening t.b.v. een maquette.",
+		"id": "d56cc0c1-4efa-4d33-aa4d-2b07f5e913ce",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een maquette samenstellen van duurzame materialen en nieuwe technologie.",
+		"id": "c6f7212a-94a9-4a2e-a66a-5557ab018eac",
+		"unreleased": true
 	}
 ]

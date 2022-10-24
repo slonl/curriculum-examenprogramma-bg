@@ -7355,5 +7355,25 @@
 		"replaces": [
 			"ad49151b-a667-452d-ac5d-f7a8d4845a26"
 		]
+	},
+	{
+		"prefix": "K/BWI/20/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"9cb13538-4094-44a1-b5da-8ac31f4150ed",
+			"ad366f78-fed3-4b6a-a390-f223f2b19bb0"
+		],
+		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt.",
+		"id": "29521184-e698-4e02-9259-104fe89f03b9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d56cc0c1-4efa-4d33-aa4d-2b07f5e913ce",
+			"c6f7212a-94a9-4a2e-a66a-5557ab018eac"
+		],
+		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
+		"id": "eaf665e6-67cd-48e5-bad4-337e9c2e01d5",
+		"unreleased": true
 	}
 ]

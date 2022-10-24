@@ -1268,8 +1268,8 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/BWI/1.25/taak",
-		"title": "Voorbehandelen van de ondergrond en veilig werken/ uitvoeren van eenvoudig wandtegelwerk/ uitvoeren van eenvoudig vloertegelwerk/ uitvoeren van diverse snijwerk.",
+		"prefix": "K/BWI/21/taak",
+		"title": "Voorbehandelen van de ondergrond en veilig werken, uitvoeren van eenvoudig wandtegelwerk, uitvoeren van eenvoudig vloertegelwerk en uitvoeren van diverse snijwerk.",
 		"id": "34af4d71-6f76-4701-b96f-16ec168eace6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -1395,12 +1395,5 @@
 		],
 		"title": "Water opvangen en opslaan, water drinkbaar maken, vuil water schoonmaken, water rondpompen en besturen, een energieneutraal circulair watersysteem bouwen.",
 		"id": "b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/BWI/20/taak",
-		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\"",
-		"id": "f9e77ed3-9539-4901-afd1-bc6523e103f5",
-		"unreleased": true
 	}
 ]

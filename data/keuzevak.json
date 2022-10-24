@@ -2004,5 +2004,18 @@
 		"replaces": [
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
 		]
+	},
+	{
+		"prefix": "K/BWI/20",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f9e77ed3-9539-4901-afd1-bc6523e103f5"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"29521184-e698-4e02-9259-104fe89f03b9",
+			"eaf665e6-67cd-48e5-bad4-337e9c2e01d5"
+		],
+		"title": "Ontwerp duurzame comfortwoning",
+		"id": "cd688789-874b-4504-b457-6737561ab318",
+		"unreleased": true
 	}
 ]

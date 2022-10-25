@@ -1833,7 +1833,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/24",
+		"prefix": "K/BWI/1.26",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"bb03e82d-20da-4f1a-a864-4803c23ec578"
 		],
@@ -1845,8 +1845,7 @@
 			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
 		],
 		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-		"description": ""
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
 	},
 	{
 		"prefix": "K/BWI/23",
@@ -2019,6 +2018,19 @@
 		],
 		"title": "Wonen en design",
 		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"660ef0e4-d749-48c0-98a5-04c83f645417"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+			"e49efc2a-deca-4af7-9b55-7e30432e86e6"
+		],
+		"title": "Ontwerp duurzame comfortwoning",
+		"id": "37269c2b-9acd-40ed-bd63-031875a69dcf",
 		"unreleased": true
 	}
 ]

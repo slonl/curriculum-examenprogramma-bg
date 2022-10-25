@@ -7443,5 +7443,28 @@
 		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
 		"id": "61903ee1-df17-42dc-bc3f-d6e33af04f22",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8eaecd85-39dd-42aa-b80f-b0d36b2b63cc",
+			"95324955-0cb0-439f-8049-722af43c0acf",
+			"255ffc77-80de-4af8-b728-deb4a362b51d",
+			"aaf73f7c-7474-495b-b444-953d0e384d61"
+		],
+		"title": "Werkzaamheden binnen de modetechniek uitvoeren ten aanzien van ontwerpen en technieken.",
+		"id": "99bd9315-a676-4eb8-b98f-9c71f40a2ab3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c1483605-60b8-46e8-834c-b38c853e5c26",
+			"439c5b8b-2e9d-473a-ad07-ce2725546e0f",
+			"1085e4a0-d562-41c5-9010-f72def467f9f"
+		],
+		"title": "Werkzaamheden uitvoeren ten aanzien van productietechnieken.",
+		"id": "80c9d99c-268e-41ee-9535-c0b8163f36dd",
+		"unreleased": true
 	}
 ]

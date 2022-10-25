@@ -2045,5 +2045,18 @@
 		"title": "Internationale handel",
 		"id": "ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/9",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"6ca2cffc-f6fb-48b5-9d58-6b27d84469fe"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"99bd9315-a676-4eb8-b98f-9c71f40a2ab3",
+			"80c9d99c-268e-41ee-9535-c0b8163f36dd"
+		],
+		"title": "Modetechniek",
+		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
+		"unreleased": true
 	}
 ]

@@ -7359,5 +7359,42 @@
 		"replaces": [
 			"ad49151b-a667-452d-ac5d-f7a8d4845a26"
 		]
+	},
+	{
+		"prefix": "K/EO/10/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e917dcd1-f8cb-4252-9d13-794d0eb87818",
+			"c372de34-206a-453c-b28a-165105ba4d6f",
+			"a0422b6e-58d2-412d-90dd-35abe7978a75",
+			"0c1d8858-e4e3-49df-9e4b-b52852a2c9de",
+			"6ce05cc0-1ac3-4b93-aeea-be04ef50cbe0",
+			"7760aedf-aabe-406a-a9ae-1e8158106bc7"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het bedenken van een woonstijlconcept.",
+		"id": "5e33b390-9937-4028-8527-eb5a1b7eb17f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2a5c919f-0b25-4b2a-aefe-f0c207925ceb",
+			"be8bfcf6-215d-438d-bceb-e485cec4fd6f"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het ontwerpen van een sample passend bij een woonstijlconcept.",
+		"id": "dbee9d2b-5a8f-4b41-a135-c6ba96f91c30",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"af145b34-300d-4181-88bf-a271fc78348e",
+			"131e76f6-2071-45e8-b4c9-61a409b0c648",
+			"0ad1be69-bcb2-457f-a4b0-d344f093a0e7",
+			"d7f7af5b-4ceb-471a-b985-6ffde9e8f793",
+			"9a95a5a3-53f1-4899-97c4-a9510aa63acd"
+		],
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"id": "169d1361-b531-41d4-b6fb-4c4e6f63aa2d",
+		"unreleased": true
 	}
 ]

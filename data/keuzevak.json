@@ -1833,7 +1833,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26",
+		"prefix": "K/BWI/24",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"bb03e82d-20da-4f1a-a864-4803c23ec578"
 		],
@@ -1845,7 +1845,8 @@
 			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
 		],
 		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/23",

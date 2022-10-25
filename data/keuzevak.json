@@ -2058,5 +2058,21 @@
 		"title": "Modetechniek",
 		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"41e99ac6-071f-495d-9479-fb11f6c593b7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b12eedfe-069f-4aca-b71a-742f99bacca9",
+			"3b10bdca-ffd8-481c-b280-beaf2c6bed25",
+			"658e7ead-eba2-4e2c-a122-fd91a078bfed",
+			"7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
+			"161aa6a9-162a-4b23-8b6d-9b4fbc103e32"
+		],
+		"title": "Acteren en zingen",
+		"id": "60203451-d476-4d35-b4c8-087ea6666a18",
+		"unreleased": true
 	}
 ]

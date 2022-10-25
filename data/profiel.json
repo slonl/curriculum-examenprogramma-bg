@@ -197,6 +197,7 @@
 			"c4aaca16-abd8-4600-9fca-eb62c8172f88"
 		],
 		"examenprogramma_bg_keuzevak_id": [
+			"37269c2b-9acd-40ed-bd63-031875a69dcf",
 			"6a98a234-4a64-46ed-8056-c7d9a5067066",
 			"5a575e25-a677-44d6-be73-484cd17bec72",
 			"a968e63d-caf4-464f-a561-5fde942d84b0",
@@ -219,8 +220,7 @@
 			"c29782e9-e263-4e3e-82da-31e17604df98",
 			"a1a280e4-6757-45cc-8182-5b0784f334f3",
 			"22fc912b-1848-4641-8c3d-67ac55033247",
-			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-			"1a1c52aa-a103-4287-b343-fcf46eda9c44"
+			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
 		],
 		"description": "",
 		"vakleergebied_id": [
@@ -229,7 +229,7 @@
 		"replaces": [
 			"746040a3-5624-4c78-bcd7-e4d56cabeb3e"
 		],
-		"dirty": "1"
+		"dirty": true
 	},
 	{
 		"id": "94eac546-91dd-4c15-8912-fd0c13667824",

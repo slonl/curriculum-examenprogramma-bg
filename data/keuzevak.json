@@ -2005,5 +2005,19 @@
 		"replaces": [
 			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
 		]
+	},
+	{
+		"prefix": "K/EO/10",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"b8cc0dec-a7fc-41fb-b816-684b89a5bc74"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5e33b390-9937-4028-8527-eb5a1b7eb17f",
+			"dbee9d2b-5a8f-4b41-a135-c6ba96f91c30",
+			"169d1361-b531-41d4-b6fb-4c4e6f63aa2d"
+		],
+		"title": "Wonen en design",
+		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44",
+		"unreleased": true
 	}
 ]

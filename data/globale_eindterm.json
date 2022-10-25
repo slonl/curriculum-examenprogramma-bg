@@ -31992,5 +31992,115 @@
 		"title": "De kandidaat kan een maquette samenstellen van duurzame materialen en nieuwe technologie.",
 		"id": "0b9c2726-b0c7-4482-9a24-6fa988f20b6f",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beroepen herkennen en benoemen in de internationale handel.",
+		"id": "7eb6caf3-fc49-4ab0-88c1-13a78ecef750",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan omgaan met internationaal cultuurverschillen in de beroepscontext.",
+		"id": "f7b7320c-db89-4cb1-a18f-904dc345571d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan topografische kennis van de belangrijkste handelspartners van Nederland gebruiken en aantonen, zoals Duitsland, Zweden, China, Frankrijk en Verenigde Staten.",
+		"id": "bf890b8f-787e-47ae-a60a-45529e9f6d33",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een modern vreemde taal communiceren met buitenlandse handelspartners m.b.v. telefoon, mail/contactformulier, social media, persoonlijk.",
+		"id": "bbd6d33c-222f-4a9e-839d-d6039e0e6dd2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan door te handelen met internationale (junior)ondernemingen omgaan met duurzaam ondernemen: people, planet, profit.",
+		"id": "cce0b5a7-d4ae-4def-8727-c8eb23988115",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.2",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan regels, bepalingen en wetten gebruiken die te maken hebben met internationale handel voor de onderneming.",
+		"id": "ebbca28b-a02d-494e-b0cb-d81d27532dc0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.3",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan internationale keurmerken kennen en weten toe te passen voor de eigen onderneming.",
+		"id": "a76f590e-299d-4b5a-a000-b664f5c78fc4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.4",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan formulieren m.b.t. internationale handel invullen, zoals: bill of lading, CMR/CIM vrachtbrief, ATA/CIR Carnet, certificaat van oorsprong, offerte, letter of credit.",
+		"id": "7d5ca09e-401d-40fa-b304-247d6cb96631",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.5",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan berekeningen uitvoeren die van belang zijn bij de eigen internationale onderneming, zoals: vreemde valuta, transportkosten, BTW met andere percentages, invoerrechten.",
+		"id": "0b44d449-697e-404c-b97d-2fd9fe4c22ea",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.6",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vormen van fysieke distributie herkennen en benoemen die van belang zijn bij internationale handel en voor de onderneming/het product de juiste transportmethode kiezen.",
+		"id": "351f9ba9-e0ac-4533-ac59-336c0675d9dc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2.7",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan vormen van internationaal betalingsverkeer herkennen en benoemen.",
+		"id": "daf8b6dd-cce6-4e67-8ba6-3efff8446ce4",
+		"unreleased": true
 	}
 ]

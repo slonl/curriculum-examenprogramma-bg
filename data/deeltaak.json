@@ -7466,5 +7466,61 @@
 		"title": "Werkzaamheden uitvoeren ten aanzien van productietechnieken.",
 		"id": "80c9d99c-268e-41ee-9535-c0b8163f36dd",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"463e96a5-5663-41a7-aa50-96575f4418df",
+			"57fa7aa3-2e3e-4f6b-bf49-8657242bc9ae",
+			"2775976a-e4b6-43b6-acd1-934a6a73f549",
+			"00223c03-d318-4923-bc9e-4a7ee85d26a9"
+		],
+		"title": "Individueel en in groepsverband acteren.",
+		"id": "b12eedfe-069f-4aca-b71a-742f99bacca9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a2f50c5b-d7b4-4f15-a9c8-863a7e7ea210",
+			"15f780a0-3b5a-43ad-9772-b2064140b58b",
+			"57058626-f07e-4bd5-b064-bdcb4808dc3a",
+			"a80f6625-6f82-4828-8c5e-796b6f43b9f4"
+		],
+		"title": "Individueel en in groepsverband zingen.",
+		"id": "3b10bdca-ffd8-481c-b280-beaf2c6bed25",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d3059c95-fad7-4d85-9ccd-88be920780f2"
+		],
+		"title": "Op geïntegreerde wijze zowel individueel als in groepsverband acteren en zingen.",
+		"id": "658e7ead-eba2-4e2c-a122-fd91a078bfed",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"6ab943c8-7049-4f0e-ae2a-a1f1fb386ea0",
+			"a2ec7bd1-048c-4873-84fc-34e0fbcaa4ee",
+			"8a55c4cb-d22c-4c4c-8853-d023dd176081"
+		],
+		"title": "De eigen stem trainen en ontwikkelen.",
+		"id": "7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"16c2f476-db3c-4a29-97d5-60f4f154d9a5",
+			"a9802305-28c7-4334-b992-0b0d40188219",
+			"7881eda8-1e88-4cbe-865b-d8f5dd205525",
+			"492d2674-65c4-4963-8cf3-dcf14af14337"
+		],
+		"title": "Een artistiek portfolio opbouwen en presenteren.",
+		"id": "161aa6a9-162a-4b23-8b6d-9b4fbc103e32",
+		"unreleased": true
 	}
 ]

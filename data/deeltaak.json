@@ -7416,5 +7416,32 @@
 		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
 		"id": "e49efc2a-deca-4af7-9b55-7e30432e86e6",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7eb6caf3-fc49-4ab0-88c1-13a78ecef750",
+			"f7b7320c-db89-4cb1-a18f-904dc345571d",
+			"bf890b8f-787e-47ae-a60a-45529e9f6d33",
+			"bbd6d33c-222f-4a9e-839d-d6039e0e6dd2"
+		],
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen.",
+		"id": "b1ed8975-78c4-41d5-a253-fd7133c828bd",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"cce0b5a7-d4ae-4def-8727-c8eb23988115",
+			"ebbca28b-a02d-494e-b0cb-d81d27532dc0",
+			"a76f590e-299d-4b5a-a000-b664f5c78fc4",
+			"7d5ca09e-401d-40fa-b304-247d6cb96631",
+			"0b44d449-697e-404c-b97d-2fd9fe4c22ea",
+			"351f9ba9-e0ac-4533-ac59-336c0675d9dc",
+			"daf8b6dd-cce6-4e67-8ba6-3efff8446ce4"
+		],
+		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"id": "61903ee1-df17-42dc-bc3f-d6e33af04f22",
+		"unreleased": true
 	}
 ]

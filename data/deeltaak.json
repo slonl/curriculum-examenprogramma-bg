@@ -6704,35 +6704,38 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/1",
+		"prefix": "K/BWI/24/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ae2799a9-1b55-42ef-8d47-f38094972ea5",
 			"098361a1-3b31-4b99-8f7a-051fded5ce69"
 		],
 		"title": "Oriëntatie op het beroep van meubelstoffeerder.",
-		"id": "33766062-ac78-454c-b7eb-75b5644085cb"
+		"id": "33766062-ac78-454c-b7eb-75b5644085cb",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2",
+		"prefix": "K/BWI/24/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f5573417-86bd-4b48-b570-3765c7be2c4e",
 			"d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
 			"e951b8aa-3fd8-4a2c-8f20-01819b819d60"
 		],
 		"title": "Werkzaamheden voorbereiden voor het stofferen van meubels.",
-		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c"
+		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3",
+		"prefix": "K/BWI/24/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
 			"c5047feb-6305-4041-84e8-0fc83c531b17"
 		],
 		"title": "Meubels demonteren.",
-		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f"
+		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4",
+		"prefix": "K/BWI/24/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"73a04ba3-e717-40de-8477-3bbf144969eb",
 			"033ad355-ab2b-456b-b6f4-b4655f6c2f21",
@@ -6743,16 +6746,18 @@
 			"bca080ed-35e0-4a57-8b57-401f70b82770"
 		],
 		"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen.",
-		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e"
+		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/5",
+		"prefix": "K/BWI/24/5",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6a571128-69de-4e36-b511-87e459e9117e",
 			"a8ee82ce-7334-4d89-b2a0-911e589b953b"
 		],
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
-		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a"
+		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26/1",

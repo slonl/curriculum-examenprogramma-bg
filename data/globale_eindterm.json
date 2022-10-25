@@ -29755,123 +29755,135 @@
 		"id": "098361a1-3b31-4b99-8f7a-051fded5ce69"
 	},
 	{
-		"prefix": "K/BWI/1.26/2.1",
+		"prefix": "K/BWI/24/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het werk voorbereiden, stoffeermaterialen, -gereedschappen en -hulpmiddelen benoemen, selecteren, controleren en transporteren.",
-		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e"
+		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.2",
+		"prefix": "K/BWI/24/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van een snijplan bepalen hoeveel stof er nodig is voor de stoffering van een meubel.",
-		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199"
+		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.3",
+		"prefix": "K/BWI/24/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van een tekening projectiemethodes, normalisatie, schaalformats en materiaalsoorten uitleggen.",
-		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60"
+		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.1",
+		"prefix": "K/BWI/24/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een meubel demonteren om opnieuw te kunnen bekleden.",
-		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b"
+		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.2",
+		"prefix": "K/BWI/24/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan na het demonteren het restmateriaal op een veilige, milieuvriendelijke manier afvoeren of hergebruiken.",
-		"id": "c5047feb-6305-4041-84e8-0fc83c531b17"
+		"id": "c5047feb-6305-4041-84e8-0fc83c531b17",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.1",
+		"prefix": "K/BWI/24/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de vorm van het meubel op de materialen meten en aftekenen.",
-		"id": "73a04ba3-e717-40de-8477-3bbf144969eb"
+		"id": "73a04ba3-e717-40de-8477-3bbf144969eb",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.2",
+		"prefix": "K/BWI/24/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan machines zoals snij-, knip-, en heftafels veilig bedienen en ergonomisch gebruiken.",
-		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21"
+		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.3",
+		"prefix": "K/BWI/24/4.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het vul- en bekledingsmateriaal op maat knippen of snijden op een snijtafel.",
-		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9"
+		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.4",
+		"prefix": "K/BWI/24/4.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de instelling van de machines aanpassen op soort en dikte van het materiaal.",
-		"id": "a3d1fe06-981b-4223-ac7e-70136b160505"
+		"id": "a3d1fe06-981b-4223-ac7e-70136b160505",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.5",
+		"prefix": "K/BWI/24/4.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een elektrische naaimachine en lockmachine veilig en effectief toepassen.",
-		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff"
+		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.6",
+		"prefix": "K/BWI/24/4.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van de opbouw van het meubel de stoffeerbasis aanbrengen.",
-		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0"
+		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.7",
+		"prefix": "K/BWI/24/4.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan vul- en bekledingsmateriaal met behulp van een mal aanbrengen.",
-		"id": "bca080ed-35e0-4a57-8b57-401f70b82770"
+		"id": "bca080ed-35e0-4a57-8b57-401f70b82770",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26/5.1",

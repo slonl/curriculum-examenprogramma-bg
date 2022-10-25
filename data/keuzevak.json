@@ -2032,5 +2032,18 @@
 		"title": "Ontwerp duurzame comfortwoning",
 		"id": "37269c2b-9acd-40ed-bd63-031875a69dcf",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"94d465bf-196e-43eb-8b54-99318c30889c"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b1ed8975-78c4-41d5-a253-fd7133c828bd",
+			"61903ee1-df17-42dc-bc3f-d6e33af04f22"
+		],
+		"title": "Internationale handel",
+		"id": "ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
+		"unreleased": true
 	}
 ]

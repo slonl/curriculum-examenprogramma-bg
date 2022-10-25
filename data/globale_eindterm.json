@@ -31808,5 +31808,148 @@
 		"replaces": [
 			"988fcc02-dc4a-4ec6-a402-52ce2545860c"
 		]
+	},
+	{
+		"prefix": "K/EO/10/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de opdracht bespreken met de opdrachtgever waarbij de wensen en verwachtingen worden geïnventariseerd.",
+		"id": "e917dcd1-f8cb-4252-9d13-794d0eb87818",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan research uitvoeren, bijvoorbeeld op grond van een woonstijl, lifestyle, doelgroep, rages en trends, thema en kleur.",
+		"id": "c372de34-206a-453c-b28a-165105ba4d6f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan woonstijlen en lifestyletrends in een presentatievorm herkennen en toepassen, bijvoorbeeld sfeercollage of flat lay.",
+		"id": "a0422b6e-58d2-412d-90dd-35abe7978a75",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een stalenkaart van materialen samenstellen zoals gordijnstof, leer, behang, meubelstof, vloerbedekking passend bij het woonstijlconcept.",
+		"id": "0c1d8858-e4e3-49df-9e4b-b52852a2c9de",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/1.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan textiele producten en materialen m.b.t. grondstof, ontstaanstechniek, bewerkingstechniek en de toepassing ervan herkennen en benoemen.",
+		"id": "6ce05cc0-1ac3-4b93-aeea-be04ef50cbe0",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/1.6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het woonstijlconcept presenteren aan de opdrachtgever waarbij haalbaarheid van het concept wordt besproken m.b.t. de wensen en verwachtingen.",
+		"id": "7760aedf-aabe-406a-a9ae-1e8158106bc7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan beeldaspecten zoals vorm, kleur, ruimte, licht, structuur, compositie en vormgevingsprincipes zoals ritme, herhaling en patroon toepassen t.b.v. het ontwerpen van een sample passend binnen het woonstijlconcept.",
+		"id": "2a5c919f-0b25-4b2a-aefe-f0c207925ceb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp van een sample passend binnen het woonstijlconcept presenteren aan de opdrachtgever waarbij de haalbaarheid van het ontwerp wordt besproken m.b.t. de wensen en verwachtingen en de (technische) uitvoerbaarheid van het ontwerp.",
+		"id": "be8bfcf6-215d-438d-bceb-e485cec4fd6f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample zoals kruk, poef, lampenkap, meubelstof of kamerscherm bedenken en uitwerken binnen het woonstijlconcept en binnen de wensen van de opdrachtgever.",
+		"id": "af145b34-300d-4181-88bf-a271fc78348e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan stoffeertechnieken toepassen zoals meubel stofferen.",
+		"id": "131e76f6-2071-45e8-b4c9-61a409b0c648",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technieken toepassen m.b.t. het bewerken en stylen van textiele materialen zoals sjabloneren, stempelen, zeefdrukken, appliqueren, plooien, Zaans stikwerk, borduren en mola techniek.",
+		"id": "0ad1be69-bcb2-457f-a4b0-d344f093a0e7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan apparatuur en handgereedschap bedienen zoals (borduur-)naaimachine, pneumatische tacker, ontnieter, lijmpistool en transferpers.",
+		"id": "d7f7af5b-4ceb-471a-b985-6ffde9e8f793",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10/3.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het sample, passend binnen het woonstijlconcept, aan de opdrachtgever presenteren en evalueren voor suggesties ter verbetering.",
+		"id": "9a95a5a3-53f1-4899-97c4-a9510aa63acd",
+		"unreleased": true
 	}
 ]

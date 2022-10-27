@@ -2074,5 +2074,22 @@
 		"title": "Acteren en zingen",
 		"id": "60203451-d476-4d35-b4c8-087ea6666a18",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"83db302b-95f4-445a-af2a-df46f015ace4"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+			"6f3ee19f-0216-43a2-914f-4095a9338fe3",
+			"521c2e00-4054-4f90-b3e9-9f298df3317f",
+			"f65791dd-3dd3-4eea-86e6-237422a8b38f",
+			"ef35455e-efb0-4576-8e32-992fa8b0740d",
+			"216172a2-dd03-4d4c-88d1-724a078e9e05"
+		],
+		"title": "Dans-, acteer- en zangactiviteiten",
+		"id": "139ff387-dce5-4673-8ac4-65d13293ec3b",
+		"unreleased": true
 	}
 ]

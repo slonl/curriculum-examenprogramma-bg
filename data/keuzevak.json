@@ -2091,5 +2091,20 @@
 		"title": "Dans-, acteer- en zangactiviteiten",
 		"id": "139ff387-dce5-4673-8ac4-65d13293ec3b",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f25e73c3-3ea8-477e-b2d0-c9c477bdbb01"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"da171128-5fc0-4006-b517-d69476668fa9",
+			"ce997d94-1b1e-483b-9a9e-658224035d2b",
+			"bed92e5d-f536-419f-9885-154e3558cecb",
+			"b9f4c26a-c30c-45e2-98ec-01e4c47c8764"
+		],
+		"title": "Danstechniek",
+		"id": "94a1f8fe-5111-4dda-b94a-ca18c1a291a2",
+		"unreleased": true
 	}
 ]

@@ -7641,5 +7641,39 @@
 		"title": "Een artistiek portfolio opbouwen en presenteren.",
 		"id": "b9f4c26a-c30c-45e2-98ec-01e4c47c8764",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"0fe4063b-8f5e-4978-b7ce-b93842168461",
+			"9ec95196-1cc2-48f9-952d-1ca517cf28d7",
+			"22365f63-0aa3-4831-94ce-0458d6d94e82"
+		],
+		"title": "Informatie geven over voorstellingen.",
+		"id": "8d6908e8-0c51-4d74-89e3-133890e08704",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"75de152f-3b2f-42eb-8120-c5c439bf08b3",
+			"30dbfeef-745b-44e6-8e1f-17ae001189c8",
+			"31b927fe-4067-4896-aefe-a77f87e39d2a",
+			"b0de5d0d-d787-43cc-9cfd-386f46506b80"
+		],
+		"title": "Vastgestelde choreografieën aanleren.",
+		"id": "5d22f3f4-6b06-4943-b7b5-634cad828359",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"713d4643-59a8-4984-b25e-619e824f15db",
+			"34a93adf-d4fa-4d6e-85ec-c9d363793e0c",
+			"cd742ab9-2fe4-49a2-9494-ce7133aef9ca"
+		],
+		"title": "In groepsverband het zelfgecreëerde artistieke product instuderen en presenteren.",
+		"id": "91abec27-5a30-448a-bab9-6310e2c6aceb",
+		"unreleased": true
 	}
 ]

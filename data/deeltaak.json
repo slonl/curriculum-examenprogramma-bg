@@ -7595,5 +7595,51 @@
 		"title": "Onder begeleiding blessures voorkomen bij zichzelf en anderen.",
 		"id": "216172a2-dd03-4d4c-88d1-724a078e9e05",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"da4d29d0-6976-444d-97f9-ca16a77b1388",
+			"35887984-d7f9-40e7-b25f-d7daea8e3e48",
+			"371f0e09-7b12-4f7c-ae1f-958236fe52e5",
+			"b669dfbc-377b-4cc2-9ea9-8fd162cbdda2"
+		],
+		"title": "Individueel en in groepsverband dansen.",
+		"id": "da171128-5fc0-4006-b517-d69476668fa9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"78c26495-1a8b-4633-968c-58ada21605cf",
+			"eb6bd597-8f23-449f-a4b0-f13a3a3e82b8"
+		],
+		"title": "Vastgestelde choreografieën aanleren.",
+		"id": "ce997d94-1b1e-483b-9a9e-658224035d2b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"69e011b1-2102-496a-87ee-8598ce71de15",
+			"c8ea00e9-e37b-470d-a2e9-34750b548c7d",
+			"a59935da-78a6-439b-bc3b-ffdf5bd7ece9"
+		],
+		"title": "Choreografieën uitvoeren voor publiek.",
+		"id": "bed92e5d-f536-419f-9885-154e3558cecb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"73211e39-b844-4c01-bb59-62859520d175",
+			"54de3a8f-dfa1-4815-952f-f7107452f03f",
+			"13989126-fa2e-4f64-928b-e4eb0c12da89",
+			"499ee846-050d-4c4d-917c-a763dff397c1",
+			"da966ccf-80ff-48ce-ad03-14d7f034fc61"
+		],
+		"title": "Een artistiek portfolio opbouwen en presenteren.",
+		"id": "b9f4c26a-c30c-45e2-98ec-01e4c47c8764",
+		"unreleased": true
 	}
 ]

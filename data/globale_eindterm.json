@@ -32630,5 +32630,159 @@
 		"title": "De kandidaat kan onder begeleiding assisteren bij een warming-up en cooling down passend bij de dans-, acteer- of zangactiviteit.",
 		"id": "be05712f-a5aa-448b-b3fd-bf3d01a17036",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan diverse dansstijlen herkennen en benoemen aan de hand van vakbegrippen zoals in ballet, moderne dans, jazzdans, pop-theatermusicaldans en urban.",
+		"id": "da4d29d0-6976-444d-97f9-ca16a77b1388",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische vaardigheden van verschillende dansstijlen uitvoeren en toepassen, zoals ballet, moderne dans, jazzdans, pop- theater - musicaldans en urban.",
+		"id": "35887984-d7f9-40e7-b25f-d7daea8e3e48",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan differentiatie toepassen binnen diverse dansstijlen, zoals ballet, moderne dans, jazzdans, pop-theater- musicaldans en urban.",
+		"id": "371f0e09-7b12-4f7c-ae1f-958236fe52e5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich zichtbaar inleven in diverse dansstijlen zoals ballet, moderne dans, jazzdans, pop-theater- musicaldans en urban.",
+		"id": "b669dfbc-377b-4cc2-9ea9-8fd162cbdda2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan choreografieën instuderen.",
+		"id": "78c26495-1a8b-4633-968c-58ada21605cf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan feedback ontvangen en zichtbaar verwerken.",
+		"id": "eb6bd597-8f23-449f-a4b0-f13a3a3e82b8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/3.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in haar of zijn rol blijven tijdens een voorstelling bij reacties vanuit het publiek.",
+		"id": "69e011b1-2102-496a-87ee-8598ce71de15",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/3.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan presteren onder druk tijdens een voorstelling.",
+		"id": "c8ea00e9-e37b-470d-a2e9-34750b548c7d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/3.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan feedback van publiek ontvangen en zichtbaar verwerken in een volgende voorstelling.",
+		"id": "a59935da-78a6-439b-bc3b-ffdf5bd7ece9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de beroepspraktijk van een danser onderzoeken.",
+		"id": "73211e39-b844-4c01-bb59-62859520d175",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de functie van een artistiek portfolio benoemen.",
+		"id": "54de3a8f-dfa1-4815-952f-f7107452f03f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4.3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een artistiek portfolio opbouwen om zichzelf als beginnend danser te profileren.",
+		"id": "13989126-fa2e-4f64-928b-e4eb0c12da89",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4.4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een artistiek portfolio opbouwen om zichtzelf als beginnend acteur of zanger te profileren en daartoe binnen de gestelde opdrachten relevant (auditief en beeld)materiaal verzamelen en verwerken.",
+		"id": "499ee846-050d-4c4d-917c-a763dff397c1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4.5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat een artistiek portfolio presenteren in een gesimuleerde auditie.",
+		"id": "da966ccf-80ff-48ce-ad03-14d7f034fc61",
+		"unreleased": true
 	}
 ]

@@ -7522,5 +7522,78 @@
 		"title": "Een artistiek portfolio opbouwen en presenteren.",
 		"id": "161aa6a9-162a-4b23-8b6d-9b4fbc103e32",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"009fa98d-c71a-4f52-94ac-aff59c1096e9",
+			"fbb8b561-3d3f-4016-b1f6-da2fc65a7d5a",
+			"5f945b5a-07d6-4703-9a61-91945709da3c"
+		],
+		"title": "Informatie verstrekken over dans-, acteer- en zangactiviteiten als vrijetijdsbesteding voor jongeren en ouderen.",
+		"id": "4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ae00ea21-1feb-4a4d-bb94-b75183e6945d",
+			"a20948dd-dd5a-4dee-9316-fa5ad3e35e5d",
+			"7a72db3a-57a4-4c4c-94ae-997c2fe76fa7",
+			"1c14edd5-ffbc-430d-8396-459948ee05b0"
+		],
+		"title": "Eenvoudige dans-, acteer- en zangactiviteiten instuderen en opvoeren.",
+		"id": "6f3ee19f-0216-43a2-914f-4095a9338fe3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5499c0fc-2485-4111-9763-df265b79819a",
+			"a3d7ae6d-9fc5-4f38-98ad-50d93299ed78",
+			"99393a6d-8be7-43d0-b2c4-4d84bc01628a",
+			"b5b0d254-61a3-426e-a438-b0081f7fda98",
+			"91e1bfd2-4563-4ce8-bd7d-dfc4f67159d7",
+			"d90f06ff-6e57-4a9f-9b74-b62d4cf9cd14",
+			"7caa1f07-5861-44bf-afce-048f321dd3a9"
+		],
+		"title": "Voor een bepaalde doelgroep een eenvoudige dans-, acteer- of zangactiviteit plannen, voorbereiden en uitvoeren.",
+		"id": "521c2e00-4054-4f90-b3e9-9f298df3317f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8d3e1cbd-ff22-474d-b1f7-e9084d0523e3",
+			"9e5ea7a4-b7b6-401c-9c20-dff66b89275f"
+		],
+		"title": "De benodigde praktijkruimte voor de dans-, acteer- of zangactiviteit gereedmaken en verzorgd achterlaten.",
+		"id": "f65791dd-3dd3-4eea-86e6-237422a8b38f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"840ce560-f895-4491-af4b-f4666bc696c2",
+			"191fb928-2db7-4f7c-aaeb-7ea137d068c6",
+			"5480094d-e8bf-497f-8fd1-e4f524eddb18",
+			"3fcaf5f2-6921-405e-a9d8-abd8b033045e",
+			"83846bc7-d043-4a71-885d-0832875a9700"
+		],
+		"title": "Onder begeleiding assisteren en instructies geven tijdens dans-, acteer- en zangactiviteiten.",
+		"id": "ef35455e-efb0-4576-8e32-992fa8b0740d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7fdc4a70-d3eb-4d9c-9f71-b443d1585db7",
+			"7fd075cb-a300-4c2d-89f6-028246b5d60c",
+			"7bea09b3-75f8-4485-8484-3b149e26aff6",
+			"be05712f-a5aa-448b-b3fd-bf3d01a17036"
+		],
+		"title": "Onder begeleiding blessures voorkomen bij zichzelf en anderen.",
+		"id": "216172a2-dd03-4d4c-88d1-724a078e9e05",
+		"unreleased": true
 	}
 ]

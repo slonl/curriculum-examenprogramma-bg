@@ -2106,5 +2106,19 @@
 		"title": "Danstechniek",
 		"id": "94a1f8fe-5111-4dda-b94a-ca18c1a291a2",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"b5702d4f-3394-45e9-a43b-3c348f91b11a"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"8d6908e8-0c51-4d74-89e3-133890e08704",
+			"5d22f3f4-6b06-4943-b7b5-634cad828359",
+			"91abec27-5a30-448a-bab9-6310e2c6aceb"
+		],
+		"title": "Kunstvak informatie, creatie en presentatie",
+		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf",
+		"unreleased": true
 	}
 ]

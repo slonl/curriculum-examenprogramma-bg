@@ -7917,5 +7917,25 @@
 		"title": "Reflecteren op de gevolgen van technologische hulpmiddelen voor de klant en de maatschappij.",
 		"id": "a656d536-b134-4c87-bdf2-3f8fbd97b6d6",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d39b0e5c-53e1-4d06-9162-5d127c23beaa",
+			"ca2be05d-7f29-4948-b54b-cdef39cbd13b"
+		],
+		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt.",
+		"id": "fe8bb8fc-e6e7-4718-841d-cb465bbd65f3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7b81851b-d25f-458c-90c5-341fe0b3db63",
+			"ffe94083-636a-45d1-88c0-665698ec3ccb"
+		],
+		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
+		"id": "5f99f37b-b792-421b-b045-3dd87b81687e",
+		"unreleased": true
 	}
 ]

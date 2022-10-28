@@ -1205,13 +1205,14 @@
 	},
 	{
 		"id": "bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
-		"prefix": "K/ZW/11/KT",
+		"prefix": "K/ZW/10/KT",
 		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
@@ -1226,13 +1227,14 @@
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
-		"prefix": "K/ZW/13/KT",
-		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
+		"prefix": "K/ZW/12/KT",
+		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"prefix": "K/GR/15/KT",

@@ -28391,258 +28391,283 @@
 	},
 	{
 		"id": "82756225-b000-4e23-ac56-615898cc1ceb",
-		"prefix": "K/ZW/11/01-01",
-		"title": "De kandidaat kan gasten ontvangen, gastheerschap tonen en zich dienstverlenend opstellen",
+		"prefix": "K/ZW/10/1.1",
+		"title": "De kandidaat kan gasten ontvangen, gastheerschap tonen en zich dienstverlenend opstellen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "69260ebe-2011-4548-939f-6f0b070f3cf4",
-		"prefix": "K/ZW/11/01-02",
-		"title": "De kandidaat kan omgaan met een klacht",
+		"prefix": "K/ZW/10/1.2",
+		"title": "De kandidaat kan omgaan met een klacht.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "44d01beb-9e64-4049-b607-16b9913e74d7",
-		"prefix": "K/ZW/11/01-03",
-		"title": "De kandidaat kan hulp en service aanbieden, door de weg te wijzen, te helpen bij het bereiken van een doel",
+		"prefix": "K/ZW/10/1.3",
+		"title": "De kandidaat kan hulp en service aanbieden, door de weg te wijzen, te helpen bij het bereiken van een doel.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "e27d3bab-c386-4eb3-a193-c8c02d7c09e3",
-		"prefix": "K/ZW/11/01-04",
-		"title": "De kandidaat kan representatief optreden en hanteert correct taalgebruik en omgangsvormen",
+		"prefix": "K/ZW/10/1.4",
+		"title": "De kandidaat kan representatief optreden en hanteert correct taalgebruik en omgangsvormen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "d1f4796b-45bd-41ce-8f2c-4efb70d55948",
-		"prefix": "K/ZW/11/01-05",
-		"title": "De kandidaat kan een telefoongesprek voeren, een boodschap aannemen, doorverbinden en gespreksnotities maken",
+		"prefix": "K/ZW/10/1.5",
+		"title": "De kandidaat kan een telefoongesprek voeren, een boodschap aannemen, doorverbinden en gespreksnotities maken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "204961a4-642f-4f7d-be5f-6c98b214a68d",
-		"prefix": "K/ZW/11/01-06",
-		"title": "De kandidaat kan (beveiligings-) apparatuur bedienen",
+		"prefix": "K/ZW/10/1.6",
+		"title": "De kandidaat kan (beveiligings-) apparatuur bedienen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c0ec45c7-cacf-4c7b-ab8e-94711a21b7f5",
-		"prefix": "K/ZW/11/01-07",
-		"title": "De kandidaat kan de technologische ontwikkelingen volgen en toepassen",
+		"prefix": "K/ZW/10/1.7",
+		"title": "De kandidaat kan de technologische ontwikkelingen volgen en toepassen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7a34e2f8-a44a-4eef-a729-a13828a1e222",
-		"prefix": "K/ZW/11/02-01",
-		"title": "De kandidaat kan aan de hand van instructies huisregels opstellen en onder de aandacht brengen",
+		"prefix": "K/ZW/10/2.1",
+		"title": "De kandidaat kan aan de hand van instructies huisregels opstellen en onder de aandacht brengen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ce122b7d-cd3d-4dde-8f26-fd0ec1852cce",
-		"prefix": "K/ZW/11/02-02",
-		"title": "De kandidaat kan controleren of huisregels nageleefd worden",
+		"prefix": "K/ZW/10/2.2",
+		"title": "De kandidaat kan controleren of huisregels nageleefd worden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "28a4245c-8770-4802-8940-1237c2913ae3",
-		"prefix": "K/ZW/11/02-03",
-		"title": "De kandidaat kan (een) bezoeker(s) aanspreken op het gedrag",
+		"prefix": "K/ZW/10/2.3",
+		"title": "De kandidaat kan (een) bezoeker(s) aanspreken op het gedrag.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "38d14f9f-f053-4a3b-b372-5a9c7c15738f",
-		"prefix": "K/ZW/11/02-04",
-		"title": "De kandidaat kan met emoties van anderen omgaan en de juiste omgangsvorm kiezen",
+		"prefix": "K/ZW/10/2.4",
+		"title": "De kandidaat kan met emoties van anderen omgaan en de juiste omgangsvorm kiezen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f52b7f97-98d7-4b48-bd90-27976a34e51b",
-		"prefix": "K/ZW/11/03-01",
-		"title": "De kandidaat kan de buitenkant van een gebouw en het terrein verzorgen",
+		"prefix": "K/ZW/10/3.1",
+		"title": "De kandidaat kan de buitenkant van een gebouw en het terrein verzorgen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "a9ad59d9-a8a1-46fa-8e37-6de3e6fbb6dc",
-		"prefix": "K/ZW/11/03-02",
-		"title": "De kandidaat kan gebruikers stimuleren om ruimtes, gebouw en plein netjes achter te laten",
+		"prefix": "K/ZW/10/3.2",
+		"title": "De kandidaat kan gebruikers stimuleren om ruimtes, gebouw en plein netjes achter te laten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "cdeab3ed-5bbb-49c0-810b-ee4546609669",
-		"prefix": "K/ZW/11/03-03",
-		"title": "De kandidaat kan afval verwijderen en scheiden",
+		"prefix": "K/ZW/10/3.3",
+		"title": "De kandidaat kan afval verwijderen en scheiden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f2ed3534-5a22-44f4-ae01-c360db55b061",
-		"prefix": "K/ZW/11/03-04",
-		"title": "De kandidaat kan een schoonmaakplan met dagelijkse en periodieke werkzaamheden lezen en opvolgen",
+		"prefix": "K/ZW/10/3.4",
+		"title": "De kandidaat kan een schoonmaakplan met dagelijkse en periodieke werkzaamheden lezen en opvolgen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "16e3b116-8175-4993-af30-4d6af6d2829c",
-		"prefix": "K/ZW/11/03-05",
-		"title": "De kandidaat kan een schoonmaakprotocol aftekenen",
+		"prefix": "K/ZW/10/3.5",
+		"title": "De kandidaat kan een schoonmaakprotocol aftekenen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "605bf47d-8cdd-4655-a2c3-02776151f1d8",
-		"prefix": "K/ZW/11/04-01",
-		"title": "De kandidaat kan toezicht houden op gebruik van het gebouw, de directe omgeving en ongeregeldheden rapporteren",
+		"prefix": "K/ZW/10/4.1",
+		"title": "De kandidaat kan toezicht houden op gebruik van het gebouw, de directe omgeving en ongeregeldheden rapporteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "0d0adc79-20c4-4306-bfbf-2c6325ca17f8",
-		"prefix": "K/ZW/11/04-02",
-		"title": "De kandidaat kan aan de hand van een onderhoudsplan eenvoudige onderhoudswerkzaamheden verrichten",
+		"prefix": "K/ZW/10/4.2",
+		"title": "De kandidaat kan aan de hand van een onderhoudsplan eenvoudige onderhoudswerkzaamheden verrichten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6d500ef6-5df1-4675-824a-51ac1196efb2",
-		"prefix": "K/ZW/11/04-03",
-		"title": "De kandidaat kan storingen mondeling of schriftelijk rapporteren",
+		"prefix": "K/ZW/10/4.3",
+		"title": "De kandidaat kan storingen mondeling of schriftelijk rapporteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fccbd35c-0e16-409c-a904-680d055fa735",
-		"prefix": "K/ZW/11/04-04",
-		"title": "De kandidaat kan post verzorgen",
+		"prefix": "K/ZW/10/4.4",
+		"title": "De kandidaat kan post verzorgen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "261bba7b-45e1-4b12-9a2d-fbaea6275226",
-		"prefix": "K/ZW/11/04-05",
-		"title": "De kandidaat kan ramen en deuren afsluiten, de lampen uitdoen en alle elektrische apparaten uitschakelen",
+		"prefix": "K/ZW/10/4.5",
+		"title": "De kandidaat kan ramen en deuren afsluiten, de lampen uitdoen en alle elektrische apparaten uitschakelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6974fef2-5396-4b1f-8405-8eec9736d316",
-		"prefix": "K/ZW/11/05-01",
-		"title": "De kandidaat kan een plattegrond van een gebouw lezen en daarop de vluchtroutes en blusapparatuur aflezen",
+		"prefix": "K/ZW/10/5.1",
+		"title": "De kandidaat kan een plattegrond van een gebouw lezen en daarop de vluchtroutes en blusapparatuur aflezen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ebc0424b-5665-4bb3-a70a-7e71b65a5f32",
-		"prefix": "K/ZW/11/05-02",
-		"title": "De kandidaat kan instructies tijdens een ontruimingsoefening opvolgen",
+		"prefix": "K/ZW/10/5.2",
+		"title": "De kandidaat kan instructies tijdens een ontruimingsoefening opvolgen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "8e24a35f-7d12-4b40-a5f6-a346b34ce29f",
-		"prefix": "K/ZW/11/05-03",
-		"title": "De kandidaat kan vluchtroutes herkennen en deze gebruiken",
+		"prefix": "K/ZW/10/5.3",
+		"title": "De kandidaat kan vluchtroutes herkennen en deze gebruiken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3c4d95e6-ac82-4e52-917b-bb025adde16b",
-		"prefix": "K/ZW/11/05-04",
-		"title": "De kandidaat kan uitleg geven over een ontruimingsoefening",
+		"prefix": "K/ZW/10/5.4",
+		"title": "De kandidaat kan uitleg geven over een ontruimingsoefening.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "765b2733-7092-4c70-a2d9-ceaeb081dfbe",
-		"prefix": "K/ZW/6.15/1.1",
-		"title": "De kandidaat kan informatie verzamelen over sport en bewegingsmogelijkheden in de regio",
+		"prefix": "K/ZW/11/1.1",
+		"title": "De kandidaat kan informatie verzamelen over sport en bewegingsmogelijkheden in de regio.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -28652,7 +28677,7 @@
 	},
 	{
 		"id": "4632f4e5-6c06-4459-acc9-a7142f056433",
-		"prefix": "K/ZW/6.15/1.2",
+		"prefix": "K/ZW/11/1.2",
 		"title": "De kandidaat kan de informatie presenteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28663,7 +28688,7 @@
 	},
 	{
 		"id": "fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
-		"prefix": "K/ZW/6.15/2.1",
+		"prefix": "K/ZW/11/2.1",
 		"title": "De kandidaat kan een bij de doelgroep passende sport- bewegingsactiviteit kiezen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28674,7 +28699,7 @@
 	},
 	{
 		"id": "ff0e8849-9f9c-4e6c-91fc-0f21483dda71",
-		"prefix": "K/ZW/6.15/2.2",
+		"prefix": "K/ZW/11/2.2",
 		"title": "De kandidaat kan een plan opstellen voor het organiseren van een sportevenement of toernooi.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -28684,7 +28709,7 @@
 	},
 	{
 		"id": "df1e6e0e-624b-4be4-ae45-bf0177e87c57",
-		"prefix": "K/ZW/6.15/2.3",
+		"prefix": "K/ZW/11/2.3",
 		"title": "De kandidaat kan deelnemers werven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28695,7 +28720,7 @@
 	},
 	{
 		"id": "3a117b67-85e3-4e88-890e-5a5e477d7091",
-		"prefix": "K/ZW/6.15/2.4",
+		"prefix": "K/ZW/11/2.4",
 		"title": "De kandidaat kan deelnemers informeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28706,7 +28731,7 @@
 	},
 	{
 		"id": "ca9da90b-8c84-4cad-acee-2d43b4a2ff96",
-		"prefix": "K/ZW/6.15/2.5",
+		"prefix": "K/ZW/11/2.5",
 		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28717,7 +28742,7 @@
 	},
 	{
 		"id": "494263c1-b571-4eee-8192-98b2cc9ecd39",
-		"prefix": "K/ZW/6.15/2.6",
+		"prefix": "K/ZW/11/2.6",
 		"title": "De kandidaat kan onder leiding het sportevenement of toernooi op passende wijze afsluiten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28728,7 +28753,7 @@
 	},
 	{
 		"id": "ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
-		"prefix": "K/ZW/6.15/3.1",
+		"prefix": "K/ZW/11/3.1",
 		"title": "De kandidaat kan uitleg geven over sport- of bewegingsactiviteit.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28739,7 +28764,7 @@
 	},
 	{
 		"id": "d2574650-1cae-4a9b-bff9-1b2f265fa312",
-		"prefix": "K/ZW/6.15/3.2",
+		"prefix": "K/ZW/11/3.2",
 		"title": "De kandidaat kan een bewegingsvaardigheid voordoen aan de groep.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28750,7 +28775,7 @@
 	},
 	{
 		"id": "fe3d722d-4b9d-4824-ab69-5af1887d81d2",
-		"prefix": "K/ZW/6.15/3.3",
+		"prefix": "K/ZW/11/3.3",
 		"title": "De kandidaat kan eenvoudige aanwijzingen geven aan de deelnemers.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28761,7 +28786,7 @@
 	},
 	{
 		"id": "ea40f557-099f-4028-8908-09c1d76ca64f",
-		"prefix": "K/ZW/6.15/3.4",
+		"prefix": "K/ZW/11/3.4",
 		"title": "De kandidaat kan deelnemers voor de sport- of bewegingsactiviteit stimuleren en enthousiasmeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28772,7 +28797,7 @@
 	},
 	{
 		"id": "7df9f06c-8688-44f8-8bb2-c727b423dd33",
-		"prefix": "K/ZW/6.15/3.5",
+		"prefix": "K/ZW/11/3.5",
 		"title": "De kandidaat kan flexibel omgaan met verschillen tussen deelnemers.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28793,7 +28818,7 @@
 	},
 	{
 		"id": "5b6093d1-c764-4bb3-b4ff-e192609caf69",
-		"prefix": "K/ZW/6.15/4.1",
+		"prefix": "K/ZW/11/4.1",
 		"title": "De kandidaat kan letten op de veiligheid van de sportaccommodatie zoals materialen, toestellen en apparatuur.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28804,7 +28829,7 @@
 	},
 	{
 		"id": "94bdcf24-810d-453e-a0d9-a0e0536f8a0e",
-		"prefix": "K/ZW/6.15/4.2",
+		"prefix": "K/ZW/11/4.2",
 		"title": "De kandidaat kan in bewegingssituaties eenvoudige regels en afspraken maken die blessures helpen voorkomen bij sportief spel.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28865,303 +28890,333 @@
 	},
 	{
 		"id": "a4346086-8c11-4292-8ecb-36ba92ac0d21",
-		"prefix": "K/ZW/13/01-01",
-		"title": "De kandidaat kan mogelijkheden en beperkingen van cliënt signaleren met daarbij horende risico’s en gevaren",
+		"prefix": "K/ZW/12/1.1",
+		"title": "De kandidaat kan mogelijkheden en beperkingen van cliënt signaleren met daarbij horende risico’s en gevaren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5df0c3b5-d4cf-411d-9d50-3b5f737de342",
-		"prefix": "K/ZW/13/01-02",
-		"title": "De kandidaat kan handelingen uitvoeren volgens veiligheidsrichtlijnen",
+		"prefix": "K/ZW/12/1.2",
+		"title": "De kandidaat kan handelingen uitvoeren volgens veiligheidsrichtlijnen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6ba80f02-c3a2-4aa6-8ba3-32f4073a5822",
-		"prefix": "K/ZW/13/01-03",
-		"title": "De kandidaat kan uitleggen hoe verwondingen, verbrandingen, vergiftiging voorkomen kunnen worden",
+		"prefix": "K/ZW/12/1.3",
+		"title": "De kandidaat kan uitleggen hoe verwondingen, verbrandingen, vergiftiging voorkomen kunnen worden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5301a25f-be1a-4986-907c-c9ce3f8c3923",
-		"prefix": "K/ZW/13/01-04",
-		"title": "De kandidaat kan onveilige situaties op de werkvloer herkennen en bespreekbaar maken",
+		"prefix": "K/ZW/12/1.4",
+		"title": "De kandidaat kan onveilige situaties op de werkvloer herkennen en bespreekbaar maken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "5cb6f015-b6be-4a67-85ee-62aead94330b",
-		"prefix": "K/ZW/13/01-05",
-		"title": "De kandidaat kan bij onveilige situaties hulp in te roepen en bereikbaar zijn",
+		"prefix": "K/ZW/12/1.5",
+		"title": "De kandidaat kan bij onveilige situaties hulp in te roepen en bereikbaar zijn.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "83c199ee-b17a-482a-9eb8-a746924616d0",
-		"prefix": "K/ZW/13/02-01",
-		"title": "De kandidaat kan de werking van hart, longen en de bloedsomloop noemen",
+		"prefix": "K/ZW/12/2.1",
+		"title": "De kandidaat kan de werking van hart, longen en de bloedsomloop noemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b3f72d14-32f5-4c91-8af4-762f5e8db690",
-		"prefix": "K/ZW/13/02-02",
-		"title": "De kandidaat kan een AED gebruiken",
+		"prefix": "K/ZW/13/2.2",
+		"title": "De kandidaat kan een AED gebruiken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "209ee4e6-e762-4ff2-b74a-77291bc0d050",
-		"prefix": "K/ZW/13/02-03",
-		"title": "De kandidaat kan de effecten van inspanning aangeven",
+		"prefix": "K/ZW/12/2.3",
+		"title": "De kandidaat kan de effecten van inspanning aangeven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "daa86f50-187e-4a76-89bc-0bc918c0e3f7",
-		"prefix": "K/ZW/13/02-04",
-		"title": "De kandidaat kan aangeven hoe gewrichten kunnen bewegen",
+		"prefix": "K/ZW/12/2.4",
+		"title": "De kandidaat kan aangeven hoe gewrichten kunnen bewegen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "342f5039-9916-49aa-b0bb-39e0243aff36",
-		"prefix": "K/ZW/13/02-05",
-		"title": "De kandidaat kan uitleggen hoe je een goede conditie kunt opbouwen",
+		"prefix": "K/ZW/12/2.5",
+		"title": "De kandidaat kan uitleggen hoe je een goede conditie kunt opbouwen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "cd33a6a9-9ca8-40c5-aed2-54388fdfce45",
-		"prefix": "K/ZW/13/03-01",
-		"title": "De kandidaat kan op gevaar letten",
+		"prefix": "K/ZW/12/3.1",
+		"title": "De kandidaat kan op gevaar letten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f7c550ab-3357-4fad-b68d-a3e064bc491c",
-		"prefix": "K/ZW/13/03-02",
-		"title": "De kandidaat kan nagaan wat er is gebeurd en nagaan wat het slachtoffer mankeert",
+		"prefix": "K/ZW/12/3.2",
+		"title": "De kandidaat kan nagaan wat er is gebeurd en nagaan wat het slachtoffer mankeert.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6b1a433c-96bf-4db8-a535-70b8f81f43fe",
-		"prefix": "K/ZW/13/03-03",
-		"title": "De kandidaat kan het slachtoffer geruststellen en zorg dragen voor beschutting",
+		"prefix": "K/ZW/12/3.3",
+		"title": "De kandidaat kan het slachtoffer geruststellen en zorg dragen voor beschutting.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4730df24-af6c-486b-8d33-4d81cd172608",
-		"prefix": "K/ZW/13/03-04",
-		"title": "De kandidaat kan zorgen voor professionele hulp",
+		"prefix": "K/ZW/12/3.4",
+		"title": "De kandidaat kan zorgen voor professionele hulp.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "680d99ef-b665-429c-828d-134a37379275",
-		"prefix": "K/ZW/13/03-05",
-		"title": "De kandidaat kan het slachtoffer helpen op de plaats waar hij ligt of zit",
+		"prefix": "K/ZW/12/3.5",
+		"title": "De kandidaat kan het slachtoffer helpen op de plaats waar hij ligt of zit.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "dbfa4290-ffd6-4905-9548-9c5fb07bc66e",
-		"prefix": "K/ZW/13/05-01",
-		"title": "De kandidaat kan bewusteloosheid herkennen en kan een bewusteloze die op zijn buik ligt op de rug draaien",
+		"prefix": "K/ZW/12/5.1",
+		"title": "De kandidaat kan bewusteloosheid herkennen en kan een bewusteloze die op zijn buik ligt op de rug draaien.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "be4a3563-ea89-4ae3-bf18-824adc27774e",
-		"prefix": "K/ZW/13/05-02",
-		"title": "De kandidaat kan een (dreigende) flauwte herkennen en kan eerste hulp verlenen bij een (dreigende) flauwte",
+		"prefix": "K/ZW/12/5.2",
+		"title": "De kandidaat kan een (dreigende) flauwte herkennen en kan eerste hulp verlenen bij een (dreigende) flauwte.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "a800caa4-5976-461d-9f86-3abb9d31b43d",
-		"prefix": "K/ZW/13/05-03",
-		"title": "De kandidaat kan ademhalingsstoornissen herkennen zoals bij een bewusteloos slachtoffer de luchtweg vrijhouden (stabiele zijligging), bij verslikking de luchtweg vrijmaken door enkele (vijf) stevige stoten tussen de schouderbladen te geven en als dit niet helpt de handgreep van Heimlich toe te passen",
+		"prefix": "K/ZW/12/5.3",
+		"title": "De kandidaat kan ademhalingsstoornissen herkennen zoals bij een bewusteloos slachtoffer de luchtweg vrijhouden (stabiele zijligging), bij verslikking de luchtweg vrijmaken door enkele (vijf) stevige stoten tussen de schouderbladen te geven en als dit niet helpt de handgreep van Heimlich toe te passen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "efebbb54-5fca-48cb-bbb1-d01e025032f1",
-		"prefix": "K/ZW/13/05-04",
-		"title": "De kandidaat kan een uitwendige (open) wond herkennen en bepalen of het verantwoord is als eerstehulpverlener zelf de definitieve hulp te verlenen dan wel een wond weten af te dekken",
+		"prefix": "K/ZW/12/5.4",
+		"title": "De kandidaat kan een uitwendige (open) wond herkennen en bepalen of het verantwoord is als eerstehulpverlener zelf de definitieve hulp te verlenen dan wel een wond weten af te dekken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "bd3cca98-6f47-494a-b0b5-3a63c19f4734",
-		"prefix": "K/ZW/13/05-05",
-		"title": "De kandidaat kan een (ernstige) uitwendige bloeding herkennen en een bloeding stoppen door druk op de wond uit te oefenen door wonddrukverband",
+		"prefix": "K/ZW/12/5.5",
+		"title": "De kandidaat kan een (ernstige) uitwendige bloeding herkennen en een bloeding stoppen door druk op de wond uit te oefenen door wonddrukverband.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "399c14fc-faab-4272-847f-1db8ab0c09ae",
-		"prefix": "K/ZW/13/05-06",
-		"title": "De kandidaat kan brandwonden koelen met zacht stromend lauw water en tweede-en derdegraads brandwonden losjes steriel afdekken",
+		"prefix": "K/ZW/12/5.6",
+		"title": "De kandidaat kan brandwonden koelen met zacht stromend lauw water en tweede-en derdegraads brandwonden losjes steriel afdekken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "7a77dfc6-6071-4de1-8fec-df452ffd25e4",
-		"prefix": "K/ZW/13/05-07",
-		"title": "De kandidaat kan een (open) botbreuk, ontwrichting herkennen en uitleggen waarom een gebroken en een ontwricht lichaamsdeel onbeweeglijk moeten worden gehouden",
+		"prefix": "K/ZW/12/5.7",
+		"title": "De kandidaat kan een (open) botbreuk, ontwrichting herkennen en uitleggen waarom een gebroken en een ontwricht lichaamsdeel onbeweeglijk moeten worden gehouden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "15a8ee0a-5b79-4d93-ab3e-0440e8f895bf",
-		"prefix": "K/ZW/13/05-08",
-		"title": "De kandidaat kan een kneuzing, verstuiking herkennen en verzorgen",
+		"prefix": "K/ZW/12/5.8",
+		"title": "De kandidaat kan een kneuzing, verstuiking herkennen en verzorgen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "2e49bcb7-0047-4911-a15e-1f6d8df8ed62",
-		"prefix": "K/ZW/13/05-09",
-		"title": "De kandidaat kan oogletsel zoals vuiltje in het oog, verbrand oog, bijtende stof in het oog herkennen en aangeven waarom je heel zuinig moet zijn op je ogen en waardoor een oog makkelijk kan worden beschadigd",
+		"prefix": "K/ZW/12/5.9",
+		"title": "De kandidaat kan oogletsel zoals vuiltje in het oog, verbrand oog, bijtende stof in het oog herkennen en aangeven waarom je heel zuinig moet zijn op je ogen en waardoor een oog makkelijk kan worden beschadigd.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "6584ab44-e4b6-4470-a9e2-926b95cc9cf7",
-		"prefix": "K/ZW/13/05-10",
-		"title": "De kandidaat kan een neusbloeding stoppen en een splinter uit de huid verwijderen",
+		"prefix": "K/ZW/12/5.10",
+		"title": "De kandidaat kan een neusbloeding stoppen en een splinter uit de huid verwijderen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "15263017-50ae-4c5e-9b2f-afb2e2cf58ad",
-		"prefix": "K/ZW/13/05-11",
-		"title": "De kandidaat kan aangeven wat er minimaal in een verbanddoos moet zitten",
+		"prefix": "K/ZW/12/5.11",
+		"title": "De kandidaat kan aangeven wat er minimaal in een verbanddoos moet zitten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "12d811bd-c531-48b1-999e-72bcf40bbfff",
-		"prefix": "K/ZW/13/04-01",
-		"title": "De kandidaat kan stoornissen in het bewustzijn signaleren en hulp inschakelen",
+		"prefix": "K/ZW/12/4.1",
+		"title": "De kandidaat kan stoornissen in het bewustzijn signaleren en hulp inschakelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "75a0792f-2e19-4108-84dd-0bb9a620da22",
-		"prefix": "K/ZW/13/04-02",
-		"title": "De kandidaat kan stoornissen in de ademhaling signaleren en hulp inschakelen",
+		"prefix": "K/ZW/12/4.2",
+		"title": "De kandidaat kan stoornissen in de ademhaling signaleren en hulp inschakelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "73aaa133-3824-4dca-9af6-2cfe67f86af0",
-		"prefix": "K/ZW/13/04-03",
-		"title": "De kandidaat kan actieve bloedingen stoppen en hulp inschakelen",
+		"prefix": "K/ZW/12/4.3",
+		"title": "De kandidaat kan actieve bloedingen stoppen en hulp inschakelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f9c549e7-5f61-4022-baa7-e9d93df09a4f",
-		"prefix": "K/ZW/13/04-04",
-		"title": "De kandidaat kan shock signaleren en hulp inschakelen",
+		"prefix": "K/ZW/12/4.4",
+		"title": "De kandidaat kan shock signaleren en hulp inschakelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
@@ -29755,123 +29810,135 @@
 		"id": "098361a1-3b31-4b99-8f7a-051fded5ce69"
 	},
 	{
-		"prefix": "K/BWI/1.26/2.1",
+		"prefix": "K/BWI/24/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het werk voorbereiden, stoffeermaterialen, -gereedschappen en -hulpmiddelen benoemen, selecteren, controleren en transporteren.",
-		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e"
+		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.2",
+		"prefix": "K/BWI/24/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van een snijplan bepalen hoeveel stof er nodig is voor de stoffering van een meubel.",
-		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199"
+		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.3",
+		"prefix": "K/BWI/24/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van een tekening projectiemethodes, normalisatie, schaalformats en materiaalsoorten uitleggen.",
-		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60"
+		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.1",
+		"prefix": "K/BWI/24/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een meubel demonteren om opnieuw te kunnen bekleden.",
-		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b"
+		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.2",
+		"prefix": "K/BWI/24/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan na het demonteren het restmateriaal op een veilige, milieuvriendelijke manier afvoeren of hergebruiken.",
-		"id": "c5047feb-6305-4041-84e8-0fc83c531b17"
+		"id": "c5047feb-6305-4041-84e8-0fc83c531b17",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.1",
+		"prefix": "K/BWI/24/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de vorm van het meubel op de materialen meten en aftekenen.",
-		"id": "73a04ba3-e717-40de-8477-3bbf144969eb"
+		"id": "73a04ba3-e717-40de-8477-3bbf144969eb",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.2",
+		"prefix": "K/BWI/24/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan machines zoals snij-, knip-, en heftafels veilig bedienen en ergonomisch gebruiken.",
-		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21"
+		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.3",
+		"prefix": "K/BWI/24/4.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het vul- en bekledingsmateriaal op maat knippen of snijden op een snijtafel.",
-		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9"
+		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.4",
+		"prefix": "K/BWI/24/4.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de instelling van de machines aanpassen op soort en dikte van het materiaal.",
-		"id": "a3d1fe06-981b-4223-ac7e-70136b160505"
+		"id": "a3d1fe06-981b-4223-ac7e-70136b160505",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.5",
+		"prefix": "K/BWI/24/4.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een elektrische naaimachine en lockmachine veilig en effectief toepassen.",
-		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff"
+		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.6",
+		"prefix": "K/BWI/24/4.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van de opbouw van het meubel de stoffeerbasis aanbrengen.",
-		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0"
+		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.7",
+		"prefix": "K/BWI/24/4.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan vul- en bekledingsmateriaal met behulp van een mal aanbrengen.",
-		"id": "bca080ed-35e0-4a57-8b57-401f70b82770"
+		"id": "bca080ed-35e0-4a57-8b57-401f70b82770",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26/5.1",
@@ -30465,735 +30532,812 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/1.1",
+		"prefix": "K/PIE/20/1.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een ontwerpvraagstuk voor het produceren van een machineonderdeel analyseren, beschrijven en het ontwerp schetsen, uitvoeren, testen en evalueren.",
-		"id": "21a1309c-56a8-44cf-ae3e-6644a3fabada"
+		"id": "21a1309c-56a8-44cf-ae3e-6644a3fabada",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/1.2",
+		"prefix": "K/PIE/20/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een ontwerp, met behulp van CAD met name 2D en 3D, voor een verspaningsmachine maken.",
-		"id": "755666a4-e189-4f8e-819a-816a6651e757"
+		"id": "755666a4-e189-4f8e-819a-816a6651e757",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/1.3",
+		"prefix": "K/PIE/20/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan stuklijsten en materiaalstaten maken aan de hand van tekeningen en schema’s.",
-		"id": "504f6d95-5e29-476d-892d-085c9bcf51fc"
+		"id": "504f6d95-5e29-476d-892d-085c9bcf51fc",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/1.4",
+		"prefix": "K/PIE/20/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van tekeningen, stuklijsten en materiaalstaten een eenvoudige calculatie maken.",
-		"id": "2a5f3635-a842-4f9d-9f9e-a2c7378d27c1"
+		"id": "2a5f3635-a842-4f9d-9f9e-a2c7378d27c1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/2.1",
+		"prefix": "K/PIE/20/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan werktekeningen en schema’s lezen en interpreteren.",
-		"id": "d11a7e21-a2a1-4c15-a77d-7fa7dcc79c5c"
+		"id": "d11a7e21-a2a1-4c15-a77d-7fa7dcc79c5c",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/2.2",
+		"prefix": "K/PIE/20/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan werkvoorbereiding met de verschillende bewerkingsstappen voor verspanenende bewerkingen uitvoeren.",
-		"id": "870621b8-8a1a-41a1-beae-a966e6035334"
+		"title": "De kandidaat kan werkvoorbereiding met de verschillende bewerkingsstappen voor verspanende bewerkingen uitvoeren.",
+		"id": "870621b8-8a1a-41a1-beae-a966e6035334",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/3.1",
+		"prefix": "K/PIE/20/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een keuze maken tussen de verschillende snijgereedschappen en materialen in relatie tot de gebruikte materialen.",
-		"id": "b943c949-7480-498a-9bb8-75aebe7e097b"
+		"id": "b943c949-7480-498a-9bb8-75aebe7e097b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/3.2",
+		"prefix": "K/PIE/20/3.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan verspanende bewerkingen met behulp van snijsnelhedentabellen voorbereiden op verschillende machines.",
-		"id": "873c8796-e421-401f-8a2b-552c7d08770d"
+		"id": "873c8796-e421-401f-8a2b-552c7d08770d",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/4.1",
+		"prefix": "K/PIE/20/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de juiste gereedschappen selecteren voor de bewerking.",
-		"id": "446f16ef-b490-4b82-8aa8-c048ba9e1f97"
+		"id": "446f16ef-b490-4b82-8aa8-c048ba9e1f97",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/4.2",
+		"prefix": "K/PIE/20/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de geselecteerde gereedschappen afstellen met behulp van boltaster, middelpuntzoeker, nonius en digitale uitlezing op de machine.",
-		"id": "5406bff5-8075-4ba2-bae2-5d4ae2c61198"
+		"id": "5406bff5-8075-4ba2-bae2-5d4ae2c61198",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/4.3",
+		"prefix": "K/PIE/20/4.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het juiste toerental op de machine instellen.",
-		"id": "586e732f-1a11-423a-9ed7-5ada8b81ae25"
+		"id": "586e732f-1a11-423a-9ed7-5ada8b81ae25",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/5.1",
+		"prefix": "K/PIE/20/5.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan onderdelen vervaardigen op een verspaningsmachine.",
-		"id": "f63395c1-1505-413a-9430-1cf1eb71243e"
+		"id": "f63395c1-1505-413a-9430-1cf1eb71243e",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/5.2",
+		"prefix": "K/PIE/20/5.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan maatregelen treffen op het moment dat de oppervlakte eisen niet worden gehaald of wanneer er vreemde geluiden ontstaan tijdens het verspanen.",
-		"id": "04692c4d-281c-4667-acd9-31fcf13faf63"
+		"id": "04692c4d-281c-4667-acd9-31fcf13faf63",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/6.1",
+		"prefix": "K/PIE/20/6.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een compleet product volgens tekening samenstellen.",
-		"id": "16cb5604-d5e3-4fa3-81b4-cac72b4a7671"
+		"id": "16cb5604-d5e3-4fa3-81b4-cac72b4a7671",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22/6.2",
+		"prefix": "K/PIE/20/6.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan bij het samenstellen van een compleet product gebruik maken van de juiste montage- gereedschappen.",
-		"id": "14a699bc-062b-4c4e-8195-ed12b11a8804"
+		"title": "De kandidaat kan bij het samenstellen van een compleet product gebruik maken van de juiste montage-gereedschappen.",
+		"id": "14a699bc-062b-4c4e-8195-ed12b11a8804",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/1.1",
+		"prefix": "K/PIE/19/1.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de benamingen van de onderdelen en functies van de lasrobot noemen.",
-		"id": "95eda211-a131-4be9-800e-1af8bd5e564f"
+		"id": "95eda211-a131-4be9-800e-1af8bd5e564f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/1.2",
+		"prefix": "K/PIE/19/1.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan beschrijven hoe de lasrobot in de X, Y en Z-as moet bewegen en wat daarbij wel en niet kan.",
-		"id": "2105f727-ced9-4f8f-8975-c44c466602e0"
+		"id": "2105f727-ced9-4f8f-8975-c44c466602e0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/1.3",
+		"prefix": "K/PIE/19/1.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de veiligheidsaspecten die bij het werken met een lasrobot om de hoek komen kijken noemen.",
-		"id": "e06a8adc-02ae-463d-a62a-13b29dd67ec1"
+		"id": "e06a8adc-02ae-463d-a62a-13b29dd67ec1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/2.1",
+		"prefix": "K/PIE/19/2.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het lasproces starten op de lasrobot (G2/G3 besturing).",
-		"id": "d3e2b330-04e7-48a3-8bb1-6356288c41e1"
+		"id": "d3e2b330-04e7-48a3-8bb1-6356288c41e1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/2.2",
+		"prefix": "K/PIE/19/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een rechte las maken.",
-		"id": "804812f7-2467-4f84-af32-a36482d2a8a1"
+		"id": "804812f7-2467-4f84-af32-a36482d2a8a1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/2.3",
+		"prefix": "K/PIE/19/2.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een hoeklas in meerdere lagen maken (recht en om een koker).",
-		"id": "858b9b07-fe02-42d9-8627-bc7da98461f0"
+		"id": "858b9b07-fe02-42d9-8627-bc7da98461f0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/2.4",
+		"prefix": "K/PIE/19/2.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een hoeklas maken rond een ronde buis.",
-		"id": "f96826f1-b8ac-465d-b8d1-2850dc584963"
+		"id": "f96826f1-b8ac-465d-b8d1-2850dc584963",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/2.5",
+		"prefix": "K/PIE/19/2.5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan zwaaiend aflassen van een buitenhoeklas.",
-		"id": "07388630-8589-4191-9729-742a4130ea9b"
+		"id": "07388630-8589-4191-9729-742a4130ea9b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/3.1",
+		"prefix": "K/PIE/19/3.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een 3D tekening maken van een laswerkstuk.",
-		"id": "711a8cbb-449c-46b2-817a-f00997aed8f0"
+		"id": "711a8cbb-449c-46b2-817a-f00997aed8f0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/3.2",
+		"prefix": "K/PIE/19/3.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de lasrobot offline programmeren.",
-		"id": "a89f742d-4fd6-41fa-afba-c0e0b8fdd2c6"
+		"id": "a89f742d-4fd6-41fa-afba-c0e0b8fdd2c6",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/3.3",
+		"prefix": "K/PIE/19/3.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een programma offline schrijven voor het getekende werkstuk.",
-		"id": "60340616-8376-4a91-9a22-08aa309a40ad"
+		"id": "60340616-8376-4a91-9a22-08aa309a40ad",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/3.4",
+		"prefix": "K/PIE/19/3.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan offline het werkstuk laten aflassen.",
-		"id": "f777c899-bf09-44eb-8739-7af15f5ea535"
+		"id": "f777c899-bf09-44eb-8739-7af15f5ea535",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/4.1",
+		"prefix": "K/PIE/19/4.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan 3D tekenen op de PC.",
-		"id": "747ad647-93e9-4847-b0b0-a578067e973c"
+		"id": "747ad647-93e9-4847-b0b0-a578067e973c",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/4.2",
+		"prefix": "K/PIE/19/4.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een lasrobot on- en offline programmeren.",
-		"id": "d0a02a2c-edd6-4166-a8ed-5dbe04515f5a"
+		"id": "d0a02a2c-edd6-4166-a8ed-5dbe04515f5a",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/4.3",
+		"prefix": "K/PIE/19/4.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de geldende veiligheidseisen in acht houden.",
-		"id": "c4a24586-9ef8-4d93-9258-7b1c81a5f84f"
+		"id": "c4a24586-9ef8-4d93-9258-7b1c81a5f84f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24/4.4",
+		"prefix": "K/PIE/19/4.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan snel en netjes werken om tot een eindproduct te komen.",
-		"id": "d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80"
+		"id": "d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.1",
+		"prefix": "K/PIE/21/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de wensen en eisen van een opdrachtgever inventariseren.",
-		"id": "87e0f56f-9243-4393-a5e2-e2ae36e16aa6"
+		"id": "87e0f56f-9243-4393-a5e2-e2ae36e16aa6",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.2",
+		"prefix": "K/PIE/21/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan hedendaagse 'slimme technologische' toepassingen inventariseren.",
-		"id": "440590aa-d177-43e4-8951-32ca62920a1f"
+		"id": "440590aa-d177-43e4-8951-32ca62920a1f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.3",
+		"prefix": "K/PIE/21/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een model opleveren, met behulp van 'slimme technologie'.",
-		"id": "e8a070a1-e974-43ca-b223-c3b2ea0f028d"
+		"id": "e8a070a1-e974-43ca-b223-c3b2ea0f028d",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.4",
+		"prefix": "K/PIE/21/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de oplossing communiceren aan de opdrachtgever.",
-		"id": "6cf2e709-6a99-4e31-a84c-0f4cfd4b1883"
+		"id": "6cf2e709-6a99-4e31-a84c-0f4cfd4b1883",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.1",
+		"prefix": "K/PIE/21/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een eenvoudige elektronische schakeling lezen en deze fysiek opbouwen op een testboard of opbouwen in een simulatie omgeving of practicumopstelling.",
-		"id": "1ea93282-98ec-4908-b8b5-29163a1c3303"
+		"id": "1ea93282-98ec-4908-b8b5-29163a1c3303",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.2",
+		"prefix": "K/PIE/21/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een proces beschrijven dat input of informatie ophaalt en verwerkt.",
-		"id": "c11ce575-bb4e-432b-82d6-f87fc818aa30"
+		"id": "c11ce575-bb4e-432b-82d6-f87fc818aa30",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.3",
+		"prefix": "K/PIE/21/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan in een gegeven situatie een microcontroller programmeren die informatie ophaalt uit sensoren en uitstuurt naar een actuator.",
-		"id": "d4203825-66a2-4826-a918-04574e038bd6"
+		"id": "d4203825-66a2-4826-a918-04574e038bd6",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.4",
+		"prefix": "K/PIE/21/2.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een technisch systeem van input-proces-output aansluiten aan een bestaand systeem en een resultaat laten zien.",
-		"id": "be64d8de-29aa-421c-8965-8e2615a0f130"
+		"id": "be64d8de-29aa-421c-8965-8e2615a0f130",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/1.1",
+		"prefix": "K/PIE/18/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan de verschillende mogelijkheden van communicatie met behulp van clouddiensten ebnoemen en toepassen.",
-		"id": "349b34d3-6310-485e-a46e-55bf4d10d5c7"
+		"title": "De kandidaat kan de verschillende mogelijkheden van communicatie met behulp van clouddiensten benoemen en toepassen.",
+		"id": "349b34d3-6310-485e-a46e-55bf4d10d5c7",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/1.2",
+		"prefix": "K/PIE/18/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de voor- en nadelen van het gebruik van de cloud benoemen in termen van beschikbaarheid, flexibiliteit en kwetsbaarheden.",
-		"id": "250b11ea-4e57-408a-85b7-67e21fa10be7"
+		"id": "250b11ea-4e57-408a-85b7-67e21fa10be7",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/1.3",
+		"prefix": "K/PIE/18/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan benomen welke aspecten van privacy bij het gebruik van clouddiensten aanwezig zijn voor de gebruiker.",
-		"id": "d26b0fec-48b5-41af-bac5-5cfe996cc31d"
+		"id": "d26b0fec-48b5-41af-bac5-5cfe996cc31d",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/1.4",
+		"prefix": "K/PIE/18/1.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan vakspecialistische vragen beantwoorden over de mogelijkheden van clouddiensten voor een gebruiksdoel.",
-		"id": "0f310b64-9d00-4337-87b4-ed505aa08d4a"
+		"id": "0f310b64-9d00-4337-87b4-ed505aa08d4a",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/1.5",
+		"prefix": "K/PIE/18/1.5",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan bij instructie en toelichting rekening houden met het niveau van de gebruiker.",
-		"id": "a3f9f8cb-db9d-4d6c-8b54-8d823edd1771"
+		"id": "a3f9f8cb-db9d-4d6c-8b54-8d823edd1771",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/2.1",
+		"prefix": "K/PIE/18/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan in een clouddienst documenten in groepsverband delen en beveiligen.",
-		"id": "6f246666-50fb-4a12-acf4-33621305c0f9"
+		"id": "6f246666-50fb-4a12-acf4-33621305c0f9",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/2.2",
+		"prefix": "K/PIE/18/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een clouddienst beheren en de rechten binnen de dienst verdelen (apparaat-onafhankelijk).",
-		"id": "28e1950f-0908-47f2-bddf-d44396be25fa"
+		"id": "28e1950f-0908-47f2-bddf-d44396be25fa",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/2.3",
+		"prefix": "K/PIE/18/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een vergadering plannen d.m.v. een online dienst.",
-		"id": "103889b1-136f-4fc2-87b8-6150502070ba"
+		"title": "De kandidaat kan een vergadering plannen door middel van een online dienst.",
+		"id": "103889b1-136f-4fc2-87b8-6150502070ba",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/2.4",
+		"prefix": "K/PIE/18/2.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan locatie- en apparaatonafhankelijk in teamverband vergaderen.",
-		"id": "cd4db10c-2e3e-4fa1-967f-3066396023db"
+		"title": "De kandidaat kan locatie- en apparaat-onafhankelijk in teamverband vergaderen.",
+		"id": "cd4db10c-2e3e-4fa1-967f-3066396023db",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/2.5",
+		"prefix": "K/PIE/18/2.5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan installeren en configureren van een clouddienst op basis van de wensen van een klant (PAAS).",
-		"id": "8131a07d-ad4f-4a70-9ef9-a9c2c34419d3"
+		"id": "8131a07d-ad4f-4a70-9ef9-a9c2c34419d3",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.1",
+		"prefix": "K/PIE/18/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een netwerk testen en aanpassingen uitvoeren.",
-		"id": "9b42d420-4143-47c8-a9e4-32dc5c534ad0"
+		"id": "9b42d420-4143-47c8-a9e4-32dc5c534ad0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.2",
+		"prefix": "K/PIE/18/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een netwerk met draadloze componenten uitbreiden.",
-		"id": "e6396914-ba93-4e19-80a7-688d3f54ed8b"
+		"id": "e6396914-ba93-4e19-80a7-688d3f54ed8b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.3",
+		"prefix": "K/PIE/18/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan voor een netwerk een (basis) beveiliging realiseren.",
-		"id": "666ca235-b340-4ae7-978a-a7d9ecaf20c8"
+		"id": "666ca235-b340-4ae7-978a-a7d9ecaf20c8",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.4",
+		"prefix": "K/PIE/18/3.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan kwetsbaarheden van clouddiensten in kaart brengen en benoemen.",
-		"id": "d68fe8fa-3668-4429-8dad-9235da596cf1"
+		"id": "d68fe8fa-3668-4429-8dad-9235da596cf1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.5",
+		"prefix": "K/PIE/18/3.5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan adviseren over beveilingsmogelijkheden van clouddiensten.",
-		"id": "df39202b-dffd-4235-901a-c256330cd67a"
+		"title": "De kandidaat kan adviseren over beveiligingsmogelijkheden van clouddiensten.",
+		"id": "df39202b-dffd-4235-901a-c256330cd67a",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26/3.6",
+		"prefix": "K/PIE/18/3.6",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan (recente) cybersecurity incidenten interpreteren en in relatie brengen met clouddiensten.",
-		"id": "e2e724dd-a99e-48f3-8ee6-7b29af60b28d"
+		"id": "e2e724dd-a99e-48f3-8ee6-7b29af60b28d",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/1.1",
+		"prefix": "K/PIE/22/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan benoemen uit welke (technische) onderdelen een drone is opgebouwd en kent de functie daarvan.",
-		"id": "5c605f9b-c013-4fd7-97cb-3787e48ad722"
+		"id": "5c605f9b-c013-4fd7-97cb-3787e48ad722",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/1.2",
+		"prefix": "K/PIE/22/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de hoofdgroepen van drones (typen) en hun vluchtsensoren onderscheiden en kent de eigenschappen.",
-		"id": "a4e4cbf7-5889-4d79-a14f-1c3ea1e5ed97"
+		"id": "a4e4cbf7-5889-4d79-a14f-1c3ea1e5ed97",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/1.3",
+		"prefix": "K/PIE/22/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan op basis van de eigenschappen voorbeelden benoemen van de toepassing van drones in verschillende (beroeps)situaties en sectoren.",
-		"id": "04a0ebab-8c92-497a-8ea6-a2b6edbd073a"
+		"id": "04a0ebab-8c92-497a-8ea6-a2b6edbd073a",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/2.1",
+		"prefix": "K/PIE/22/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de basis luchtvaart wet- en regelgeving die geldt voor het veilig inzetten van een drone noemen.",
-		"id": "e4447f89-3deb-45b5-b222-0e0596f7537b"
+		"id": "e4447f89-3deb-45b5-b222-0e0596f7537b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/2.2",
+		"prefix": "K/PIE/22/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de basiskenmerken van een vluchtlocatie in kaart brengen en risico's voor de vlucht benoemen.",
-		"id": "5ed40151-7da9-4494-8094-dfa552433f98"
+		"id": "5ed40151-7da9-4494-8094-dfa552433f98",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/2.3",
+		"prefix": "K/PIE/22/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de onderdelen van een vluchtplan benoemen en kan een pre-vluchtplan lezen.",
-		"id": "449dff9f-4b28-4322-bcdb-aa235d8d10af"
+		"id": "449dff9f-4b28-4322-bcdb-aa235d8d10af",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/3.1",
+		"prefix": "K/PIE/22/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan voor de locatie van de vlucht zelf belangrijke informatie vinden.",
-		"id": "28204754-d762-4fb8-9ec4-89e31f4ad354"
+		"id": "28204754-d762-4fb8-9ec4-89e31f4ad354",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/3.2",
+		"prefix": "K/PIE/22/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een risicoanalyse uivoeren volgens het VMS (veiligheidsmanagementsysteem).",
-		"id": "6163f807-9781-4e98-a312-e48e750ee22c"
+		"title": "De kandidaat kan een risicoanalyse uitvoeren volgens het VMS (veiligheidsmanagementsysteem).",
+		"id": "6163f807-9781-4e98-a312-e48e750ee22c",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/3.3",
+		"prefix": "K/PIE/22/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een eenvoudig bestaand vluchtplan interpreteren.",
-		"id": "85b2f7e0-16f5-4047-b702-61fcd03e50d3"
+		"id": "85b2f7e0-16f5-4047-b702-61fcd03e50d3",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/3.4",
+		"prefix": "K/PIE/22/3.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan zelfstandig voor de locatie relevante informatie verwerken in een eenvoudig vluchtplan en dat toelichten.",
-		"id": "e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2"
+		"id": "e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/4.1",
+		"prefix": "K/PIE/22/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "De kandidaat kan een eenvoudig vluchtplan interpreteren en op basis daarvan een drone in de lucht brengen in een beroepssituatie.",
-		"id": "3d6bbbae-4716-416c-a27a-23d36e6efd88"
+		"id": "3d6bbbae-4716-416c-a27a-23d36e6efd88",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27/4.2",
+		"prefix": "K/PIE/22/4.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan voor de locatie relevante informatie verwerken in een eigen vluchtplan en op basis daarvan een drone in de lucht brengen in een beroepssituatie.",
-		"id": "970f2090-46ab-4fbb-bb7e-12763fbe18d2"
+		"id": "970f2090-46ab-4fbb-bb7e-12763fbe18d2",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/1.1",
+		"prefix": "K/PIE/23/1.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan benoemen uit welke (technische) onderdelen een drone is opgebouwd en kent de functie daarvan.",
-		"id": "96dfbd89-77e6-4e42-9376-6182704f7f78"
+		"id": "96dfbd89-77e6-4e42-9376-6182704f7f78",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/1.2",
+		"prefix": "K/PIE/23/1.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de hoofdgroepen van drones (typen) en data-sensoren onderscheiden en kent de eigenschappen.",
-		"id": "8a446cbf-1c88-48c9-912f-84fed3307c5e"
+		"id": "8a446cbf-1c88-48c9-912f-84fed3307c5e",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/1.3",
+		"prefix": "K/PIE/23/1.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan op basis van de eigenschappen van typen sonsoren en drones voorbeelden benoemen van de toepassing in verschillende beroepssituaties en sectoren.",
-		"id": "75b7051a-9b00-4e09-8d65-05d5f9cc69a0"
+		"title": "De kandidaat kan op basis van de eigenschappen van typen sensoren en drones voorbeelden benoemen van de toepassing in verschillende beroepssituaties en sectoren.",
+		"id": "75b7051a-9b00-4e09-8d65-05d5f9cc69a0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/2.1",
+		"prefix": "K/PIE/23/2.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan verschillende soorten data onderscheiden en benoemen met welk doel deze worden verzameld.",
-		"id": "4d504211-910f-44a2-aa34-6786e3e0d555"
+		"id": "4d504211-910f-44a2-aa34-6786e3e0d555",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/2.2",
+		"prefix": "K/PIE/23/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan eenvoudige data genereren in een beroepssituatie.",
-		"id": "2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e"
+		"id": "2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/3.1",
+		"prefix": "K/PIE/23/3.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan verschillende type data handmatig en digitaal verwerken met een daarvoor passende methode.",
-		"id": "d7ab84ad-aec8-48d0-ae24-8b2a7c9fe144"
+		"id": "d7ab84ad-aec8-48d0-ae24-8b2a7c9fe144",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/3.2",
+		"prefix": "K/PIE/23/3.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan verschillende type data systematisch analyseren.",
-		"id": "a6355fbd-5d4d-4157-b874-27f60e555826"
+		"id": "a6355fbd-5d4d-4157-b874-27f60e555826",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/3.3",
+		"prefix": "K/PIE/23/3.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan uitkomsten van een data-analyse interpreteren en daaraan een passende conclusie verbinden.",
-		"id": "92066b99-6457-4f0d-beda-3e8ba0196056"
+		"id": "92066b99-6457-4f0d-beda-3e8ba0196056",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/4.1",
+		"prefix": "K/PIE/23/4.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de vraag van een opdrachtgever inventariseren en concreet maken.",
-		"id": "2fa75064-2e7f-436c-ac76-537e2e232c85"
+		"id": "2fa75064-2e7f-436c-ac76-537e2e232c85",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.28/4.2",
+		"prefix": "K/PIE/23/4.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan op basis van de verzamelde data aan de opdrachtgever onderbouwd en begrijpelijk rapporteren.",
-		"id": "34724de1-7830-4a58-ba6d-2c649cde5f2b"
+		"id": "34724de1-7830-4a58-ba6d-2c649cde5f2b",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -31202,7 +31346,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"id": "3eb39c2b-77fe-4795-802b-0e5e57e95a60",
-		"prefix": "K/ZW/6.15/5.1",
+		"prefix": "K/ZW/11/5.1",
 		"title": "De kandidaat kan eenvoudige sportmetingen uitvoeren en aflezen zoals loopsnelheid, lenigheid, armkracht, sprongkracht.",
 		"description": ""
 	},
@@ -31213,7 +31357,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"id": "f5ea66b3-9d48-4d07-8076-9fd484273f11",
-		"prefix": "K/ZW/6.15/5.2",
+		"prefix": "K/ZW/11/5.2",
 		"title": "De kandidaat kan assisteren bij een warming up en cooling down.",
 		"description": ""
 	},
@@ -31224,7 +31368,7 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"id": "e0cda435-bc66-4e7a-9d5d-afc18e0a16fc",
-		"prefix": "K/ZW/6.15/5.3",
+		"prefix": "K/ZW/11/5.3",
 		"title": "De kandidaat kan advies en informatie geven over passende sport- en bewegingsactiviteiten.",
 		"description": ""
 	},
@@ -31235,81 +31379,89 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"id": "55a95897-95d9-41a1-b916-0f0aa8c8fbff",
-		"prefix": "K/ZW/6.15/5.4",
+		"prefix": "K/ZW/11/5.4",
 		"title": "De kandidaat kan informatie geven over de relatie tussen bewegen en gezondheid en over een passende sportuitrusting.",
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/1.1",
+		"prefix": "K/PIE/24/1.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan de eigenschappen van verschillende edelmetalen benoemen",
-		"id": "8e553917-950a-4ef9-a284-cb9ffb87a79b"
+		"title": "De kandidaat kan de eigenschappen van verschillende edelmetalen benoemen.",
+		"id": "8e553917-950a-4ef9-a284-cb9ffb87a79b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/1.2",
+		"prefix": "K/PIE/24/1.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan bewerkingen van verschillende edelmetalen uitvoeren",
-		"id": "96a50fcf-1f20-4d5b-9c02-6fda4ea40da6"
+		"title": "De kandidaat kan bewerkingen van verschillende edelmetalen uitvoeren.",
+		"id": "96a50fcf-1f20-4d5b-9c02-6fda4ea40da6",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/1.3",
+		"prefix": "K/PIE/24/1.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan uitleggen wat het vak goudsmid/zilversmid inhoudt",
-		"id": "b9d592a0-36c7-4a9d-ba69-65a08835a7f9"
+		"title": "De kandidaat kan uitleggen wat het vak goudsmid/zilversmid inhoudt.",
+		"id": "b9d592a0-36c7-4a9d-ba69-65a08835a7f9",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/1.4",
+		"prefix": "K/PIE/24/1.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan bij het uitvoeren van opdrachten laten zien over welke capaciteiten een goud-, zilversmid dient te beschikken, zoals creatief zijn en artistiek zijn en een goede fijne motoriek / oog-handcoördinatie hebben",
-		"id": "d72d1bb2-98eb-4b87-884f-a4d13b53eccb"
+		"title": "De kandidaat kan bij het uitvoeren van opdrachten laten zien over welke capaciteiten een goud-, zilversmid dient te beschikken, zoals creatief zijn en artistiek zijn en een goede fijne motoriek / oog-handcoördinatie hebben.",
+		"id": "d72d1bb2-98eb-4b87-884f-a4d13b53eccb",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/2.1",
+		"prefix": "K/PIE/24/2.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan optekentechnieken op non-ferro metalen gebruiken",
-		"id": "11da95b1-35fe-4b2c-a6be-73ae7d6646bc"
+		"title": "De kandidaat kan optekentechnieken op non-ferro metalen gebruiken.",
+		"id": "11da95b1-35fe-4b2c-a6be-73ae7d6646bc",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/2.2",
+		"prefix": "K/PIE/24/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan de meest voorkomende montage-, verbindings- en giettechnieken toepassen",
-		"id": "c9a5f7f6-9bf5-4787-90d7-97d9be72a701"
+		"title": "De kandidaat kan de meest voorkomende montage-, verbindings- en giettechnieken toepassen.",
+		"id": "c9a5f7f6-9bf5-4787-90d7-97d9be72a701",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/2.3",
+		"prefix": "K/PIE/24/2.3",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een werkstuk uitvoeren en het werkstuk presenteren",
-		"id": "dada0ab5-8b02-4df1-a12a-fe545546078f"
+		"title": "De kandidaat kan een werkstuk uitvoeren en het werkstuk presenteren.",
+		"id": "dada0ab5-8b02-4df1-a12a-fe545546078f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.29/2.4",
+		"prefix": "K/PIE/24/2.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan veilig en duurzaam werken",
-		"id": "eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57"
+		"title": "De kandidaat kan veilig en duurzaam werken.",
+		"id": "eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57",
+		"description": ""
 	},
 	{
 		"niveau_id": [
@@ -31481,228 +31633,252 @@
 		"id": "6f93eec4-0b7f-4f66-9fed-fc0d300e7c73"
 	},
 	{
-		"prefix": "K/PIE/2.25/1.1",
+		"prefix": "K/PIE/25/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een afvoer en een waterdichte regenwateropvang samenstellen, bouwen en monteren van een circulair watersysteem.",
-		"id": "10539bac-5c52-4ef6-8ba4-151f28f5127d"
+		"id": "10539bac-5c52-4ef6-8ba4-151f28f5127d",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.2",
+		"prefix": "K/PIE/25/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een hottub samenstellen uit verschillende onderdelen, bouwen en/of monteren.",
-		"id": "26ae7e71-28b8-4018-ac79-469f24a91615"
+		"id": "26ae7e71-28b8-4018-ac79-469f24a91615",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.3",
+		"prefix": "K/PIE/25/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een afvalwaterzuiveringsbak samenstellen, bouwen en monteren.",
-		"id": "8949bb4e-5e89-46f4-9feb-d275e3d2dff0"
+		"id": "8949bb4e-5e89-46f4-9feb-d275e3d2dff0",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.4",
+		"prefix": "K/PIE/25/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan drie vaten met elkaar verbinden als onderdelen van een circulair watersysteem.",
-		"id": "f4b64bff-0590-460d-95cc-f1f80d0001f3"
+		"id": "f4b64bff-0590-460d-95cc-f1f80d0001f3",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/1.5",
+		"prefix": "K/PIE/25/1.5",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met voorbeelden uitleggen op welke wijze het opvangen van water bijdraagt aan het oplossen van het klimaatvraagstuk.",
-		"id": "c82bceef-5082-4034-8ddd-c05d0cb41c6f"
+		"id": "c82bceef-5082-4034-8ddd-c05d0cb41c6f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.1",
+		"prefix": "K/PIE/25/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan uitleggen hoe je van regenwater drinkbaar water kunt maken.",
-		"id": "ca588b25-3a37-4d06-b3aa-963a1aee5631"
+		"id": "ca588b25-3a37-4d06-b3aa-963a1aee5631",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.2",
+		"prefix": "K/PIE/25/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een waterzuiveringssysteem samenstellen.",
-		"id": "24d4a119-dffc-4347-a3d9-3e8f9e0e3d87"
+		"id": "24d4a119-dffc-4347-a3d9-3e8f9e0e3d87",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.3",
+		"prefix": "K/PIE/25/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een waterzuiveringssysteem monteren.",
-		"id": "4e24662f-58bf-4404-ba4a-72363c393bac"
+		"id": "4e24662f-58bf-4404-ba4a-72363c393bac",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/2.4",
+		"prefix": "K/PIE/25/2.4",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan uitleggen welke overeenkomsten er zijn tussen onze drinkwaterzuivering en een drinkwaterzuiveringsfabriek.",
-		"id": "900a76d2-a243-4baf-b649-3ca61c9b5487"
+		"id": "900a76d2-a243-4baf-b649-3ca61c9b5487",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.1",
+		"prefix": "K/PIE/25/3.1",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan begrijpen op welke wijze een helofytenfilter vuil water reinigt en waarvoor ze worden toegepast.",
-		"id": "19fd56db-b5fe-4f35-b24e-25f7ef9fdc35"
+		"id": "19fd56db-b5fe-4f35-b24e-25f7ef9fdc35",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.2",
+		"prefix": "K/PIE/25/3.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een helofytenfilter samenstellen met water aan- en afvoer en vetafscheider.",
-		"id": "807c9782-84ef-4275-9e18-e3b8ed2b7f9b"
+		"id": "807c9782-84ef-4275-9e18-e3b8ed2b7f9b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.3",
+		"prefix": "K/PIE/25/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de montagewerkzaamheden uitvoeren.",
-		"id": "9515ad2d-8832-44f2-9561-a035b976e09b"
+		"id": "9515ad2d-8832-44f2-9561-a035b976e09b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.4",
+		"prefix": "K/PIE/25/3.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het helofytenfilter vullen met verschillende bodemsubstraten en riet inplanten.",
-		"id": "36bb6435-b480-4af4-a038-9bf123bc8414"
+		"id": "36bb6435-b480-4af4-a038-9bf123bc8414",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.5",
+		"prefix": "K/PIE/25/3.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een werkend helofytenfilter opleveren.",
-		"id": "60b61bd5-eb74-4ab4-b8a5-7e9d0737dfaa"
+		"id": "60b61bd5-eb74-4ab4-b8a5-7e9d0737dfaa",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.6",
+		"prefix": "K/PIE/25/3.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de werking van een afvalwaterzuivering (AWZ) uitleggen.",
-		"id": "c48bc5d5-a05c-402f-ba39-a20793be7661"
+		"id": "c48bc5d5-a05c-402f-ba39-a20793be7661",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/3.7",
+		"prefix": "K/PIE/25/3.7",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de overeenkomsten zijn tussen een afvalwaterzuivering en een helofytenfilter kunnen beschrijven.",
-		"id": "7fb91fd9-8955-437c-9dd0-1f8b346492ed"
+		"id": "7fb91fd9-8955-437c-9dd0-1f8b346492ed",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.1",
+		"prefix": "K/PIE/25/4.1",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een pompsysteem samenstellen voor een circulair watersysteem.",
-		"id": "58418453-1138-4be0-8d93-693598066699"
+		"id": "58418453-1138-4be0-8d93-693598066699",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.2",
+		"prefix": "K/PIE/25/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het pompsysteem monteren.",
-		"id": "fb5ac9d1-3a0d-4bd5-a4ed-07b6d80ce40f"
+		"id": "fb5ac9d1-3a0d-4bd5-a4ed-07b6d80ce40f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.3",
+		"prefix": "K/PIE/25/4.3",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan onderzoeken welke sensoren er toegepast kunnen worden in het circylaire watersysteem.",
-		"id": "960a83f2-6503-404f-a2c7-662c65ed09d1"
+		"title": "De kandidaat kan onderzoeken welke sensoren er toegepast kunnen worden in het circulaire watersysteem.",
+		"id": "960a83f2-6503-404f-a2c7-662c65ed09d1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.4",
+		"prefix": "K/PIE/25/4.4",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan kennismaken met het op afstand bestuurbaar maken van sensoren.",
-		"id": "ced0569a-4696-4a68-ad04-f2e4f626a2f7"
+		"id": "ced0569a-4696-4a68-ad04-f2e4f626a2f7",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.5",
+		"prefix": "K/PIE/25/4.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan verschillende waterkwaliteitsonderzoeken m.b.v. indicatoren uitvoeren en conclusies trekken, o.a.helderheid, pH, temperatuur, hardheid, chloride en nitraat.",
-		"id": "5c3500bd-a6e9-4899-b4bc-fe5ef9fbe63b"
+		"title": "De kandidaat kan verschillende waterkwaliteitsonderzoeken m.b.v. indicatoren uitvoeren en conclusies trekken, o.a. helderheid, pH, temperatuur, hardheid, chloride en nitraat.",
+		"id": "5c3500bd-a6e9-4899-b4bc-fe5ef9fbe63b",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/4.6",
+		"prefix": "K/PIE/25/4.6",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan vertellen wat de overeenkomst is tussen het pompsysteem in het circulaire watersysteem en gemalen van het waterschap.",
-		"id": "58b61d49-607f-4ec2-b3b7-6d120ba33055"
+		"id": "58b61d49-607f-4ec2-b3b7-6d120ba33055",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/5.1",
+		"prefix": "K/PIE/25/5.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een zonnepaneel en een zonneboiler aansluiten op het circulaiure watersysteeem.",
-		"id": "f07de2d0-d1a9-4910-babb-fa3d51e72985"
+		"title": "De kandidaat kan een zonnepaneel en een zonneboiler aansluiten op het circulaire watersysteem.",
+		"id": "f07de2d0-d1a9-4910-babb-fa3d51e72985",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25/5.2",
+		"prefix": "K/PIE/25/5.2",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een energie-neutraal watersysteem werkend opleveren.",
-		"id": "f8e88ac4-ad2b-4c97-aead-aea465656f81"
+		"id": "f8e88ac4-ad2b-4c97-aead-aea465656f81",
+		"description": ""
 	},
 	{
 		"id": "804c4087-d0c4-443e-880f-315295ddb104",
@@ -31950,1822 +32126,6 @@
 		],
 		"title": "De kandidaat kan het sample, passend binnen het woonstijlconcept, aan de opdrachtgever presenteren en evalueren voor suggesties ter verbetering.",
 		"id": "9a95a5a3-53f1-4899-97c4-a9510aa63acd",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20/1.1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een ontwerp visualiseren in een 3D-model met moderne tekenprogramma's en eventueel in BIM.",
-		"id": "cb1ca94b-e499-44e6-ab94-f2d880b345fe",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan relevante informatie verzamelen, ordenen en toepassen, zoals eisen van een opdrachtgever en specificaties van producten.",
-		"id": "6267f497-e759-439a-8f6d-35ea854d82b2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan een tekening interpreteren en verwerken in een werktekening t.b.v. een maquette.",
-		"id": "959f6d1c-e28b-440b-90ec-885f50b6787c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan een maquette samenstellen van duurzame materialen en nieuwe technologie.",
-		"id": "0b9c2726-b0c7-4482-9a24-6fa988f20b6f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan beroepen herkennen en benoemen in de internationale handel.",
-		"id": "7eb6caf3-fc49-4ab0-88c1-13a78ecef750",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.2",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan omgaan met internationaal cultuurverschillen in de beroepscontext.",
-		"id": "f7b7320c-db89-4cb1-a18f-904dc345571d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan topografische kennis van de belangrijkste handelspartners van Nederland gebruiken en aantonen, zoals Duitsland, Zweden, China, Frankrijk en Verenigde Staten.",
-		"id": "bf890b8f-787e-47ae-a60a-45529e9f6d33",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.4",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan in een modern vreemde taal communiceren met buitenlandse handelspartners m.b.v. telefoon, mail/contactformulier, social media, persoonlijk.",
-		"id": "bbd6d33c-222f-4a9e-839d-d6039e0e6dd2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan door te handelen met internationale (junior)ondernemingen omgaan met duurzaam ondernemen: people, planet, profit.",
-		"id": "cce0b5a7-d4ae-4def-8727-c8eb23988115",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.2",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan regels, bepalingen en wetten gebruiken die te maken hebben met internationale handel voor de onderneming.",
-		"id": "ebbca28b-a02d-494e-b0cb-d81d27532dc0",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan internationale keurmerken kennen en weten toe te passen voor de eigen onderneming.",
-		"id": "a76f590e-299d-4b5a-a000-b664f5c78fc4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.4",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan formulieren m.b.t. internationale handel invullen, zoals: bill of lading, CMR/CIM vrachtbrief, ATA/CIR Carnet, certificaat van oorsprong, offerte, letter of credit.",
-		"id": "7d5ca09e-401d-40fa-b304-247d6cb96631",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.5",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan berekeningen uitvoeren die van belang zijn bij de eigen internationale onderneming, zoals: vreemde valuta, transportkosten, BTW met andere percentages, invoerrechten.",
-		"id": "0b44d449-697e-404c-b97d-2fd9fe4c22ea",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.6",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan vormen van fysieke distributie herkennen en benoemen die van belang zijn bij internationale handel en voor de onderneming/het product de juiste transportmethode kiezen.",
-		"id": "351f9ba9-e0ac-4533-ac59-336c0675d9dc",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan vormen van internationaal betalingsverkeer herkennen en benoemen.",
-		"id": "daf8b6dd-cce6-4e67-8ba6-3efff8446ce4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan modestijlen en trends herkennen.",
-		"id": "8eaecd85-39dd-42aa-b80f-b0d36b2b63cc",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan vormgeving op het gebied van modetechniek uitvoeren.",
-		"id": "95324955-0cb0-439f-8049-722af43c0acf",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan research uitvoeren.",
-		"id": "255ffc77-80de-4af8-b728-deb4a362b51d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/1.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een persoonlijk portfolio samenstellen op het gebied van mode.",
-		"id": "aaf73f7c-7474-495b-b444-953d0e384d61",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan producten en materialen herkennen, speciek: textielwarenkennis.",
-		"id": "c1483605-60b8-46e8-834c-b38c853e5c26",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan technieken toepassen, specifiek het maken van een naai-technisch werkstuk.",
-		"id": "439c5b8b-2e9d-473a-ad07-ce2725546e0f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/EO/11/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan apparatuur bedienen, speciek: naaaimachine en strijkmachine.",
-		"id": "1085e4a0-d562-41c5-9010-f72def467f9f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan diverse acteerprincipes herkennen en benoemen en daarbij vakbegrippen gebruiken zoals monoloog, dialoog, improvisatie, geleide improvisatie, scenes.",
-		"id": "463e96a5-5663-41a7-aa50-96575f4418df",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan kennis over acteerprincipes toepassen en uitvoeren zoals monoloog, dialoog, improvisatie, geleide improvisatie, scenes.",
-		"id": "57fa7aa3-2e3e-4f6b-bf49-8657242bc9ae",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan kennis over speltechnieken gebruiken om de boodschap over te brengen in divers acteerrepertoire.",
-		"id": "2775976a-e4b6-43b6-acd1-934a6a73f549",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/1.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan instuderen en uitvoeren van diverse rollen en zich zichtbaar inleven in diverse rollen.",
-		"id": "00223c03-d318-4923-bc9e-4a7ee85d26a9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan muziekpraktijken en muziektrends vergelijken aan de hand van de meest kenmerkende klank- en vormaspecten. Het gaat hier om de klankaspecten: toonhoogte, toonduur, toonintensiteit en klankkleur; bij vormaspecten gaat het om herhaling, contrast en variatie.",
-		"id": "a2f50c5b-d7b4-4f15-a9c8-863a7e7ea210",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan klank-, vorm- en betekenisaspecten toepassen om bestaand repertoire te zingen en een stemming of sfeer te creëren. Het gaat hier om de klankaspecten: toonhoogte, toonduur, toonintensiteit en klankkleur; bij vormaspecten gaat het om herhaling, contrast en variatie; bij betekenis.\r\ngaat het om de functie en beleving van muziek",
-		"id": "15f780a0-3b5a-43ad-9772-b2064140b58b",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stijlen onderscheiden binnen een divers zangrepertoire zoals Musical en Pop, Nederlands- en Engelstalig en deze kunnen toepassen.",
-		"id": "57058626-f07e-4bd5-b064-bdcb4808dc3a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/2.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan instuderen en uitvoeren van divers zangrepertoire en zich daarbij zichtbaar inleven.",
-		"id": "a80f6625-6f82-4828-8c5e-796b6f43b9f4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan acteren en zingen geïntegreerd toepassen en uitvoeren.",
-		"id": "d3059c95-fad7-4d85-9ccd-88be920780f2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stemelementen herkennen en benoemen zoals klankkleur, toon, trillingen en volume.",
-		"id": "6ab943c8-7049-4f0e-ae2a-a1f1fb386ea0",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/4.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan uiting geven aan een gevoel met behulp van de eigen stem zoals angst, onzekerheid of vreugde.",
-		"id": "a2ec7bd1-048c-4873-84fc-34e0fbcaa4ee",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/4.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de emotie in de stem bij anderen herkennen en benoemen.",
-		"id": "8a55c4cb-d22c-4c4c-8853-d023dd176081",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/5.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de beroepspraktijk van acteurs en zangers onderzoeken.",
-		"id": "16c2f476-db3c-4a29-97d5-60f4f154d9a5",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/5.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de functie van een artistiek portfolio benoemen.",
-		"id": "a9802305-28c7-4334-b992-0b0d40188219",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/5.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een artistiek portfolio opbouwen om zichtzelf als beginnend acteur of zanger te profileren en daartoe binnen de gestelde opdrachten relevant (auditief en beeld)materiaal verzamelen en verwerken.",
-		"id": "7881eda8-1e88-4cbe-865b-d8f5dd205525",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/11/5.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een artistiek portfolio presenteren in een gesimuleerde auditie.",
-		"id": "492d2674-65c4-4963-8cf3-dcf14af14337",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan voor een bepaalde doelgroep informatie verzamelen over dans-, acteer- en zangactiviteiten in de vrijetijd.",
-		"id": "009fa98d-c71a-4f52-94ac-aff59c1096e9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verzamelde informatie over dans-, acteer- en zangactiviteiten in een aanbod verwerken en op aantrekkelijke wijze doelgericht presenteren.",
-		"id": "fbb8b561-3d3f-4016-b1f6-da2fc65a7d5a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan het aanbod onder de aandacht van de doelgroep brengen, onder andere door gebruik van moderne media.",
-		"id": "5f945b5a-07d6-4703-9a61-91945709da3c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan basale dans-, acteer- en zangactiviteiten op gemotiveerde wijze instuderen.",
-		"id": "ae00ea21-1feb-4a4d-bb94-b75183e6945d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan basale dans-, acteer- en zangactiviteiten op energieke wijze tonen.",
-		"id": "a20948dd-dd5a-4dee-9316-fa5ad3e35e5d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stijlen in dans-, acteer- en zangactiviteiten herkennen, benoemen en verwerken in eigen activiteiten.",
-		"id": "7a72db3a-57a4-4c4c-94ae-997c2fe76fa7",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/2.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de opbouw van dans-, acteer- en zangactiviteiten herkennen en benoemen.",
-		"id": "1c14edd5-ffbc-430d-8396-459948ee05b0",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een bij de doelgroep passende dans-, acteer- of zangactiviteit kiezen.",
-		"id": "5499c0fc-2485-4111-9763-df265b79819a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een bij de doelgroep passend thema kiezen voor de dans-, acteer- of zangactiviteit.",
-		"id": "a3d7ae6d-9fc5-4f38-98ad-50d93299ed78",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een planning maken voor voor de dans-, acteer- of zangactiviteit.",
-		"id": "99393a6d-8be7-43d0-b2c4-4d84bc01628a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan deelnemers binnen een doelgroep werven onder andere door gebruik van social media.",
-		"id": "b5b0d254-61a3-426e-a438-b0081f7fda98",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan deelnemers informeren over de inhoud en de planning van de dans-, acteerof zangactiviteit.",
-		"id": "91e1bfd2-4563-4ce8-bd7d-dfc4f67159d7",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder leiding de dans-, acteer- of zangactiviteit instuderen en uitvoeren.",
-		"id": "d90f06ff-6e57-4a9f-9b74-b62d4cf9cd14",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/3.7",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een evaluatie maken van de de dans-, acteer- of zangactiviteit.",
-		"id": "7caa1f07-5861-44bf-afce-048f321dd3a9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aan de hand van instructies de praktijkruimte en de beschikbaarheid van de benodigde materialen controleren.",
-		"id": "8d3e1cbd-ff22-474d-b1f7-e9084d0523e3",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/4.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aan de hand van instructies de praktijkruimte en de gebruikte materialen verzorgd achterlaten.",
-		"id": "9e5ea7a4-b7b6-401c-9c20-dff66b89275f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/5.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding uitleg geven over het doel en de planning van de dans-, acteer- of zangactiviteit.",
-		"id": "840ce560-f895-4491-af4b-f4666bc696c2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/5.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding uitleg geven over de inhoud van de dans-, acteer- of zangactiviteit.",
-		"id": "191fb928-2db7-4f7c-aaeb-7ea137d068c6",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/5.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de dans-, acteer- of zangactiviteit voordoen en op energieke wijze meedoen.",
-		"id": "5480094d-e8bf-497f-8fd1-e4f524eddb18",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/5.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding, tijdens de oefening eenvoudige aanwijzingen geven aan deelnemers.",
-		"id": "3fcaf5f2-6921-405e-a9d8-abd8b033045e",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/5.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de deelnemers stimuleren en motiveren.",
-		"id": "83846bc7-d043-4a71-885d-0832875a9700",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/6.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding advies en informatie geven over factoren die van invloed zijn op de ontwikkeling van blessures, zoals kleding, schoeisel, vloergebruik, fysieke uitvoering en gedrag.",
-		"id": "7fdc4a70-d3eb-4d9c-9f71-b443d1585db7",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/6.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding advies geven over het voorkomen van blessures binnen dans-, acteer- en zangactiviteiten.",
-		"id": "7fd075cb-a300-4c2d-89f6-028246b5d60c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/6.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding een warming-up en cooling down passend bij de dans-, acteer- of zangactiviteit op juiste wijze uitvoeren.",
-		"id": "7bea09b3-75f8-4485-8484-3b149e26aff6",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/8/6.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onder begeleiding assisteren bij een warming-up en cooling down passend bij de dans-, acteer- of zangactiviteit.",
-		"id": "be05712f-a5aa-448b-b3fd-bf3d01a17036",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan diverse dansstijlen herkennen en benoemen aan de hand van vakbegrippen zoals in ballet, moderne dans, jazzdans, pop-theatermusicaldans en urban.",
-		"id": "da4d29d0-6976-444d-97f9-ca16a77b1388",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan technische vaardigheden van verschillende dansstijlen uitvoeren en toepassen, zoals ballet, moderne dans, jazzdans, pop- theater - musicaldans en urban.",
-		"id": "35887984-d7f9-40e7-b25f-d7daea8e3e48",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan differentiatie toepassen binnen diverse dansstijlen, zoals ballet, moderne dans, jazzdans, pop-theater- musicaldans en urban.",
-		"id": "371f0e09-7b12-4f7c-ae1f-958236fe52e5",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/1.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan zich zichtbaar inleven in diverse dansstijlen zoals ballet, moderne dans, jazzdans, pop-theater- musicaldans en urban.",
-		"id": "b669dfbc-377b-4cc2-9ea9-8fd162cbdda2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan choreografieën instuderen.",
-		"id": "78c26495-1a8b-4633-968c-58ada21605cf",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan feedback ontvangen en zichtbaar verwerken.",
-		"id": "eb6bd597-8f23-449f-a4b0-f13a3a3e82b8",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan in haar of zijn rol blijven tijdens een voorstelling bij reacties vanuit het publiek.",
-		"id": "69e011b1-2102-496a-87ee-8598ce71de15",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan presteren onder druk tijdens een voorstelling.",
-		"id": "c8ea00e9-e37b-470d-a2e9-34750b548c7d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan feedback van publiek ontvangen en zichtbaar verwerken in een volgende voorstelling.",
-		"id": "a59935da-78a6-439b-bc3b-ffdf5bd7ece9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de beroepspraktijk van een danser onderzoeken.",
-		"id": "73211e39-b844-4c01-bb59-62859520d175",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/4.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de functie van een artistiek portfolio benoemen.",
-		"id": "54de3a8f-dfa1-4815-952f-f7107452f03f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/4.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een artistiek portfolio opbouwen om zichzelf als beginnend danser te profileren.",
-		"id": "13989126-fa2e-4f64-928b-e4eb0c12da89",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/4.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een artistiek portfolio opbouwen om zichtzelf als beginnend acteur of zanger te profileren en daartoe binnen de gestelde opdrachten relevant (auditief en beeld)materiaal verzamelen en verwerken.",
-		"id": "499ee846-050d-4c4d-917c-a763dff397c1",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/10/4.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat een artistiek portfolio presenteren in een gesimuleerde auditie.",
-		"id": "da966ccf-80ff-48ce-ad03-14d7f034fc61",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan verschillende stromingen, richtingen en genres binnen de podiumkunsten herkennen en benoemen.",
-		"id": "0fe4063b-8f5e-4978-b7ce-b93842168461",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan voorstellingen zien en horen en de betekenis van de voorstellingen bevragen en benoemen.",
-		"id": "9ec95196-1cc2-48f9-952d-1ca517cf28d7",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan anderen informeren over de inhoud, functie en betekenis van voorstellingen.",
-		"id": "22365f63-0aa3-4831-94ce-0458d6d94e82",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan aan de hand van gegeven criteria een themakeuze maken voor het creëren van een artistiek product.",
-		"id": "75de152f-3b2f-42eb-8120-c5c439bf08b3",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan muziek en/of beeldmateriaal selecteren voor het artistieke product.",
-		"id": "30dbfeef-745b-44e6-8e1f-17ae001189c8",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan stromingen, richtingen en genres binnen de podiumkunsten gebruiken in een eigen artistiek product (dans, zang en/of spel).",
-		"id": "31b927fe-4067-4896-aefe-a77f87e39d2a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/2.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan de betekenis van het ontwikkelde artistieke product uitleggen.",
-		"id": "b0de5d0d-d787-43cc-9cfd-386f46506b80",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan onder begeleiding in groepsverband het zelfgecreëerde artistieke product instuderen.",
-		"id": "713d4643-59a8-4984-b25e-619e824f15db",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan het zelfgecreëerde product in groepsverband presenteren.",
-		"id": "34a93adf-d4fa-4d6e-85ec-c9d363793e0c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/12/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan de inhoud en betekenis van het zelfgecreëerde product toelichten.",
-		"id": "cd742ab9-2fe4-49a2-9494-ce7133aef9ca",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan diverse diverse danstechnieken uitvoeren en toepassen, zoals ballet, moderne dans, jazzdans, pop- theater- musicaldans en urban.",
-		"id": "71135648-09ab-4f74-a489-34eed7bcf2f1",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan diverse danstechnieken herkennen en benoemen.",
-		"id": "8dba2b59-26fe-40bb-b13e-6efa4bbb69e4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stijldifferentiatie toepassen binnen diverse danstechnieken.",
-		"id": "4b3da5bb-c2d0-4c3e-a53b-88572a0d11fc",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/1.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan zich zichtbaar inleven in diverse dansstijlen.",
-		"id": "839b106a-3248-498f-a360-c694b0bb93c3",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de aangeleerde zangtechniek uitvoeren en toepassen.",
-		"id": "fc457bfd-f77d-454d-8da3-ce76d7c715d0",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stijldifferentiatie toepassen binnen een divers zangrepertoire.\r\ngaat het om de functie en beleving van muziek",
-		"id": "d608cccd-c4cc-457f-935a-c5bbf1a5cc3c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan zich zichtbaar inleven in divers zangrepertoire.",
-		"id": "be2411d8-8a5b-4921-b7a0-778289391467",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aangeleerde acteerprincipes en -vaardigheden uitvoeren en toepassen.",
-		"id": "db87653f-ddf1-4876-9638-5162442d40b6",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan stijldifferentiatie toepassen binnen divers acteerrepertoire.",
-		"id": "46336d77-0018-4dc1-8a20-28b3d6b67219",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan zich zichtbaar inleven in diverse rollen.",
-		"id": "434f910b-d15b-42fa-859b-0a13619cfed9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan dansen, zingen en/of acteren gecombineerd en geïntegreerd uitvoeren en toepassen binnen de les of in een voorstelling.",
-		"id": "444f0e7d-7455-4446-9042-cb53f40542ef",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/5.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan feedback van docenten en begeleiders ontvangen en zichtbaar verwerken.",
-		"id": "34af0ffc-30e2-49c4-ad1c-740e85383988",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/5.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan reacties van medeleerlingen binnen de lessen, tijdens artistieke presentaties en na afloop van voorstellingen zichtbaar verwerken.",
-		"id": "7655703d-c43a-41d7-8fa3-e26da78234e9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/5.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan presteren onder druk binnen de lessen en tijdens artistieke presentaties en voorstellingen.",
-		"id": "66f283b7-b01b-4786-9b52-d95c5ef55f75",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/5.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan in zijn of haar rol blijven tijdens een voorstelling ondanks positieve of negatieve reacties van uit het publiek.",
-		"id": "bea981f6-45af-4121-ba78-ff8a6446ad99",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/6.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de functie van een artistiek portfolio benoemen.",
-		"id": "2e555d3c-7087-4306-aa09-2bcf1f39ba46",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/6.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan binnen de gestelde opdrachten relevant (beeld)materiaal verzamelen en verwerken.",
-		"id": "81ad4649-e910-4d7b-a8c6-4166c970de79",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/DP/09/6.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een artistiek portfolio presenteren in een gesimuleerde auditie.",
-		"id": "435159be-2d71-4051-9075-1607d00f35be",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/01-01",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan diverse receptuur herkennen en benoemen.",
-		"id": "26d439a3-47bc-4887-a536-5116968bce5a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/01-02",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan het ontwerp voor receptuur met decoratieve waarde omzetten in een werktekening (met behulp van een digitaal tekenprogramma).",
-		"id": "5ca5b1e2-94c2-4bf2-90bb-c098a7463e39",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/01-03",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een planning maken van werkzaamheden aan de hand van een aangegeven ontwerp.",
-		"id": "ca2ad8c4-fcb1-4303-9cce-5b8909df650e",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/01-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een prijscalculatie opstellen voor het ontwerp.",
-		"id": "ba7816da-2d22-49c2-a147-51c86d880b3c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/02-01",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een receptuur met decoratieve waarde hanteren voor het vervaardigen van siervakproducten.",
-		"id": "995ac56e-f51f-4d31-b964-d12359c9e9be",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/02-02",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan specifieke siervaktechnieken toepassen zoals: decoreren, garneren, spuittechnieken, airbrushen, boetseren, etaleren.",
-		"id": "92ab3d54-2dfc-4ffc-aeb3-6f1fc564c281",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/02-03",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de juiste apparatuur, gereedschap, en machines voor het vervaardigen van siervakproducten kiezen.",
-		"id": "d3492877-d08b-481e-899a-2d6d222ad762",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/02-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan siervakproducten opleveren aan de opdrachtgever.",
-		"id": "e14f16ff-e6df-416e-bfd2-058eeb9f7d15",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/HBR/09/02-05",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de werkzaamheden en werkwijze evalueren met de opdrachtgever.",
-		"id": "4980bfbf-bfe3-4c75-8559-024800d42f3d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verschillende aandrijfsystemen voor hybride- en elektrische voertuigen herkennen en benoemen. Het gaat hier om: PHEV, EREV, BEV en FCEV.",
-		"id": "e8b2a859-ee3b-4c8c-bf2b-a80a449a79a4",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "De kandidaat kan bij een leermodel of compleet voertuigen de componenten van hybride en elektrische aandrijfsystemen herkennen en benoemen. Het gaat hier om: inverter, converter, elektromotor/generator, HV-batterij, HV-kabels, interne lader, laadaansluiting, hoogspanningsverwarming, elektrische airconditioner, compressor, brandstofcel, waterstoftanks.",
-		"id": "6c7a9f98-bc5b-4ae2-9f58-b7750a842592",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan bij een leermodel of compleet voertuigen de componenten van hybride en elektrische aandrijfsystemen herkennen, benoemen en de functie kunnen omschrijven. Het gaat hier om: inverter, converter, elektromotor/generator, HVbatterij, HV-kabels interne lader, laadaansluiting, hoogspanningsverwarming, elektrische airconditioner compressor, brandstofcel, waterstoftanks.",
-		"id": "8429c125-7444-488d-a2b4-63d913ea565d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.4",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan van een FCEV de werking omschrijven.",
-		"id": "5003442c-b94e-412d-842a-d70319859ea2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "De kandidaat kan de opbouw van een elektromotor/generator benoemen. Het gaat hier om: rotor, stator, koppeling.",
-		"id": "c29a43c0-41af-4ec2-87ee-ea410681c900",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.6",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan van een elektromotor/generator de opbouw benoemen en het werkingsprincipe omschrijven.",
-		"id": "20e04b51-1a67-46dc-9430-ff874ca17afd",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.7",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de HV-aansluitingen van de componenten van een BEV schematisch kunnen tekenen.",
-		"id": "56dbf7d1-a461-47fe-b828-1a73787f9b31",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/13/1.8",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de veiligheidslijn van een BEV schematisch kunnen tekenen en de functie van de veiligheidslijn kunnen benoemen.",
-		"id": "19cf52ce-c072-479f-a8fc-cd053cfd3b04",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de risico’s benoemen bij het werken aan hybride- en elektrische voertuigen.",
-		"id": "235a6ef9-9999-464d-9fdc-f5bb7d937748",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de verschillende waarschuwingsstickers herkennen en de betekenis benoemen.",
-		"id": "bdc005ad-7096-46dd-984d-0f9c728a0878",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de veiligheidseisen benoemen voor het werken aan elektrische voertuigen",
-		"id": "53dbff4d-745d-468f-8b92-e6a7234be9b9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan in een practicum of leermodel de stappen uitvoeren om een voertuig spanningsvrij te schakelen (LET OP: Uitsluitend in een practicumopstelling waarbij geen hoogspanning aanwezig is).",
-		"id": "bc6a0d40-9c43-4f37-8e65-b4f05294d03e",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de verschillende gereedschappen en PBM’s benoemen voor het werken aan elektrische voertuigen. Het gaat hier o.a. om: de Duspol en de Megger).",
-		"id": "28a95894-1e5e-41a5-aa9d-e8c4bc7a4d3f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan gereedschappen en PBM’s op een juiste manier inzetten bij het spanningsvrij schakelen van een voertuig (LET OP: Uitsluitend in een practicumopstelling waarbij geen hoogspanning aanwezig is).",
-		"id": "c56c2299-58ed-430a-b72a-9a881d0b600c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.7",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een practicummodel van een brandstofcelaandrijving opbouwen en de werking verklaren.",
-		"id": "38d8f398-b946-4ec8-b8ab-dbac92ea802d",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.8",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan van een EV de voertuiggegevens uitlezen met behulp van diagnose apparatuur.",
-		"id": "38076f1d-c390-4451-a636-591fd4562724",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.9",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan controle metingen uitvoeren aan een veiligheidslijn van een elektrisch voertuig (LET OP: Uitsluitend in een practicumopstelling of gesimuleerde opstelling waarbij geen hoogspanning aanwezig is).",
-		"id": "d3769952-3d3a-4e68-9a19-fd97fdb20781",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.10",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan metingen verrichten aan spanningsloze componenten. Het gaat hier o.a. om: de elektromotor, de aircocompressor en de HV-kabels.",
-		"id": "8d0e1750-1b8e-48dc-a49e-c29e8c697884",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/2.11",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan toepassingen noemen van AR/VR. Het gaat hier o.a. om de uitvoering van onderhoud met ondersteuning op afstand mogelijk te kunnen maken.",
-		"id": "b1425742-1b0e-44cb-8eaf-c44ea75aefd6",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan benoemen welke hybride- of elektrische voertuigen extern kunnen worden geladen.",
-		"id": "c799b4be-4f2c-41ef-82c4-c6304b1461fa",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "De kandidaat kan verschillende connectoren om een voertuig te laden herkennen en benoemen.",
-		"id": "d5e47da0-188d-43d6-bb9f-caeb0e71afba",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verschillende connectoren om een voertuig op te laden herkennen en benoemen en de functie van de verschillende aansluitingen omschrijven.",
-		"id": "fc72702f-480b-4631-93b5-49b74d9a19a0",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.4",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan bij een gegeven accucapaciteit en het laadvermogen de laadtijd berekenen.",
-		"id": "ea945d62-2d6d-4654-89fa-153275d140dc",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.5",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan bij een gegeven laadvermogen en energieverbruik de laadsnelheid berekenen.",
-		"id": "8cb30b28-fb01-4409-a8fa-c05508004658",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.6",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verschillende laadvoorzieningen herkennen en benoemen. Het gaat hier o.a. om oplaadpaal voor thuis, publiek laadpunt, snellaadpaal en inductieladen.",
-		"id": "3fbc7512-2771-48d9-be72-c4b4a5159cbf",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MET/3.7",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een elektrisch voertuig laden bij verschillende laadvoorzieningen.",
-		"id": "b4ac1e51-4ae4-45cb-9471-a3103ab63ec6",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/1.1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan moderne technische (hulp)middelen en innovaties herkennen en benoemen, met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
-		"id": "daa2cbc5-a904-4900-9b2b-c128b50acc72",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verschillende problemen analyseren en beschrijven, met name op het gebied van constructie, vormgeving, besturing en functionaliteit.",
-		"id": "cc8e5c3c-0d8e-4148-b5d1-908e76ceb1fd",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/2.1",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan nieuwe technische (hulp)middelen en innovaties voor toekomstige oplossingen toepassen met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
-		"id": "901ff447-a8e4-4aef-93b8-dba1ad8fca98",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aan de hand van een analyse oplossingen bedenken en presenteren.",
-		"id": "ea9d47cc-e6c5-49a7-8cae-b20d3758d7b1",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/2.3",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de haalbaarheid van de gekozen oplossing aan de hand van de huidige techniek omschrijven.",
-		"id": "8edf6c7b-db56-43a7-8edc-6fdb4c7504da",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de invloed van moderne technieken en innovaties op het productieproces beschrijven met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
-		"id": "b05e79ce-bc55-42aa-9055-07ac99b584ca",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan keuzes voor de gekozen technieken beargumenteren.",
-		"id": "7201bfdf-a96a-4841-9995-8932a0000523",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aan de hand van een ontwerp een prototype maken.",
-		"id": "888787d5-cec7-4211-a881-381025eb6393",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/3.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de functie, de werking en de vorm van het product beargumenteren.",
-		"id": "33d9821a-6d0a-41bf-9e88-e28a950e147f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een prototype testen, evalueren en op basis van verkregen feedback creatieve verbetervoorstellen ontwikkelen.",
-		"id": "f565845f-1c0b-4aa6-bf5a-cbe6d3d06ff5",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/4.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan correcties op basis van de evaluatie beargumenteren en doorvoeren.",
-		"id": "767d25d9-e511-4ade-9d3a-7c0929767bc3",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/MVI/13/4.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan het resultaat vastleggen en presenteren.",
-		"id": "79259176-64b9-4307-8a4e-5c54333c4f4a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/1.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan technologische hulpmiddelen benoemen op het gebied van leefstijl.",
-		"id": "3d374c02-547d-4d05-8f71-33c0ff741fba",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/1.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan technologische hulpmiddelen benoemen die gericht zijn op de zelfredzaamheid van de klant.",
-		"id": "14e64c70-1118-4fc2-85a4-0bd0f8019dee",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/1.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan technologische hulpmiddelen benoemen die de veiligheid vergroten.",
-		"id": "ef7e5549-b94b-4c7b-b811-23ce430fd114",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/2.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de relatie tussen ICT en technologische hulpmiddelen uitleggen.",
-		"id": "e301b274-0b30-4b32-8115-e6c646f51057",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/2.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan actuele voorbeelden geven waaruit de relatie tussen ICT en technologie blijkt.",
-		"id": "c6b19972-4e45-4382-bf45-946f9fded1a2",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/3.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan informeren en inventariseren wat de wensen en behoeftes van de klant zijn.",
-		"id": "a59f5312-5ec0-4632-ae87-dab74515cb27",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/3.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan klanten informeren en adviseren over de mogelijkheden van technologische hulpmiddelen op het gebied van leefstijl, zelfredzaamheid en veiligheid.",
-		"id": "4c7a1eb6-9eab-4b5e-bbd5-7f55833550ca",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/3.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan klanten motiveren technologische hulpmiddelen op het gebied van leefstijl, zelfredzaamheid en veiligheid te gebruiken.",
-		"id": "e7c0fdec-6e7d-4d91-9117-9ff53fadb4fb",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/3.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan het gebruik van een technologisch hulpmiddel uitleggen en controleren of de klant het goed kan toepassen.",
-		"id": "ba883253-ac54-4cfe-93ef-50248c3fd11c",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/4.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan eenvoudige technologische hulpmiddelen gebruiken.",
-		"id": "d17bfa4a-00cc-448e-b60d-117f45695453",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/4.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan omgaan met ICT-toepassingen die noodzakelijk zijn voor het werken met technologische hulpmiddelen.",
-		"id": "3c362232-6a0e-4554-af13-9cf15f91460a",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/4.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan verkregen resultaten lezen, verklaren en verwerken.",
-		"id": "e88c948f-07fc-4d86-8a5d-b38cc7df23e9",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/5.1",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan aangeven op welke wijze technologische hulpmiddelen bijdragen aan de kwaliteit van leven van de klant.",
-		"id": "59ca6675-1b87-4c2e-8c8f-21fd18431f5f",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/5.2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan reflecteren op de ethische gevolgen van technologische hulpmiddelen voor zowel de klant als de maatschappij.",
-		"id": "776fe119-9c77-4288-9f46-d29eae7365c1",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/5.3",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de economische gevolgen van de inzet van technologische hulpmiddelen benoemen.",
-		"id": "dd3d3cb1-8f83-48b7-acb4-e830a1cbf457",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/5.4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan de gevolgen van de inzet van technologische hulpmiddelen voor de inhoud van het beroep benoemen in combinatie met zorg 2030.",
-		"id": "07b6b464-a930-4767-a548-ff311dd2f758",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/ZW/13/5.5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een eigen mening over de inzet van technologische hulpmiddelen in de zorg met argumenten en actuele voorbeelden onderbouwen.",
-		"id": "b8a05135-29a1-49f9-831c-a0ed58ef9ab8",
 		"unreleased": true
 	}
 ]

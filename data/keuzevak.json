@@ -2151,5 +2151,19 @@
 		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
 		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/13",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7c5d66ff-b33b-4643-8e5e-499bcf77953f"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"84f5a066-23f2-4a48-8332-a60fca607e22",
+			"b2f2c458-d4cb-42b6-bc5a-4290bc22cf78",
+			"66ce08ab-393b-4be1-82c8-412b78d35376"
+		],
+		"title": "Elektrische voertuigen",
+		"id": "361521b2-4a08-42b5-868a-d724e921d565",
+		"unreleased": true
 	}
 ]

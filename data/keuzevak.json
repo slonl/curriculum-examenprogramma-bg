@@ -1744,7 +1744,7 @@
 	},
 	{
 		"id": "bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
-		"prefix": "K/ZW/11",
+		"prefix": "K/ZW/10",
 		"title": "Facilitaire dienstverlening: onderhoud en receptie",
 		"description": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
 		"examenprogramma_bg_deeltaak_id": [
@@ -1760,9 +1760,9 @@
 	},
 	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
-		"prefix": "K/ZW/13",
+		"prefix": "K/ZW/12",
 		"title": "Voorkomen van ongevallen en EHBO",
-		"description": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
+		"description": "",
 		"examenprogramma_bg_deeltaak_id": [
 			"934f5418-84fa-4185-b5c4-7fcb1f647876",
 			"c8b45658-1f53-4ce9-9963-2c750c0796f2",

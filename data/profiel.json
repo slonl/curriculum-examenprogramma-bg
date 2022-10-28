@@ -359,7 +359,8 @@
 			"6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 			"9962df41-0936-465e-9df4-e8d612fb5339",
-			"7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b"
+			"7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+			"fbee0eab-868a-4916-9abf-9a1083a1e3c7"
 		],
 		"description": "",
 		"vakleergebied_id": [
@@ -367,15 +368,15 @@
 		],
 		"replaces": [
 			"a363d4e3-9296-468e-ad5f-7faf6c1c7518"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "ZW",
-		"examenprogramma_bg_keuzevak_id": [
-			"fbee0eab-868a-4916-9abf-9a1083a1e3c7"
-		],
 		"title": "Zorg en welzijn",
 		"id": "51f4799e-9a9a-4003-abdb-1d28aaf598fe",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"deleted": 1
 	}
 ]

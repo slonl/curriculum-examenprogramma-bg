@@ -1475,9 +1475,9 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MT/16/taak",
-		"title": "Assisteren bij het vissen door een commercieel vissersschip. Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
-		"id": "37e2f008-7d65-4145-9aa1-dea0e8fb9b11",
+		"prefix": "K/MVI/13/taak",
+		"title": "Een maatschappelijk probleem analyseren en beschrijven. Oplossingen bedenken en uitwerken door middel van een creatief proces en daarbij het gebruik maken van moderne technieken beargumenteren. Een (deels) werkend prototype maken. Een prototype testen, evalueren en verbeteren en het eindresultaat vastleggen en presenteren.",
+		"id": "c1e1b5c7-19cf-4034-a9d7-49476d33a5c5",
 		"unreleased": true
 	}
 ]

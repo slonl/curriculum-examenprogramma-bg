@@ -367,5 +367,14 @@
 		"replaces": [
 			"a363d4e3-9296-468e-ad5f-7faf6c1c7518"
 		]
+	},
+	{
+		"prefix": "ZW",
+		"examenprogramma_bg_keuzevak_id": [
+			"fbee0eab-868a-4916-9abf-9a1083a1e3c7"
+		],
+		"title": "Zorg en welzijn",
+		"id": "51f4799e-9a9a-4003-abdb-1d28aaf598fe",
+		"unreleased": true
 	}
 ]

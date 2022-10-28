@@ -2165,5 +2165,18 @@
 		"title": "Elektrische voertuigen",
 		"id": "361521b2-4a08-42b5-868a-d724e921d565",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MT/16",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"37e2f008-7d65-4145-9aa1-dea0e8fb9b11"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"14d53a3b-81d3-4dea-84e8-33b398370e95",
+			"ce4f9e1e-0709-499c-80dd-e202fe779d61"
+		],
+		"title": "Commerciële visserij",
+		"id": "99c73dc1-d8ba-4ba4-8a13-70e06ebd00f3",
+		"unreleased": true
 	}
 ]

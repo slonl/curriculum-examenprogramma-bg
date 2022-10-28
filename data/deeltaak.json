@@ -7741,5 +7741,30 @@
 		"title": "Een artistiek portfolio opbouwen.",
 		"id": "185a171f-db54-4eeb-ba69-432980784e82",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"26d439a3-47bc-4887-a536-5116968bce5a",
+			"5ca5b1e2-94c2-4bf2-90bb-c098a7463e39",
+			"ca2ad8c4-fcb1-4303-9cce-5b8909df650e",
+			"ba7816da-2d22-49c2-a147-51c86d880b3c"
+		],
+		"title": "Het uitwerken van een receptuur met decoratieve waarde van siervakproducten voor een opdrachtgever.",
+		"id": "debd9869-0c2e-4716-91a1-44b74c212407",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"995ac56e-f51f-4d31-b964-d12359c9e9be",
+			"92ab3d54-2dfc-4ffc-aeb3-6f1fc564c281",
+			"d3492877-d08b-481e-899a-2d6d222ad762",
+			"e14f16ff-e6df-416e-bfd2-058eeb9f7d15",
+			"4980bfbf-bfe3-4c75-8559-024800d42f3d"
+		],
+		"title": "Het vervaardigen van siervakproducten voor een opdrachtgever in een meer complex situatie, zoals: soesjestoren, cacao schilderen, chocolade decoraties, 3D printing en marsepein (mens- en dierfiguren, bloemen, fuit, snoepgoed).",
+		"id": "8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5",
+		"unreleased": true
 	}
 ]

@@ -6373,8 +6373,8 @@
 	},
 	{
 		"id": "d9fc8937-6f20-4857-8699-1725ae79fef1",
-		"prefix": "K/ZW/10/1",
-		"title": "Eenvoudige balie- en receptievaardigheden toepassen.",
+		"prefix": "K/ZW/11/01",
+		"title": "Eenvoudige balie- en receptievaardigheden toepassen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"82756225-b000-4e23-ac56-615898cc1ceb",
 			"69260ebe-2011-4548-939f-6f0b070f3cf4",
@@ -6383,63 +6383,58 @@
 			"d1f4796b-45bd-41ce-8f2c-4efb70d55948",
 			"204961a4-642f-4f7d-be5f-6c98b214a68d",
 			"c0ec45c7-cacf-4c7b-ab8e-94711a21b7f5"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "07a31945-5198-467b-a8a7-4f7c8e1c979f",
-		"prefix": "K/ZW/10/2",
-		"title": "Huisregels opstellen voor bezoekers.",
+		"prefix": "K/ZW/11/02",
+		"title": "Huisregels opstellen voor bezoekers",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7a34e2f8-a44a-4eef-a729-a13828a1e222",
 			"ce122b7d-cd3d-4dde-8f26-fd0ec1852cce",
 			"28a4245c-8770-4802-8940-1237c2913ae3",
 			"38d14f9f-f053-4a3b-b372-5a9c7c15738f"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "64a71059-447f-424f-9ccb-8586139acb6d",
-		"prefix": "K/ZW/10/3",
-		"title": "Schoonmaakwerkzaamheden verrichten in en om een gebouw.",
+		"prefix": "K/ZW/11/03",
+		"title": "Schoonmaakwerkzaamheden verrichten in en om een gebouw",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f52b7f97-98d7-4b48-bd90-27976a34e51b",
 			"a9ad59d9-a8a1-46fa-8e37-6de3e6fbb6dc",
 			"cdeab3ed-5bbb-49c0-810b-ee4546609669",
 			"f2ed3534-5a22-44f4-ae01-c360db55b061",
 			"16e3b116-8175-4993-af30-4d6af6d2829c"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "f02f31ae-038d-4a61-ab4e-ccbd59f2cd79",
-		"prefix": "K/ZW/10/4",
-		"title": "(Technische) werkzaamheden inventariseren in en rondom gebouw, volgens geldende procedures.",
+		"prefix": "K/ZW/11/04",
+		"title": "(Technische) werkzaamheden inventariseren in en rondom gebouw, volgens geldende procedures",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"605bf47d-8cdd-4655-a2c3-02776151f1d8",
 			"0d0adc79-20c4-4306-bfbf-2c6325ca17f8",
 			"6d500ef6-5df1-4675-824a-51ac1196efb2",
 			"fccbd35c-0e16-409c-a904-680d055fa735",
 			"261bba7b-45e1-4b12-9a2d-fbaea6275226"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "62778dc6-8173-4d8d-826d-c41ed36227c4",
-		"prefix": "K/ZW/10/5",
-		"title": "Assisteren bij een ontruimingsoefening.",
+		"prefix": "K/ZW/11/05",
+		"title": "Assisteren bij een ontruimingsoefening",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6974fef2-5396-4b1f-8405-8eec9736d316",
 			"ebc0424b-5665-4bb3-a70a-7e71b65a5f32",
 			"8e24a35f-7d12-4b40-a5f6-a346b34ce29f",
 			"3c4d95e6-ac82-4e52-917b-bb025adde16b"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-		"prefix": "K/ZW/11/1",
-		"title": "Informatie verstrekken over mogelijkheden om te bewegen en te sporten in de eigen regio.",
+		"prefix": "K/ZW/6.15/1",
+		"title": "Informatie verstrekken over mogelijkheden om te bewegen en te sporten in de eigen regio",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"765b2733-7092-4c70-a2d9-ceaeb081dfbe",
 			"4632f4e5-6c06-4459-acc9-a7142f056433"
@@ -6448,7 +6443,7 @@
 	},
 	{
 		"id": "0637ff48-2763-41dd-be0f-3327abac8445",
-		"prefix": "K/ZW/11/2",
+		"prefix": "K/ZW/6.15/2",
 		"title": "Voor een doelgroep een eenvoudig sportevenement of toernooi organiseren en uitvoeren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"fcc69680-d49f-4fcf-a99b-ba6db1085ebb",
@@ -6462,7 +6457,7 @@
 	},
 	{
 		"id": "fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-		"prefix": "K/ZW/11/4",
+		"prefix": "K/ZW/6.15/4",
 		"title": "Omgaan met veiligheid en het voorkomen van blessures.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5b6093d1-c764-4bb3-b4ff-e192609caf69",
@@ -6484,34 +6479,32 @@
 	},
 	{
 		"id": "934f5418-84fa-4185-b5c4-7fcb1f647876",
-		"prefix": "K/ZW/12/1",
-		"title": "Assisteren bij activiteiten op het gebied van veiligheid en risicopreventie.",
+		"prefix": "K/ZW/13/01",
+		"title": "Assisteren bij activiteiten op het gebied van veiligheid en risicopreventie",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a4346086-8c11-4292-8ecb-36ba92ac0d21",
 			"5df0c3b5-d4cf-411d-9d50-3b5f737de342",
 			"6ba80f02-c3a2-4aa6-8ba3-32f4073a5822",
 			"5301a25f-be1a-4986-907c-c9ce3f8c3923",
 			"5cb6f015-b6be-4a67-85ee-62aead94330b"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "c8b45658-1f53-4ce9-9963-2c750c0796f2",
-		"prefix": "K/ZW/12/2",
-		"title": "De functie van enkele organen en weefsels uitleggen.",
+		"prefix": "K/ZW/13/02",
+		"title": "De functie van enkele organen en weefsels uitleggen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"83c199ee-b17a-482a-9eb8-a746924616d0",
 			"b3f72d14-32f5-4c91-8af4-762f5e8db690",
 			"209ee4e6-e762-4ff2-b74a-77291bc0d050",
 			"daa86f50-187e-4a76-89bc-0bc918c0e3f7",
 			"342f5039-9916-49aa-b0bb-39e0243aff36"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "3788d530-4ace-4afd-8c9a-ee14136a1536",
-		"prefix": "K/ZW/12/3",
-		"title": "In acute situaties handelen volgens het 5 stappenplan.",
+		"prefix": "K/ZW/13/03",
+		"title": "In acute situaties handelen volgens het 5 stappenplan",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"cd33a6a9-9ca8-40c5-aed2-54388fdfce45",
 			"f7c550ab-3357-4fad-b68d-a3e064bc491c",
@@ -6523,20 +6516,19 @@
 	},
 	{
 		"id": "ccae0cfb-56ca-4fa0-8ad8-b521377a32ac",
-		"prefix": "K/ZW/12/4",
-		"title": "Stoornissen in de vitale functies signaleren en direct professionele hulp inschakelen.",
+		"prefix": "K/ZW/13/04",
+		"title": "Stoornissen in de vitale functies signaleren en direct professionele hulp inschakelen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"12d811bd-c531-48b1-999e-72bcf40bbfff",
 			"75a0792f-2e19-4108-84dd-0bb9a620da22",
 			"73aaa133-3824-4dca-9af6-2cfe67f86af0",
 			"f9c549e7-5f61-4022-baa7-e9d93df09a4f"
-		],
-		"description": ""
+		]
 	},
 	{
 		"id": "966eee0b-61ec-446e-9d8a-dbfc0a73b873",
-		"prefix": "K/ZW/12/5",
-		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B).",
+		"prefix": "K/ZW/13/05",
+		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)",
 		"description": "",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"dbfa4290-ffd6-4905-9548-9c5fb07bc66e",
@@ -6712,38 +6704,35 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/24/1",
+		"prefix": "K/BWI/1.26/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ae2799a9-1b55-42ef-8d47-f38094972ea5",
 			"098361a1-3b31-4b99-8f7a-051fded5ce69"
 		],
 		"title": "Oriëntatie op het beroep van meubelstoffeerder.",
-		"id": "33766062-ac78-454c-b7eb-75b5644085cb",
-		"description": ""
+		"id": "33766062-ac78-454c-b7eb-75b5644085cb"
 	},
 	{
-		"prefix": "K/BWI/24/2",
+		"prefix": "K/BWI/1.26/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f5573417-86bd-4b48-b570-3765c7be2c4e",
 			"d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
 			"e951b8aa-3fd8-4a2c-8f20-01819b819d60"
 		],
 		"title": "Werkzaamheden voorbereiden voor het stofferen van meubels.",
-		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c",
-		"description": ""
+		"id": "28bcce62-44d5-46a9-b5a9-167189d69b9c"
 	},
 	{
-		"prefix": "K/BWI/24/3",
+		"prefix": "K/BWI/1.26/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
 			"c5047feb-6305-4041-84e8-0fc83c531b17"
 		],
 		"title": "Meubels demonteren.",
-		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f",
-		"description": ""
+		"id": "75b46fdb-df9c-4fd4-b8c8-6c5310e3310f"
 	},
 	{
-		"prefix": "K/BWI/24/4",
+		"prefix": "K/BWI/1.26/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"73a04ba3-e717-40de-8477-3bbf144969eb",
 			"033ad355-ab2b-456b-b6f4-b4655f6c2f21",
@@ -6754,18 +6743,16 @@
 			"bca080ed-35e0-4a57-8b57-401f70b82770"
 		],
 		"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen.",
-		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e",
-		"description": ""
+		"id": "aaa5550a-a54b-4ecf-a3bb-0f14aa56ed8e"
 	},
 	{
-		"prefix": "K/BWI/24/5",
+		"prefix": "K/BWI/1.26/5",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6a571128-69de-4e36-b511-87e459e9117e",
 			"a8ee82ce-7334-4d89-b2a0-911e589b953b"
 		],
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
-		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a",
-		"description": ""
+		"id": "0eeb09e8-462e-46bb-8911-deb74c46e02a"
 	},
 	{
 		"prefix": "K/BWI/1.26/1",
@@ -6911,7 +6898,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/20/1",
+		"prefix": "K/PIE/2.22/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"21a1309c-56a8-44cf-ae3e-6644a3fabada",
 			"755666a4-e189-4f8e-819a-816a6651e757",
@@ -6919,73 +6906,66 @@
 			"2a5f3635-a842-4f9d-9f9e-a2c7378d27c1"
 		],
 		"title": "Met behulp van een aangeleverd 3D part een werktekening maken en 2D, werkstukken produceren door middel van verspanende bewerkingen.",
-		"id": "ff7410d2-c003-4898-bd2c-ca7429310b78",
-		"description": ""
+		"id": "ff7410d2-c003-4898-bd2c-ca7429310b78"
 	},
 	{
-		"prefix": "K/PIE/20/2",
+		"prefix": "K/PIE/2.22/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d11a7e21-a2a1-4c15-a77d-7fa7dcc79c5c",
 			"870621b8-8a1a-41a1-beae-a966e6035334"
 		],
 		"title": "Werkvoorbereiding maken met daarin de bewerkingsstappen uitvoeren.",
-		"id": "c52c1464-20ea-43b5-baac-7eacf91dc7e5",
-		"description": ""
+		"id": "c52c1464-20ea-43b5-baac-7eacf91dc7e5"
 	},
 	{
-		"prefix": "K/PIE/20/3",
+		"prefix": "K/PIE/2.22/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b943c949-7480-498a-9bb8-75aebe7e097b",
 			"873c8796-e421-401f-8a2b-552c7d08770d"
 		],
 		"title": "Machines instellen, voorbereiden en verspanende gereedschappen selecteren en instellen.",
-		"id": "2c14a544-63e1-4dc1-92b3-d86ca80482f9",
-		"description": ""
+		"id": "2c14a544-63e1-4dc1-92b3-d86ca80482f9"
 	},
 	{
-		"prefix": "K/PIE/20/4",
+		"prefix": "K/PIE/2.22/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"446f16ef-b490-4b82-8aa8-c048ba9e1f97",
 			"5406bff5-8075-4ba2-bae2-5d4ae2c61198",
 			"586e732f-1a11-423a-9ed7-5ada8b81ae25"
 		],
 		"title": "Verspanende gereedschappen selecteren en instellen.",
-		"id": "5cd25d0f-7756-4b39-9800-d17ae9d8fe37",
-		"description": ""
+		"id": "5cd25d0f-7756-4b39-9800-d17ae9d8fe37"
 	},
 	{
-		"prefix": "K/PIE/20/5",
+		"prefix": "K/PIE/2.22/5",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f63395c1-1505-413a-9430-1cf1eb71243e",
 			"04692c4d-281c-4667-acd9-31fcf13faf63"
 		],
 		"title": "Machine onderdelen produceren door middel van verspanen.",
-		"id": "19553373-9d6e-4718-8044-3c4b45c8d971",
-		"description": ""
+		"id": "19553373-9d6e-4718-8044-3c4b45c8d971"
 	},
 	{
-		"prefix": "K/PIE/20/6",
+		"prefix": "K/PIE/2.22/6",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"16cb5604-d5e3-4fa3-81b4-cac72b4a7671",
 			"14a699bc-062b-4c4e-8195-ed12b11a8804"
 		],
 		"title": "Verschillende machineonderdelen assembleren tot een pleet product.",
-		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d",
-		"description": ""
+		"id": "87e263dc-cfab-4858-8d28-9dc2ae61d34d"
 	},
 	{
-		"prefix": "K/PIE/19/1",
+		"prefix": "K/PIE/2.24/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"95eda211-a131-4be9-800e-1af8bd5e564f",
 			"2105f727-ced9-4f8f-8975-c44c466602e0",
 			"e06a8adc-02ae-463d-a62a-13b29dd67ec1"
 		],
 		"title": "Het besturen van de lasrobot met daarbij in achtneming de veiligheid van de lasrobot en de personen in de ruimte.",
-		"id": "bf2da18b-3511-4c66-bdc6-e7f37b5b9928",
-		"description": ""
+		"id": "bf2da18b-3511-4c66-bdc6-e7f37b5b9928"
 	},
 	{
-		"prefix": "K/PIE/19/2",
+		"prefix": "K/PIE/2.24/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d3e2b330-04e7-48a3-8bb1-6356288c41e1",
 			"804812f7-2467-4f84-af32-a36482d2a8a1",
@@ -6993,36 +6973,33 @@
 			"f96826f1-b8ac-465d-b8d1-2850dc584963",
 			"07388630-8589-4191-9729-742a4130ea9b"
 		],
-		"title": "Het laten programmeren en lassen van de lasrobot, zodat er met het MIG/MAG proces een las gemaakt kan worden in diverse vormen, soorten en maten.",
-		"id": "297b8de7-d047-46ce-8376-c7482f71c611",
-		"description": ""
+		"title": "Het laten programmeren en lassen van de lasrobot, zodat er met het MIG/MAG proces een las gemaakt kan worden in diverse vormen, soorten en maten",
+		"id": "297b8de7-d047-46ce-8376-c7482f71c611"
 	},
 	{
-		"prefix": "K/PIE/19/3",
+		"prefix": "K/PIE/2.24/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"711a8cbb-449c-46b2-817a-f00997aed8f0",
 			"a89f742d-4fd6-41fa-afba-c0e0b8fdd2c6",
 			"60340616-8376-4a91-9a22-08aa309a40ad",
 			"f777c899-bf09-44eb-8739-7af15f5ea535"
 		],
-		"title": "Een 3D tekening maken van een laswerkstuk en deze offline programmeren.",
-		"id": "666d9602-efdb-446e-8819-1ba8db13682b",
-		"description": ""
+		"title": "Een 3D tekening maken van een laswerkstuk en deze offline programmeren",
+		"id": "666d9602-efdb-446e-8819-1ba8db13682b"
 	},
 	{
-		"prefix": "K/PIE/19/4",
+		"prefix": "K/PIE/2.24/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"747ad647-93e9-4847-b0b0-a578067e973c",
 			"d0a02a2c-edd6-4166-a8ed-5dbe04515f5a",
 			"c4a24586-9ef8-4d93-9258-7b1c81a5f84f",
 			"d3da3c3a-74fd-4ecf-b4eb-a00f818cdf80"
 		],
-		"title": "Ter beoordeling een 3D laswerkstuk ontwerpen, zagen en in elkaar hechten en aflassen op de lasrobot, on- en offline geprogrammeerd.",
-		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9",
-		"description": ""
+		"title": "Ter beoordeling een 3D laswerkstuk ontwerpen, zagen en in elkaar hechten en aflassen op de lasrobot, on- en offline geprogrammeerd",
+		"id": "8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
 	},
 	{
-		"prefix": "K/PIE/21/1",
+		"prefix": "K/PIE/2.25/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"87e0f56f-9243-4393-a5e2-e2ae36e16aa6",
 			"440590aa-d177-43e4-8951-32ca62920a1f",
@@ -7030,11 +7007,10 @@
 			"6cf2e709-6a99-4e31-a84c-0f4cfd4b1883"
 		],
 		"title": "Een klantopdracht aannemen en uitvoeren voor de ontwikkeling van een slimme technologische oplossing voor een probleem.",
-		"id": "563673e9-1b37-4232-85a5-17193d900735",
-		"description": ""
+		"id": "563673e9-1b37-4232-85a5-17193d900735"
 	},
 	{
-		"prefix": "K/PIE/21/2",
+		"prefix": "K/PIE/2.25/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"1ea93282-98ec-4908-b8b5-29163a1c3303",
 			"c11ce575-bb4e-432b-82d6-f87fc818aa30",
@@ -7042,11 +7018,10 @@
 			"be64d8de-29aa-421c-8965-8e2615a0f130"
 		],
 		"title": "Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
-		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6",
-		"description": ""
+		"id": "19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 	},
 	{
-		"prefix": "K/PIE/18/1",
+		"prefix": "K/PIE/2.26/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"349b34d3-6310-485e-a46e-55bf4d10d5c7",
 			"250b11ea-4e57-408a-85b7-67e21fa10be7",
@@ -7055,11 +7030,10 @@
 			"a3f9f8cb-db9d-4d6c-8b54-8d823edd1771"
 		],
 		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid.",
-		"id": "dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc",
-		"description": ""
+		"id": "dc2cf4f7-ff79-4194-ac5f-a8f5ba07b6bc"
 	},
 	{
-		"prefix": "K/PIE/18/2",
+		"prefix": "K/PIE/2.26/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6f246666-50fb-4a12-acf4-33621305c0f9",
 			"28e1950f-0908-47f2-bddf-d44396be25fa",
@@ -7068,11 +7042,10 @@
 			"8131a07d-ad4f-4a70-9ef9-a9c2c34419d3"
 		],
 		"title": "In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications).",
-		"id": "27a240e0-4770-47b2-be41-a48dc6c337dc",
-		"description": ""
+		"id": "27a240e0-4770-47b2-be41-a48dc6c337dc"
 	},
 	{
-		"prefix": "K/PIE/18/3",
+		"prefix": "K/PIE/2.26/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"9b42d420-4143-47c8-a9e4-32dc5c534ad0",
 			"e6396914-ba93-4e19-80a7-688d3f54ed8b",
@@ -7081,34 +7054,31 @@
 			"df39202b-dffd-4235-901a-c256330cd67a",
 			"e2e724dd-a99e-48f3-8ee6-7b29af60b28d"
 		],
-		"title": "Een eenvoudige cloud-infrastructuur opbouwen (IAAS).",
-		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48",
-		"description": ""
+		"title": "Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
+		"id": "b85bf3cd-b331-43c7-9fde-7e25542b4b48"
 	},
 	{
-		"prefix": "K/PIE/22/1",
+		"prefix": "K/PIE/2.27/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5c605f9b-c013-4fd7-97cb-3787e48ad722",
 			"a4e4cbf7-5889-4d79-a14f-1c3ea1e5ed97",
 			"04a0ebab-8c92-497a-8ea6-a2b6edbd073a"
 		],
 		"title": "Het onderscheiden van de type drones en het kennen van de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan.",
-		"id": "04531f55-147e-4f31-ba18-e7190939d4ac",
-		"description": ""
+		"id": "04531f55-147e-4f31-ba18-e7190939d4ac"
 	},
 	{
-		"prefix": "K/PIE/22/2",
+		"prefix": "K/PIE/2.27/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e4447f89-3deb-45b5-b222-0e0596f7537b",
 			"5ed40151-7da9-4494-8094-dfa552433f98",
 			"449dff9f-4b28-4322-bcdb-aa235d8d10af"
 		],
 		"title": "Het kennen van de wet- en regelgeving die geldt voor het vliegen met drones.",
-		"id": "416604ac-1329-491f-9457-ca59c9d1e0a2",
-		"description": ""
+		"id": "416604ac-1329-491f-9457-ca59c9d1e0a2"
 	},
 	{
-		"prefix": "K/PIE/22/3",
+		"prefix": "K/PIE/2.27/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"28204754-d762-4fb8-9ec4-89e31f4ad354",
 			"6163f807-9781-4e98-a312-e48e750ee22c",
@@ -7116,64 +7086,58 @@
 			"e25c5e5e-67e4-43be-84f2-9ba2dd2dc4f2"
 		],
 		"title": "Interpreteren van een eenvoudig vluchtplan en een ontwerp daarvoor maken.",
-		"id": "4bca37a9-2d92-4110-bdd0-4cc7a1b46f87",
-		"description": ""
+		"id": "4bca37a9-2d92-4110-bdd0-4cc7a1b46f87"
 	},
 	{
-		"prefix": "K/PIE/22/4",
+		"prefix": "K/PIE/2.27/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3d6bbbae-4716-416c-a27a-23d36e6efd88",
 			"970f2090-46ab-4fbb-bb7e-12763fbe18d2"
 		],
 		"title": "Het uitvoeren van een vlucht met een drone in een beroepssituatie op basis van een (zelfontworpen) vluchtplan.",
-		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1",
-		"description": ""
+		"id": "346f29ca-7335-4a81-8ef5-24ec1da8efe1"
 	},
 	{
-		"prefix": "K/PIE/23/1",
+		"prefix": "K/PIE/2.28/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"96dfbd89-77e6-4e42-9376-6182704f7f78",
 			"8a446cbf-1c88-48c9-912f-84fed3307c5e",
 			"75b7051a-9b00-4e09-8d65-05d5f9cc69a0"
 		],
 		"title": "Het onderscheiden van de type drones en de principes van het vliegen, de techniek van vluchtsensoren en de toepassingsmogelijkheden daarvan kennen.",
-		"id": "e7a94b38-6766-4f4d-8f85-80b21f4027f0",
-		"description": ""
+		"id": "e7a94b38-6766-4f4d-8f85-80b21f4027f0"
 	},
 	{
-		"prefix": "K/PIE/23/2",
+		"prefix": "K/PIE/2.28/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"4d504211-910f-44a2-aa34-6786e3e0d555",
 			"2d2b5245-9ffe-425f-aa03-1eaf5d5bef5e"
 		],
 		"title": "Verschillende type data onderscheiden en kan benoemen hoe deze kunnen worden verzameld.",
-		"id": "eccc0103-d818-4dcf-80c9-2d4cf103bf7b",
-		"description": ""
+		"id": "eccc0103-d818-4dcf-80c9-2d4cf103bf7b"
 	},
 	{
-		"prefix": "K/PIE/23/3",
+		"prefix": "K/PIE/2.28/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d7ab84ad-aec8-48d0-ae24-8b2a7c9fe144",
 			"a6355fbd-5d4d-4157-b874-27f60e555826",
 			"92066b99-6457-4f0d-beda-3e8ba0196056"
 		],
 		"title": "Verschillende type data op een correcte manier verwerken en de betekenis ervan kennen.",
-		"id": "cd385697-979c-4182-b3a8-ad6c88a3c52a",
-		"description": ""
+		"id": "cd385697-979c-4182-b3a8-ad6c88a3c52a"
 	},
 	{
-		"prefix": "K/PIE/23/4",
+		"prefix": "K/PIE/2.28/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"2fa75064-2e7f-436c-ac76-537e2e232c85",
 			"34724de1-7830-4a58-ba6d-2c649cde5f2b"
 		],
 		"title": "Analyseren van een concrete vraag van een opdrachtgever en geven van een onderbouwd advies op basis van data.",
-		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f",
-		"description": ""
+		"id": "1f31a952-cb74-4161-be7e-fb6c25f3029f"
 	},
 	{
 		"id": "133e0e5e-d9c9-48ef-8127-1c31b6ece385",
-		"prefix": "K/ZW/11/5",
+		"prefix": "K/ZW/6.15/5",
 		"title": "Assisteren bij de uitvoering van bewegingsprogramma's.",
 		"description": "",
 		"examenprogramma_bg_globale_eindterm_id": [
@@ -7184,28 +7148,26 @@
 		]
 	},
 	{
-		"prefix": "K/PIE/24/1",
+		"prefix": "K/PIE/2.29/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"8e553917-950a-4ef9-a284-cb9ffb87a79b",
 			"96a50fcf-1f20-4d5b-9c02-6fda4ea40da6",
 			"b9d592a0-36c7-4a9d-ba69-65a08835a7f9",
 			"d72d1bb2-98eb-4b87-884f-a4d13b53eccb"
 		],
-		"title": "Elementaire introductie van het vak goudsmeden.",
-		"id": "d331775d-04b4-4c82-9705-7d74a53017a4",
-		"description": ""
+		"title": "Elementaire introductie van het vak goudsmeden",
+		"id": "d331775d-04b4-4c82-9705-7d74a53017a4"
 	},
 	{
-		"prefix": "K/PIE/24/2",
+		"prefix": "K/PIE/2.29/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"11da95b1-35fe-4b2c-a6be-73ae7d6646bc",
 			"c9a5f7f6-9bf5-4787-90d7-97d9be72a701",
 			"dada0ab5-8b02-4df1-a12a-fe545546078f",
 			"eb2f412e-3dcb-4e3f-8e24-e9567dc2ee57"
 		],
-		"title": "Kennismaken met diverse basistechnieken.",
-		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87",
-		"description": ""
+		"title": "Kennismaken met diverse basistechnieken",
+		"id": "e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
 	},
 	{
 		"prefix": "K/GR/16/01",
@@ -7241,7 +7203,7 @@
 		"id": "3029102e-6aa1-4af2-af1d-220b765da542"
 	},
 	{
-		"prefix": "K/PIE/25/1",
+		"prefix": "K/PIE/2.25/1",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"10539bac-5c52-4ef6-8ba4-151f28f5127d",
 			"26ae7e71-28b8-4018-ac79-469f24a91615",
@@ -7250,11 +7212,10 @@
 			"c82bceef-5082-4034-8ddd-c05d0cb41c6f"
 		],
 		"title": "Verschillende technieken voor (regen) wateropvang toepassen bij het bouwen en monteren van een circulair watersysteem.",
-		"id": "c524dac0-0946-4c9e-9d66-445075778674",
-		"description": ""
+		"id": "c524dac0-0946-4c9e-9d66-445075778674"
 	},
 	{
-		"prefix": "K/PIE/25/2",
+		"prefix": "K/PIE/2.25/2",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ca588b25-3a37-4d06-b3aa-963a1aee5631",
 			"24d4a119-dffc-4347-a3d9-3e8f9e0e3d87",
@@ -7262,11 +7223,10 @@
 			"900a76d2-a243-4baf-b649-3ca61c9b5487"
 		],
 		"title": "Verschillende technieken voor (regen) waterzuivering toepassen bij het ontwerpen en bouwen van een circulair watersysteem.",
-		"id": "3a3d88af-b929-4b1c-9a7c-80feb90410be",
-		"description": ""
+		"id": "3a3d88af-b929-4b1c-9a7c-80feb90410be"
 	},
 	{
-		"prefix": "K/PIE/25/3",
+		"prefix": "K/PIE/2.25/3",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"19fd56db-b5fe-4f35-b24e-25f7ef9fdc35",
 			"807c9782-84ef-4275-9e18-e3b8ed2b7f9b",
@@ -7277,11 +7237,10 @@
 			"7fb91fd9-8955-437c-9dd0-1f8b346492ed"
 		],
 		"title": "De werking van een helofytenfilter begrijpen voor grijswaterzuivering en dit toepassen bij het samenstellen en bouwen van een circulair watersysteem.",
-		"id": "0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4",
-		"description": ""
+		"id": "0bf5b5a4-5a90-430e-92ca-17e3b28cd5b4"
 	},
 	{
-		"prefix": "K/PIE/25/4",
+		"prefix": "K/PIE/2.25/4",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"58418453-1138-4be0-8d93-693598066699",
 			"fb5ac9d1-3a0d-4bd5-a4ed-07b6d80ce40f",
@@ -7291,18 +7250,16 @@
 			"58b61d49-607f-4ec2-b3b7-6d120ba33055"
 		],
 		"title": "Het samenstellen, bouwen en monteren van een pompsysteem waarbij regen- en vuilwater wordt rondgepompt, sensoren en kleppen worden geïnstalleerd en bestuurbaar gemaakt en de waterkwaliteit wordt gemeten.",
-		"id": "cb7a5b03-e547-421c-b786-b644c76f6cbb",
-		"description": ""
+		"id": "cb7a5b03-e547-421c-b786-b644c76f6cbb"
 	},
 	{
-		"prefix": "K/PIE/25/5",
+		"prefix": "K/PIE/2.25/5",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f07de2d0-d1a9-4910-babb-fa3d51e72985",
 			"f8e88ac4-ad2b-4c97-aead-aea465656f81"
 		],
 		"title": "Een energieneutraal circulair watersysteem bouwen.",
-		"id": "de3b33a8-d451-4417-bf29-e9007fa22528",
-		"description": ""
+		"id": "de3b33a8-d451-4417-bf29-e9007fa22528"
 	},
 	{
 		"id": "4c14267c-bf27-486e-b600-44a46c95f6db",
@@ -7389,7 +7346,7 @@
 	},
 	{
 		"id": "388131d0-3378-4ab9-a0a8-ea6aa13d242c",
-		"prefix": "K/ZW/11/3",
+		"prefix": "K/ZW/6.15/3",
 		"title": "Assisteren en instructie geven bij sport- en bewegingsactiviteiten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ed2201bb-b0fc-4cdc-8d65-2d1b1032d81e",
@@ -7438,6 +7395,527 @@
 		],
 		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "169d1361-b531-41d4-b6fb-4c4e6f63aa2d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"cb1ca94b-e499-44e6-ab94-f2d880b345fe",
+			"6267f497-e759-439a-8f6d-35ea854d82b2"
+		],
+		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt.",
+		"id": "5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"959f6d1c-e28b-440b-90ec-885f50b6787c",
+			"0b9c2726-b0c7-4482-9a24-6fa988f20b6f"
+		],
+		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
+		"id": "e49efc2a-deca-4af7-9b55-7e30432e86e6",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7eb6caf3-fc49-4ab0-88c1-13a78ecef750",
+			"f7b7320c-db89-4cb1-a18f-904dc345571d",
+			"bf890b8f-787e-47ae-a60a-45529e9f6d33",
+			"bbd6d33c-222f-4a9e-839d-d6039e0e6dd2"
+		],
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen.",
+		"id": "b1ed8975-78c4-41d5-a253-fd7133c828bd",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"cce0b5a7-d4ae-4def-8727-c8eb23988115",
+			"ebbca28b-a02d-494e-b0cb-d81d27532dc0",
+			"a76f590e-299d-4b5a-a000-b664f5c78fc4",
+			"7d5ca09e-401d-40fa-b304-247d6cb96631",
+			"0b44d449-697e-404c-b97d-2fd9fe4c22ea",
+			"351f9ba9-e0ac-4533-ac59-336c0675d9dc",
+			"daf8b6dd-cce6-4e67-8ba6-3efff8446ce4"
+		],
+		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"id": "61903ee1-df17-42dc-bc3f-d6e33af04f22",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8eaecd85-39dd-42aa-b80f-b0d36b2b63cc",
+			"95324955-0cb0-439f-8049-722af43c0acf",
+			"255ffc77-80de-4af8-b728-deb4a362b51d",
+			"aaf73f7c-7474-495b-b444-953d0e384d61"
+		],
+		"title": "Werkzaamheden binnen de modetechniek uitvoeren ten aanzien van ontwerpen en technieken.",
+		"id": "99bd9315-a676-4eb8-b98f-9c71f40a2ab3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c1483605-60b8-46e8-834c-b38c853e5c26",
+			"439c5b8b-2e9d-473a-ad07-ce2725546e0f",
+			"1085e4a0-d562-41c5-9010-f72def467f9f"
+		],
+		"title": "Werkzaamheden uitvoeren ten aanzien van productietechnieken.",
+		"id": "80c9d99c-268e-41ee-9535-c0b8163f36dd",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"463e96a5-5663-41a7-aa50-96575f4418df",
+			"57fa7aa3-2e3e-4f6b-bf49-8657242bc9ae",
+			"2775976a-e4b6-43b6-acd1-934a6a73f549",
+			"00223c03-d318-4923-bc9e-4a7ee85d26a9"
+		],
+		"title": "Individueel en in groepsverband acteren.",
+		"id": "b12eedfe-069f-4aca-b71a-742f99bacca9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a2f50c5b-d7b4-4f15-a9c8-863a7e7ea210",
+			"15f780a0-3b5a-43ad-9772-b2064140b58b",
+			"57058626-f07e-4bd5-b064-bdcb4808dc3a",
+			"a80f6625-6f82-4828-8c5e-796b6f43b9f4"
+		],
+		"title": "Individueel en in groepsverband zingen.",
+		"id": "3b10bdca-ffd8-481c-b280-beaf2c6bed25",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d3059c95-fad7-4d85-9ccd-88be920780f2"
+		],
+		"title": "Op geïntegreerde wijze zowel individueel als in groepsverband acteren en zingen.",
+		"id": "658e7ead-eba2-4e2c-a122-fd91a078bfed",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"6ab943c8-7049-4f0e-ae2a-a1f1fb386ea0",
+			"a2ec7bd1-048c-4873-84fc-34e0fbcaa4ee",
+			"8a55c4cb-d22c-4c4c-8853-d023dd176081"
+		],
+		"title": "De eigen stem trainen en ontwikkelen.",
+		"id": "7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"16c2f476-db3c-4a29-97d5-60f4f154d9a5",
+			"a9802305-28c7-4334-b992-0b0d40188219",
+			"7881eda8-1e88-4cbe-865b-d8f5dd205525",
+			"492d2674-65c4-4963-8cf3-dcf14af14337"
+		],
+		"title": "Een artistiek portfolio opbouwen en presenteren.",
+		"id": "161aa6a9-162a-4b23-8b6d-9b4fbc103e32",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"009fa98d-c71a-4f52-94ac-aff59c1096e9",
+			"fbb8b561-3d3f-4016-b1f6-da2fc65a7d5a",
+			"5f945b5a-07d6-4703-9a61-91945709da3c"
+		],
+		"title": "Informatie verstrekken over dans-, acteer- en zangactiviteiten als vrijetijdsbesteding voor jongeren en ouderen.",
+		"id": "4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ae00ea21-1feb-4a4d-bb94-b75183e6945d",
+			"a20948dd-dd5a-4dee-9316-fa5ad3e35e5d",
+			"7a72db3a-57a4-4c4c-94ae-997c2fe76fa7",
+			"1c14edd5-ffbc-430d-8396-459948ee05b0"
+		],
+		"title": "Eenvoudige dans-, acteer- en zangactiviteiten instuderen en opvoeren.",
+		"id": "6f3ee19f-0216-43a2-914f-4095a9338fe3",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5499c0fc-2485-4111-9763-df265b79819a",
+			"a3d7ae6d-9fc5-4f38-98ad-50d93299ed78",
+			"99393a6d-8be7-43d0-b2c4-4d84bc01628a",
+			"b5b0d254-61a3-426e-a438-b0081f7fda98",
+			"91e1bfd2-4563-4ce8-bd7d-dfc4f67159d7",
+			"d90f06ff-6e57-4a9f-9b74-b62d4cf9cd14",
+			"7caa1f07-5861-44bf-afce-048f321dd3a9"
+		],
+		"title": "Voor een bepaalde doelgroep een eenvoudige dans-, acteer- of zangactiviteit plannen, voorbereiden en uitvoeren.",
+		"id": "521c2e00-4054-4f90-b3e9-9f298df3317f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8d3e1cbd-ff22-474d-b1f7-e9084d0523e3",
+			"9e5ea7a4-b7b6-401c-9c20-dff66b89275f"
+		],
+		"title": "De benodigde praktijkruimte voor de dans-, acteer- of zangactiviteit gereedmaken en verzorgd achterlaten.",
+		"id": "f65791dd-3dd3-4eea-86e6-237422a8b38f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"840ce560-f895-4491-af4b-f4666bc696c2",
+			"191fb928-2db7-4f7c-aaeb-7ea137d068c6",
+			"5480094d-e8bf-497f-8fd1-e4f524eddb18",
+			"3fcaf5f2-6921-405e-a9d8-abd8b033045e",
+			"83846bc7-d043-4a71-885d-0832875a9700"
+		],
+		"title": "Onder begeleiding assisteren en instructies geven tijdens dans-, acteer- en zangactiviteiten.",
+		"id": "ef35455e-efb0-4576-8e32-992fa8b0740d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8/6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7fdc4a70-d3eb-4d9c-9f71-b443d1585db7",
+			"7fd075cb-a300-4c2d-89f6-028246b5d60c",
+			"7bea09b3-75f8-4485-8484-3b149e26aff6",
+			"be05712f-a5aa-448b-b3fd-bf3d01a17036"
+		],
+		"title": "Onder begeleiding blessures voorkomen bij zichzelf en anderen.",
+		"id": "216172a2-dd03-4d4c-88d1-724a078e9e05",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"da4d29d0-6976-444d-97f9-ca16a77b1388",
+			"35887984-d7f9-40e7-b25f-d7daea8e3e48",
+			"371f0e09-7b12-4f7c-ae1f-958236fe52e5",
+			"b669dfbc-377b-4cc2-9ea9-8fd162cbdda2"
+		],
+		"title": "Individueel en in groepsverband dansen.",
+		"id": "da171128-5fc0-4006-b517-d69476668fa9",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"78c26495-1a8b-4633-968c-58ada21605cf",
+			"eb6bd597-8f23-449f-a4b0-f13a3a3e82b8"
+		],
+		"title": "Vastgestelde choreografieën aanleren.",
+		"id": "ce997d94-1b1e-483b-9a9e-658224035d2b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"69e011b1-2102-496a-87ee-8598ce71de15",
+			"c8ea00e9-e37b-470d-a2e9-34750b548c7d",
+			"a59935da-78a6-439b-bc3b-ffdf5bd7ece9"
+		],
+		"title": "Choreografieën uitvoeren voor publiek.",
+		"id": "bed92e5d-f536-419f-9885-154e3558cecb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"73211e39-b844-4c01-bb59-62859520d175",
+			"54de3a8f-dfa1-4815-952f-f7107452f03f",
+			"13989126-fa2e-4f64-928b-e4eb0c12da89",
+			"499ee846-050d-4c4d-917c-a763dff397c1",
+			"da966ccf-80ff-48ce-ad03-14d7f034fc61"
+		],
+		"title": "Een artistiek portfolio opbouwen en presenteren.",
+		"id": "b9f4c26a-c30c-45e2-98ec-01e4c47c8764",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"0fe4063b-8f5e-4978-b7ce-b93842168461",
+			"9ec95196-1cc2-48f9-952d-1ca517cf28d7",
+			"22365f63-0aa3-4831-94ce-0458d6d94e82"
+		],
+		"title": "Informatie geven over voorstellingen.",
+		"id": "8d6908e8-0c51-4d74-89e3-133890e08704",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"75de152f-3b2f-42eb-8120-c5c439bf08b3",
+			"30dbfeef-745b-44e6-8e1f-17ae001189c8",
+			"31b927fe-4067-4896-aefe-a77f87e39d2a",
+			"b0de5d0d-d787-43cc-9cfd-386f46506b80"
+		],
+		"title": "Vastgestelde choreografieën aanleren.",
+		"id": "5d22f3f4-6b06-4943-b7b5-634cad828359",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"713d4643-59a8-4984-b25e-619e824f15db",
+			"34a93adf-d4fa-4d6e-85ec-c9d363793e0c",
+			"cd742ab9-2fe4-49a2-9494-ce7133aef9ca"
+		],
+		"title": "In groepsverband het zelfgecreëerde artistieke product instuderen en presenteren.",
+		"id": "91abec27-5a30-448a-bab9-6310e2c6aceb",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"71135648-09ab-4f74-a489-34eed7bcf2f1",
+			"8dba2b59-26fe-40bb-b13e-6efa4bbb69e4",
+			"4b3da5bb-c2d0-4c3e-a53b-88572a0d11fc",
+			"839b106a-3248-498f-a360-c694b0bb93c3"
+		],
+		"title": "Individueel en in groepsverband dansen.",
+		"id": "10ce10e3-39fc-4558-a76f-49485043c3b8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fc457bfd-f77d-454d-8da3-ce76d7c715d0",
+			"d608cccd-c4cc-457f-935a-c5bbf1a5cc3c",
+			"be2411d8-8a5b-4921-b7a0-778289391467"
+		],
+		"title": "Individueel en in groepsverband zingen.",
+		"id": "a76a8804-fc9d-4d39-aa0c-d448745eb24b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"db87653f-ddf1-4876-9638-5162442d40b6",
+			"46336d77-0018-4dc1-8a20-28b3d6b67219",
+			"434f910b-d15b-42fa-859b-0a13619cfed9"
+		],
+		"title": "Individueel en in groepsverband acteren.",
+		"id": "45e9b447-606f-4590-84cd-707584b08da7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"444f0e7d-7455-4446-9042-cb53f40542ef"
+		],
+		"title": "Op geïntegreerde wijze zowel individueel als in groepsverband dansen, zingen en/of acteren.",
+		"id": "151475c0-4798-4f3a-a97e-f4ee1f90ee81",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"34af0ffc-30e2-49c4-ad1c-740e85383988",
+			"7655703d-c43a-41d7-8fa3-e26da78234e9",
+			"66f283b7-b01b-4786-9b52-d95c5ef55f75",
+			"bea981f6-45af-4121-ba78-ff8a6446ad99"
+		],
+		"title": "Omgaan met druk, correcties en reacties binnen de lessen, tijdens en na afloop van artistieke presentaties en voorstellingen.",
+		"id": "c3d20cdd-c98e-4556-9a11-ec4661049b20",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2e555d3c-7087-4306-aa09-2bcf1f39ba46",
+			"81ad4649-e910-4d7b-a8c6-4166c970de79",
+			"435159be-2d71-4051-9075-1607d00f35be"
+		],
+		"title": "Een artistiek portfolio opbouwen.",
+		"id": "185a171f-db54-4eeb-ba69-432980784e82",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"26d439a3-47bc-4887-a536-5116968bce5a",
+			"5ca5b1e2-94c2-4bf2-90bb-c098a7463e39",
+			"ca2ad8c4-fcb1-4303-9cce-5b8909df650e",
+			"ba7816da-2d22-49c2-a147-51c86d880b3c"
+		],
+		"title": "Het uitwerken van een receptuur met decoratieve waarde van siervakproducten voor een opdrachtgever.",
+		"id": "debd9869-0c2e-4716-91a1-44b74c212407",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"995ac56e-f51f-4d31-b964-d12359c9e9be",
+			"92ab3d54-2dfc-4ffc-aeb3-6f1fc564c281",
+			"d3492877-d08b-481e-899a-2d6d222ad762",
+			"e14f16ff-e6df-416e-bfd2-058eeb9f7d15",
+			"4980bfbf-bfe3-4c75-8559-024800d42f3d"
+		],
+		"title": "Het vervaardigen van siervakproducten voor een opdrachtgever in een meer complex situatie, zoals: soesjestoren, cacao schilderen, chocolade decoraties, 3D printing en marsepein (mens- en dierfiguren, bloemen, fuit, snoepgoed).",
+		"id": "8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/13/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e8b2a859-ee3b-4c8c-bf2b-a80a449a79a4",
+			"6c7a9f98-bc5b-4ae2-9f58-b7750a842592",
+			"8429c125-7444-488d-a2b4-63d913ea565d",
+			"5003442c-b94e-412d-842a-d70319859ea2",
+			"c29a43c0-41af-4ec2-87ee-ea410681c900",
+			"20e04b51-1a67-46dc-9430-ff874ca17afd",
+			"56dbf7d1-a461-47fe-b828-1a73787f9b31",
+			"19cf52ce-c072-479f-a8fc-cd053cfd3b04"
+		],
+		"title": "Hybride- en elektrische aandrijfsystemen herkennen en benoemen",
+		"id": "84f5a066-23f2-4a48-8332-a60fca607e22",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"235a6ef9-9999-464d-9fdc-f5bb7d937748",
+			"bdc005ad-7096-46dd-984d-0f9c728a0878",
+			"53dbff4d-745d-468f-8b92-e6a7234be9b9",
+			"bc6a0d40-9c43-4f37-8e65-b4f05294d03e",
+			"28a95894-1e5e-41a5-aa9d-e8c4bc7a4d3f",
+			"c56c2299-58ed-430a-b72a-9a881d0b600c",
+			"38d8f398-b946-4ec8-b8ab-dbac92ea802d",
+			"38076f1d-c390-4451-a636-591fd4562724",
+			"d3769952-3d3a-4e68-9a19-fd97fdb20781",
+			"8d0e1750-1b8e-48dc-a49e-c29e8c697884",
+			"b1425742-1b0e-44cb-8eaf-c44ea75aefd6"
+		],
+		"title": "Veilig werken aan hybride en elektrische voertuigen",
+		"id": "b2f2c458-d4cb-42b6-bc5a-4290bc22cf78",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c799b4be-4f2c-41ef-82c4-c6304b1461fa",
+			"d5e47da0-188d-43d6-bb9f-caeb0e71afba",
+			"fc72702f-480b-4631-93b5-49b74d9a19a0",
+			"ea945d62-2d6d-4654-89fa-153275d140dc",
+			"8cb30b28-fb01-4409-a8fa-c05508004658",
+			"3fbc7512-2771-48d9-be72-c4b4a5159cbf",
+			"b4ac1e51-4ae4-45cb-9471-a3103ab63ec6"
+		],
+		"title": "Laden van hybride en elektrische voertuigen.",
+		"id": "66ce08ab-393b-4be1-82c8-412b78d35376",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"daa2cbc5-a904-4900-9b2b-c128b50acc72",
+			"cc8e5c3c-0d8e-4148-b5d1-908e76ceb1fd"
+		],
+		"title": "Een maatschappelijk probleem analyseren en beschrijven.",
+		"id": "26419f11-2e52-40c3-970d-0c39d7ecd991",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"901ff447-a8e4-4aef-93b8-dba1ad8fca98",
+			"ea9d47cc-e6c5-49a7-8cae-b20d3758d7b1",
+			"8edf6c7b-db56-43a7-8edc-6fdb4c7504da"
+		],
+		"title": "Oplossingen bedenken en uitwerken en daarbij het gebruik maken van moderne technieken beargumenteren.",
+		"id": "068d0ff0-3349-4b94-af78-a17337de54fc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b05e79ce-bc55-42aa-9055-07ac99b584ca",
+			"7201bfdf-a96a-4841-9995-8932a0000523",
+			"888787d5-cec7-4211-a881-381025eb6393",
+			"33d9821a-6d0a-41bf-9e88-e28a950e147f"
+		],
+		"title": "Een (deels) werkend prototype maken.",
+		"id": "d56dddeb-8afb-40f4-a686-102cc5c227ba",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f565845f-1c0b-4aa6-bf5a-cbe6d3d06ff5",
+			"767d25d9-e511-4ade-9d3a-7c0929767bc3",
+			"79259176-64b9-4307-8a4e-5c54333c4f4a"
+		],
+		"title": "Een prototype testen, evalueren en verbeteren.",
+		"id": "83296234-7eec-4374-a4dd-5cd2a2b55977",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/ZW/13/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3d374c02-547d-4d05-8f71-33c0ff741fba",
+			"14e64c70-1118-4fc2-85a4-0bd0f8019dee",
+			"ef7e5549-b94b-4c7b-b811-23ce430fd114"
+		],
+		"title": "Verschillende technologische hulpmiddelen benoemen.",
+		"id": "7153e33d-b391-42ae-859d-513165509fad",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/ZW/13/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e301b274-0b30-4b32-8115-e6c646f51057",
+			"c6b19972-4e45-4382-bf45-946f9fded1a2"
+		],
+		"title": "De invloed van ICT op technologische hulpmiddelen uitleggen.",
+		"id": "d4d19430-4a15-4681-ae7a-8fc6080af243",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/ZW/13/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"a59f5312-5ec0-4632-ae87-dab74515cb27",
+			"4c7a1eb6-9eab-4b5e-bbd5-7f55833550ca",
+			"e7c0fdec-6e7d-4d91-9117-9ff53fadb4fb",
+			"ba883253-ac54-4cfe-93ef-50248c3fd11c"
+		],
+		"title": "Klanten ondersteunen en motiveren bij het kiezen en gebruiken van technologische hulpmiddelen.",
+		"id": "abedf118-d3e3-4653-885d-4ecf26e1d10f",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/ZW/13/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d17bfa4a-00cc-448e-b60d-117f45695453",
+			"3c362232-6a0e-4554-af13-9cf15f91460a",
+			"e88c948f-07fc-4d86-8a5d-b38cc7df23e9"
+		],
+		"title": "Technologische hulpmiddelen toepassen.",
+		"id": "9dd125f6-d1c0-4582-ac84-1e22833d6dc4",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/ZW/13/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"59ca6675-1b87-4c2e-8c8f-21fd18431f5f",
+			"776fe119-9c77-4288-9f46-d29eae7365c1",
+			"dd3d3cb1-8f83-48b7-acb4-e830a1cbf457",
+			"07b6b464-a930-4767-a548-ff311dd2f758",
+			"b8a05135-29a1-49f9-831c-a0ed58ef9ab8"
+		],
+		"title": "Reflecteren op de gevolgen van technologische hulpmiddelen voor de klant en de maatschappij.",
+		"id": "a656d536-b134-4c87-bdf2-3f8fbd97b6d6",
 		"unreleased": true
 	}
 ]

@@ -6373,8 +6373,8 @@
 	},
 	{
 		"id": "d9fc8937-6f20-4857-8699-1725ae79fef1",
-		"prefix": "K/ZW/11/01",
-		"title": "Eenvoudige balie- en receptievaardigheden toepassen",
+		"prefix": "K/ZW/10/1",
+		"title": "Eenvoudige balie- en receptievaardigheden toepassen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"82756225-b000-4e23-ac56-615898cc1ceb",
 			"69260ebe-2011-4548-939f-6f0b070f3cf4",
@@ -6383,53 +6383,58 @@
 			"d1f4796b-45bd-41ce-8f2c-4efb70d55948",
 			"204961a4-642f-4f7d-be5f-6c98b214a68d",
 			"c0ec45c7-cacf-4c7b-ab8e-94711a21b7f5"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "07a31945-5198-467b-a8a7-4f7c8e1c979f",
-		"prefix": "K/ZW/11/02",
-		"title": "Huisregels opstellen voor bezoekers",
+		"prefix": "K/ZW/10/2",
+		"title": "Huisregels opstellen voor bezoekers.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7a34e2f8-a44a-4eef-a729-a13828a1e222",
 			"ce122b7d-cd3d-4dde-8f26-fd0ec1852cce",
 			"28a4245c-8770-4802-8940-1237c2913ae3",
 			"38d14f9f-f053-4a3b-b372-5a9c7c15738f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "64a71059-447f-424f-9ccb-8586139acb6d",
-		"prefix": "K/ZW/11/03",
-		"title": "Schoonmaakwerkzaamheden verrichten in en om een gebouw",
+		"prefix": "K/ZW/10/3",
+		"title": "Schoonmaakwerkzaamheden verrichten in en om een gebouw.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f52b7f97-98d7-4b48-bd90-27976a34e51b",
 			"a9ad59d9-a8a1-46fa-8e37-6de3e6fbb6dc",
 			"cdeab3ed-5bbb-49c0-810b-ee4546609669",
 			"f2ed3534-5a22-44f4-ae01-c360db55b061",
 			"16e3b116-8175-4993-af30-4d6af6d2829c"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "f02f31ae-038d-4a61-ab4e-ccbd59f2cd79",
-		"prefix": "K/ZW/11/04",
-		"title": "(Technische) werkzaamheden inventariseren in en rondom gebouw, volgens geldende procedures",
+		"prefix": "K/ZW/10/4",
+		"title": "(Technische) werkzaamheden inventariseren in en rondom gebouw, volgens geldende procedures.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"605bf47d-8cdd-4655-a2c3-02776151f1d8",
 			"0d0adc79-20c4-4306-bfbf-2c6325ca17f8",
 			"6d500ef6-5df1-4675-824a-51ac1196efb2",
 			"fccbd35c-0e16-409c-a904-680d055fa735",
 			"261bba7b-45e1-4b12-9a2d-fbaea6275226"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "62778dc6-8173-4d8d-826d-c41ed36227c4",
-		"prefix": "K/ZW/11/05",
-		"title": "Assisteren bij een ontruimingsoefening",
+		"prefix": "K/ZW/10/5",
+		"title": "Assisteren bij een ontruimingsoefening.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6974fef2-5396-4b1f-8405-8eec9736d316",
 			"ebc0424b-5665-4bb3-a70a-7e71b65a5f32",
 			"8e24a35f-7d12-4b40-a5f6-a346b34ce29f",
 			"3c4d95e6-ac82-4e52-917b-bb025adde16b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "4b2e4e68-890d-4dd8-856c-8bcc808522f9",
@@ -6479,32 +6484,34 @@
 	},
 	{
 		"id": "934f5418-84fa-4185-b5c4-7fcb1f647876",
-		"prefix": "K/ZW/13/01",
-		"title": "Assisteren bij activiteiten op het gebied van veiligheid en risicopreventie",
+		"prefix": "K/ZW/12/1",
+		"title": "Assisteren bij activiteiten op het gebied van veiligheid en risicopreventie.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a4346086-8c11-4292-8ecb-36ba92ac0d21",
 			"5df0c3b5-d4cf-411d-9d50-3b5f737de342",
 			"6ba80f02-c3a2-4aa6-8ba3-32f4073a5822",
 			"5301a25f-be1a-4986-907c-c9ce3f8c3923",
 			"5cb6f015-b6be-4a67-85ee-62aead94330b"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "c8b45658-1f53-4ce9-9963-2c750c0796f2",
-		"prefix": "K/ZW/13/02",
-		"title": "De functie van enkele organen en weefsels uitleggen",
+		"prefix": "K/ZW/12/2",
+		"title": "De functie van enkele organen en weefsels uitleggen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"83c199ee-b17a-482a-9eb8-a746924616d0",
 			"b3f72d14-32f5-4c91-8af4-762f5e8db690",
 			"209ee4e6-e762-4ff2-b74a-77291bc0d050",
 			"daa86f50-187e-4a76-89bc-0bc918c0e3f7",
 			"342f5039-9916-49aa-b0bb-39e0243aff36"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "3788d530-4ace-4afd-8c9a-ee14136a1536",
-		"prefix": "K/ZW/13/03",
-		"title": "In acute situaties handelen volgens het 5 stappenplan",
+		"prefix": "K/ZW/12/3",
+		"title": "In acute situaties handelen volgens het 5 stappenplan.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"cd33a6a9-9ca8-40c5-aed2-54388fdfce45",
 			"f7c550ab-3357-4fad-b68d-a3e064bc491c",
@@ -6516,19 +6523,20 @@
 	},
 	{
 		"id": "ccae0cfb-56ca-4fa0-8ad8-b521377a32ac",
-		"prefix": "K/ZW/13/04",
-		"title": "Stoornissen in de vitale functies signaleren en direct professionele hulp inschakelen",
+		"prefix": "K/ZW/12/4",
+		"title": "Stoornissen in de vitale functies signaleren en direct professionele hulp inschakelen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"12d811bd-c531-48b1-999e-72bcf40bbfff",
 			"75a0792f-2e19-4108-84dd-0bb9a620da22",
 			"73aaa133-3824-4dca-9af6-2cfe67f86af0",
 			"f9c549e7-5f61-4022-baa7-e9d93df09a4f"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "966eee0b-61ec-446e-9d8a-dbfc0a73b873",
-		"prefix": "K/ZW/13/05",
-		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B)",
+		"prefix": "K/ZW/12/5",
+		"title": "Kan aan de hand van de ongevalssituatie en de verschijnselen letsels herkennen en vaststellen van de noodzakelijke basis handelingen en deze uitvoeren ( Eerste Hulp B).",
 		"description": "",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"dbfa4290-ffd6-4905-9548-9c5fb07bc66e",

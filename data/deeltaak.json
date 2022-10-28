@@ -7818,31 +7818,47 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1",
+		"prefix": "K/MVI/13/1",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"f9b585da-452e-4a6d-93a3-615e0909e1b7",
-			"4fcc40ce-17c6-4972-951f-a916a9ff16b0",
-			"2d1034b0-e0f4-4770-8e7c-6087412ce5d7",
-			"f2d49529-a82e-4eaa-aa96-f2b6d0469e74",
-			"8740f681-6885-4441-a89e-e5d41cc3d91b",
-			"d5c0dca5-82d4-4eff-8c1d-bbbc68c5cef7",
-			"5a643166-f404-4beb-aaa0-daf824b03101"
+			"daa2cbc5-a904-4900-9b2b-c128b50acc72",
+			"cc8e5c3c-0d8e-4148-b5d1-908e76ceb1fd"
 		],
-		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
-		"id": "14d53a3b-81d3-4dea-84e8-33b398370e95",
+		"title": "Een maatschappelijk probleem analyseren en beschrijven.",
+		"id": "26419f11-2e52-40c3-970d-0c39d7ecd991",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2",
+		"prefix": "K/MVI/13/2",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"e4156d91-6ccb-4246-bd26-61c9b1e615d7",
-			"f10ccc66-0711-4032-aab2-f961d838c93f",
-			"739ca567-b411-4a82-8455-9107f5f43dff",
-			"5f6d0257-48ea-438c-a4a9-3f49aa0c7c90",
-			"85e4989b-460f-41a8-97c5-f4d8413c3eb0"
+			"901ff447-a8e4-4aef-93b8-dba1ad8fca98",
+			"ea9d47cc-e6c5-49a7-8cae-b20d3758d7b1",
+			"8edf6c7b-db56-43a7-8edc-6fdb4c7504da"
 		],
-		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
-		"id": "ce4f9e1e-0709-499c-80dd-e202fe779d61",
+		"title": "Oplossingen bedenken en uitwerken en daarbij het gebruik maken van moderne technieken beargumenteren.",
+		"id": "068d0ff0-3349-4b94-af78-a17337de54fc",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b05e79ce-bc55-42aa-9055-07ac99b584ca",
+			"7201bfdf-a96a-4841-9995-8932a0000523",
+			"888787d5-cec7-4211-a881-381025eb6393",
+			"33d9821a-6d0a-41bf-9e88-e28a950e147f"
+		],
+		"title": "Een (deels) werkend prototype maken.",
+		"id": "d56dddeb-8afb-40f4-a686-102cc5c227ba",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f565845f-1c0b-4aa6-bf5a-cbe6d3d06ff5",
+			"767d25d9-e511-4ade-9d3a-7c0929767bc3",
+			"79259176-64b9-4307-8a4e-5c54333c4f4a"
+		],
+		"title": "Een prototype testen, evalueren en verbeteren.",
+		"id": "83296234-7eec-4374-a4dd-5cd2a2b55977",
 		"unreleased": true
 	}
 ]

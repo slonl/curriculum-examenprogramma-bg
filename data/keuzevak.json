@@ -1895,7 +1895,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25",
+		"prefix": "K/PIE/21",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"7f21881e-d214-4781-9628-599487a02b56"
 		],
@@ -1904,7 +1904,8 @@
 			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 		],
 		"title": "Slimme technologie",
-		"id": "a3498511-a32a-494a-994c-4b57d62d3af6"
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
+		"description": ""
 	},
 	{
 		"prefix": "K/PIE/18\n",
@@ -1978,7 +1979,7 @@
 		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894"
 	},
 	{
-		"prefix": "K/PIE/2.25",
+		"prefix": "K/PIE/25",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
 		],
@@ -1990,7 +1991,8 @@
 			"de3b33a8-d451-4417-bf29-e9007fa22528"
 		],
 		"title": "Water, techniek en duurzaamheid",
-		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5"
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5",
+		"description": ""
 	},
 	{
 		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",

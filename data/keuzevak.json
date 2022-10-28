@@ -2197,5 +2197,18 @@
 		"title": "Technologie binnen zorg en welzijn (dit keuzevak is een verdieping van de profielmodule mens en zorg)",
 		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"45e46b7c-d438-4166-9cb6-6b14cb6ec317"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"fe8bb8fc-e6e7-4718-841d-cb465bbd65f3",
+			"5f99f37b-b792-421b-b045-3dd87b81687e"
+		],
+		"title": "Ontwerp duurzame comfortwoning",
+		"id": "5527e525-856b-4039-a4b0-bc2ecf223d70",
+		"unreleased": true
 	}
 ]

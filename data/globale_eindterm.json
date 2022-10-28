@@ -33453,135 +33453,132 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.1",
+		"prefix": "K/MVI/13/1.1",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan de meest voorkomende vissoorten die in de commerciële visserij worden gevangen, herkennen en benoemen en in verband brengen met de verschillende vismethoden.",
-		"id": "f9b585da-452e-4a6d-93a3-615e0909e1b7",
+		"title": "De kandidaat kan moderne technische (hulp)middelen en innovaties herkennen en benoemen, met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "daa2cbc5-a904-4900-9b2b-c128b50acc72",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.2",
+		"prefix": "K/MVI/13/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan eigenschappen van verschillende commerciële vismethoden benoemen en in verband brengen met de constructie van het vissersschip en het toegepaste visnetwerk.",
-		"id": "4fcc40ce-17c6-4972-951f-a916a9ff16b0",
+		"title": "De kandidaat kan verschillende problemen analyseren en beschrijven, met name op het gebied van constructie, vormgeving, besturing en functionaliteit.",
+		"id": "cc8e5c3c-0d8e-4148-b5d1-908e76ceb1fd",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.3",
+		"prefix": "K/MVI/13/2.1",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een werkstuk maken over duurzame commerciële visserij.",
-		"id": "2d1034b0-e0f4-4770-8e7c-6087412ce5d7",
+		"title": "De kandidaat kan nieuwe technische (hulp)middelen en innovaties voor toekomstige oplossingen toepassen met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "901ff447-a8e4-4aef-93b8-dba1ad8fca98",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.4",
+		"prefix": "K/MVI/13/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan bij werkzaamheden aan dek de voorgeschreven PBM’s en veiligheidsprocedures toepassen.",
-		"id": "f2d49529-a82e-4eaa-aa96-f2b6d0469e74",
+		"title": "De kandidaat kan aan de hand van een analyse oplossingen bedenken en presenteren.",
+		"id": "ea9d47cc-e6c5-49a7-8cae-b20d3758d7b1",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.5",
+		"prefix": "K/MVI/13/2.3",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan assisteren bij de eerste vissortering zoals vis strippen, spoelen en ijzen.",
-		"id": "8740f681-6885-4441-a89e-e5d41cc3d91b",
+		"title": "De kandidaat kan de haalbaarheid van de gekozen oplossing aan de hand van de huidige techniek omschrijven.",
+		"id": "8edf6c7b-db56-43a7-8edc-6fdb4c7504da",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.6",
+		"prefix": "K/MVI/13/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan veilig, hygiënisch en duurzaam werken tijdens de eerste vissortering volgens voorgeschreven procedures.",
-		"id": "d5c0dca5-82d4-4eff-8c1d-bbbc68c5cef7",
+		"title": "De kandidaat kan de invloed van moderne technieken en innovaties op het productieproces beschrijven met name op het vlak van digitale fabricage, robotica, interactieve technologie en mixed reality.",
+		"id": "b05e79ce-bc55-42aa-9055-07ac99b584ca",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/1.7",
+		"prefix": "K/MVI/13/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan assisteren bij laad- en loswerkzaamheden van het visproduct.",
-		"id": "5a643166-f404-4beb-aaa0-daf824b03101",
+		"title": "De kandidaat kan keuzes voor de gekozen technieken beargumenteren.",
+		"id": "7201bfdf-a96a-4841-9995-8932a0000523",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2.1",
+		"prefix": "K/MVI/13/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan onderdelen van het visgerei benoemen en beschrijven.",
-		"id": "e4156d91-6ccb-4246-bd26-61c9b1e615d7",
+		"title": "De kandidaat kan aan de hand van een ontwerp een prototype maken.",
+		"id": "888787d5-cec7-4211-a881-381025eb6393",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2.2",
+		"prefix": "K/MVI/13/3.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan werken met verschillende soorten touwwerk rekening houdend met materiaaleigenschappen. Het gaat hier om sterkte, dikte en buigzaamheid van het touwwerk.",
-		"id": "f10ccc66-0711-4032-aab2-f961d838c93f",
+		"title": "De kandidaat kan de functie, de werking en de vorm van het product beargumenteren.",
+		"id": "33d9821a-6d0a-41bf-9e88-e28a950e147f",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2.3",
+		"prefix": "K/MVI/13/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan een rechthoekige scheur repareren in een visnetwerk.",
-		"id": "739ca567-b411-4a82-8455-9107f5f43dff",
+		"title": "De kandidaat kan een prototype testen, evalueren en op basis van verkregen feedback creatieve verbetervoorstellen ontwikkelen.",
+		"id": "f565845f-1c0b-4aa6-bf5a-cbe6d3d06ff5",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2.4",
+		"prefix": "K/MVI/13/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan vissersknopen maken. Het gaat hier om de achtknoop, chirurgenknoop, constrictorknoop, kettingsteek, timmersteek, twee zoete liefjes, vissersknoop en het keesje.",
-		"id": "5f6d0257-48ea-438c-a4a9-3f49aa0c7c90",
+		"title": "De kandidaat kan correcties op basis van de evaluatie beargumenteren en doorvoeren.",
+		"id": "767d25d9-e511-4ade-9d3a-7c0929767bc3",
 		"unreleased": true
 	},
 	{
-		"prefix": "K/MT/16/2.5",
+		"prefix": "K/MVI/13/4.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan schiemanswerk uitvoeren. Het gaat hier om het maken van een takeling, korte splits, eindsplits en een oogsplits.",
-		"id": "85e4989b-460f-41a8-97c5-f4d8413c3eb0",
+		"title": "De kandidaat kan het resultaat vastleggen en presenteren.",
+		"id": "79259176-64b9-4307-8a4e-5c54333c4f4a",
 		"unreleased": true
 	}
 ]

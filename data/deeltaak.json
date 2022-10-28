@@ -7766,5 +7766,55 @@
 		"title": "Het vervaardigen van siervakproducten voor een opdrachtgever in een meer complex situatie, zoals: soesjestoren, cacao schilderen, chocolade decoraties, 3D printing en marsepein (mens- en dierfiguren, bloemen, fuit, snoepgoed).",
 		"id": "8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/13/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e8b2a859-ee3b-4c8c-bf2b-a80a449a79a4",
+			"6c7a9f98-bc5b-4ae2-9f58-b7750a842592",
+			"8429c125-7444-488d-a2b4-63d913ea565d",
+			"5003442c-b94e-412d-842a-d70319859ea2",
+			"c29a43c0-41af-4ec2-87ee-ea410681c900",
+			"20e04b51-1a67-46dc-9430-ff874ca17afd",
+			"56dbf7d1-a461-47fe-b828-1a73787f9b31",
+			"19cf52ce-c072-479f-a8fc-cd053cfd3b04"
+		],
+		"title": "Hybride- en elektrische aandrijfsystemen herkennen en benoemen",
+		"id": "84f5a066-23f2-4a48-8332-a60fca607e22",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"235a6ef9-9999-464d-9fdc-f5bb7d937748",
+			"bdc005ad-7096-46dd-984d-0f9c728a0878",
+			"53dbff4d-745d-468f-8b92-e6a7234be9b9",
+			"bc6a0d40-9c43-4f37-8e65-b4f05294d03e",
+			"28a95894-1e5e-41a5-aa9d-e8c4bc7a4d3f",
+			"c56c2299-58ed-430a-b72a-9a881d0b600c",
+			"38d8f398-b946-4ec8-b8ab-dbac92ea802d",
+			"38076f1d-c390-4451-a636-591fd4562724",
+			"d3769952-3d3a-4e68-9a19-fd97fdb20781",
+			"8d0e1750-1b8e-48dc-a49e-c29e8c697884",
+			"b1425742-1b0e-44cb-8eaf-c44ea75aefd6"
+		],
+		"title": "Veilig werken aan hybride en elektrische voertuigen",
+		"id": "b2f2c458-d4cb-42b6-bc5a-4290bc22cf78",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"c799b4be-4f2c-41ef-82c4-c6304b1461fa",
+			"d5e47da0-188d-43d6-bb9f-caeb0e71afba",
+			"fc72702f-480b-4631-93b5-49b74d9a19a0",
+			"ea945d62-2d6d-4654-89fa-153275d140dc",
+			"8cb30b28-fb01-4409-a8fa-c05508004658",
+			"3fbc7512-2771-48d9-be72-c4b4a5159cbf",
+			"b4ac1e51-4ae4-45cb-9471-a3103ab63ec6"
+		],
+		"title": "Laden van hybride en elektrische voertuigen.",
+		"id": "66ce08ab-393b-4be1-82c8-412b78d35376",
+		"unreleased": true
 	}
 ]

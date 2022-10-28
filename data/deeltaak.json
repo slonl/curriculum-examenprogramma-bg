@@ -7675,5 +7675,71 @@
 		"title": "In groepsverband het zelfgecreëerde artistieke product instuderen en presenteren.",
 		"id": "91abec27-5a30-448a-bab9-6310e2c6aceb",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/1",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"71135648-09ab-4f74-a489-34eed7bcf2f1",
+			"8dba2b59-26fe-40bb-b13e-6efa4bbb69e4",
+			"4b3da5bb-c2d0-4c3e-a53b-88572a0d11fc",
+			"839b106a-3248-498f-a360-c694b0bb93c3"
+		],
+		"title": "Individueel en in groepsverband dansen.",
+		"id": "10ce10e3-39fc-4558-a76f-49485043c3b8",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/2",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fc457bfd-f77d-454d-8da3-ce76d7c715d0",
+			"d608cccd-c4cc-457f-935a-c5bbf1a5cc3c",
+			"be2411d8-8a5b-4921-b7a0-778289391467"
+		],
+		"title": "Individueel en in groepsverband zingen.",
+		"id": "a76a8804-fc9d-4d39-aa0c-d448745eb24b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/3",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"db87653f-ddf1-4876-9638-5162442d40b6",
+			"46336d77-0018-4dc1-8a20-28b3d6b67219",
+			"434f910b-d15b-42fa-859b-0a13619cfed9"
+		],
+		"title": "Individueel en in groepsverband acteren.",
+		"id": "45e9b447-606f-4590-84cd-707584b08da7",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/4",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"444f0e7d-7455-4446-9042-cb53f40542ef"
+		],
+		"title": "Op geïntegreerde wijze zowel individueel als in groepsverband dansen, zingen en/of acteren.",
+		"id": "151475c0-4798-4f3a-a97e-f4ee1f90ee81",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/5",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"34af0ffc-30e2-49c4-ad1c-740e85383988",
+			"7655703d-c43a-41d7-8fa3-e26da78234e9",
+			"66f283b7-b01b-4786-9b52-d95c5ef55f75",
+			"bea981f6-45af-4121-ba78-ff8a6446ad99"
+		],
+		"title": "Omgaan met druk, correcties en reacties binnen de lessen, tijdens en na afloop van artistieke presentaties en voorstellingen.",
+		"id": "c3d20cdd-c98e-4556-9a11-ec4661049b20",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09/6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2e555d3c-7087-4306-aa09-2bcf1f39ba46",
+			"81ad4649-e910-4d7b-a8c6-4166c970de79",
+			"435159be-2d71-4051-9075-1607d00f35be"
+		],
+		"title": "Een artistiek portfolio opbouwen.",
+		"id": "185a171f-db54-4eeb-ba69-432980784e82",
+		"unreleased": true
 	}
 ]

@@ -1744,7 +1744,7 @@
 	},
 	{
 		"id": "bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
-		"prefix": "K/ZW/10",
+		"prefix": "K/ZW/11",
 		"title": "Facilitaire dienstverlening: onderhoud en receptie",
 		"description": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
 		"examenprogramma_bg_deeltaak_id": [
@@ -1760,9 +1760,9 @@
 	},
 	{
 		"id": "9962df41-0936-465e-9df4-e8d612fb5339",
-		"prefix": "K/ZW/12",
+		"prefix": "K/ZW/13",
 		"title": "Voorkomen van ongevallen en EHBO",
-		"description": "",
+		"description": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
 		"examenprogramma_bg_deeltaak_id": [
 			"934f5418-84fa-4185-b5c4-7fcb1f647876",
 			"c8b45658-1f53-4ce9-9963-2c750c0796f2",
@@ -1833,7 +1833,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/24",
+		"prefix": "K/BWI/1.26",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"bb03e82d-20da-4f1a-a864-4803c23ec578"
 		],
@@ -1845,8 +1845,7 @@
 			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
 		],
 		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-		"description": ""
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
 	},
 	{
 		"prefix": "K/BWI/23",
@@ -1863,7 +1862,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/20",
+		"prefix": "K/PIE/2.22",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"f28af2b8-9baa-4d9a-8b94-dd076eee34aa"
 		],
@@ -1876,11 +1875,10 @@
 			"87e263dc-cfab-4858-8d28-9dc2ae61d34d"
 		],
 		"title": "Machinebouw - verspanen",
-		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
-		"description": ""
+		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f"
 	},
 	{
-		"prefix": "K/PIE/19",
+		"prefix": "K/PIE/2.24",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"21eff436-e42f-4b35-810e-d123c3149877"
 		],
@@ -1891,11 +1889,10 @@
 			"8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
 		],
 		"title": "De lasrobot",
-		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1",
-		"description": ""
+		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1"
 	},
 	{
-		"prefix": "K/PIE/21",
+		"prefix": "K/PIE/2.25",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"7f21881e-d214-4781-9628-599487a02b56"
 		],
@@ -1904,11 +1901,10 @@
 			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 		],
 		"title": "Slimme technologie",
-		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
-		"description": ""
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6"
 	},
 	{
-		"prefix": "K/PIE/18\n",
+		"prefix": "K/PIE/2.26",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"f3b9dfee-b68f-4267-98a3-9705fd472e9c"
 		],
@@ -1922,7 +1918,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/22",
+		"prefix": "K/PIE/2.27",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e"
 		],
@@ -1933,12 +1929,11 @@
 			"346f29ca-7335-4a81-8ef5-24ec1da8efe1"
 		],
 		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
-		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
-		"description": ""
+		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2"
 	},
 	{
-		"description": "",
-		"prefix": "K/PIE/23",
+		"description": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever",
+		"prefix": "K/PIE/2.28",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"2185f625-4b84-41da-a5ea-678d23cabf46"
 		],
@@ -1952,7 +1947,7 @@
 		"id": "24471646-f67a-472e-8e66-6d6f365d7cda"
 	},
 	{
-		"prefix": "K/PIE/24",
+		"prefix": "K/PIE/2.29",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"aa7db8db-2d39-4c1b-9391-35695f79cadd"
 		],
@@ -1961,8 +1956,7 @@
 			"e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
 		],
 		"title": "Edelmetaal bewerken",
-		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356",
-		"description": ""
+		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356"
 	},
 	{
 		"description": "",
@@ -1979,7 +1973,7 @@
 		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894"
 	},
 	{
-		"prefix": "K/PIE/25",
+		"prefix": "K/PIE/2.25",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
 		],
@@ -1991,12 +1985,11 @@
 			"de3b33a8-d451-4417-bf29-e9007fa22528"
 		],
 		"title": "Water, techniek en duurzaamheid",
-		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5",
-		"description": ""
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5"
 	},
 	{
 		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
-		"prefix": "K/ZW/11",
+		"prefix": "K/ZW/6.15",
 		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [
@@ -2025,6 +2018,184 @@
 		],
 		"title": "Wonen en design",
 		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"660ef0e4-d749-48c0-98a5-04c83f645417"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5e8c0ef0-3b58-40fa-b7fa-1f71a971135f",
+			"e49efc2a-deca-4af7-9b55-7e30432e86e6"
+		],
+		"title": "Ontwerp duurzame comfortwoning",
+		"id": "37269c2b-9acd-40ed-bd63-031875a69dcf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"94d465bf-196e-43eb-8b54-99318c30889c"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b1ed8975-78c4-41d5-a253-fd7133c828bd",
+			"61903ee1-df17-42dc-bc3f-d6e33af04f22"
+		],
+		"title": "Internationale handel",
+		"id": "ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/9",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"6ca2cffc-f6fb-48b5-9d58-6b27d84469fe"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"99bd9315-a676-4eb8-b98f-9c71f40a2ab3",
+			"80c9d99c-268e-41ee-9535-c0b8163f36dd"
+		],
+		"title": "Modetechniek",
+		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/11",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"41e99ac6-071f-495d-9479-fb11f6c593b7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b12eedfe-069f-4aca-b71a-742f99bacca9",
+			"3b10bdca-ffd8-481c-b280-beaf2c6bed25",
+			"658e7ead-eba2-4e2c-a122-fd91a078bfed",
+			"7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
+			"161aa6a9-162a-4b23-8b6d-9b4fbc103e32"
+		],
+		"title": "Acteren en zingen",
+		"id": "60203451-d476-4d35-b4c8-087ea6666a18",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/8",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"83db302b-95f4-445a-af2a-df46f015ace4"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"4bb3fc07-405d-4743-aaa7-d8b19d8259bc",
+			"6f3ee19f-0216-43a2-914f-4095a9338fe3",
+			"521c2e00-4054-4f90-b3e9-9f298df3317f",
+			"f65791dd-3dd3-4eea-86e6-237422a8b38f",
+			"ef35455e-efb0-4576-8e32-992fa8b0740d",
+			"216172a2-dd03-4d4c-88d1-724a078e9e05"
+		],
+		"title": "Dans-, acteer- en zangactiviteiten",
+		"id": "139ff387-dce5-4673-8ac4-65d13293ec3b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/10",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f25e73c3-3ea8-477e-b2d0-c9c477bdbb01"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"da171128-5fc0-4006-b517-d69476668fa9",
+			"ce997d94-1b1e-483b-9a9e-658224035d2b",
+			"bed92e5d-f536-419f-9885-154e3558cecb",
+			"b9f4c26a-c30c-45e2-98ec-01e4c47c8764"
+		],
+		"title": "Danstechniek",
+		"id": "94a1f8fe-5111-4dda-b94a-ca18c1a291a2",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/12",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"b5702d4f-3394-45e9-a43b-3c348f91b11a"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"8d6908e8-0c51-4d74-89e3-133890e08704",
+			"5d22f3f4-6b06-4943-b7b5-634cad828359",
+			"91abec27-5a30-448a-bab9-6310e2c6aceb"
+		],
+		"title": "Kunstvak informatie, creatie en presentatie",
+		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9d2fbbd1-42ed-4934-936b-004cbe4d49a7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"10ce10e3-39fc-4558-a76f-49485043c3b8",
+			"a76a8804-fc9d-4d39-aa0c-d448745eb24b",
+			"45e9b447-606f-4590-84cd-707584b08da7",
+			"151475c0-4798-4f3a-a97e-f4ee1f90ee81",
+			"c3d20cdd-c98e-4556-9a11-ec4661049b20",
+			"185a171f-db54-4eeb-ba69-432980784e82"
+		],
+		"title": "Talentvak acteren, zang en dans",
+		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "K/HBR/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"debd9869-0c2e-4716-91a1-44b74c212407",
+			"8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5"
+		],
+		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
+		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MET/13",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7c5d66ff-b33b-4643-8e5e-499bcf77953f"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"84f5a066-23f2-4a48-8332-a60fca607e22",
+			"b2f2c458-d4cb-42b6-bc5a-4290bc22cf78",
+			"66ce08ab-393b-4be1-82c8-412b78d35376"
+		],
+		"title": "Elektrische voertuigen",
+		"id": "361521b2-4a08-42b5-868a-d724e921d565",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/MVI/13",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"c1e1b5c7-19cf-4034-a9d7-49476d33a5c5"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"26419f11-2e52-40c3-970d-0c39d7ecd991",
+			"068d0ff0-3349-4b94-af78-a17337de54fc",
+			"d56dddeb-8afb-40f4-a686-102cc5c227ba",
+			"83296234-7eec-4374-a4dd-5cd2a2b55977"
+		],
+		"title": "Innovatie en prototypen",
+		"id": "5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "K/ZW/13",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"f1c6edaf-f198-4710-a0a0-32cf2bd16c4a"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"7153e33d-b391-42ae-859d-513165509fad",
+			"d4d19430-4a15-4681-ae7a-8fc6080af243",
+			"abedf118-d3e3-4653-885d-4ecf26e1d10f",
+			"9dd125f6-d1c0-4582-ac84-1e22833d6dc4",
+			"a656d536-b134-4c87-bdf2-3f8fbd97b6d6"
+		],
+		"title": "Technologie binnen zorg en welzijn (dit keuzevak is een verdieping van de profielmodule mens en zorg)",
+		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7",
 		"unreleased": true
 	}
 ]

@@ -1279,7 +1279,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/BWI/1.26/taak",
+		"prefix": "K/BWI/24/taak",
 		"title": "Oriëntatie op het beroep van meubelstoffeerder/ Werkzaamheden voorbereiden voor het stofferen van meubels/ Meubels demonteren/ Vul- en bekledingsmaterialen op maat maken en aanbrengen/ Gestoffeerde meubels afwerken en opleveren.",
 		"id": "bb03e82d-20da-4f1a-a864-4803c23ec578",
 		"niveau_id": [
@@ -1301,7 +1301,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.22/KT",
+		"prefix": "K/PIE/20/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1312,14 +1312,14 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.24/KT",
-		"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en afloassen op de lasrobot",
+		"prefix": "K/PIE/19/KT",
+		"title": "Programmeren van de lasrobot zelf. Lassen met de lasrobot. Programmeren van de robot op de pc. Eindwerkstuk ontwerpen, programmeren en aflassen op de lasrobot.",
 		"id": "21eff436-e42f-4b35-810e-d123c3149877",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
@@ -1334,18 +1334,18 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.26/KT",
+		"prefix": "K/PIE/18/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid/ In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications)/ Een eenvoudige cloud-infrastructuur opbouwen (IAAS)",
+		"title": "Onderzoeken welke mogelijkheden clouddiensten bieden en deze beoordelen op bruikbaarheid en veiligheid. In teamverband effectief kunnen samenwerken op basis van cloudtechnieken (unified communications) en een eenvoudige cloud-infrastructuur opbouwen (IAAS).",
 		"id": "f3b9dfee-b68f-4267-98a3-9705fd472e9c"
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.27/KT",
+		"prefix": "K/PIE/22/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1356,7 +1356,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.28/KT",
+		"prefix": "K/PIE/23/KT",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
@@ -1366,7 +1366,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.29/KT",
+		"prefix": "K/PIE/24/KT",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
@@ -1401,83 +1401,6 @@
 		"prefix": "K/EO/10",
 		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "b8cc0dec-a7fc-41fb-b816-684b89a5bc74",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/BWI/20/taak",
-		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\"",
-		"id": "660ef0e4-d749-48c0-98a5-04c83f645417",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/EO/11",
-		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
-		"id": "94d465bf-196e-43eb-8b54-99318c30889c",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/EO/11",
-		"title": "Modetechnische vaardigheden toepassen",
-		"id": "6ca2cffc-f6fb-48b5-9d58-6b27d84469fe",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/DP/11",
-		"title": "individueel en in groepsverband instuderen en uitvoeren van repertoire in spel en zang, de eigen stem trainen en ontwikkelen en een portfolio opbouwen en presenteren",
-		"id": "41e99ac6-071f-495d-9479-fb11f6c593b7",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/DP/8",
-		"title": "Dans-, acteer- en zangactiviteiten organiseren en begeleiden.",
-		"id": "83db302b-95f4-445a-af2a-df46f015ace4",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/DP/10",
-		"title": "Het zowel individueel als in groepsverband aanleren en toepassen van de technische vaardigheden binnen diverse dansstijlen, het uitvoeren van choreografieën en het opbouwen van een artistiek portfolio",
-		"id": "f25e73c3-3ea8-477e-b2d0-c9c477bdbb01",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/DP/12",
-		"title": "Informatie verzamelen en verstrekken over podiumkunsten en een artistiek product creëren en presenteren.",
-		"id": "b5702d4f-3394-45e9-a43b-3c348f91b11a",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/DP/09",
-		"title": "Zowel individueel als in groepsverband dansen, zingen en acteren, omgaan met reacties en een portfolio opbouwen en presenteren.",
-		"id": "9d2fbbd1-42ed-4934-936b-004cbe4d49a7",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/HBR/09/KT",
-		"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\r\nen andere technieken dan in het patisserie worden toegepast en gecombineerd.",
-		"id": "7693afd1-3a4c-4aa1-9f81-60ff4fb29379",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MET/13/Taak",
-		"title": "Hybride en elektrische aandrijfsystemen herkennen en benoemen. Veilig werken aan hybride en elektrische voertuigen. Laden van hybride en elektrische voertuigen.",
-		"id": "7c5d66ff-b33b-4643-8e5e-499bcf77953f",
-		"unreleased": true
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/MVI/13/taak",
-		"title": "Een maatschappelijk probleem analyseren en beschrijven. Oplossingen bedenken en uitwerken door middel van een creatief proces en daarbij het gebruik maken van moderne technieken beargumenteren. Een (deels) werkend prototype maken. Een prototype testen, evalueren en verbeteren en het eindresultaat vastleggen en presenteren.",
-		"id": "c1e1b5c7-19cf-4034-a9d7-49476d33a5c5",
 		"unreleased": true
 	}
 ]

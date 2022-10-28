@@ -2120,5 +2120,22 @@
 		"title": "Kunstvak informatie, creatie en presentatie",
 		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/DP/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9d2fbbd1-42ed-4934-936b-004cbe4d49a7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"10ce10e3-39fc-4558-a76f-49485043c3b8",
+			"a76a8804-fc9d-4d39-aa0c-d448745eb24b",
+			"45e9b447-606f-4590-84cd-707584b08da7",
+			"151475c0-4798-4f3a-a97e-f4ee1f90ee81",
+			"c3d20cdd-c98e-4556-9a11-ec4661049b20",
+			"185a171f-db54-4eeb-ba69-432980784e82"
+		],
+		"title": "Talentvak acteren, zang en dans",
+		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44",
+		"unreleased": true
 	}
 ]

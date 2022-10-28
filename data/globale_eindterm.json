@@ -33767,5 +33767,46 @@
 		"title": "De kandidaat kan een eigen mening over de inzet van technologische hulpmiddelen in de zorg met argumenten en actuele voorbeelden onderbouwen.",
 		"id": "b8a05135-29a1-49f9-831c-a0ed58ef9ab8",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/1.1",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp visualiseren in een 3D-model met moderne tekenprogramma's en eventueel in BIM.",
+		"id": "d39b0e5c-53e1-4d06-9162-5d127c23beaa",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/1.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan relevante informatie verzamelen, ordenen en toepassen, zoals eisen van een opdrachtgever en specificaties van producten.",
+		"id": "ca2be05d-7f29-4948-b54b-cdef39cbd13b",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2.1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een tekening interpreteren en verwerken in een werktekening t.b.v. een maquette.",
+		"id": "7b81851b-d25f-458c-90c5-341fe0b3db63",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/BWI/20/2.2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een maquette samenstellen van duurzame materialen en nieuwe technologie.",
+		"id": "ffe94083-636a-45d1-88c0-665698ec3ccb",
+		"unreleased": true
 	}
 ]

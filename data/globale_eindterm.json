@@ -33082,5 +33082,104 @@
 		"title": "De kandidaat kan een artistiek portfolio presenteren in een gesimuleerde auditie.",
 		"id": "435159be-2d71-4051-9075-1607d00f35be",
 		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan diverse receptuur herkennen en benoemen.",
+		"id": "26d439a3-47bc-4887-a536-5116968bce5a",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp voor receptuur met decoratieve waarde omzetten in een werktekening (met behulp van een digitaal tekenprogramma).",
+		"id": "5ca5b1e2-94c2-4bf2-90bb-c098a7463e39",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een planning maken van werkzaamheden aan de hand van een aangegeven ontwerp.",
+		"id": "ca2ad8c4-fcb1-4303-9cce-5b8909df650e",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een prijscalculatie opstellen voor het ontwerp.",
+		"id": "ba7816da-2d22-49c2-a147-51c86d880b3c",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een receptuur met decoratieve waarde hanteren voor het vervaardigen van siervakproducten.",
+		"id": "995ac56e-f51f-4d31-b964-d12359c9e9be",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan specifieke siervaktechnieken toepassen zoals: decoreren, garneren, spuittechnieken, airbrushen, boetseren, etaleren.",
+		"id": "92ab3d54-2dfc-4ffc-aeb3-6f1fc564c281",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de juiste apparatuur, gereedschap, en machines voor het vervaardigen van siervakproducten kiezen.",
+		"id": "d3492877-d08b-481e-899a-2d6d222ad762",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan siervakproducten opleveren aan de opdrachtgever.",
+		"id": "e14f16ff-e6df-416e-bfd2-058eeb9f7d15",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/HBR/09/02-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de werkzaamheden en werkwijze evalueren met de opdrachtgever.",
+		"id": "4980bfbf-bfe3-4c75-8559-024800d42f3d",
+		"unreleased": true
 	}
 ]

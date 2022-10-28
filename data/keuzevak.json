@@ -2137,5 +2137,19 @@
 		"title": "Talentvak acteren, zang en dans",
 		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "K/HBR/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"debd9869-0c2e-4716-91a1-44b74c212407",
+			"8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5"
+		],
+		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
+		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+		"unreleased": true
 	}
 ]

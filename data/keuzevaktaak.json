@@ -1205,18 +1205,19 @@
 	},
 	{
 		"id": "bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
-		"prefix": "K/ZW/11/KT",
-		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
+		"prefix": "K/ZW/10/KT",
+		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "dfe144d8-0004-4a45-b9e2-13b8ee5624d3",
-		"prefix": "K/ZW/6.15/KT",
-		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"prefix": "K/ZW/11/KT",
+		"title": "Eenvoudige regelende taken verrichten bij sport en bewegen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1226,13 +1227,14 @@
 	},
 	{
 		"id": "0e3d1be4-7af0-492b-b3a3-33c2bba98b33",
-		"prefix": "K/ZW/13/KT",
-		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken",
+		"prefix": "K/ZW/12/KT",
+		"title": "Kan een bijdrage leveren aan veiligheid en preventie van ongelukken en eerste hulp verlenen bij ongelukken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"prefix": "K/GR/15/KT",
@@ -1301,7 +1303,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.22/KT",
+		"prefix": "K/PIE/20/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1312,8 +1314,8 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.24/KT",
-		"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en afloassen op de lasrobot",
+		"prefix": "K/PIE/19/KT",
+		"title": "Programmeren van de lasrobot zelf/ Lassen met de lasrobot/ Programmeren van de robot op de pc/ Eindwerkstuk ontwerpen, programmeren en aflassen op de lasrobot.",
 		"id": "21eff436-e42f-4b35-810e-d123c3149877",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -1323,7 +1325,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.25/KT",
+		"prefix": "K/PIE/21/KT",
 		"title": "Toepassen van slimme technologie door het aannemen en uitvoeren van een klantopdracht voor de ontwikkeling van een slimme technologische oplossing voor een technisch probleem. Slimme technologie koppelen aan een bestaand product of apparaat door middel van het fysiek bouwen van een schakeling en het programmeren van een microprocessor.",
 		"id": "7f21881e-d214-4781-9628-599487a02b56",
 		"niveau_id": [
@@ -1334,7 +1336,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.26/KT",
+		"prefix": "K/PIE/18/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1345,7 +1347,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.27/KT",
+		"prefix": "K/PIE/22/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -1356,7 +1358,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.28/KT",
+		"prefix": "K/PIE/23/KT",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
@@ -1366,7 +1368,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.29/KT",
+		"prefix": "K/PIE/24/KT",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
@@ -1387,7 +1389,7 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/PIE/2.25/KT",
+		"prefix": "K/PIE/25/KT",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",

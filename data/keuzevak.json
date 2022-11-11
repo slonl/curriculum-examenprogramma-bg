@@ -1744,7 +1744,7 @@
 	},
 	{
 		"id": "bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
-		"prefix": "K/ZW/11",
+		"prefix": "K/ZW/10",
 		"title": "Facilitaire dienstverlening: onderhoud en receptie",
 		"description": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties",
 		"examenprogramma_bg_deeltaak_id": [
@@ -1863,7 +1863,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.22",
+		"prefix": "K/PIE/20",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"f28af2b8-9baa-4d9a-8b94-dd076eee34aa"
 		],
@@ -1876,10 +1876,11 @@
 			"87e263dc-cfab-4858-8d28-9dc2ae61d34d"
 		],
 		"title": "Machinebouw - verspanen",
-		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f"
+		"id": "fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.24",
+		"prefix": "K/PIE/19",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"21eff436-e42f-4b35-810e-d123c3149877"
 		],
@@ -1890,10 +1891,11 @@
 			"8abdbf01-24a3-4ba6-a688-8fb4b7d347c9"
 		],
 		"title": "De lasrobot",
-		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1"
+		"id": "c7c5783d-065b-4569-87e6-49579f1d4af1",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.25",
+		"prefix": "K/PIE/21",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"7f21881e-d214-4781-9628-599487a02b56"
 		],
@@ -1902,10 +1904,11 @@
 			"19dd8743-d13e-40a8-81a8-2ecb4a8d23c6"
 		],
 		"title": "Slimme technologie",
-		"id": "a3498511-a32a-494a-994c-4b57d62d3af6"
+		"id": "a3498511-a32a-494a-994c-4b57d62d3af6",
+		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.26",
+		"prefix": "K/PIE/18",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"f3b9dfee-b68f-4267-98a3-9705fd472e9c"
 		],
@@ -1919,7 +1922,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/PIE/2.27",
+		"prefix": "K/PIE/22",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"ad14d1b9-b58f-4691-a3f9-a9b98da4ce6e"
 		],
@@ -1930,11 +1933,12 @@
 			"346f29ca-7335-4a81-8ef5-24ec1da8efe1"
 		],
 		"title": "Dronetechniek I: Vliegen met een drone in een beroepssituatie",
-		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2"
+		"id": "3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
+		"description": ""
 	},
 	{
 		"description": "Het inspecteren met een drone en de verzamelde data rapporteren aan de opdrachtgever",
-		"prefix": "K/PIE/2.28",
+		"prefix": "K/PIE/23",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"2185f625-4b84-41da-a5ea-678d23cabf46"
 		],
@@ -1948,7 +1952,7 @@
 		"id": "24471646-f67a-472e-8e66-6d6f365d7cda"
 	},
 	{
-		"prefix": "K/PIE/2.29",
+		"prefix": "K/PIE/24",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"aa7db8db-2d39-4c1b-9391-35695f79cadd"
 		],
@@ -1957,7 +1961,8 @@
 			"e36dbaeb-5df1-498e-b7b0-a63e6f30ef87"
 		],
 		"title": "Edelmetaal bewerken",
-		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356"
+		"id": "8e29afda-b5bf-42e7-8af2-d358d3bd7356",
+		"description": ""
 	},
 	{
 		"description": "",
@@ -1974,7 +1979,7 @@
 		"id": "f6a13d0f-49d5-4bb5-a51f-7d48d274e894"
 	},
 	{
-		"prefix": "K/PIE/2.25",
+		"prefix": "K/PIE/25",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"b02dbe18-ae23-4b7a-b5d1-29f8b0b97e5a"
 		],
@@ -1986,11 +1991,12 @@
 			"de3b33a8-d451-4417-bf29-e9007fa22528"
 		],
 		"title": "Water, techniek en duurzaamheid",
-		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5"
+		"id": "11695bb2-fc2d-4825-8547-6775cae5c2b5",
+		"description": ""
 	},
 	{
 		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
-		"prefix": "K/ZW/6.15",
+		"prefix": "K/ZW/11",
 		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
 		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
 		"examenprogramma_bg_deeltaak_id": [

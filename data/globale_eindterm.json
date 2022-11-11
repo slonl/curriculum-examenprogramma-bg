@@ -29738,160 +29738,176 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/1.1",
+		"prefix": "K/BWI/24/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "De kandidaat kan benoemen wat het beroep van meubelstoffeerder inhoudt.",
-		"id": "ae2799a9-1b55-42ef-8d47-f38094972ea5"
+		"id": "ae2799a9-1b55-42ef-8d47-f38094972ea5",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/1.2",
+		"prefix": "K/BWI/24/1.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan benoemen en presenteren wat het beroep van meubelstoffeerder inhoudt.",
-		"id": "098361a1-3b31-4b99-8f7a-051fded5ce69"
+		"id": "098361a1-3b31-4b99-8f7a-051fded5ce69",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.1",
+		"prefix": "K/BWI/24/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het werk voorbereiden, stoffeermaterialen, -gereedschappen en -hulpmiddelen benoemen, selecteren, controleren en transporteren.",
-		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e"
+		"id": "f5573417-86bd-4b48-b570-3765c7be2c4e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.2",
+		"prefix": "K/BWI/24/2.2",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van een snijplan bepalen hoeveel stof er nodig is voor de stoffering van een meubel.",
-		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199"
+		"id": "d957a8c7-6ef5-4d3e-bc78-6dc7c1924199",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/2.3",
+		"prefix": "K/BWI/24/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan met behulp van een tekening projectiemethodes, normalisatie, schaalformats en materiaalsoorten uitleggen.",
-		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60"
+		"id": "e951b8aa-3fd8-4a2c-8f20-01819b819d60",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.1",
+		"prefix": "K/BWI/24/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een meubel demonteren om opnieuw te kunnen bekleden.",
-		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b"
+		"id": "de4b0eb3-41fa-4a9c-bb27-0e922a86c61b",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/3.2",
+		"prefix": "K/BWI/24/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan na het demonteren het restmateriaal op een veilige, milieuvriendelijke manier afvoeren of hergebruiken.",
-		"id": "c5047feb-6305-4041-84e8-0fc83c531b17"
+		"id": "c5047feb-6305-4041-84e8-0fc83c531b17",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.1",
+		"prefix": "K/BWI/24/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de vorm van het meubel op de materialen meten en aftekenen.",
-		"id": "73a04ba3-e717-40de-8477-3bbf144969eb"
+		"id": "73a04ba3-e717-40de-8477-3bbf144969eb",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.2",
+		"prefix": "K/BWI/24/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan machines zoals snij-, knip-, en heftafels veilig bedienen en ergonomisch gebruiken.",
-		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21"
+		"id": "033ad355-ab2b-456b-b6f4-b4655f6c2f21",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.3",
+		"prefix": "K/BWI/24/4.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het vul- en bekledingsmateriaal op maat knippen of snijden op een snijtafel.",
-		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9"
+		"id": "5072a16c-b99e-4011-8e64-f07a4b1b7ce9",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.4",
+		"prefix": "K/BWI/24/4.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan de instelling van de machines aanpassen op soort en dikte van het materiaal.",
-		"id": "a3d1fe06-981b-4223-ac7e-70136b160505"
+		"id": "a3d1fe06-981b-4223-ac7e-70136b160505",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.5",
+		"prefix": "K/BWI/24/4.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een elektrische naaimachine en lockmachine veilig en effectief toepassen.",
-		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff"
+		"id": "f343b7ef-0c3d-4d6c-96b7-2948b6419bff",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.6",
+		"prefix": "K/BWI/24/4.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan aan de hand van de opbouw van het meubel de stoffeerbasis aanbrengen.",
-		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0"
+		"id": "c9a51353-1d1c-42a2-85fd-fb13231876a0",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/4.7",
+		"prefix": "K/BWI/24/4.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan vul- en bekledingsmateriaal met behulp van een mal aanbrengen.",
-		"id": "bca080ed-35e0-4a57-8b57-401f70b82770"
+		"id": "bca080ed-35e0-4a57-8b57-401f70b82770",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/5.1",
+		"prefix": "K/BWI/24/5.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het meubel afwerken met afwerkmateriaal.",
-		"id": "6a571128-69de-4e36-b511-87e459e9117e"
+		"id": "6a571128-69de-4e36-b511-87e459e9117e",
+		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26/5.2",
+		"prefix": "K/BWI/24/5.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het werk controleren, het meubel schoonmaken en opleveren.",
-		"id": "a8ee82ce-7334-4d89-b2a0-911e589b953b"
+		"id": "a8ee82ce-7334-4d89-b2a0-911e589b953b",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/1.26/1.1",
@@ -32104,7 +32120,7 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/EO/11/1.1",
+		"prefix": "K/EO/09/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32112,10 +32128,11 @@
 		],
 		"title": "De kandidaat kan modestijlen en trends herkennen.",
 		"id": "8eaecd85-39dd-42aa-b80f-b0d36b2b63cc",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/1.2",
+		"prefix": "K/EO/09/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32123,10 +32140,11 @@
 		],
 		"title": "De kandidaat kan vormgeving op het gebied van modetechniek uitvoeren.",
 		"id": "95324955-0cb0-439f-8049-722af43c0acf",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/1.3",
+		"prefix": "K/EO/09/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32134,10 +32152,11 @@
 		],
 		"title": "De kandidaat kan research uitvoeren.",
 		"id": "255ffc77-80de-4af8-b728-deb4a362b51d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/1.4",
+		"prefix": "K/EO/09/1.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32145,10 +32164,11 @@
 		],
 		"title": "De kandidaat kan een persoonlijk portfolio samenstellen op het gebied van mode.",
 		"id": "aaf73f7c-7474-495b-b444-953d0e384d61",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/2.1",
+		"prefix": "K/EO/09/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32156,10 +32176,11 @@
 		],
 		"title": "De kandidaat kan producten en materialen herkennen, speciek: textielwarenkennis.",
 		"id": "c1483605-60b8-46e8-834c-b38c853e5c26",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/2.2",
+		"prefix": "K/EO/09/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32167,10 +32188,11 @@
 		],
 		"title": "De kandidaat kan technieken toepassen, specifiek het maken van een naai-technisch werkstuk.",
 		"id": "439c5b8b-2e9d-473a-ad07-ce2725546e0f",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/EO/11/2.3",
+		"prefix": "K/EO/09/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32178,7 +32200,8 @@
 		],
 		"title": "De kandidaat kan apparatuur bedienen, speciek: naaaimachine en strijkmachine.",
 		"id": "1085e4a0-d562-41c5-9010-f72def467f9f",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/11/1.1",
@@ -32357,7 +32380,7 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/DP/8/1.1",
+		"prefix": "K/DP/08/1.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32365,10 +32388,11 @@
 		],
 		"title": "De kandidaat kan voor een bepaalde doelgroep informatie verzamelen over dans-, acteer- en zangactiviteiten in de vrijetijd.",
 		"id": "009fa98d-c71a-4f52-94ac-aff59c1096e9",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/1.2",
+		"prefix": "K/DP/08/1.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32376,10 +32400,11 @@
 		],
 		"title": "De kandidaat kan verzamelde informatie over dans-, acteer- en zangactiviteiten in een aanbod verwerken en op aantrekkelijke wijze doelgericht presenteren.",
 		"id": "fbb8b561-3d3f-4016-b1f6-da2fc65a7d5a",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/1.3",
+		"prefix": "K/DP/08/1.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32387,10 +32412,11 @@
 		],
 		"title": "De kandidaat kan het aanbod onder de aandacht van de doelgroep brengen, onder andere door gebruik van moderne media.",
 		"id": "5f945b5a-07d6-4703-9a61-91945709da3c",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/2.1",
+		"prefix": "K/DP/08/2.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32398,10 +32424,11 @@
 		],
 		"title": "De kandidaat kan basale dans-, acteer- en zangactiviteiten op gemotiveerde wijze instuderen.",
 		"id": "ae00ea21-1feb-4a4d-bb94-b75183e6945d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/2.2",
+		"prefix": "K/DP/08/2.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32409,10 +32436,11 @@
 		],
 		"title": "De kandidaat kan basale dans-, acteer- en zangactiviteiten op energieke wijze tonen.",
 		"id": "a20948dd-dd5a-4dee-9316-fa5ad3e35e5d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/2.3",
+		"prefix": "K/DP/08/2.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32420,10 +32448,11 @@
 		],
 		"title": "De kandidaat kan stijlen in dans-, acteer- en zangactiviteiten herkennen, benoemen en verwerken in eigen activiteiten.",
 		"id": "7a72db3a-57a4-4c4c-94ae-997c2fe76fa7",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/2.4",
+		"prefix": "K/DP/08/2.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32431,10 +32460,11 @@
 		],
 		"title": "De kandidaat kan de opbouw van dans-, acteer- en zangactiviteiten herkennen en benoemen.",
 		"id": "1c14edd5-ffbc-430d-8396-459948ee05b0",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.1",
+		"prefix": "K/DP/08/3.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32442,10 +32472,11 @@
 		],
 		"title": "De kandidaat kan een bij de doelgroep passende dans-, acteer- of zangactiviteit kiezen.",
 		"id": "5499c0fc-2485-4111-9763-df265b79819a",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.2",
+		"prefix": "K/DP/08/3.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32453,10 +32484,11 @@
 		],
 		"title": "De kandidaat kan een bij de doelgroep passend thema kiezen voor de dans-, acteer- of zangactiviteit.",
 		"id": "a3d7ae6d-9fc5-4f38-98ad-50d93299ed78",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.3",
+		"prefix": "K/DP/08/3.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32464,10 +32496,11 @@
 		],
 		"title": "De kandidaat kan een planning maken voor voor de dans-, acteer- of zangactiviteit.",
 		"id": "99393a6d-8be7-43d0-b2c4-4d84bc01628a",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.4",
+		"prefix": "K/DP/08/3.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32475,10 +32508,11 @@
 		],
 		"title": "De kandidaat kan deelnemers binnen een doelgroep werven onder andere door gebruik van social media.",
 		"id": "b5b0d254-61a3-426e-a438-b0081f7fda98",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.5",
+		"prefix": "K/DP/08/3.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32486,10 +32520,11 @@
 		],
 		"title": "De kandidaat kan deelnemers informeren over de inhoud en de planning van de dans-, acteerof zangactiviteit.",
 		"id": "91e1bfd2-4563-4ce8-bd7d-dfc4f67159d7",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.6",
+		"prefix": "K/DP/08/3.6",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32497,10 +32532,11 @@
 		],
 		"title": "De kandidaat kan onder leiding de dans-, acteer- of zangactiviteit instuderen en uitvoeren.",
 		"id": "d90f06ff-6e57-4a9f-9b74-b62d4cf9cd14",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/3.7",
+		"prefix": "K/DP/08/3.7",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32508,10 +32544,11 @@
 		],
 		"title": "De kandidaat kan een evaluatie maken van de de dans-, acteer- of zangactiviteit.",
 		"id": "7caa1f07-5861-44bf-afce-048f321dd3a9",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/4.1",
+		"prefix": "K/DP/08/4.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32519,10 +32556,11 @@
 		],
 		"title": "De kandidaat kan aan de hand van instructies de praktijkruimte en de beschikbaarheid van de benodigde materialen controleren.",
 		"id": "8d3e1cbd-ff22-474d-b1f7-e9084d0523e3",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/4.2",
+		"prefix": "K/DP/08/4.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32530,10 +32568,11 @@
 		],
 		"title": "De kandidaat kan aan de hand van instructies de praktijkruimte en de gebruikte materialen verzorgd achterlaten.",
 		"id": "9e5ea7a4-b7b6-401c-9c20-dff66b89275f",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/5.1",
+		"prefix": "K/DP/08/5.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32541,10 +32580,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding uitleg geven over het doel en de planning van de dans-, acteer- of zangactiviteit.",
 		"id": "840ce560-f895-4491-af4b-f4666bc696c2",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/5.2",
+		"prefix": "K/DP/08/5.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32552,10 +32592,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding uitleg geven over de inhoud van de dans-, acteer- of zangactiviteit.",
 		"id": "191fb928-2db7-4f7c-aaeb-7ea137d068c6",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/5.3",
+		"prefix": "K/DP/08/5.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32563,10 +32604,11 @@
 		],
 		"title": "De kandidaat kan de dans-, acteer- of zangactiviteit voordoen en op energieke wijze meedoen.",
 		"id": "5480094d-e8bf-497f-8fd1-e4f524eddb18",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/5.4",
+		"prefix": "K/DP/08/5.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32574,10 +32616,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding, tijdens de oefening eenvoudige aanwijzingen geven aan deelnemers.",
 		"id": "3fcaf5f2-6921-405e-a9d8-abd8b033045e",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/5.5",
+		"prefix": "K/DP/08/5.5",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32585,10 +32628,11 @@
 		],
 		"title": "De kandidaat kan de deelnemers stimuleren en motiveren.",
 		"id": "83846bc7-d043-4a71-885d-0832875a9700",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/6.1",
+		"prefix": "K/DP/08/6.1",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32596,10 +32640,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding advies en informatie geven over factoren die van invloed zijn op de ontwikkeling van blessures, zoals kleding, schoeisel, vloergebruik, fysieke uitvoering en gedrag.",
 		"id": "7fdc4a70-d3eb-4d9c-9f71-b443d1585db7",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/6.2",
+		"prefix": "K/DP/08/6.2",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32607,10 +32652,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding advies geven over het voorkomen van blessures binnen dans-, acteer- en zangactiviteiten.",
 		"id": "7fd075cb-a300-4c2d-89f6-028246b5d60c",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/6.3",
+		"prefix": "K/DP/08/6.3",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32618,10 +32664,11 @@
 		],
 		"title": "De kandidaat kan onder begeleiding een warming-up en cooling down passend bij de dans-, acteer- of zangactiviteit op juiste wijze uitvoeren.",
 		"id": "7bea09b3-75f8-4485-8484-3b149e26aff6",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
-		"prefix": "K/DP/8/6.4",
+		"prefix": "K/DP/08/6.4",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -32629,7 +32676,8 @@
 		],
 		"title": "De kandidaat kan onder begeleiding assisteren bij een warming-up en cooling down passend bij de dans-, acteer- of zangactiviteit.",
 		"id": "be05712f-a5aa-448b-b3fd-bf3d01a17036",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/10/1.1",

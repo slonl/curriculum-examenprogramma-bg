@@ -1833,7 +1833,7 @@
 		"description": ""
 	},
 	{
-		"prefix": "K/BWI/1.26",
+		"prefix": "K/BWI/24",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"bb03e82d-20da-4f1a-a864-4803c23ec578"
 		],
@@ -1845,7 +1845,8 @@
 			"0eeb09e8-462e-46bb-8911-deb74c46e02a"
 		],
 		"title": "Meubelstofferen voor het vmbo",
-		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
+		"id": "2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+		"description": ""
 	},
 	{
 		"prefix": "K/BWI/23",
@@ -2047,7 +2048,7 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/EO/9",
+		"prefix": "K/EO/09",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"6ca2cffc-f6fb-48b5-9d58-6b27d84469fe"
 		],
@@ -2057,7 +2058,8 @@
 		],
 		"title": "Modetechniek",
 		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/11",
@@ -2076,7 +2078,7 @@
 		"unreleased": true
 	},
 	{
-		"prefix": "K/DP/8",
+		"prefix": "K/DP/08",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"83db302b-95f4-445a-af2a-df46f015ace4"
 		],
@@ -2090,7 +2092,8 @@
 		],
 		"title": "Dans-, acteer- en zangactiviteiten",
 		"id": "139ff387-dce5-4673-8ac4-65d13293ec3b",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/10",
@@ -2209,6 +2212,8 @@
 		],
 		"title": "Ontwerp duurzame comfortwoning",
 		"id": "5527e525-856b-4039-a4b0-bc2ecf223d70",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"deleted": 1
 	}
 ]

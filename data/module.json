@@ -79,9 +79,7 @@
 		"examenprogramma_bg_deeltaak_id": [
 			"7a6c5ce3-f9b6-4935-a604-718b2f0e90f7",
 			"a3e99f28-33af-4f5b-90b4-8c7017c89b69",
-			"967b7102-b843-4209-bcaa-72f8b3edc80a",
-			"e14cb970-203e-4d18-ac33-1fbefbac9efe",
-			"e8c1966e-5051-4d3d-a07c-9603fa01816e"
+			"967b7102-b843-4209-bcaa-72f8b3edc80a"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"84f72449-fe3d-4598-8755-20897dfc6788"
@@ -94,6 +92,10 @@
 		"description": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 2D en 3D / een product maken",
 		"examenprogramma_bg_moduletaak_id": [
 			"382d5ce4-6b20-4880-9d9b-190647a498c9"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"e8c1966e-5051-4d3d-a07c-9603fa01816e",
+			"e14cb970-203e-4d18-ac33-1fbefbac9efe"
 		]
 	},
 	{

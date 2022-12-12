@@ -2024,8 +2024,7 @@
 			"169d1361-b531-41d4-b6fb-4c4e6f63aa2d"
 		],
 		"title": "Wonen en design",
-		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44",
-		"unreleased": true
+		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44"
 	},
 	{
 		"prefix": "K/BWI/20",
@@ -2037,8 +2036,7 @@
 			"e49efc2a-deca-4af7-9b55-7e30432e86e6"
 		],
 		"title": "Ontwerp duurzame comfortwoning",
-		"id": "37269c2b-9acd-40ed-bd63-031875a69dcf",
-		"unreleased": true
+		"id": "37269c2b-9acd-40ed-bd63-031875a69dcf"
 	},
 	{
 		"prefix": "K/EO/11",
@@ -2050,8 +2048,7 @@
 			"61903ee1-df17-42dc-bc3f-d6e33af04f22"
 		],
 		"title": "Internationale handel",
-		"id": "ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
-		"unreleased": true
+		"id": "ed842786-08c2-4bd6-bba3-d4ad46a8cc58"
 	},
 	{
 		"prefix": "K/EO/09",
@@ -2064,7 +2061,6 @@
 		],
 		"title": "Modetechniek",
 		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
-		"unreleased": true,
 		"description": ""
 	},
 	{
@@ -2080,8 +2076,7 @@
 			"161aa6a9-162a-4b23-8b6d-9b4fbc103e32"
 		],
 		"title": "Acteren en zingen",
-		"id": "60203451-d476-4d35-b4c8-087ea6666a18",
-		"unreleased": true
+		"id": "60203451-d476-4d35-b4c8-087ea6666a18"
 	},
 	{
 		"prefix": "K/DP/08",
@@ -2098,7 +2093,6 @@
 		],
 		"title": "Dans-, acteer- en zangactiviteiten",
 		"id": "139ff387-dce5-4673-8ac4-65d13293ec3b",
-		"unreleased": true,
 		"description": ""
 	},
 	{
@@ -2113,8 +2107,7 @@
 			"b9f4c26a-c30c-45e2-98ec-01e4c47c8764"
 		],
 		"title": "Danstechniek",
-		"id": "94a1f8fe-5111-4dda-b94a-ca18c1a291a2",
-		"unreleased": true
+		"id": "94a1f8fe-5111-4dda-b94a-ca18c1a291a2"
 	},
 	{
 		"prefix": "K/DP/12",
@@ -2127,8 +2120,7 @@
 			"91abec27-5a30-448a-bab9-6310e2c6aceb"
 		],
 		"title": "Kunstvak informatie, creatie en presentatie",
-		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf",
-		"unreleased": true
+		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf"
 	},
 	{
 		"prefix": "K/DP/09",
@@ -2144,8 +2136,7 @@
 			"185a171f-db54-4eeb-ba69-432980784e82"
 		],
 		"title": "Talentvak acteren, zang en dans",
-		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44",
-		"unreleased": true
+		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44"
 	},
 	{
 		"description": "",
@@ -2158,8 +2149,7 @@
 			"8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5"
 		],
 		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
-		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
-		"unreleased": true
+		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d"
 	},
 	{
 		"prefix": "K/MET/13",
@@ -2172,8 +2162,7 @@
 			"66ce08ab-393b-4be1-82c8-412b78d35376"
 		],
 		"title": "Elektrische voertuigen",
-		"id": "361521b2-4a08-42b5-868a-d724e921d565",
-		"unreleased": true
+		"id": "361521b2-4a08-42b5-868a-d724e921d565"
 	},
 	{
 		"prefix": "K/MVI/13",
@@ -2187,8 +2176,7 @@
 			"83296234-7eec-4374-a4dd-5cd2a2b55977"
 		],
 		"title": "Innovatie en prototypen",
-		"id": "5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
-		"unreleased": true
+		"id": "5d42f3ce-e5c6-46d5-87d0-7158e4a1767f"
 	},
 	{
 		"description": "",
@@ -2204,22 +2192,6 @@
 			"a656d536-b134-4c87-bdf2-3f8fbd97b6d6"
 		],
 		"title": "Technologie binnen zorg en welzijn (dit keuzevak is een verdieping van de profielmodule mens en zorg)",
-		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7",
-		"unreleased": true
-	},
-	{
-		"prefix": "K/BWI/20",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"45e46b7c-d438-4166-9cb6-6b14cb6ec317"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"fe8bb8fc-e6e7-4718-841d-cb465bbd65f3",
-			"5f99f37b-b792-421b-b045-3dd87b81687e"
-		],
-		"title": "Ontwerp duurzame comfortwoning",
-		"id": "5527e525-856b-4039-a4b0-bc2ecf223d70",
-		"unreleased": true,
-		"description": "",
-		"deleted": 1
+		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7"
 	}
 ]

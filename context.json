@@ -119,7 +119,7 @@
 			"properties": {
 				"description": { "type": "string" },
 				"prefix": { "type": "string" },
-				"examenprograma_bg_moduletaak_id": {
+				"examenprogramma_bg_moduletaak_id": {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_bg_moduletaak" } }

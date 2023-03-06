@@ -2,12 +2,14 @@
 	{
 		"id": "2bf03b0a-4593-41fc-a558-b0b8605e6a4d",
 		"prefix": "PK/BWI/a-01",
-		"title": "De kandidaat kan de Nederlandse taal in opleidings- en beroepssituaties gebruiken",
+		"title": "De kandidaat kan de Nederlandse taal in opleidings- en beroepssituaties gebruiken;",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "fe71769a-57bd-434d-aa3b-f094c507404f",
@@ -167,7 +169,9 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": "Oriëntatie op de techniek"
 	},
 	{
 		"id": "6039b87a-b2b4-47b6-ac00-f3129152cd66",
@@ -177,7 +181,9 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": "Oriëntatie op de techniek"
 	},
 	{
 		"id": "dadd2494-22fc-413f-8c72-823f6b86a391",
@@ -33834,5 +33840,729 @@
 		],
 		"title": "De kandidaat kan een maquette samenstellen van duurzame materialen en nieuwe technologie.",
 		"id": "ffe94083-636a-45d1-88c0-665698ec3ccb"
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "e9f89047-833a-44cf-9bf1-49659a976467",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "28586e16-21c6-4761-9ae0-ab7a94c50dd1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "6cf98a1d-860d-4e0f-9590-d458c9fce433",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "4c933acd-1ef4-4ff1-aca0-e54a38916b27",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "16b2d466-eb42-4c34-a68c-f021d4f1a4ff",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "88e5481a-9753-462e-98ae-4c3859bb84ba",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "728e93bb-51f0-4729-b390-d1ab71f7b53a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "ef0fcc66-b68f-4a87-b2be-9a9889144c5b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "f00ce2bb-cc44-4d86-80ff-00bde17510cb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "d733db9d-dd87-41b8-8402-e9471d654471",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "28afc9a2-986c-419f-8f60-b07a01a497e5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "8f51a758-0681-473e-bc16-d5181a5ca62b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "23a08722-0b0f-448c-ad75-e5783f3c8feb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "f6114268-1d0e-458d-a2ad-79347a232204",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "243375a2-e84b-4952-a275-3441a7a6bbb6",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "6cc1603c-84a0-40c8-9855-cb5858227ebc",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "138d7c6d-d3b5-4f38-a79f-36c60213e07f",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "506da011-42a2-4d4f-bb57-1de3a597ab7e",
+		"unreleased": true
+	},
+	{
+		"description": "Oriëntatie op de techniek",
+		"prefix": "PK/BWI/b-3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie.",
+		"id": "d039de75-0fdb-4e8c-b41f-466348b89bcb",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de relaties tussen natuurkundige grootheden en de technische praktijk uitleggen en verklaren met name kracht, druk, lengte, oppervlakte, inhoud, omtrek, elektriciteit, energie, geluid, massa, gewicht, moment, snelheid en temperatuur.",
+		"id": "e30619d9-405e-4d32-bb01-37362010c414",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een meting van grootheden uitvoeren, verwerken en vastleggen.",
+		"id": "745aae18-e3c9-4efd-89ed-966157859837",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een (deel)systeem functies van onderdelen benoemen",
+		"id": "4ca53ef0-ffa3-4038-881a-3eecf12eebac",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing",
+		"id": "a84aeb14-07a5-4b3b-848d-26cd0e45f271",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-8",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes van het overbrengen van krachten en bewegingen uitleggen",
+		"id": "61d2728c-9382-45b4-8822-001ca34ab4f9",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-9",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes en werking van onderdelen uitleggen en demonstreren",
+		"id": "71003bdd-0834-4d20-bebc-b1c29f0ec8ad",
+		"unreleased": true
+	},
+	{
+		"description": "Voorbereiden",
+		"prefix": "PK/BWI/b-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan opbouw en werking van installaties en/ of constructies uitleggen en demonstreren",
+		"id": "23988b7e-00e6-43d3-a864-9af9b4b8e670",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een tekening lezen.",
+		"id": "16c33302-7fbc-464d-80d8-086ff592b058",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp maken van een product, systeem en proces.",
+		"id": "973b0ffc-f591-4f5e-a894-05b6ae3b7a3f",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een computer een technische tekening maken.",
+		"id": "f544bef3-63f5-4f7d-b4f1-8554c7ca184a",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan tijdens werkvoorbereiding en werkuitvoering schetsen en werktekeningen maken.",
+		"id": "06fb9f9d-d639-493c-a94e-b8f5a8d13b1d",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria bepalen voor de keuze van materialen en gereedschappen.",
+		"id": "011e48e8-4ccb-4b53-ae8a-03ec63589ebf",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria toepassen voor de kwaliteit en oplevering van een werkstuk, product, systeem en/ of dienst.",
+		"id": "8d9aac88-c4b6-4755-aba5-712865fea84f",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkwijze vaststellen en werken volgens procedures bij het uitvoeren van een opdracht.",
+		"id": "715f55df-2971-4b04-91b9-8653c8aae533",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem maken door basisbewerkingen met name aftekenen, afkorten, verspanen, verbinden, vervormen en afwerken uit te voeren.",
+		"id": "7adc185d-181a-4562-bb35-0be2bd8f1b5e",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden uitvoeren volgens de regels van integrale Kwaliteits-, Arbo- en Milieu (KAM)-zorg.",
+		"id": "fc9f4742-c229-49fd-8ca5-181951bdd34c",
+		"unreleased": true
+	},
+	{
+		"description": "Ontwerpen, maken en dienstverlenen",
+		"prefix": "PK/BWI/b-20",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem samenstellen.",
+		"id": "9bf01318-1ef3-48db-8073-bc63afc6eeef",
+		"unreleased": true
+	},
+	{
+		"description": "Conroleren en nazorg plegen",
+		"prefix": "PK/BWI/b-21",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product, systeem en/ of dienst toetsen en evalueren aan de hand van de geformuleerde criteria.",
+		"id": "bb5fc551-151e-45b4-b3e0-a5dc6921e1dc",
+		"unreleased": true
+	},
+	{
+		"description": "Conroleren en nazorg plegen",
+		"prefix": "PK/BWI/b-22",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem onderhouden, repareren, modificeren en optimaliseren.",
+		"id": "9e5e4f4f-8ea5-4a54-9f9f-31d40b650705",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "038b8850-3525-44cf-b1ef-38271a9a74e5",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "e7f0adb1-1d51-44da-83a3-71ea5db1d99e",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "0c39a0f2-5da7-41c2-91aa-8e5820cb470a",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "1033b3da-0459-4052-8819-364c2e4ba789",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/BWI/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "64798877-bb9f-4223-89f8-c77030cc6a4b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "bea9f3e4-e25b-445e-a917-d76e953fd9fa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het bouwproces beschrijven",
+		"id": "403a2d9d-3272-4ee8-bf4e-9a2ac3294f23",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan veilig werken en duurzaam bouwen in de bouw",
+		"id": "67e911ba-8106-40d9-be12-933cbed1eb88",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/01-04",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden uitvoeren voor de bouwvoorbereiding van een kleinschalig bouwproject",
+		"id": "76a2b486-02d2-450f-a048-b3b9ffb32449",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/03-01",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan stelwerkzaamheden voorbereiden",
+		"id": "2211f1bb-76c2-4639-8405-c22086f9aeda",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/03-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan buitenkozijnen voor raam en deur stellen in een spouwmuur",
+		"id": "5ccb1c54-bfb1-4651-82b4-4f24da5f6398",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan werkzaamheden voor een strokenfundering voorbereiden.",
+		"id": "802183e1-1a84-4fdd-b363-07a5b51c9622",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een bekisting voor een eenvoudige strokenfundering uitzetten en stellen en een PS-systeembekisting beschrijven.",
+		"id": "3db12819-eb38-4e4e-bb37-8acabfbc61db",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan doel en functie van isolatie beschrijven en de juiste soorten isolatiematerialen kiezen.",
+		"id": "09abb754-7420-4e90-8363-33456fcb9b62",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan isolatiematerialen in het opgaand werk plaatsen en verwerken.",
+		"id": "7482e51d-4b35-47da-8620-3ec444e7f7bc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/03/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan houtverbindingen maken volgens vastgestelde criteria",
+		"id": "428ce859-f2a5-491c-a369-3ed4004839c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/03/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan het product aan de hand van kwaliteitscriteria beoordelen",
+		"id": "07c0a11f-14a7-485d-96b9-3dc92d067382",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp tekenen met een 3D CAD-tekenprogramma",
+		"id": "2538e659-0d91-445d-b380-3c5df14fb2f8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/01-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp omzetten in werktekeningen",
+		"id": "0e4ff522-febd-4025-90a2-a46f3232b253",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp maken voor kleur, afwerking en decoratie van een interieurelement.",
+		"id": "27256043-3693-44ff-9a71-e8714ad3dff2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/02-02",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het ontwerp presenteren.",
+		"id": "d53cfbb8-2d66-475c-b3ac-a39da8e50015",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/04-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de werkzaamheden voorbereiden voor het voorbehandelen, afwerken en decoreren.",
+		"id": "97d94f43-5375-4cff-a624-af8fec306106",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/04-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk voorbehandelen, afwerken en decoreren met watergedragen verfproducten.",
+		"id": "5d2210a7-a665-4772-bac7-5068fa495ae7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/04-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan decoratieve figuren printen, plotten, snijplotten, pellen, plakken en monteren.",
+		"id": "0b03830a-93b7-4624-83cc-650f72273f92",
+		"unreleased": true
 	}
 ]

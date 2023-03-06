@@ -4189,22 +4189,26 @@
 		"prefix": "P/MET/01/02",
 		"title": "Werkzaamheden aan een smeersysteem uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"f29e54a1-fba4-4393-ae8d-fcb9817fba41",
-			"c6fef8af-36c6-4c64-8aac-33159b39dc6e",
-			"3d0d2674-6cfb-45cb-882c-a7f928273580",
-			"5bc06f6c-0601-4f36-be24-a17e7770738a"
-		]
+			"9823c12d-fa7a-4979-9860-ab38356702db",
+			"1e77f76c-69cb-4c03-823b-d78e87f25ece",
+			"44cfc7e2-275d-45bf-a7a0-780ef358b7c8",
+			"9b91490b-b588-4599-a10e-df82fba07337"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "92ff8cdf-5064-4c4f-be7b-9a158730cc1b",
 		"prefix": "P/MET/01/03",
 		"title": "Werkzaamheden aan een koelsysteem uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"971c2ff2-0f65-463c-a9d6-4960c5c9655a",
-			"2a73ba5d-039e-4f19-8786-9c375ad3abd8",
-			"715e5395-7f64-4b7f-aa66-728142d4f86a",
-			"ea7f3421-8e07-4673-9396-8e14de884099"
-		]
+			"231ff0dc-7a83-4456-8882-1eae6fe866cf",
+			"96633caa-a106-4935-a63e-acec6ec92c6e",
+			"849296c0-c706-49cd-80f3-a2cd4dc80426",
+			"ad4e57bd-e686-40e8-9403-6a9f4aa02452"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "a65c418c-fe19-4610-9145-bc1645e8f9b4",
@@ -4233,10 +4237,11 @@
 		"prefix": "P/MET/02/03",
 		"title": "Delen van de carrosserie inbouwen, uitbouwen en afstellen",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"d98acc2c-9950-4332-9c56-0f68165b2239",
-			"96974900-1a21-4124-aa11-6915207c5454",
-			"a23f45d6-f80f-4496-8015-3f85e12a781c"
-		]
+			"e51cf511-38cc-4ec7-9639-3e7da089e26a",
+			"8ac9a0d2-f119-4540-a557-8020361c667b"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "6d0b04be-91e7-45f0-b9e0-21da5b58bdf7",
@@ -4244,11 +4249,13 @@
 		"title": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"95dc7812-ca4b-425e-bbf6-160e814ccee3",
-			"1709a237-a863-49f2-a0a2-544b61ed9786",
-			"fdabcca1-bf64-41b0-a6e2-b869fdaa8c7b",
+			"7d31fa77-a02b-4639-9472-5304bb0c5860",
+			"0505d9e6-dfd9-4969-91b6-6187d1a0e186",
 			"1952648a-1f9e-4eac-9a64-6cf3eed31b62",
 			"608b0a09-5c0b-4e1a-8e63-deec58e6c80f"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "c53a3f52-fccb-443a-b2dc-06d794dd823a",
@@ -4265,10 +4272,12 @@
 		"prefix": "P/MET/03/03",
 		"title": "Comfort en veiligheidssysteem controleren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"1c4af9bb-5174-4b46-a4ba-d82b8fe54b1d",
+			"1cf30298-274d-44d1-9ee5-4ba6bbc6e12a",
 			"9b405b7b-e37e-4b1b-bd05-e9342455ca15",
 			"3a278682-bf78-444d-829a-fd900324c619"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "2293b1a3-9807-486c-af68-35573fb78151",
@@ -4285,11 +4294,13 @@
 		"prefix": "P/MET/04/01",
 		"title": "Een bedrijfsvoertuig veilig laden en lossen",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"91712cf6-7826-4bfa-8d8d-09ef03ab3f78",
+			"98fdbb22-4cbb-436b-b94c-7535ad758888",
 			"cd13d92b-23b5-47b0-b14b-6ac5df124b77",
 			"3a5bc252-e29f-43aa-9feb-a44e8bc430f2",
-			"a4e1a980-6fc6-4df5-a3cc-6d65d72f4919"
-		]
+			"c5085edf-deb8-4d38-8fcc-528013416f31"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "755afea2-f9ca-4d13-9407-2d08d3559b70",
@@ -4298,9 +4309,10 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3bce16a7-1990-4b11-bedd-687047a550f2",
 			"987cceca-abac-4a3a-a75d-7386d9ff6747",
-			"c69b5355-48ae-4f01-be84-9c9851d40485",
-			"b0a29ede-0ea4-450e-aba7-c0aa0483340b"
-		]
+			"a64817e2-e0f1-4023-a13c-be91baefe36f"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "6af04cc6-6c00-4ab3-a70a-be0b8ea439ef",
@@ -4308,8 +4320,10 @@
 		"title": "Een ritplanning en een routeplanning maken (nationaal en internationaal)",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b8d0b569-21d5-4898-9280-b6bee5a9d7b3",
-			"7ca66845-e362-4655-ad27-79c9e828b605"
-		]
+			"8c842cb8-b8fc-4b8b-b8f9-9acfdfc0902b"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "016683e6-5758-4248-8a47-41dac5c1989a",
@@ -8093,6 +8107,55 @@
 		],
 		"title": "In de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal.",
 		"id": "e0f21147-dfaa-4b28-b3a2-b756c757319d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ddb21ef8-028c-47f2-b7de-837140768ea3",
+			"6ae95567-48da-47e0-9fb0-53c80244d029"
+		],
+		"title": "Motormechanische delen meten.",
+		"id": "019084d0-a449-4f9a-af55-e19d18326d0b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"7c1156b9-ccc8-4ed5-a665-f4bf38eb47f6",
+			"8bb0620c-9671-4031-a7f6-e10eb35a6166",
+			"d9bb4d84-b351-4d3b-9712-48b4a474e0dd",
+			"9a5fb6a4-5e8e-4456-b90d-764ecc7336fe"
+		],
+		"title": "Wielophanging, veer- en stabilisatiesysteem controleren, beoordelen en vervangen.",
+		"id": "03808929-45d4-46eb-9e39-9a0dd869b00a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"167026dc-08fd-497c-be64-8cbf3c7f7c5d",
+			"b7845d00-ad5a-4a61-9222-6173628f1d7a",
+			"744a93ff-e3f9-4bdc-8c65-9343a6162684",
+			"32c0c6fb-d542-4bcc-bd7d-66a95e111cca"
+		],
+		"title": "Banden en wielen controleren, beoordelen, vervangen, repareren en balanceren",
+		"id": "449b4512-85c1-4f2e-9eb3-99f3f3efa324",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ebc07cb6-edaf-4da4-a865-3686428c77bf",
+			"bc2bff35-5502-4491-82f9-b251220f72b9",
+			"5b036ddf-f559-4f53-8172-d1cc8a14beda"
+		],
+		"title": "Verlichtings- en signaleringssystemen controleren, repareren en volgens eenvoudige schema’s aansluiten.",
+		"id": "787fbcbd-add6-4a6d-a8d1-4a043ed6cb76",
 		"unreleased": true
 	}
 ]

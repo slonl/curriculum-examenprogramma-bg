@@ -1401,13 +1401,14 @@
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/EO/10",
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "b8cc0dec-a7fc-41fb-b816-684b89a5bc74",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",

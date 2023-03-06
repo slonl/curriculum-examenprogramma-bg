@@ -2395,20 +2395,24 @@
 			"f756efe5-3b8f-485e-a0c9-3d6ebf1caffe",
 			"9aa1adfe-0406-4264-a489-df312eab09aa",
 			"1cd905d2-6293-43c1-95fa-40d86e5d7fe1",
-			"6f22bda8-52db-4212-ab54-8d86a6ccc83c",
+			"a37afb98-bd1b-49ea-8f2a-4835b4d84385",
 			"c8814275-e496-4d85-ba74-a2e02cfffcc1",
 			"024d8318-8562-4bae-8a95-0078bf146561",
 			"552d4993-ea04-4e31-be7f-7de96ef5840b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f2577c37-b357-4d05-8ea0-b7f82c1ea2b1",
 		"prefix": "P/HBR/01/03",
 		"title": "Een bijdrage leveren aan het uitvoeren van dagelijkse facilitaire werkzaamheden",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"3d0aa75f-a83f-4197-864c-bff8d399f9be",
+			"0de2c8b6-41a5-4d93-9dc7-1febcf03cb9f",
 			"5228c262-933b-41c2-bb17-e26711724329"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "cf5e08ca-dd33-456d-9f2c-f63f31d7b3b9",
@@ -2473,7 +2477,7 @@
 		"prefix": "P/HBR/04/01",
 		"title": "Een bijdrage leveren aan de uitvoering van recreatieve activiteiten",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"caf4839c-1559-4dfc-a401-c7f6b86dc18a",
+			"b3562a2d-bd72-4aec-a533-e413cb4d5d1a",
 			"ed425af5-2b26-4b2f-98e3-a1e8aedb9bb8",
 			"3365a633-0cb0-4329-9ba0-b85ba6043990",
 			"da4c792b-6d92-4b13-8e33-8dacc56fc074",
@@ -2484,7 +2488,9 @@
 			"54845fea-d93d-479c-956f-2b126d3efca9",
 			"b104ef0e-8147-4290-b96f-a064f1eff5c1",
 			"75eac4d9-4118-4fbb-bece-ab1c875dac05"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "7cb0b4a2-997a-4c85-b344-d6835ab7fc15",

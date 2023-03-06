@@ -363,13 +363,14 @@
 		"title": "Motorconditie testen",
 		"description": "Motormechanische delen meten en testen / werkzaamheden aan een smeersysteem uitvoeren / werkzaamheden aan een koelsysteem uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"7bdd4789-a742-4b65-957b-23f070be6076",
+			"019084d0-a449-4f9a-af55-e19d18326d0b",
 			"e6e93c67-a2a6-4194-9818-0f1debb082de",
 			"92ff8cdf-5064-4c4f-be7b-9a158730cc1b"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"e82d0ef1-cc19-4925-835a-6ceee59198cc"
-		]
+			"c375b82c-7a39-41c3-8e36-64c8d7636ae0"
+		],
+		"dirty": true
 	},
 	{
 		"id": "1c2b18f8-5936-4a9e-af39-7544b7628f53",
@@ -377,13 +378,14 @@
 		"title": "Wielophanging en carrosserie",
 		"description": "Wielophanging en veersysteem controleren, beoordelen en vervangen / banden en wielen controleren, vervangen, repareren en balanceren / delen van de carrosserie inbouwen, uitbouwen en afstellen",
 		"examenprogramma_bg_deeltaak_id": [
-			"a65c418c-fe19-4610-9145-bc1645e8f9b4",
-			"d53ef6f8-bd91-4e05-ab23-570f34419646",
+			"03808929-45d4-46eb-9e39-9a0dd869b00a",
+			"449b4512-85c1-4f2e-9eb3-99f3f3efa324",
 			"e78fa42f-3ce1-43c8-a628-c7aab7679b95"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"aa778769-1010-45ad-9147-a1247c548e75"
-		]
+			"15a64f51-26b1-47b9-ac45-771e4a446dcf"
+		],
+		"dirty": true
 	},
 	{
 		"id": "595d2047-1bf9-4303-9824-7956854f466c",
@@ -601,5 +603,34 @@
 			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
 		],
 		"dirty": true
+	},
+	{
+		"prefix": "P/MET/03",
+		"examenprogramma_bg_moduletaak_id": [
+			"e0b9c67c-badf-4b8b-a95e-3783627551b9"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"6d0b04be-91e7-45f0-b9e0-21da5b58bdf7",
+			"787fbcbd-add6-4a6d-a8d1-4a043ed6cb76",
+			"46abaf58-dfc8-4905-aab6-21c4dc0cd790",
+			"2293b1a3-9807-486c-af68-35573fb78151"
+		],
+		"title": "Verlichtings- en comfortsystemen",
+		"id": "3235ab1e-87e3-4512-b788-2557b6313d9e",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MET/04",
+		"examenprogramma_bg_moduletaak_id": [
+			"0809e552-7390-4b4c-bde0-1f4601c3a081"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b0585089-c86b-49df-971c-3f2f9c9877a4",
+			"755afea2-f9ca-4d13-9407-2d08d3559b70",
+			"6af04cc6-6c00-4ab3-a70a-be0b8ea439ef"
+		],
+		"title": "Transport",
+		"id": "da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
+		"unreleased": true
 	}
 ]

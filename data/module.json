@@ -426,14 +426,15 @@
 		"title": "Ontwerpen en maken",
 		"description": "Een ontwerp van een product maken met behulp van 2D en 3D CAD-software en de uitvoering voorbereiden / een ontworpen product produceren / een ontworpen schakeling beproeven / onderdelen uit het ontwerp samenstellen, monteren en aansluiten",
 		"examenprogramma_bg_deeltaak_id": [
-			"828c5635-417b-43ac-baf9-5460432e86f8",
+			"038684f0-7e47-4821-9daf-367ff6aa4725",
 			"a22bb839-fa17-4bd6-b2f6-fd1d6787b4c2",
 			"460c61da-027e-4bd2-a165-e50d138409a5",
 			"f8ff42b5-a759-4a35-a49c-4fdb068e691c"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"5385e818-83b5-4ef1-bb7d-46bac98f58db"
-		]
+			"973a4a79-47d0-448e-9b8f-de1a30ffc60c"
+		],
+		"dirty": true
 	},
 	{
 		"id": "f983412c-13a0-4969-9c0d-507ec1808778",
@@ -446,7 +447,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"3c52c8e1-58d8-4e9e-8c23-8c794b2978c9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "98a808b6-5772-4c56-ad69-974025964e75",
@@ -460,7 +462,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"fb33e768-b097-49e6-be8c-9c32d6786147"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "212b4ac9-57c5-40b9-af5a-0b5782e56eb5",
@@ -468,12 +471,13 @@
 		"title": "Installeren en monteren",
 		"description": "Een sanitaire installatie aanleggen / een elektrische huisinstallatie aanleggen",
 		"examenprogramma_bg_deeltaak_id": [
-			"1b805d78-b413-4f0b-934b-5c0c494ba744",
-			"6f319aae-c538-4306-ba8a-16c5589acc68"
+			"72599967-50af-405a-8d79-0ffbdd1c2e29",
+			"f821b7f4-93ef-4494-a903-1894418d8ba0"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"84ed7d25-99c9-4521-96e4-5fca44780d99"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "5c6a2462-e384-4f2b-9ff1-48238fd501c4",

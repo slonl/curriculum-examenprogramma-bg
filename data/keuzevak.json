@@ -1789,7 +1789,7 @@
 		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
 	},
 	{
-		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
 		"prefix": "K/GR/15",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"9d22d163-e54b-4185-b870-62daefeb5ba8"
@@ -1801,7 +1801,8 @@
 			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
 		],
 		"title": "Visstandbeheer en sportvisserij",
-		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
+		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14",
+		"dirty": true
 	},
 	{
 		"prefix": "K/BWI/22",

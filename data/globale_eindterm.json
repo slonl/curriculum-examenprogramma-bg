@@ -35494,5 +35494,333 @@
 		"title": "De kandidaat kan door middel van onderzoek aantonen of water veilig is voor gebruik door planten en dieren",
 		"id": "bb3c1dbf-17aa-4491-a405-ca9c3923ac91",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "5c21fcc6-4164-4f91-a85a-9363c5da7790",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "ec35f505-0fa8-4892-9f8e-38988deeb64c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "39334b48-fdbb-45fa-9946-aabea1896094",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "3df41534-3801-433c-b857-5594dc252146",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "640d6760-a58b-43f4-8970-10f007f51187",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "6babc1c2-c17d-49a5-ab8d-7fd2b8902f2b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "bebc03a6-14f5-4b07-a6ee-65b282fe63f4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "d8a2162a-d153-4736-ad7f-63eabd983e82",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "accd33be-a6b8-4f6f-b2a4-5fc81772d1ac",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "cfdc4003-3a23-4032-8845-8bf59515890d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "5afb0155-a71d-468b-90b3-5856cf769dba",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "95756626-e7f8-44ef-ac73-4d5fa6e405e3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "107d2534-9dd4-4099-9b69-43604763745a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "8e5b65fd-6131-4f17-aec8-c3fd6b2da35f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "cc3f5044-eca1-44ed-a419-a17bb7453802",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "216464df-b9e1-4101-94be-a4f420961be5",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "0091f991-c150-4414-a559-1b577509eaf9",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "1b987da3-74b2-4360-bd4a-18dde448d5cf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/b-6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan innovatie: inspelen op trends en ontwikkelingen op het gebied van smaak, creatie en duurzaamheid.",
+		"id": "7a6e972f-e39d-4411-a77e-b76d6770f94f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "e173d0d2-c04b-477d-bd55-0c3150ff58e4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "c11da335-3bab-424c-8fa9-75de6526b4a0",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "73a26a47-b6e6-43bc-960b-f5704de2c3ea",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "5d5d9a34-0887-4b5a-91ff-03e6e19bd64c",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "67ef2219-30fe-424d-a9df-19e07ee3e212",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/HBR/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "08f2eaf6-6c8d-4852-832b-3965362552ac",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/HBR/01/02-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een menu en drankenkaart maken",
+		"id": "a37afb98-bd1b-49ea-8f2a-4835b4d84385",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/HBR/01/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan apparatuur, gereedschappen en machines in de gastenruimtes schoonmaken en onderhouden",
+		"id": "0de2c8b6-41a5-4d93-9dc7-1febcf03cb9f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/HBR/04/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan op (specifieke) belangstelling voor recreatie en ontspanningsmogelijkheden voor gasten inspelen.",
+		"id": "b3562a2d-bd72-4aec-a533-e413cb4d5d1a",
+		"unreleased": true
 	}
 ]

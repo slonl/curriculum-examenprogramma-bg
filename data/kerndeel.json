@@ -162,9 +162,15 @@
 		"prefix": "PK/EO/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"cd38b582-38d8-4669-9a6e-51fad5dee3d7",
-			"f8d79300-35f0-4fea-8be9-1bde874b47e6"
-		]
+			"bce198cb-4171-40c7-ba8a-3c310264aff7",
+			"4d1a77e0-0ac3-4b92-85f2-6e10e068aaf2",
+			"3ff22afd-6b4a-483a-806c-48e776cb3466",
+			"c02e27e1-bb08-46da-8dbe-2f3de7066e94",
+			"76711712-5bae-4aab-b76b-5962ad71061f",
+			"d57efa17-c88e-486c-b02a-72634605bbac"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "b6b00857-5275-4d7a-bcc0-5efbe9503565",
@@ -635,6 +641,34 @@
 		],
 		"title": "Algemene kennis en vaardigheden",
 		"id": "9cd0f2b6-1d76-4606-8112-ae90f4b7006c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b019ad3c-edf5-4fb6-8a58-f4b88fc54395",
+			"645e0bba-4538-4ec1-9bf1-aad65be26d3a",
+			"35086ef6-09d4-4ec8-bf31-2081988fea85",
+			"83f92dc5-2930-4d54-ac4f-7e47689c7f27",
+			"e4477492-d64c-4bde-8b2f-b7a96e448a40",
+			"04035d6b-a754-4578-86ae-7870b189d8d0",
+			"c1e56140-b4b2-40ca-8c4f-876cf85673da",
+			"e253e847-1b59-4b10-890c-7873386105ff",
+			"feb34773-0501-470e-8a2f-e5d83bcc84cb",
+			"b1e5b5cb-203b-4790-a716-262877b78a03",
+			"38d0d837-651f-4986-800d-6011af9f3440",
+			"2ce04a47-71f7-4dbf-bf0c-1aa7d13d43f0",
+			"34ef46cd-0d3b-47bb-8b9d-71d3b96c6334",
+			"e9fecd93-90d4-48ef-bdb5-a7c26dad829b",
+			"0af31cdc-b319-439e-ac2b-1cf43f79ecf5",
+			"32e6a018-5b94-42c0-9753-9b138548c300",
+			"cf210866-d54a-4e0c-afca-da7d5a26b35c",
+			"d4673dcb-3dfd-4209-93bb-f44b5458c768",
+			"35d7ceb9-0915-4455-aa26-50b9805cdbac"
+		],
+		"title": "Algemene kennis en vaardigheden",
+		"id": "816d7ced-1b19-427e-8506-c4d1ecbffd59",
 		"unreleased": true
 	}
 ]

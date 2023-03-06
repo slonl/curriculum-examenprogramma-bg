@@ -1749,13 +1749,14 @@
 		"prefix": "P/GR/03/01",
 		"title": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"3b2dc922-76cb-40ac-8c28-38cd78609135",
+			"ed1588a7-7be5-4039-b2fc-87c7b7231825",
 			"8f377457-5c8a-414f-9405-95d53057c3f3",
 			"1926ebac-9ba5-477b-a695-8a5f3d54e28b",
 			"3d1d0d1c-7205-4135-bace-eb3287eae20a",
 			"81fa8ec2-a705-4009-8a0d-44e1ef8b57e4"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "fcfed1e1-6c84-4319-9539-0c8bd43ed520",
@@ -1779,9 +1780,10 @@
 			"08c6b8a6-3ef6-4254-8971-ebb609599641",
 			"178c6317-edb1-4d88-97a8-0422cef0cccd",
 			"ae95a7bc-6ae9-4503-8012-8ec8f3b68e81",
-			"2f68c25a-3310-40f9-a066-ff0300757299"
+			"bb3c1dbf-17aa-4491-a405-ca9c3923ac91"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "d6ea3664-bf83-4078-af70-2d9eb42bface",
@@ -8072,6 +8074,19 @@
 		],
 		"title": "Een film maken.",
 		"id": "c14928e7-6d50-4acf-8cb7-7dce8fb1e2c6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/GR/02/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"485f1a7d-15b4-427a-8a1d-8a817aeb63a1",
+			"e6913e24-9cd7-4f0b-9f00-9029ad97f29e",
+			"b0b7b206-190f-4c45-ba1a-b33f72b11ac8",
+			"9301c086-2a41-4b9d-8e21-b4c549486870"
+		],
+		"title": "In de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal.",
+		"id": "e0f21147-dfaa-4b28-b3a2-b756c757319d",
 		"unreleased": true
 	}
 ]

@@ -19392,204 +19392,243 @@
 	},
 	{
 		"id": "394057a2-b7c5-4031-bb88-6503a4034057",
-		"prefix": "PK/MET/b-4",
-		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie;Voorbereiden",
+		"prefix": "PK/MET/b-3",
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie",
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "d0eb1207-ecf8-4412-8bc8-a119fbcf3169",
-		"prefix": "PK/MET/b-5",
+		"prefix": "PK/MET/b-4",
 		"title": "De kandidaat kan de relaties tussen natuurkundige grootheden en de technische praktijk uitleggen en verklaren met name kracht, druk, lengte, oppervlakte, inhoud, omtrek, elektriciteit, energie, geluid, massa, gewicht, moment, snelheid en temperatuur",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "0fb3eadb-7398-48b3-a43a-ed7e4d7806ce",
-		"prefix": "PK/MET/b-6",
+		"prefix": "PK/MET/b-5",
 		"title": "De kandidaat kan een meting van grootheden uitvoeren, verwerken en vastleggen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "1f134c3f-b9ad-4850-817e-51b68b8e30ad",
-		"prefix": "PK/MET/b-7",
+		"prefix": "PK/MET/b-6",
 		"title": "De kandidaat kan van een (deel)systeem functies van onderdelen benoemen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "c09bdb23-1e75-4b23-89a9-e7dfdcf67e08",
-		"prefix": "PK/MET/b-8",
+		"prefix": "PK/MET/b-7",
 		"title": "De kandidaat kan materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "49aaa553-05ae-4a6e-bbbc-59f6430df3c5",
-		"prefix": "PK/MET/b-9",
+		"prefix": "PK/MET/b-8",
 		"title": "De kandidaat kan technische principes van het overbrengen van krachten en bewegingen uitleggen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "2b6a42b3-41a1-4f5d-9244-40866ef101f8",
-		"prefix": "PK/MET/b-10",
+		"prefix": "PK/MET/b-9",
 		"title": "De kandidaat kan technische principes en werking van onderdelen uitleggen en demonstreren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "5b358c70-2c0e-4097-90a2-6fbe133b6cb0",
-		"prefix": "PK/MET/b-11",
+		"prefix": "PK/MET/b-10",
 		"title": "De kandidaat kan opbouw en werking van installaties en/ of constructies uitleggen en demonstreren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "76196a79-724b-4ef4-ba4f-c17745b04215",
-		"prefix": "PK/MET/b-12",
+		"prefix": "PK/MET/b-11",
 		"title": "De kandidaat kan een tekening lezen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "3d80296a-d7c1-4036-ad85-29e7673b0e18",
-		"prefix": "PK/MET/b-13",
+		"prefix": "PK/MET/b-12",
 		"title": "De kandidaat kan een ontwerp maken van een product, systeem en proces",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f259bea0-64ce-4f00-84fc-2e85e8111e94",
-		"prefix": "PK/MET/b-14",
+		"prefix": "PK/MET/b-13",
 		"title": "De kandidaat kan met behulp van een computer een technische tekening maken",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f88b82c7-48e1-4a2c-8fb9-c0d038f07597",
-		"prefix": "PK/MET/b-15",
+		"prefix": "PK/MET/b-14",
 		"title": "De kandidaat kan tijdens werkvoorbereiding en werkuitvoering schetsen en werktekeningen maken",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "4282faba-82d7-47f8-9d30-578b29591f9e",
-		"prefix": "PK/MET/b-16",
+		"prefix": "PK/MET/b-15",
 		"title": "De kandidaat kan criteria bepalen voor de keuze van materialen en gereedschappen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "aadb751e-3150-4e90-b5b5-4cf52b90f8a5",
-		"prefix": "PK/MET/b-17",
+		"prefix": "PK/MET/b-16",
 		"title": "De kandidaat kan criteria toepassen voor de kwaliteit en oplevering van een werkstuk, product, systeem en/ of dienst",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f29d71a6-12bd-4bf1-bb66-98285ff2336a",
-		"prefix": "PK/MET/b-18",
+		"prefix": "PK/MET/b-17",
 		"title": "De kandidaat kan een werkwijze vaststellen en werken volgens procedures bij het uitvoeren van een opdracht",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "27ee09cc-1069-411a-b9de-47d62ae7004a",
-		"prefix": "PK/MET/b-19",
+		"prefix": "PK/MET/b-18",
 		"title": "De kandidaat kan een werkstuk, product en systeem maken door basisbewerkingen met name aftekenen, afkorten, verspanen, verbinden, vervormen en afwerken uit te voeren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "db4ca85a-e89f-4b50-8b90-b24620f23df3",
-		"prefix": "PK/MET/b-20",
+		"prefix": "PK/MET/b-19",
 		"title": "De kandidaat kan werkzaamheden uitvoeren volgens de regels van integrale Kwaliteits-, Arbo- en Milieu (KAM)-zorg",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "53a5d6cf-b94b-4cda-b845-f7c66f8fe898",
-		"prefix": "PK/MET/b-21",
+		"prefix": "PK/MET/b-20",
 		"title": "De kandidaat kan een werkstuk, product en systeem samenstellen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "69bef5ce-9f46-4f52-9265-1c7dd673b0e6",
-		"prefix": "PK/MET/b-22",
+		"prefix": "PK/MET/b-21",
 		"title": "De kandidaat kan een werkstuk, product, systeem en/ of dienst toetsen en evalueren aan de hand van de geformuleerde criteria",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f4cfad3f-c1c3-424e-aea4-af7ca4d05da7",
-		"prefix": "PK/MET/b-23",
+		"prefix": "PK/MET/b-22",
 		"title": "De kandidaat kan een werkstuk, product en systeem onderhouden, repareren, modificeren en optimaliseren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "855b19f0-4919-4981-a466-1d4722acaad3",
@@ -19919,11 +19958,13 @@
 	{
 		"id": "3a278682-bf78-444d-829a-fd900324c619",
 		"prefix": "P/MET/03/03-03",
-		"title": "De kandidaat kan veiligheidssystemen controleren",
+		"title": "De kandidaat kan de veiligheidssystemen controleren",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "bb49d333-3830-4520-8131-c47d008eb48b",
@@ -35821,6 +35862,586 @@
 		],
 		"title": "De kandidaat kan op (specifieke) belangstelling voor recreatie en ontspanningsmogelijkheden voor gasten inspelen.",
 		"id": "b3562a2d-bd72-4aec-a533-e413cb4d5d1a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "69aa3d58-3948-466a-b9fc-372e0e4dbdc3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "b3423fb4-72d6-4b4e-be94-94e547e68488",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "cd20f20b-5ada-46ae-8719-1046aa3b083d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "999ebe37-9fa7-4bc5-a4ed-8340bc90b7db",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "c0aa2cfb-b43e-487a-9339-6228cb3c1637",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "e3b9eaee-0ce4-43df-a4d4-6c439e93a353",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "9443fada-4f59-402e-925d-7b1de5d327c1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "88632f18-7306-43e0-93c1-0171d75e53fa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "a52c82d9-90aa-446b-973a-bbf9671fc321",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "e7f8aaab-79ed-4f36-b1dc-9785ca2605d6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "2cffc1c5-b500-4149-9999-3740af31a8de",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "a37e2dcf-8022-4851-843a-f6fc69bc9799",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "48d63241-9a14-4a95-8374-19f548dfd9c4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "906de7f9-194e-4031-a15b-80389bfdc1c4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "86cd373f-38f7-4667-bad6-a025636ac496",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "b8f1a854-904d-460a-a668-840d6f9a1030",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "c23be6dc-ab83-4c39-a8f7-b111b33b5cf1",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "c899a804-c995-4d11-93ef-599cf83606f1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "f6941d16-aab3-4832-a6a6-5d3745d2b927",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MET/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "6496b322-4c30-4323-a6e2-89323a6cdc0c",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "fdf3c8c0-a5cc-4a9e-b149-be8665a79faa",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "1a803621-ff0c-43f4-9683-283e457fd468",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "1b9530db-1f10-4abc-9a3a-5c4a7524bfcc",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MET/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "619b6636-74ff-4240-bdec-2b48217d2398",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan motormechanische delen meten en meetgegevens beoordelen",
+		"id": "ddb21ef8-028c-47f2-b7de-837140768ea3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan compressie meten van een aandrijfmotor.",
+		"id": "6ae95567-48da-47e0-9fb0-53c80244d029",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan opbouw en werking van een smeersysteem omschrijven.",
+		"id": "9823c12d-fa7a-4979-9860-ab38356702db",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan relevante metingen en tests uitvoeren aan een smeersysteem.",
+		"id": "1e77f76c-69cb-4c03-823b-d78e87f25ece",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een smeersysteem controleren, de vloeistof op niveau brengen en verersen.",
+		"id": "44cfc7e2-275d-45bf-a7a0-780ef358b7c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen van een smeersysteem controleren, testen en vervangen.",
+		"id": "9b91490b-b588-4599-a10e-df82fba07337",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan opbouw en werking van een koelsysteem omschrijven.",
+		"id": "231ff0dc-7a83-4456-8882-1eae6fe866cf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan relevante metingen en tests uitvoeren aan een koelsysteem.",
+		"id": "96633caa-a106-4935-a63e-acec6ec92c6e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/03-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een koelsysteem controleren, de vloeistof op niveau brengen en verversen.",
+		"id": "849296c0-c706-49cd-80f3-a2cd4dc80426",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/03-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen van een koelsysteem testen en vervangen.",
+		"id": "ad4e57bd-e686-40e8-9403-6a9f4aa02452",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan onderdelen van de wielophanging controleren, beoordelen en vervangen.",
+		"id": "7c1156b9-ccc8-4ed5-a665-f4bf38eb47f6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan onderdelen van het veersysteem controleren, beoordelen en vervangen.",
+		"id": "8bb0620c-9671-4031-a7f6-e10eb35a6166",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan onderdelen van de schokdemping controleren, beoordelen en de schokdempers vervangen.",
+		"id": "d9bb4d84-b351-4d3b-9712-48b4a474e0dd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan onderdelen van het stabilisatiesysteem controleren, stabilisatieonderdelen beoordelen en vervangen.",
+		"id": "9a5fb6a4-5e8e-4456-b90d-764ecc7336fe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan banden controleren, beoordelen en vervangen.",
+		"id": "167026dc-08fd-497c-be64-8cbf3c7f7c5d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan de combinatie van band en velg balanceren.",
+		"id": "32c0c6fb-d542-4bcc-bd7d-66a95e111cca",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan delen van een carrosserie verwijderen en monteren.",
+		"id": "e51cf511-38cc-4ec7-9639-3e7da089e26a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan niet-dragende geschroefde delen van een carrosserie afstellen.",
+		"id": "8ac9a0d2-f119-4540-a557-8020361c667b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met meetapparatuur omgaan en heeft kennis van accu-laadapparatuur.",
+		"id": "7d31fa77-a02b-4639-9472-5304bb0c5860",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/01-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een schakeling met relais maken en metingen uitvoeren.",
+		"id": "0505d9e6-dfd9-4969-91b6-6187d1a0e186",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de verlichting en signalering aan een voertuig controleren, repareren en afstellen.",
+		"id": "5b036ddf-f559-4f53-8172-d1cc8a14beda",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan ruitenwisserinstallatie en het reinigingssyteem controleren",
+		"id": "1cf30298-274d-44d1-9ee5-4ba6bbc6e12a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/04/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een laadplan maken.",
+		"id": "98fdbb22-4cbb-436b-b94c-7535ad758888",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/04/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan de goederen lossen, documenten controleren, de goederen klaarzetten voor inslag.",
+		"id": "c5085edf-deb8-4d38-8fcc-528013416f31",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/04/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan de lading bevestiging en de benodigde documenten controleren.",
+		"id": "a64817e2-e0f1-4023-a13c-be91baefe36f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/04/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een routeplanning maken.",
+		"id": "8c842cb8-b8fc-4b8b-b8f9-9acfdfc0902b",
 		"unreleased": true
 	}
 ]

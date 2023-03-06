@@ -437,5 +437,17 @@
 		"title": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de administratie van de (handels)onderneming bijhouden",
 		"id": "8787160c-358e-41ba-bc17-5b286ca24fa4",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/GR/02/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Voedingsmiddelen uit de groene sector adequaat en verantwoord, hanteren, verwerken, bereiden en bewaren / in de groene sector geproduceerde producten, sorteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal / een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
+		"id": "52838e62-859c-4fbd-9b21-1272d8a31e23",
+		"unreleased": true
 	}
 ]

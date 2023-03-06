@@ -380,5 +380,51 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Een opdracht bespreken met de opdrachtgever, onderzoek doen naar de te organiseren activiteit en uitkomsten presenteren aan de opdrachtgever / een activiteit organiseren /  werkzaamheden rondom hospitality uitvoeren / facilitaire werkzaamheden uitvoeren",
+		"id": "a917c221-d10e-4e69-a9d8-1c7c998ec459",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/02/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "Verschillende manieren van communicatie en communicatiemiddelen (her)kennen, benoemen en professioneel toepassen / een product en dienst presenteren, promoten en verkopen / doelgericht informatie verstrekken en instructies geven",
+		"id": "89fa6193-8f25-49bb-a40c-1b3a74203ebb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/03/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 3D / een product maken",
+		"id": "684ae0ae-b77d-4296-94a4-ce1271af7f3c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Aan de hand van een programma van eisen een digitaal ontwerp maken / een film maken / een website ontwerpen en maken.",
+		"id": "3afbae11-aa56-404c-a953-f8a9af6abfb2",
+		"unreleased": true
 	}
 ]

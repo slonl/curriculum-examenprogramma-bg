@@ -16491,152 +16491,182 @@
 	{
 		"id": "1335b2e4-0e92-4076-95f3-35c97b4d6b7a",
 		"prefix": "PK/MVI/a-02",
-		"title": "De kandidaat kan informatie op allerlei manieren overzichtelijk en efficiënt verzamelen, ordenen en weergeven",
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "54bf262e-65d6-41bd-80be-0f1fd7408e64",
 		"prefix": "PK/MVI/a-03",
-		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren",
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "22b46d94-40f3-47be-b82c-187a193822e8",
 		"prefix": "PK/MVI/a-04",
-		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie",
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "2e4c0178-2546-4d36-a76f-67a669e9d600",
 		"prefix": "PK/MVI/a-05",
-		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit",
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "4be2a58b-4ff2-472e-831c-73de83cdf31c",
 		"prefix": "PK/MVI/a-06",
-		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product",
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "1278ddaf-6fca-4975-82a5-225a9d1be26b",
 		"prefix": "PK/MVI/a-07",
-		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk",
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "10f0ab7d-d6a0-4c02-a260-d8fabceeeefb",
 		"prefix": "PK/MVI/a-08",
-		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden",
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "58de12ac-3e71-495c-9f02-09b24b7ba809",
 		"prefix": "PK/MVI/a-09",
-		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren",
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "16810c30-41e1-43ea-af4a-597dda3ea701",
 		"prefix": "PK/MVI/a-10",
-		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen",
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "6755a6c8-2209-46fb-afcf-b5176fad6c69",
 		"prefix": "PK/MVI/a-11",
-		"title": "De kandidaat kan professionele hulpmiddelen gebruiken en hun werking uitleggen",
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "1f2596fe-9ffe-4ed9-b667-45583d52b2b0",
 		"prefix": "PK/MVI/a-12",
-		"title": "De kandidaat kan hygiënisch werken",
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "3966e1cb-ed68-46d4-a109-13876e0b464e",
 		"prefix": "PK/MVI/a-13",
-		"title": "De kandidaat kan milieubewust handelen",
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "1cecb6be-30a8-4d44-8e86-25111888ab35",
 		"prefix": "PK/MVI/a-14",
-		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur",
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "91560caf-000c-4631-8b31-483fc9e41c33",
 		"prefix": "PK/MVI/a-15",
-		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de branche",
+		"title": "De kandidaat kan hygiënisch werken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "1009f246-083e-46b1-8537-2edbf0b6b735",
 		"prefix": "PK/MVI/a-16",
-		"title": "De kandidaat kan in een (gesimuleerde) beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht",
+		"title": "De kandidaat kan milieubewust handelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "5f1dc7d5-6740-41a1-a603-cacc707c8c95",
@@ -36442,6 +36472,633 @@
 		],
 		"title": "De kandidaat kan een routeplanning maken.",
 		"id": "8c842cb8-b8fc-4b8b-b8f9-9acfdfc0902b",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "3340bf93-e088-40c4-8c50-c15110529f9d",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "6ab80bf9-fb70-4019-86e8-15a362d9610b",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "d6e50943-2a9c-475d-8a72-0e7b8785c8e5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie.",
+		"id": "17912d15-5276-47d9-925b-c225637c92cd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de relaties tussen natuurkundige grootheden en de technische praktijk uitleggen en verklaren met name kracht, druk, lengte, oppervlakte, inhoud, omtrek, elektriciteit, energie, geluid, massa, gewicht, moment, snelheid en temperatuur.",
+		"id": "96c31723-f9e0-4892-8aec-3df4fe6a0919",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een meting van grootheden uitvoeren, verwerken en vastleggen.",
+		"id": "52a51944-da58-4430-a74c-a547fb25498a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een (deel)systeem functies van onderdelen benoemen.",
+		"id": "90f8ad85-e0f6-4d7f-8483-3c18f0bec51f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-7",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing.",
+		"id": "4ff23520-590a-4113-a0f9-51838b47a855",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-8",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes van het overbrengen van krachten en bewegingen uitleggen.",
+		"id": "8fd92011-d706-4b2f-a34f-feefc65085a3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-9",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes en werking van onderdelen uitleggen en demonstreren.",
+		"id": "73b983f5-91ae-4a1e-904b-48037e0787a2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan opbouw en werking van installaties en/ of constructies uitleggen en demonstreren.",
+		"id": "a8a1dc75-cbd1-4b32-b97f-9e9b73b48a90",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een tekening lezen.",
+		"id": "00e34c8b-8749-46d8-adf9-a0e57b902b00",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp maken van een product, systeem en proces.",
+		"id": "0c598463-3be1-47fe-bbeb-24606a662cab",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een computer een technische tekening maken.",
+		"id": "98151907-04a3-412e-9669-57c29cec47a2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan tijdens werkvoorbereiding en werkuitvoering schetsen en werktekeningen maken.",
+		"id": "fc493b9e-ec20-434a-89c1-cf10005e90a6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria bepalen voor de keuze van materialen en gereedschappen.",
+		"id": "d4a7f0b7-8b7d-49d4-aac3-5396fd0f75bc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria toepassen voor de kwaliteit en oplevering van een werkstuk, product, systeem en/ of dienst.",
+		"id": "e2ca1f5b-d1e3-450f-b262-8a2d46e72b81",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkwijze vaststellen en werken volgens procedures bij het uitvoeren van een opdracht.",
+		"id": "f848ded0-2afe-4144-be1c-72ab296857fb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem maken door basisbewerkingen met name aftekenen, afkorten, verspanen, verbinden, vervormen en afwerken uit te voeren.",
+		"id": "98f2311c-5d45-4549-ae32-fc623704c230",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden uitvoeren volgens de regels van integrale Kwaliteits-, Arbo- en Milieu (KAM)-zorg.",
+		"id": "b9c4bc0e-dad6-4c53-a319-5ccc38715d03",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-20",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem samenstellen.",
+		"id": "8e135408-0b44-440e-8d5c-1460b7ae7735",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-21",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product, systeem en/ of dienst toetsen en evalueren aan de hand van de geformuleerde criteria.",
+		"id": "af55e982-c63b-4754-a822-56823ac7874b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/b-22",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem onderhouden, repareren, modificeren en optimaliseren.",
+		"id": "4fb1726e-b712-427e-94d4-073a11e0ff4c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "d5024f1c-3b05-46cd-babf-572c16f679ea",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "8d889c80-8d36-4e2c-a8a5-9f38a16152c4",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "573473d7-f018-476b-8430-329e18da5df9",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "3d5db8f9-431a-4f21-8d58-37beb9459043",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "a57d462f-4f48-4d4b-bc49-63ba9f8a9dbe",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/MVI/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "68518cb0-e301-47ff-83d4-c36e831dbc50",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/01/05-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan digitale beelden maken.",
+		"id": "5a4c5c13-dbe8-462e-a820-506910116ecf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/01/06-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan gemonteerd materiaal exporteren of publiceren",
+		"id": "c8653a42-eedb-4e7a-92d3-6ab14a709394",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/02/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan de nabewerking uitvoeren",
+		"id": "00ecaf2f-b351-46c8-bc77-25595f9a1cbe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/01-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderzoek doen naar de inzetbaarheid van devices voor een specifiek doel.",
+		"id": "3e05c9f2-4b86-493a-8468-7eaa6adfe625",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/01-02",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat advies geven bij het kiezen van een geschikt device voor een specifiek doel.",
+		"id": "7ac78c32-8baf-47d2-b650-4dfb086a9e2d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/01-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een device kiezen en inzetten voor een specifiek doel.",
+		"id": "bf424d89-383f-4b38-8688-86b2a6c834d9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/01-04",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan processen beschrijven die door een device kunnen worden uitgevoerd.",
+		"id": "6428a359-f045-4678-8285-50c000459838",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/01-05",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan problemen van een gebruiker bij het inztten van een device analyseren, (her)formuleren en vertalen naar een oplossing.",
+		"id": "b8bfcb24-023f-4b9d-b0ae-df814c5fbfba",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/01-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de beschreven oplossing vertalen naar een serie geordende stappen en deze uitvoeren.",
+		"id": "be1d5be4-06d1-4fdd-8934-4d7d48fdf204",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan devices gebruiksklaar maken en benodigde software installeren.",
+		"id": "d353403e-c047-4613-b523-cdd7e12a25b4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan devices en apparatuur (sensoren, actuatoren en randapparatuur) aansluiten en instellen.",
+		"id": "232366f2-22ee-4e57-b17d-f61d8a5dc18f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan devices veilig verbinden met een (draadloos) netwerk en internet.",
+		"id": "c33be373-9517-4436-bea1-79ba06a0ff8f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat gebruikers aanmaken en rechten beheren.",
+		"id": "01d65635-237b-492b-ba13-39e357b3dc63",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de beveiliging en login instellen naar de wens en de behoefte van de gebruiker.",
+		"id": "3a49ba1d-770c-4245-971c-bf5338da680a",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/02-06",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een serie geordende stappen omzetten in een codering en deze invoeren in een device (programmeren).",
+		"id": "36b4ce42-2a10-4f5d-886f-7cfb6df10e87",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/02-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan een gegeven codering (programma) invoeren in een device.",
+		"id": "809742a8-c375-44ce-9ac8-de4b4cb23ba3",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/02-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan software configureren.",
+		"id": "08bf996c-cbc2-47aa-b698-c5fd153a355d",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/02-09",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan software-instellingen aanpassen naar de behoefte van de gebruiker.",
+		"id": "f3db3a59-f127-44fc-9b39-35084b2a44d1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan gebruikers instrueren bij het in gebruik nemen van een device.",
+		"id": "2ead461f-cdc0-44aa-82c4-65b424e0750c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/03-02",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan gebruikers adviseren en instrueren bij het in gebruik nemen van een device.",
+		"id": "e497694a-0595-4ec4-8611-a66de194afd9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/03-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan kosten berekenen en presenteren aan de gebruiker.",
+		"id": "0338aab5-0d8d-40ea-b89f-0e83d8bf9385",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/03-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de gemaakte keuze voor een device voor een specifiek doel verantwoorden.",
+		"id": "860bd7c5-5a97-48ed-9d97-39c603b49a2a",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/03-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan controleren of de gebruiker op de juiste wijze geholpen is.",
+		"id": "181cbfe0-6bca-40ff-81b4-8e5fd522adca",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/MVI/03/03-06",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan controleren of de gebruiker op de juiste wijze geholpen is en het advies indien gewenst aanpassen.",
+		"id": "08244a91-cfd9-4bbc-b488-0617ca4a50ce",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/04-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan klachten, storingen en vragen bij het in gebruik nemen van een device verwerken met een ICT-helpdesksysteem.",
+		"id": "09918aa9-f855-4ebb-a874-b22633936b04",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/04-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan meldingen en vragen door middel van een ICT-helpdesksysteem beantwoorden.",
+		"id": "594c6f0e-362f-4091-8459-521d96bc63c7",
 		"unreleased": true
 	}
 ]

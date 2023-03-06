@@ -5,13 +5,14 @@
 		"title": "Bouwproces en bouwvoorbereiding",
 		"description": "Een kleinschalig bouwproject voorbereiden en het bouwproces organiseren / maatvoeren en uitzetten / profielen en kozijnen stellen",
 		"examenprogramma_bg_deeltaak_id": [
-			"8f15cefa-a9b9-442f-8e75-1bd4f2be40e3",
-			"c73ffeea-d2cf-4965-912f-d305b612d325",
+			"b6573b4f-0236-45b4-9598-79d113ca286c",
+			"34eab3ea-f760-47d8-839f-6793e5cfd7b9",
 			"af21804c-5f71-4467-b01b-40b34b8faf5b"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"a8483549-8321-4157-9973-060234b89d5e"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "033e49aa-fc55-4d65-afcc-87fa16d03604",
@@ -19,14 +20,15 @@
 		"title": "Bouwen vanaf de fundering",
 		"description": "Een bekisting voor een strokenfundering en een ps systeembekisting maken / een halfsteensmuur metselen / isolatiematerialen verwerken / veilig werken op steigers en ladders",
 		"examenprogramma_bg_deeltaak_id": [
-			"311d8200-7c83-4a01-ad7b-5aa9865e476b",
+			"ced80edb-61d5-44f3-b164-7010a475f531",
 			"8a1a8d2c-1282-4d68-8537-2cf33f3653fa",
-			"fdb689b3-d6cd-4ad3-b8a3-257e00384458",
+			"4001d5b1-d839-4c86-b35a-cf2eadac9ffe",
 			"faa53fa7-8a5a-43b8-abe7-918513914c60"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"c85c946d-2e14-403a-a150-8574c53a12a8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "6a828277-fdc0-4601-9ddf-98af46b89588",
@@ -39,7 +41,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"058c5d9a-88d0-4a9d-8354-71833668a236"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "c4aaca16-abd8-4600-9fca-eb62c8172f88",
@@ -48,13 +51,14 @@
 		"description": "Een interieurelement ontwerpen / een ontwerp maken voor de afwerking van een interieurelement / een interieurelement maken / een interieurelement afwerken en decoreren",
 		"examenprogramma_bg_deeltaak_id": [
 			"7417a9aa-23b7-4be7-90cf-f04294f1f817",
-			"c8e594da-7a6e-4630-b2db-08822a045cad",
+			"74ec7506-d58a-493f-9c9d-67f7df479427",
 			"cedb8853-5077-491f-a72e-4933a7b19f34",
 			"4d47b958-48ed-4ae5-9793-42a89ac11ce7"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"e3200508-64f3-4984-bf10-e3076abc01e5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "0c2fe4c8-8efd-4d1f-a86b-fc0778005f32",

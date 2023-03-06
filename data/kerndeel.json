@@ -336,37 +336,44 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5f1dc7d5-6740-41a1-a603-cacc707c8c95",
 			"c5a6ef87-7a66-44fe-bb10-6047f6f0d208",
-			"3afa4ced-285e-4b46-8218-06af5b164ed2",
-			"b3155b5b-4b94-46df-b17e-775590fc9588",
-			"370a61ab-aac8-41ad-96fb-080c3c2d4d37",
-			"47af0d34-2b5c-4937-8f18-4e7fe8c1d387",
-			"e3bafa4a-cd05-4830-ab36-2f8caf10ae01",
-			"c91bdb1e-c433-4081-8942-010b830789ff",
-			"b34f8b9a-665c-4a10-a5f5-275963cdc72b",
-			"215c3081-da2b-441d-b21a-f197e53f6d2d",
-			"fcd3f06e-cb58-47d6-bb61-604aad147477",
-			"d94d7628-f17e-4a81-89fc-66a856a2f5ec",
-			"66863503-d179-4ac4-b0f6-cfb6fcfbdb3e",
-			"3e7410c0-52fe-418a-8b73-300d47182071",
-			"ec18dfac-ce82-43d1-8fc2-356179257c68",
-			"39ecbb74-af3e-4453-9b48-f88812d0e6b6",
-			"b6d113a7-397e-4f02-a1f2-242c5a9db24a",
-			"2747ed8f-7cd8-44d6-b310-35bb7454e0d3",
-			"6a1483d7-f4ad-4764-97ac-75d86a77a4c8",
-			"c5f0d90f-0567-4ad4-b2ff-7d87cd2101cd",
-			"338eb800-c04e-46ec-9340-23b5950ef02e",
-			"5117a00c-c432-4157-ba6e-8c77559a311c",
-			"d30d99aa-0596-44d5-a67c-6059ab244833"
-		]
+			"17912d15-5276-47d9-925b-c225637c92cd",
+			"96c31723-f9e0-4892-8aec-3df4fe6a0919",
+			"52a51944-da58-4430-a74c-a547fb25498a",
+			"90f8ad85-e0f6-4d7f-8483-3c18f0bec51f",
+			"4ff23520-590a-4113-a0f9-51838b47a855",
+			"8fd92011-d706-4b2f-a34f-feefc65085a3",
+			"73b983f5-91ae-4a1e-904b-48037e0787a2",
+			"a8a1dc75-cbd1-4b32-b97f-9e9b73b48a90",
+			"00e34c8b-8749-46d8-adf9-a0e57b902b00",
+			"0c598463-3be1-47fe-bbeb-24606a662cab",
+			"98151907-04a3-412e-9669-57c29cec47a2",
+			"fc493b9e-ec20-434a-89c1-cf10005e90a6",
+			"d4a7f0b7-8b7d-49d4-aac3-5396fd0f75bc",
+			"e2ca1f5b-d1e3-450f-b262-8a2d46e72b81",
+			"f848ded0-2afe-4144-be1c-72ab296857fb",
+			"98f2311c-5d45-4549-ae32-fc623704c230",
+			"b9c4bc0e-dad6-4c53-a319-5ccc38715d03",
+			"8e135408-0b44-440e-8d5c-1460b7ae7735",
+			"af55e982-c63b-4754-a822-56823ac7874b",
+			"4fb1726e-b712-427e-94d4-073a11e0ff4c"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "7aff3554-86dd-413c-a93d-68df7f6c964c",
 		"prefix": "PK/MVI/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"9dd118e4-80ef-4f80-b51e-db3944ba68bd",
-			"399139e8-0015-41e9-b48e-7bd112019eca"
-		]
+			"d5024f1c-3b05-46cd-babf-572c16f679ea",
+			"8d889c80-8d36-4e2c-a8a5-9f38a16152c4",
+			"573473d7-f018-476b-8430-329e18da5df9",
+			"3d5db8f9-431a-4f21-8d58-37beb9459043",
+			"a57d462f-4f48-4d4b-bc49-63ba9f8a9dbe",
+			"68518cb0-e301-47ff-83d4-c36e831dbc50"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "4344c2b0-3807-4c4b-9a51-a34b93b40cea",
@@ -745,6 +752,34 @@
 		],
 		"title": "Algemene kennis en vaardigheden",
 		"id": "70535e5c-ca18-475f-82c4-c04266241f2e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/MVI/a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f1c79a50-3d7c-4a70-b268-ab0a66ba5f21",
+			"1335b2e4-0e92-4076-95f3-35c97b4d6b7a",
+			"54bf262e-65d6-41bd-80be-0f1fd7408e64",
+			"22b46d94-40f3-47be-b82c-187a193822e8",
+			"2e4c0178-2546-4d36-a76f-67a669e9d600",
+			"4be2a58b-4ff2-472e-831c-73de83cdf31c",
+			"1278ddaf-6fca-4975-82a5-225a9d1be26b",
+			"10f0ab7d-d6a0-4c02-a260-d8fabceeeefb",
+			"58de12ac-3e71-495c-9f02-09b24b7ba809",
+			"16810c30-41e1-43ea-af4a-597dda3ea701",
+			"6755a6c8-2209-46fb-afcf-b5176fad6c69",
+			"1f2596fe-9ffe-4ed9-b667-45583d52b2b0",
+			"3966e1cb-ed68-46d4-a109-13876e0b464e",
+			"1cecb6be-30a8-4d44-8e86-25111888ab35",
+			"91560caf-000c-4631-8b31-483fc9e41c33",
+			"1009f246-083e-46b1-8537-2edbf0b6b735",
+			"3340bf93-e088-40c4-8c50-c15110529f9d",
+			"6ab80bf9-fb70-4019-86e8-15a362d9610b",
+			"d6e50943-2a9c-475d-8a72-0e7b8785c8e5"
+		],
+		"title": "Algemene kennis en vaardigheden",
+		"id": "c636928b-6e63-4865-8670-b2adde47d427",
 		"unreleased": true
 	}
 ]

@@ -72,7 +72,8 @@
 		"description": "",
 		"vakleergebied_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "72caf5df-dc9e-40bc-a46f-63714e11c87b",

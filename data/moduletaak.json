@@ -484,5 +484,28 @@
 		"title": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren, repareren en volgens eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen.",
 		"id": "e0b9c67c-badf-4b8b-a95e-3783627551b9",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/01/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "Een audiovisuele (AV) productie van 2 tot 3 minuten maken van script tot film en deze presenteren / een AV animatie maken en presenteren van script tot eindproduct / een fotoserie maken en deze presenteren.",
+		"id": "528de030-c4df-4c46-8fbc-4211d310a13e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Devices ( PC, laptop, tablet, smartphone of singleboard computer) inzetten voor een specifiek doel / devices instellen, verbinden en programmeren / gebruikers van devices ondersteunen / meldingen en gebruikersvragen verwerken.",
+		"id": "9a683797-4cfd-40f6-8b45-c0a40419b5d0",
+		"unreleased": true
 	}
 ]

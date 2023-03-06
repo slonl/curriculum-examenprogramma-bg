@@ -31,13 +31,15 @@
 		"prefix": "P/BWI/01/03",
 		"title": "Profielen en kozijnen waterpas en te lood stellen en het meterpeil aanbrengen aan de hand van werktekeningen",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"1dd09f5c-2913-4f01-9baa-387002937be0",
+			"2211f1bb-76c2-4639-8405-c22086f9aeda",
 			"96ccfff5-ba8e-4c96-9cde-f3b139cc88be",
 			"82ac0946-ef29-4fac-bfc2-e3903296cb12",
-			"a63c0d7f-1244-409e-8e6d-edaec38dd8cf",
+			"5ccb1c54-bfb1-4651-82b4-4f24da5f6398",
 			"4666e891-5b3c-4bf4-a37f-d2869caad639",
 			"dae1945e-ac6e-4074-b371-8898788abe0b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "311d8200-7c83-4a01-ad7b-5aa9865e476b",
@@ -93,10 +95,11 @@
 		"title": "Aan de hand van een werktekening alle werkzaamheden verrichten voor het maken van een werkstuk met enkelvoudige verbindingen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e233b8c5-e0f0-4d8c-b3de-7bd16a5217ac",
-			"0f646c76-658a-427f-b072-1b720e9d88d5",
-			"f80bf1c7-3930-4e48-873c-a7fb7249c233",
-			"a6d21e2d-a750-4811-bd44-1d389dfce977"
-		]
+			"428ce859-f2a5-491c-a369-3ed4004839c8",
+			"07c0a11f-14a7-485d-96b9-3dc92d067382"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "caad22d3-930c-4959-9214-90c2a6e6acb2",
@@ -113,9 +116,11 @@
 		"title": "Aan de hand van wensen en eisen, met behulp van ICT, een ontwerp maken voor een interieurelement op basis van plaatmateriaal",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"25e9fa10-1b3d-40bd-824a-e9ea58e09f01",
-			"b54a0996-6e92-47c7-aee3-40e6e5dca765",
-			"4aa64fc9-94ee-4252-980c-7a6bbe77a6a7"
-		]
+			"2538e659-0d91-445d-b380-3c5df14fb2f8",
+			"0e4ff522-febd-4025-90a2-a46f3232b253"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "c8e594da-7a6e-4630-b2db-08822a045cad",
@@ -142,13 +147,12 @@
 		"prefix": "P/BWI/04/04",
 		"title": "Een werkstuk voorbehandelen, afwerken en decoreren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"b6e8c43f-6d4f-4360-b1dc-a9dac2db66f3",
-			"5710a72a-7ef2-4dcb-8845-01f45eccfe6a",
-			"c155447a-e89d-45d4-bf89-3cc26db6d8ba",
-			"04d43b56-b698-4d85-8f53-3d46367dfc37",
-			"b25a8d58-b9d5-48e2-9df4-8d44852d9f77",
-			"00953673-1501-4f7f-827a-2ef6531e3499"
-		]
+			"97d94f43-5375-4cff-a624-af8fec306106",
+			"5d2210a7-a665-4772-bac7-5068fa495ae7",
+			"0b03830a-93b7-4624-83cc-650f72273f92"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "d9d049de-9853-4c6f-b4a3-0df1f19e6e82",
@@ -7939,5 +7943,67 @@
 		],
 		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
 		"id": "5f99f37b-b792-421b-b045-3dd87b81687e"
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"403a2d9d-3272-4ee8-bf4e-9a2ac3294f23",
+			"b6271d77-d418-4e68-b709-39b4c5d6bcec",
+			"67e911ba-8106-40d9-be12-933cbed1eb88",
+			"76a2b486-02d2-450f-a048-b3b9ffb32449"
+		],
+		"title": "Een kleinschalig bouwproject voorbereiden en het bouwproces beschrijven.",
+		"id": "b6573b4f-0236-45b4-9598-79d113ca286c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/01/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3dd74293-2883-4ddb-bc69-0fb6488bc31e",
+			"5a19ecc5-9b87-4ed9-828a-4c61bc3c8e72",
+			"7a1e916d-7c71-4314-aca1-fc5680bc07c2",
+			"902c52de-e5f5-430e-a2d1-ee7db289ff28",
+			"c3f4c673-4284-4e91-8921-a42b83b74403",
+			"f74dfa3f-fded-47fd-a8b0-f5a76686efa9",
+			"559c7290-6ce5-411d-b6cd-7898aab692f8"
+		],
+		"title": "Ter voorbereiding van een kleinschalig bouwproject maatvoeren en uitzetten aan de hand van een bouwvoorbereidingstekening.",
+		"id": "34eab3ea-f760-47d8-839f-6793e5cfd7b9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"802183e1-1a84-4fdd-b363-07a5b51c9622",
+			"3db12819-eb38-4e4e-bb37-8acabfbc61db"
+		],
+		"title": "Aan de hand van werktekeningen eenvoudige funderingsbekistingen maken.",
+		"id": "ced80edb-61d5-44f3-b164-7010a475f531",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/02/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"09abb754-7420-4e90-8363-33456fcb9b62",
+			"7482e51d-4b35-47da-8620-3ec444e7f7bc"
+		],
+		"title": "Isolatiematerialen verwerken",
+		"id": "4001d5b1-d839-4c86-b35a-cf2eadac9ffe",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/BWI/04/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"27256043-3693-44ff-9a71-e8714ad3dff2",
+			"d53cfbb8-2d66-475c-b3ac-a39da8e50015"
+		],
+		"title": "Een ontwerp maken voor de afwerking van een interieurelement met behulp van decoratieve technieken.",
+		"id": "74ec7506-d58a-493f-9c9d-67f7df479427",
+		"unreleased": true
 	}
 ]

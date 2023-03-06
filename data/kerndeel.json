@@ -220,21 +220,29 @@
 			"a387ac54-c28f-46f9-8c49-3912a31df1e5",
 			"00ac08ee-e98a-452b-ba7a-90122501b41c",
 			"4d4942e9-d241-4f61-b3e9-04c50ce9918a",
-			"25b8d4a7-581d-4aaf-922b-598a4cb89b39",
+			"7a6e972f-e39d-4411-a77e-b76d6770f94f",
 			"36e3be86-7ae6-4617-94e5-5f0d81544eaf",
 			"73d0567e-95db-4ea3-9fac-e92a620fe493",
 			"b0b2eaef-17c0-4398-a922-4b23218aef64",
 			"248d0561-6997-49ae-bd74-8502586b0237"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "a854b547-5774-4633-94dc-43ef34e62606",
 		"prefix": "PK/HBR/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"78dc52f9-243a-42a8-9aa4-f3c940cd2e35",
-			"d15bde65-319c-4a26-a029-fb6ab5ff077d"
-		]
+			"e173d0d2-c04b-477d-bd55-0c3150ff58e4",
+			"c11da335-3bab-424c-8fa9-75de6526b4a0",
+			"73a26a47-b6e6-43bc-960b-f5704de2c3ea",
+			"5d5d9a34-0887-4b5a-91ff-03e6e19bd64c",
+			"67ef2219-30fe-424d-a9df-19e07ee3e212",
+			"08f2eaf6-6c8d-4852-832b-3965362552ac"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "18da26ae-19b7-4bfb-8191-205c8e2232a1",
@@ -674,6 +682,34 @@
 		],
 		"title": "Algemene kennis en vaardigheden",
 		"id": "816d7ced-1b19-427e-8506-c4d1ecbffd59",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/HBR/a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f11ca006-26d1-4fa8-90f9-01f77c5e3541",
+			"5c21fcc6-4164-4f91-a85a-9363c5da7790",
+			"ec35f505-0fa8-4892-9f8e-38988deeb64c",
+			"39334b48-fdbb-45fa-9946-aabea1896094",
+			"3df41534-3801-433c-b857-5594dc252146",
+			"640d6760-a58b-43f4-8970-10f007f51187",
+			"6babc1c2-c17d-49a5-ab8d-7fd2b8902f2b",
+			"bebc03a6-14f5-4b07-a6ee-65b282fe63f4",
+			"d8a2162a-d153-4736-ad7f-63eabd983e82",
+			"accd33be-a6b8-4f6f-b2a4-5fc81772d1ac",
+			"cfdc4003-3a23-4032-8845-8bf59515890d",
+			"5afb0155-a71d-468b-90b3-5856cf769dba",
+			"95756626-e7f8-44ef-ac73-4d5fa6e405e3",
+			"107d2534-9dd4-4099-9b69-43604763745a",
+			"8e5b65fd-6131-4f17-aec8-c3fd6b2da35f",
+			"cc3f5044-eca1-44ed-a419-a17bb7453802",
+			"216464df-b9e1-4101-94be-a4f420961be5",
+			"0091f991-c150-4414-a559-1b577509eaf9",
+			"1b987da3-74b2-4360-bd4a-18dde448d5cf"
+		],
+		"title": "Algemene kennis en vaardigheden",
+		"id": "f8f1d029-349d-4652-88e2-cd1f75026777",
 		"unreleased": true
 	}
 ]

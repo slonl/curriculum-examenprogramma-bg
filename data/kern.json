@@ -87,11 +87,12 @@
 		"prefix": "PK/PIE",
 		"title": "Kern Produceren, installeren en energie",
 		"examenprogramma_bg_kerndeel_id": [
-			"a26a0e5f-26bb-4b42-8183-84f15dcfa4ef",
+			"896652c6-b57a-4de5-a356-5d125baa72da",
 			"62a29017-3bfa-409b-a4ff-b16d016ed265",
 			"87703079-5b2c-4d2d-b5f3-25b8a86a5d80"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "9e487dfc-1257-4121-88c2-42a82df71aca",

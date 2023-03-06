@@ -5782,10 +5782,12 @@
 		"title": "Informatie geven over een gezonde leefstijl",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b0462544-ac0c-42cf-936e-b7bd493fc803",
-			"2c3a0535-91cf-41d3-9238-607c64c01370",
+			"073f1baa-30cd-4bcf-bcd9-ff9b64700566",
 			"dacc5ea3-5266-4e35-8f6e-cf3d39cff78c",
 			"0dcf1b64-d6c1-412e-9750-5ead0c745f15"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f17a724e-6674-4724-9c38-893a855d8167",
@@ -5807,12 +5809,13 @@
 		"prefix": "P/ZW/01/03",
 		"title": "Ondersteunen bij een verantwoord voedings- en bewegingspatroon en dagritme",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"06c72e71-a654-4c92-a908-bcf082a3a1e8",
-			"473feb38-1fa8-4957-ad3f-38b512292102",
-			"22ae85c3-efe4-4a33-ab7a-aa9e719691ba",
-			"2ced91a1-849b-4032-b4be-ebd339fadf10",
-			"c99042b4-3e34-4bbf-a671-20522452dfbd"
-		]
+			"c1b14e1d-ff83-4e84-b94e-7285958b5acb",
+			"11a7ebc6-e146-487d-8d5e-179d88e81fa4",
+			"08ef41bd-bcb3-4bc7-bc88-4d64bd4eeafd",
+			"db955e74-579e-42a2-8e85-2611f06f6a4b"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "903f8d8d-3f0d-467e-8784-b2cfd1d111bb",
@@ -5846,11 +5849,13 @@
 			"2b055d27-3ea1-4136-bce6-5bdd837cc4ba",
 			"a82b8c7a-5aee-4ed0-b197-638c58d5b319",
 			"96672c62-8bb1-44ec-a2a9-8bf51ef949c0",
-			"9ea7eb0a-f841-4feb-9f85-1ef400538073",
+			"bb90b307-e798-463f-a5d7-328af6c7274e",
 			"505fc4d2-152d-4df7-b13f-13f6d279111c",
 			"f48aebd4-fb99-4bff-86d6-0585545d417d",
 			"edc89800-1e71-446f-bd9e-6b5186d73145"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "4a998356-9dc5-42d1-9458-f360b79f3886",
@@ -5876,23 +5881,26 @@
 		"title": "Een eenvoudige activiteit voor een individu en groep voorbereiden",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"917067e5-3990-4225-b98b-254ef9c78bc2",
-			"b0bfd613-e096-494d-af56-c37096e68c0e",
-			"0c47c59e-e33c-4f58-b737-79240a7b0ee0",
-			"f1104872-29d2-44ad-81d3-d79082571aeb",
-			"e9abdf3f-e2b2-499b-a50d-3bc050575d55"
-		]
+			"52f9436d-40ca-4303-83d7-a3cfe761e0ee",
+			"31e975c1-9451-46e5-9045-e9ccdd3594c7",
+			"b6494dd0-633b-42a6-ad0c-a620badd8c5b"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "a4bb1ee8-9392-4d48-87ee-4d1bd84bbf81",
 		"prefix": "P/ZW/03/02",
 		"title": "Een eenvoudige activiteit met een individu en groep uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"c1eba4a3-6b77-49d1-bae9-945892c37dc0",
-			"9476a0ae-dcd7-40ce-8bc3-8d556d2dd8a9",
-			"ce1d0673-9c9d-4cd5-9c59-42ade84a1d1e",
+			"7e7e7344-abf2-464a-876c-be4d595b66ab",
+			"07887de5-db55-4fa3-a6d8-c675e2591727",
+			"25a36ec0-4efb-4e40-8464-5a8296644089",
 			"eb72c77e-d284-413b-af23-930712d0cdd5",
 			"ec920927-4f46-4d57-aaae-8528a4026f24"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "e5053bda-ac86-4639-a610-c9e1c4eeda1c",
@@ -5924,8 +5932,10 @@
 			"68983ba4-a6b8-4852-945f-b8dd68de3159",
 			"a258d4d9-5a21-4aab-9e4a-6ae2c87a477e",
 			"28c647c4-103f-4e1f-8f8c-bd8ebf3794dd",
-			"5e01f06f-5dd5-4b94-862a-1f1a870b1a5d"
-		]
+			"75e08e31-1b99-4535-8aed-b9a191551e5c"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "104b703a-dbb2-4acf-9e5e-c1d4610d35af",
@@ -5953,8 +5963,10 @@
 		"title": "Toepassingen van ICT en technologie in de hulpverlening benoemen, adviseren en gebruiken",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3f765c4d-5178-41aa-8841-84575f18a5e5",
-			"c08e90e0-0a6a-4564-a6de-5ba39dbedb6a"
-		]
+			"8676cdbe-ccb3-4804-b1c9-ea023cbf1698"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "01b7fd8a-c67a-4c82-9a29-327eca228547",

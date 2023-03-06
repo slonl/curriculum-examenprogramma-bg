@@ -40,11 +40,12 @@
 		"prefix": "PK/HBR",
 		"title": "Kern Horeca, bakkerij en recreatie",
 		"examenprogramma_bg_kerndeel_id": [
-			"de51704a-0688-43d5-8a4b-04fb3e0ffb95",
+			"f8f1d029-349d-4652-88e2-cd1f75026777",
 			"6c75891e-adc8-4c3e-89d7-5ea916e5e2c6",
 			"a854b547-5774-4633-94dc-43ef34e62606"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "0866408c-fd90-48e5-bcf3-6167c1f04ca7",

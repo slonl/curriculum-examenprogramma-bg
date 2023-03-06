@@ -74,11 +74,12 @@
 		"prefix": "PK/MET",
 		"title": "Kern Mobiliteit en Transport",
 		"examenprogramma_bg_kerndeel_id": [
-			"4344c2b0-3807-4c4b-9a51-a34b93b40cea",
+			"70535e5c-ca18-475f-82c4-c04266241f2e",
 			"3ad8192d-6c27-486d-b758-df179ca033d6",
 			"1f3e0182-8422-4b38-b20d-0efad48120f8"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "5b1dad69-5aff-4ec3-a109-303707b34bd2",

@@ -5054,42 +5054,49 @@
 	{
 		"id": "7581a0ed-17ab-44e8-8a16-72e52d536816",
 		"prefix": "P/DP/01/04-02",
-		"title": "De kandidaat kan pictogrammen en symbolen met betrekking tot veiligheid en milieu herkennen,uitleggen en toepassen",
+		"title": "De kandidaat kan schoonmaakmiddelen, -materialen en -apparatuur kiezen en gebruiken en de werkzaamheden uitvoeren volgens voorschriften.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "bd8c0277-5cfb-4c8b-b573-6207234d0643",
 		"prefix": "P/DP/01/04-03",
-		"title": "De kandidaat kan taken van hulpdiensten benoemen en inzetten",
+		"title": "De kandidaat kan taken van hulpdiensten benoemen en beoordelen welke hulpdiensten ingeschakeld moeten worden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "85b28581-92e8-406c-840d-33d64630fedf",
 		"prefix": "P/DP/01/04-04",
-		"title": "De kandidaat kan taken van beveiligers onderscheiden en benoemen",
+		"title": "De kandidaat kan taken van beveiligers benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "b8ee562a-c45c-44a7-9df7-3189faaf3ceb",
 		"prefix": "P/DP/01/04-05",
-		"title": "De kandidaat kan vluchtroutes herkennen, gebruiken en maken",
+		"title": "De kandidaat kan een ruimte inrichten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "69eff4a2-ffe6-4842-9d20-f12a3db2d26e",
@@ -5106,8 +5113,11 @@
 		"prefix": "P/DP/02/01-01",
 		"title": "De kandidaat kan media-uitingen met elkaar vergelijken en een beargumenteerde keuze maken voor een medium gelet op bijvoorbeeld doel, doelgroep, functionaliteiten en duurzaamheid",
 		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "a6b1c63a-1a67-45d8-a2c3-9367ca6dba3f",
@@ -5226,11 +5236,13 @@
 	},
 	{
 		"id": "72c6a166-5263-43cd-ac38-2fec9a438648",
-		"prefix": "P/DP/03/01-04",
+		"prefix": "P/DP/03/01-03",
 		"title": "De kandidaat kan 3D-printprincipes en printtechnieken uitleggen",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "8a3fa612-02e8-43c5-9bf3-b6dd7058c435",
@@ -32395,8 +32407,10 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan klank-, vorm- en betekenisaspecten toepassen om bestaand repertoire te zingen en een stemming of sfeer te creëren. Het gaat hier om de klankaspecten: toonhoogte, toonduur, toonintensiteit en klankkleur; bij vormaspecten gaat het om herhaling, contrast en variatie; bij betekenis.\r\ngaat het om de functie en beleving van muziek",
-		"id": "15f780a0-3b5a-43ad-9772-b2064140b58b"
+		"title": "De kandidaat kan klank-, vorm- en betekenisaspecten toepassen om bestaand repertoire te zingen en een stemming of sfeer te creëren. Het gaat hier om de klankaspecten: toonhoogte, toonduur, toonintensiteit en klankkleur; bij vormaspecten gaat het om herhaling, contrast en variatie; bij betekenis.\r\r\ngaat het om de functie en beleving van muziek",
+		"id": "15f780a0-3b5a-43ad-9772-b2064140b58b",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/11/2.3",
@@ -33060,8 +33074,10 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"title": "De kandidaat kan stijldifferentiatie toepassen binnen een divers zangrepertoire.\r\ngaat het om de functie en beleving van muziek",
-		"id": "d608cccd-c4cc-457f-935a-c5bbf1a5cc3c"
+		"title": "De kandidaat kan stijldifferentiatie toepassen binnen een divers zangrepertoire.\r\r\ngaat het om de functie en beleving van muziek",
+		"id": "d608cccd-c4cc-457f-935a-c5bbf1a5cc3c",
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"prefix": "K/DP/09/2.3",
@@ -34563,6 +34579,547 @@
 		],
 		"title": "De kandidaat kan decoratieve figuren printen, plotten, snijplotten, pellen, plakken en monteren.",
 		"id": "0b03830a-93b7-4624-83cc-650f72273f92",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "0647c07f-ca36-4476-a7b0-d43a8752ab0f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "24723827-18ba-4424-90a4-916b013c894f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "9df6b36a-29d9-4bb1-9f81-da74429c3de4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "eb5625e5-e002-4e71-835d-eb55d524334e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "05d04a19-9a92-431a-8f15-e4a47ae0b483",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "6d3bb791-c11c-4272-a34a-b0f2927a0fc9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "7ba54486-c853-4dab-912c-b9650256accf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "750dc310-a008-4e8f-ba9f-8a42d4f7ff27",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "db40ca08-4c11-4189-94c2-bdcbfdcb4dbc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "cd8e0211-8363-426c-88f0-e019b59db9af",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "580c469a-e349-4cc4-9b3c-a513cf4b6b30",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "49e36b87-04d6-4ab5-a30a-9c036286b887",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "08f50b00-8058-43c7-8fa3-2d4077110b3c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "16b36df7-191c-49c7-b06d-93882d45fdd9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "b916cf0d-6f3d-4063-967b-69a56c1fe261",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "797dc254-f5db-45cf-921c-1e9245b340ff",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "0c9332eb-067a-4e17-bf80-d5a30a6eb8b1",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "d4186378-e88b-473d-a39a-787403026848",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/b-3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het begrip duurzaamheid (her)kennen, benoemen en toepassen. Op basis daarvan komen tot bewuste afwegingen en relaties leggen tussen milieu, mensen en werkprocessen in arbeid en beroep (people, planet en profit).",
+		"id": "6144c20c-eb14-4831-9820-f451774e405b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/b-4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan ondernemende vaardigheden tonen: initiatief tonen, innoveren",
+		"id": "40fed52a-4015-45d1-905f-4073608bfc12",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/b-5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de begrippen maatschappelijk verantwoord en maatschappelijk betrokken ondernemen (her)kennen, benoemen en toepassen bij producten en dienstverlening",
+		"id": "a3464f30-9fe3-4ded-b847-6e61552e8aa6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/b-6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan verschillen en overeenkomsten benoemen tussen profit en non/profit",
+		"id": "f2f2fdbe-9fb6-4757-b0a1-015118f1fb8a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "6adac7ee-a8b5-46b0-b33c-6107bc8d5569",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "5c5778c0-629b-4618-ba34-3da573dfde04",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "5c84a98f-8812-4fcf-80ca-a420c463e40d",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "152ad427-7ab0-4f17-9380-75596be5d4fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/DP/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "ddad054c-735e-4f8e-b807-687edaf8399d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/DP/c2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "47f6e6c0-838f-479c-9359-59d5d2f67820",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan optreden als gastvrouw of gastheer",
+		"id": "fd8c4d19-872d-422b-a904-3b469f60820a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan gerechten bereiden",
+		"id": "2a948451-207a-4b4b-8ef1-87fdfdbc70c8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/04-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan maatregelen beschrijven om de negatieve gevolgen van de uit te voeren activiteit voor het milieu te beperken.",
+		"id": "399aed65-5fcd-491c-835a-2438974bc8ef",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/02/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan social media gebruiken en toepassen in een zakelijke context",
+		"id": "b3dd8458-a22c-4cb2-ab56-d7ff800a410d",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/DP/02/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan producten presenteren met gebruikmaking van promotie- en decoratiemateriaal.",
+		"id": "4a94f75e-e0d0-4240-bab6-c943dbaa3e6e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/02/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan uitleg, instructie, voorlichting en informatie geven aan publiek, bezoekers en deelnemers",
+		"id": "b20fd1f4-4b89-433f-a777-6d180b67eca2",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/DP/02/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan communicatieve vaardigheden toepassen",
+		"id": "d2ee80d3-2e93-4ee6-98f6-9279f91c6ee3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/03/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een product ontwerpen en tekenen in een 3D-tekenprogramma.",
+		"id": "5bab94df-4798-449b-bb72-3f19393b8b1e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan genres in film onderscheiden en gangbare begrippen in filmtaal gebruiken.",
+		"id": "83f71bc9-9b2c-4742-bc82-77b519089efb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/02-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op basis van gegeven informatie een script, storyboard en draaiboek maken.",
+		"id": "73262d77-5d91-4922-b9fa-c409377559b0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/02-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat aan de hand van het storyboard en het draaiboek filmopnamen maken.",
+		"id": "f54a03c3-5a2a-455e-a9b0-f189245fd3cf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van montagesoftware beelden monteren tot een samenhangend geheel.",
+		"id": "6632836f-948b-4e6a-9253-a5ac4deb1860",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan wensen van de opdrachtgever inventariseren, interpreteren en aanvullen in een ontwerp voor een website.",
+		"id": "ceadc12b-c9ec-462f-84f9-c28660a8ea99",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-02",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan wensen van de opdrachtgever inventariseren, interpreteren en verwerken in een ontwerp voor een website",
+		"id": "5f6deab0-3de2-4e37-b9e1-b87b22d105dd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een begroting maken voor het bouwen, hosten en onderhouden van de website.",
+		"id": "da2c92cb-d8a8-417a-b517-d04bb35fb9e8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-04",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het voorlopige ontwerp inclusief begroting voorleggen aan de opdrachtgever.",
+		"id": "47b39700-f184-4e90-9270-18990de04f0f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een website maken.",
+		"id": "5af5063b-edf0-4642-a061-fdc905d1a409",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/03-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"title": "De kandidaat kan de website presenteren aan de opdrachtgever.",
+		"id": "9a853f0d-d102-4a6c-8d86-ee07fcfdbd95",
+		"unreleased": true
+	},
+	{
+		"prefix": "P/DP/04/03-07",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de website presenteren aan de opdrachtgever en gemaakte keuzes beargumenteren.",
+		"id": "ea3f2067-282d-4e66-8a01-b484d4910e08",
 		"unreleased": true
 	}
 ]

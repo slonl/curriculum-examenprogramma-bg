@@ -507,5 +507,17 @@
 		"title": "Devices ( PC, laptop, tablet, smartphone of singleboard computer) inzetten voor een specifiek doel / devices instellen, verbinden en programmeren / gebruikers van devices ondersteunen / meldingen en gebruikersvragen verwerken.",
 		"id": "9a683797-4cfd-40f6-8b45-c0a40419b5d0",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Een ontwerp van een product maken met behulp van CAD-software en de uitvoering voorbereiden / een ontworpen product produceren / een ontworpen schakeling beproeven / onderdelen uit het ontwerp samenstellen, monteren en aansluiten.",
+		"id": "973a4a79-47d0-448e-9b8f-de1a30ffc60c",
+		"unreleased": true
 	}
 ]

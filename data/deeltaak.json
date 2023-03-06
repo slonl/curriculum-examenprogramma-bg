@@ -3549,9 +3549,11 @@
 		"prefix": "P/MVI/01/05",
 		"title": "Beelden maken voor een animatie",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"5226d27f-22e5-4e38-b463-cb3caa1ba6fb",
+			"5a4c5c13-dbe8-462e-a820-506910116ecf",
 			"dced135c-88d7-42f9-98cf-f09d2a71a51e"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "4ba07b8a-8527-43fd-ad33-7dcd2eb3729b",
@@ -3562,9 +3564,11 @@
 			"69ccc5a2-aee4-42f8-b5d0-0c5bc2f71b87",
 			"240dcb31-ef01-4db8-9ba7-0c2fce6cf536",
 			"1f754e1e-cb6d-4587-9a9f-c2e49acbcaad",
-			"b0762097-6d14-4da1-b787-d3a04558ce77",
+			"c8653a42-eedb-4e7a-92d3-6ab14a709394",
 			"fb85521d-79ec-46cc-910f-8c754ca65018"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "ff8114ab-560f-4a2a-b885-f7449a0e5056",
@@ -3607,10 +3611,12 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"209c0411-9c8c-4191-a14b-43f4dffbccb0",
 			"aa37aba9-6f1a-43f6-bc26-0fa44355f9cc",
-			"b57fdbe5-c529-454e-97e4-48cf5dd8440e",
+			"00ecaf2f-b351-46c8-bc77-25595f9a1cbe",
 			"4ae1ff9a-6737-4c6a-a36a-151c67f7f2ab",
 			"631fad13-508e-4710-98de-d43bed4e3625"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "e1dd35d4-bb62-4e0f-8d52-4d65346f1445",
@@ -8156,6 +8162,65 @@
 		],
 		"title": "Verlichtings- en signaleringssystemen controleren, repareren en volgens eenvoudige schema’s aansluiten.",
 		"id": "787fbcbd-add6-4a6d-a8d1-4a043ed6cb76",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3e05c9f2-4b86-493a-8468-7eaa6adfe625",
+			"7ac78c32-8baf-47d2-b650-4dfb086a9e2d",
+			"bf424d89-383f-4b38-8688-86b2a6c834d9",
+			"6428a359-f045-4678-8285-50c000459838",
+			"b8bfcb24-023f-4b9d-b0ae-df814c5fbfba",
+			"be1d5be4-06d1-4fdd-8934-4d7d48fdf204"
+		],
+		"title": "Devices (PC, laptop, tablet, smartphone of singleboard computer) inzetten voor een specifiek doel.",
+		"id": "ee644890-f584-4e54-8918-6080720ed2ed",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"d353403e-c047-4613-b523-cdd7e12a25b4",
+			"232366f2-22ee-4e57-b17d-f61d8a5dc18f",
+			"c33be373-9517-4436-bea1-79ba06a0ff8f",
+			"01d65635-237b-492b-ba13-39e357b3dc63",
+			"3a49ba1d-770c-4245-971c-bf5338da680a",
+			"36b4ce42-2a10-4f5d-886f-7cfb6df10e87",
+			"809742a8-c375-44ce-9ac8-de4b4cb23ba3",
+			"08bf996c-cbc2-47aa-b698-c5fd153a355d",
+			"f3db3a59-f127-44fc-9b39-35084b2a44d1"
+		],
+		"title": "Devices instellen, verbinden en programmeren.",
+		"id": "06c184fa-2ef5-4069-9259-9d1a7d9531cd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2ead461f-cdc0-44aa-82c4-65b424e0750c",
+			"e497694a-0595-4ec4-8611-a66de194afd9",
+			"0338aab5-0d8d-40ea-b89f-0e83d8bf9385",
+			"860bd7c5-5a97-48ed-9d97-39c603b49a2a",
+			"181cbfe0-6bca-40ff-81b4-8e5fd522adca",
+			"08244a91-cfd9-4bbc-b488-0617ca4a50ce"
+		],
+		"title": "Gebruikers ondersteunen.",
+		"id": "d344c3b0-dd9e-480f-8897-cf5b0e9bcdd3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MVI/03/04",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"09918aa9-f855-4ebb-a874-b22633936b04",
+			"594c6f0e-362f-4091-8459-521d96bc63c7"
+		],
+		"title": "Meldingen en gebruikersvragen verwerken.",
+		"id": "0c03035f-d51c-4ffb-8e78-dbc3ad718aee",
 		"unreleased": true
 	}
 ]

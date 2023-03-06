@@ -63,11 +63,12 @@
 		"prefix": "PK/MVI",
 		"title": "Kern Media, vormgeving en ICT",
 		"examenprogramma_bg_kerndeel_id": [
-			"6d0ffd6e-748c-4e17-b19d-4bff44331fbe",
+			"c636928b-6e63-4865-8670-b2adde47d427",
 			"97938cc4-74ce-4c5d-b1d8-bb5cad281703",
 			"7aff3554-86dd-413c-a93d-68df7f6c964c"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "09dd2988-44cb-43b8-ad27-1cc934ea9d7f",

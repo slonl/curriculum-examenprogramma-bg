@@ -449,5 +449,40 @@
 		"title": "Voedingsmiddelen uit de groene sector adequaat en verantwoord, hanteren, verwerken, bereiden en bewaren / in de groene sector geproduceerde producten, sorteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal / een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
 		"id": "52838e62-859c-4fbd-9b21-1272d8a31e23",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/01/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Motormechanische delen meten / werkzaamheden aan een smeersysteem uitvoeren / werkzaamheden aan een koelsysteem uitvoeren",
+		"id": "c375b82c-7a39-41c3-8e36-64c8d7636ae0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/02/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "Wielophanging en veersysteem controleren, beoordelen en vervangen / banden en wielen controleren, beoordelen, vervangen, repareren en balanceren / delen van de carrosserie inbouwen, uitbouwen en afstellen",
+		"id": "15a64f51-26b1-47b9-ac45-771e4a446dcf",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/MET/03/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren, repareren en volgens eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen.",
+		"id": "e0b9c67c-badf-4b8b-a95e-3783627551b9",
+		"unreleased": true
 	}
 ]

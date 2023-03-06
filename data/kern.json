@@ -99,11 +99,12 @@
 		"prefix": "PK/ZW",
 		"title": "Kern Zorg en welzijn",
 		"examenprogramma_bg_kerndeel_id": [
-			"2347d9f8-a347-4077-b50d-b7ff46a50497",
+			"9fde298d-0e53-4007-9782-fde16611ec55",
 			"9b26e7d8-46c5-4fb9-bdbd-0cd783a8baf7",
 			"330e996a-a150-4fa0-a3a9-3ac4b6c1b969"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "94098824-6e06-4997-b06d-93aa3542294c",

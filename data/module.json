@@ -309,8 +309,9 @@
 			"5dd5aefe-1653-4df9-81ad-1855f5f205f9"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"27db42ef-5dee-4bb9-a008-09b1514f5420"
-		]
+			"528de030-c4df-4c46-8fbc-4211d310a13e"
+		],
+		"dirty": true
 	},
 	{
 		"id": "842b1db6-2063-4c07-85e8-8c748749d0e9",
@@ -325,7 +326,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"1f68f8bb-15ca-49f2-8a51-e40a9b301ac5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "fcb8f424-360e-4c65-915c-1edc2c457695",
@@ -333,14 +335,15 @@
 		"title": "ICT",
 		"description": "Hardware onderdelen demonteren en monteren, aansluiten en onderdelen vervangen / software installeren en veelvoorkomende problemen oplossen / een ICT-infrastructuur installeren in een gebouw / eindgebruikers informeren en adviseren over ICT-producten en het gebruik ervan",
 		"examenprogramma_bg_deeltaak_id": [
-			"f9dee973-b204-42c2-9e8e-e2d1c4755ae4",
-			"4c9fa5e0-0947-4d47-b6d3-b450246eaad2",
-			"f0b5f095-bf51-4770-a85b-ceb10f961e26",
-			"d1e77786-2177-4a95-a0bc-a07659a2fcab"
+			"ee644890-f584-4e54-8918-6080720ed2ed",
+			"06c184fa-2ef5-4069-9259-9d1a7d9531cd",
+			"d344c3b0-dd9e-480f-8897-cf5b0e9bcdd3",
+			"0c03035f-d51c-4ffb-8e78-dbc3ad718aee"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"fcdaa3d1-b190-45e7-a8da-b6e4c6efe276"
-		]
+			"9a683797-4cfd-40f6-8b45-c0a40419b5d0"
+		],
+		"dirty": true
 	},
 	{
 		"id": "35421908-139e-430b-b076-6ec2167c0d4c",
@@ -355,7 +358,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"098cec10-b665-4e7f-932e-6cc29eaf47cf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "a215a62a-0e45-4dc4-8e9f-df111d64a63d",

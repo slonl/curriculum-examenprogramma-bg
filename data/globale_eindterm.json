@@ -22633,19 +22633,23 @@
 		"prefix": "P/PIE/03/03-04",
 		"title": "De kandidaat kan de automatische besturing testen",
 		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "97d0b971-d70a-4189-a71e-aaea2d4b557f",
 		"prefix": "P/PIE/03/03-05",
 		"title": "De kandidaat kan de automatische besturing demonstreren en presenteren",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "03fe8180-d6d8-42a2-9b2f-247044a3a7a2",
@@ -37099,6 +37103,759 @@
 		],
 		"title": "De kandidaat kan meldingen en vragen door middel van een ICT-helpdesksysteem beantwoorden.",
 		"id": "594c6f0e-362f-4091-8459-521d96bc63c7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "fead5337-35c2-4bf7-a751-08132275e975",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "a58944b4-e018-46b1-892a-1f21bc5bad4e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "0ebade68-ef5c-4451-8373-caf850a96501",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "6fc9314e-d4e2-4725-b8ac-2b77faf24e2f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "4db5c5fe-2758-49c2-8ca9-8cdaca2ca97d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "615a8097-f5b3-4110-9220-09eec2e0ee9f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "b2939fa8-d385-4bde-89c4-8132ff57d213",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "b636557a-a303-48b8-90b8-45ea4a6e5177",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "c0c64afd-80b9-444a-b546-b4cdc6a79864",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "2a77133c-3862-4644-b427-8bc2b6e015dd",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "5652f034-39f7-4e75-a253-c9f03f4a669a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "37940b71-23e5-4c7a-9666-ec40c1e1afda",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "720b1423-e1b0-4c89-ad38-ad9cda03c7f8",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "925167ad-e2e7-4aa4-85ca-2b6be327463e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "cbb1a4b0-5101-4c26-b16c-29aedb36279f",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "9463a197-a036-4a58-866b-1b6cd279badd",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "20fecca1-7994-4740-8f8e-b9a6cdd5a900",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "24c871b4-fba8-4cc9-957a-9337fa88a883",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan waarden in technisch situaties onderkennen en toepassen, met name duurzaamheid, innovatie, risico en sociale interactie.",
+		"id": "feac33cb-520a-4b61-ab6a-1ebfb85af882",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de relaties tussen natuurkundige grootheden en de technische praktijk uitleggen en verklaren met name kracht, druk, lengte, oppervlakte, inhoud, omtrek, elektriciteit, energie, geluid, massa, gewicht, moment, snelheid en temperatuur.",
+		"id": "7ff90982-fef9-4aff-8c7d-e69bee664413",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een meting van grootheden uitvoeren, verwerken en vastleggen.",
+		"id": "0c9d9d0e-47d7-45be-a104-19c0b5d89724",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan van een (deel)systeem functies van onderdelen benoemen.",
+		"id": "71b1435c-bc66-4a26-81aa-017a95554496",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan materiaaleigenschappen benoemen en deze in verband brengen met hun toepassing.",
+		"id": "25d0a6fe-957a-4722-b989-76603dfc895c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes van het overbrengen van krachten en bewegingen uitleggen.",
+		"id": "f9fc6140-2fa0-430b-be2f-69f4cad9721a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan technische principes en werking van onderdelen uitleggen en demonstreren.",
+		"id": "508a0ec6-422b-497d-82e1-2e1ad5cdb98d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan opbouw en werking van installaties en/ of constructies uitleggen en demonstreren.",
+		"id": "a52830c5-fcfe-4a36-9d6c-46fde3c63bba",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een tekening lezen.",
+		"id": "6a181672-8979-480c-b162-0d46ed8d2dbc",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerp maken van een product, systeem en proces.",
+		"id": "4b04d1df-8e66-4324-b62c-6180a694f9f7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van een computer een technische tekening maken.",
+		"id": "5266d25e-719e-4e91-adff-e3392f3ff23f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan tijdens werkvoorbereiding en werkuitvoering schetsen en werktekeningen maken.",
+		"id": "b81f69da-52fc-43cc-8504-4834c953761c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria bepalen voor de keuze van materialen en gereedschappen.",
+		"id": "b2973af1-dedb-4e02-91ee-f5fb8f6297e6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan criteria toepassen voor de kwaliteit en oplevering van een werkstuk, product, systeem en/ of dienst.",
+		"id": "d471f2f7-0320-4210-9625-264c4b906179",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkwijze vaststellen en werken volgens procedures bij het uitvoeren van een opdracht.",
+		"id": "e1c9bbc5-531e-4e95-9cb8-eb1e4a4cb9ae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem maken door basisbewerkingen met name aftekenen, afkorten, verspanen, verbinden, vervormen en afwerken uit te voeren.",
+		"id": "4398a191-1a4b-41b2-a5f2-48713f73925c",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden uitvoeren volgens de regels van integrale Kwaliteits-, Arbo- en Milieu (KAM)-zorg.",
+		"id": "3d9a0133-2eba-4c78-b38f-1fb29aa79807",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-20",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem samenstellen.",
+		"id": "99f10779-c9b7-4e9a-aec4-1cf4da811f83",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-21",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product, systeem en/ of dienst toetsen en evalueren aan de hand van de geformuleerde criteria.",
+		"id": "e9ada183-6c9c-4b36-a4f0-25870212c3b0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/b-22",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een werkstuk, product en systeem onderhouden, repareren, modificeren en optimaliseren.",
+		"id": "1e48ae38-4789-442b-9808-165fe34b7185",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "74ed5460-9bbd-4528-8fc0-502f22dcc916",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/PIE/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "77e43002-3ce2-420a-9662-9e03f79d90f2",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "187b047d-cfc5-4268-9c6f-52fb51f891bb",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "0b782645-33a0-4de7-952e-83c8f9c63953",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "79dc44a7-9278-41bd-8d96-f77cb5fd401b",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/PIE/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "6b623a52-13a3-4dc0-9a50-e49f63fa8a6e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/01-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan met behulp van CAD een ontwerp en werktuigbouwkundige tekeningen voor een product maken.",
+		"id": "6fd08e6d-7ba8-4775-8e18-873f67364079",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/01-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan stuklijsten en materiaalstaten maken aan de hand van tekeningen en schema's.",
+		"id": "9491ca8c-8bf5-4f30-bc6e-b9c2e2f8d9a2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/01-04",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan aan de hand van tekeningen, stuklijsten en materiaalstaten een eenvoudige calculatie maken.",
+		"id": "be61385b-ae72-49ae-8742-3db6e8f3a8ec",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/03-01",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan elektrische componenten in een practicum opbouwen en aansluiten aan de hand van een eigen ontwerp.",
+		"id": "0021e2da-b1c1-46ee-b3ff-d5cd216db4b3",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/03-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een elektrische componenten in een practicum aansluiten aan de hand van een stroomkringschema.",
+		"id": "7d54e740-76a8-42c8-bc24-b0d6ec108e68",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/03-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan de werking van de elektrische schakeling in een practicum beproeven aan de hand van een stroomkringschema.",
+		"id": "84336f7c-3905-4788-b7be-b3ef7fd62258",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/04-01",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan onderdelen en componenten monteren en samenstellen.",
+		"id": "d7a042dc-8406-4fc6-b071-38e234dc3e3e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/04-02",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan elektrische bedrading aanbrengen en aansluiten.",
+		"id": "9c492112-62f1-4c9d-8702-ef8ca7716ac2",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/04-03",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan meten en controleren van samengesteld werk.",
+		"id": "175937c5-330c-4f1e-bb04-26e658aeddd4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/02/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan buis en profielen buigen.",
+		"id": "4fa9e2b1-e815-4549-bed8-c7c7f5012d74",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/02/01-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan buiggereedschap, zetbank en vingerzetbank instellen en gebruiken.",
+		"id": "232b6822-dbdb-4fbb-9735-18327a67e434",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/02/01-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan buigvolgorde bepalen van dunne plaat en ronde buis.",
+		"id": "704ee73e-ea56-417f-9462-952beac5f1a1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/02/02-01",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan onderdelen samenstellen door middel van MAG-hechtlassen en puntlassen.",
+		"id": "a792f1d9-d2ec-4311-a558-209ae4850879",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/03/01-03",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan sensoren en actuatoren kiezen en aansluiten",
+		"id": "0778abe0-4a3c-43bc-a243-4ead9448925b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/03/01-05",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een domotica-installatie opbouwen, aansluiten en testen",
+		"id": "d2ece59f-580e-4ae8-8e17-f8b045db11fa",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/03/01-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan storingen en fouten zoeken en verhelpen in de opgebouwde schakeling",
+		"id": "8012880a-c384-4191-a185-484b9f8afa95",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/01-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan sanitaire kunststof afvoerleidingen verbinden en aanleggen",
+		"id": "291562fb-fbd7-4a2f-aa28-f9a14e602ca9",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/02-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan verlichtingsarmaturen voor een huisinstallatie aansluiten en afmonteren.",
+		"id": "eb4b0cc1-7cd7-44df-a88e-e70a35c7af4f",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/02-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan elektrische huishoudelijke verbruikstoestellen aansluiten.",
+		"id": "f490743f-d31a-4419-9bda-d42b0056fb32",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/02-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan een huisinstallatie met huishoudelijke toestellen in bedrijf stellen.",
+		"id": "f0862661-be21-478c-99c4-73e1b37f60b4",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/02-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "De kandidaat kan fouten zoeken en verhelpen met behulp van stroomkringschema's, bedradingstekeningen en installatietekeningen.",
+		"id": "1d24d15b-1589-4d65-8048-a15ed7ab49d0",
 		"unreleased": true
 	}
 ]

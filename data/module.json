@@ -131,7 +131,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"bd4396b8-be90-4bef-b535-69e474d4f4b5"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "fbe67748-d71f-4004-87ee-2391538e9847",
@@ -144,7 +145,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"e5410ae4-17b4-490d-93d5-5924254303b8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e4cdcb2d-3237-4114-b954-31c203a84db0",
@@ -158,7 +160,8 @@
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"652230da-c7ab-485f-9bfb-66517e0f12e7"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ad442fe2-a2ec-4136-b019-3bb28f5a8bd2",
@@ -170,8 +173,9 @@
 			"dcd5b2b2-4c74-4690-9273-0e037527eeb2"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"d73b52a0-66eb-4f96-9854-da092ca5b5ca"
-		]
+			"8787160c-358e-41ba-bc17-5b286ca24fa4"
+		],
+		"dirty": true
 	},
 	{
 		"id": "3609ee5b-46b1-407d-8d2d-04a157073bb4",

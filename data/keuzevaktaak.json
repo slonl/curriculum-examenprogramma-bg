@@ -1500,13 +1500,14 @@
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/HBR/09/KT",
-		"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\nen andere technieken dan in het patisserie worden toegepast en gecombineerd.",
+		"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\r\nen andere technieken dan in het patisserie worden toegepast en gecombineerd.",
 		"id": "7693afd1-3a4c-4aa1-9f81-60ff4fb29379",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",

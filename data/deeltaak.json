@@ -4845,20 +4845,24 @@
 		"prefix": "P/PIE/01/03",
 		"title": "Een ontworpen elektrische schakeling opbouwen, aansluiten en beproeven",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"33b918c9-1c23-4574-95d4-9138ee9424dc",
-			"2dc935bf-d188-4739-8d9c-f48f74c2cdc9",
-			"01be80ff-5806-41d1-a114-c224c57e7e7a"
-		]
+			"0021e2da-b1c1-46ee-b3ff-d5cd216db4b3",
+			"7d54e740-76a8-42c8-bc24-b0d6ec108e68",
+			"84336f7c-3905-4788-b7be-b3ef7fd62258"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "f8ff42b5-a759-4a35-a49c-4fdb068e691c",
 		"prefix": "P/PIE/01/04",
 		"title": "Aan de hand van een ontwerp een product bestaande uit meerdere onderdelen samenstellen en aansluiten",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"04c11b3e-e12c-47c1-bb6b-78dfeac4f900",
-			"be5d3327-184e-4f3a-8a3f-fad73b571cde",
-			"b8657e35-c523-4b10-85fe-4437c4d41511"
-		]
+			"d7a042dc-8406-4fc6-b071-38e234dc3e3e",
+			"9c492112-62f1-4c9d-8702-ef8ca7716ac2",
+			"175937c5-330c-4f1e-bb04-26e658aeddd4"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "152368b0-a7a6-4af5-9708-b51ab2fd5b35",
@@ -4868,20 +4872,24 @@
 			"2908681d-b64c-4d50-8b73-c1348c8674a7",
 			"f042501b-ea64-4bed-838f-e85dd1074ca8",
 			"cc5ede1a-c061-48ae-8197-a21ceb23f6ea",
-			"639f0741-e07d-4b78-99d7-b6e18564f6c9",
-			"b9025faa-a5ef-4bd6-96f0-3d5cd1c60c13",
-			"bcd32c02-d487-4242-817f-352348704526"
-		]
+			"4fa9e2b1-e815-4549-bed8-c7c7f5012d74",
+			"232b6822-dbdb-4fbb-9735-18327a67e434",
+			"704ee73e-ea56-417f-9462-952beac5f1a1"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "8f95ff15-9a2a-4daf-a486-8a56e3a971b2",
 		"prefix": "P/PIE/02/02",
 		"title": "Plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"e03ca938-bc7b-4ee8-b4c1-d11e2732bb0e",
+			"a792f1d9-d2ec-4311-a558-209ae4850879",
 			"03ea4f41-5014-4703-b322-9fb04bd84bbc",
 			"6b91c65f-3593-4829-b0a2-e02375e9f7e3"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "8033c778-b0e4-4c23-8b86-43aa6d1f5ec7",
@@ -4890,13 +4898,15 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3a3bf020-194f-40df-83ab-d4dc1bfd6934",
 			"07fda395-6c6e-46d4-9df1-283a63ed8a8f",
-			"34ec3e3c-2e8d-4673-9e9a-dad738536ff7",
+			"0778abe0-4a3c-43bc-a243-4ead9448925b",
 			"7c4b3f76-d4e0-42fe-a1ca-419718a53e3d",
-			"75b3469c-ca11-4ccc-b2e4-c238b933b449",
-			"fe33ac99-f0d1-482f-ae16-c6de6db5de91",
+			"d2ece59f-580e-4ae8-8e17-f8b045db11fa",
+			"8012880a-c384-4191-a185-484b9f8afa95",
 			"0a98c543-d4e1-410c-b88d-aa2ceec32761",
 			"308d1d50-557b-489b-8726-1ac768b7344d"
-		]
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "adf1b951-3345-45ba-8152-23985957b8fd",
@@ -8221,6 +8231,52 @@
 		],
 		"title": "Meldingen en gebruikersvragen verwerken.",
 		"id": "0c03035f-d51c-4ffb-8e78-dbc3ad718aee",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/01/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"9060939f-e869-4685-87c1-c80129375ff3",
+			"6fd08e6d-7ba8-4775-8e18-873f67364079",
+			"9491ca8c-8bf5-4f30-bc6e-b9c2e2f8d9a2",
+			"be61385b-ae72-49ae-8742-3db6e8f3a8ec"
+		],
+		"title": "Een ontwerp van een product maken met behulp van CAD-software en de uitvoering voorbereiden.",
+		"id": "038684f0-7e47-4821-9daf-367ff6aa4725",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"03fe8180-d6d8-42a2-9b2f-247044a3a7a2",
+			"2c6699d4-1ab5-4910-9119-304f6f653b94",
+			"e27a49c0-1db4-4869-a1ef-c7a3cdbb6114",
+			"291562fb-fbd7-4a2f-aa28-f9a14e602ca9",
+			"5bad258d-75b1-455d-9647-835d0b3621b2",
+			"73269b9d-290d-47cc-a984-e392ca67de51",
+			"4631d3ce-90ed-43fa-bd28-5a433eaec7d6",
+			"869fadb9-8d75-447b-b8c7-13dcc7f4dc49"
+		],
+		"title": "Een sanitaire installatie aanleggen aan de hand van een werktekening.",
+		"id": "72599967-50af-405a-8d79-0ffbdd1c2e29",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/PIE/04/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"1025352b-3151-4ebf-8158-451f76f312e6",
+			"5236b35b-7352-4bd8-9d4b-261d4ab920bf",
+			"401de799-c29f-4477-a696-eeb9802dba00",
+			"eb4b0cc1-7cd7-44df-a88e-e70a35c7af4f",
+			"f490743f-d31a-4419-9bda-d42b0056fb32",
+			"f0862661-be21-478c-99c4-73e1b37f60b4",
+			"1d24d15b-1589-4d65-8048-a15ed7ab49d0"
+		],
+		"title": "Een elektrische huisinstallatie aanleggen aan de hand van een installatietekening.",
+		"id": "f821b7f4-93ef-4494-a903-1894418d8ba0",
 		"unreleased": true
 	}
 ]

@@ -31491,9 +31491,10 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"id": "31f6c928-6704-4b7d-aeef-87c24470869d",
-		"prefix": "P/GR/04/02.6",
+		"prefix": "P/GR/04/02-06",
 		"title": "De kandidaat kan een boeket samenstellen me behulp van een korenschoof bindtechniek",
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"niveau_id": [
@@ -35401,6 +35402,97 @@
 		],
 		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
 		"id": "d57efa17-c88e-486c-b02a-72634605bbac",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/GR/c-1a",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "d47d0bdd-f76e-427f-9411-ed689bafa4da",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/GR/c-1b",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "16bd1839-f162-4a9b-a0ed-5d32349f0633",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/GR/c-1c",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "a8eb6ad5-5320-49cf-8b74-3d1f93000099",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/GR/c-1d",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "95d1884c-1f8f-485a-b7e7-71edbd94d3e9",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/GR/c-1e",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "311e581c-d9e8-4b99-a769-9216350d6115",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/GR/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "ac29eed5-5a7c-40ed-9f06-8b37b5d9b900",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/GR/03/01-01",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een ontwerptekening maken voor een groene ruimte met daarin een groen object",
+		"id": "ed1588a7-7be5-4039-b2fc-87c7b7231825",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/GR/03/03-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan door middel van onderzoek aantonen of water veilig is voor gebruik door planten en dieren",
+		"id": "bb3c1dbf-17aa-4491-a405-ca9c3923ac91",
 		"unreleased": true
 	}
 ]

@@ -68,12 +68,13 @@
 		"examenprogramma_bg_deeltaak_id": [
 			"d08f7b97-b329-41cb-b542-5cd0552d8046",
 			"5c63fda6-87fe-4f32-ac6e-01cc9614c63f",
-			"611be47b-6165-4998-af60-e51a05551780",
-			"5317ad6f-38ad-4bc8-aa8d-e586b6de19c4"
+			"9420cb6f-42e3-4397-9c58-d196e17974f1",
+			"09407b31-ba8c-48a4-b4c2-42afbacd27d6"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"e47e7927-0856-4b88-869a-b704603315b1"
-		]
+			"a917c221-d10e-4e69-a9d8-1c7c998ec459"
+		],
+		"dirty": true
 	},
 	{
 		"id": "c4645e3f-2d32-423c-b3aa-153ef808a24e",
@@ -82,12 +83,13 @@
 		"description": "Verschillende manieren van communicatie en communicatiemiddelen (her)kennen, benoemen en professioneel toepassen / een product of dienst promoten en verkopen / doelgericht informatie verstrekken en instructies geven",
 		"examenprogramma_bg_deeltaak_id": [
 			"7a6c5ce3-f9b6-4935-a604-718b2f0e90f7",
-			"a3e99f28-33af-4f5b-90b4-8c7017c89b69",
+			"c878e096-6b94-46ae-9b66-5015abf5c56e",
 			"967b7102-b843-4209-bcaa-72f8b3edc80a"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"84f72449-fe3d-4598-8755-20897dfc6788"
-		]
+			"89fa6193-8f25-49bb-a40c-1b3a74203ebb"
+		],
+		"dirty": true
 	},
 	{
 		"id": "0a69ef0d-7af2-4b00-97df-6e92234b4d8d",
@@ -95,12 +97,13 @@
 		"title": "Een product maken en verbeteren",
 		"description": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 2D en 3D / een product maken",
 		"examenprogramma_bg_moduletaak_id": [
-			"382d5ce4-6b20-4880-9d9b-190647a498c9"
+			"684ae0ae-b77d-4296-94a4-ce1271af7f3c"
 		],
 		"examenprogramma_bg_deeltaak_id": [
 			"e8c1966e-5051-4d3d-a07c-9603fa01816e",
-			"e14cb970-203e-4d18-ac33-1fbefbac9efe"
-		]
+			"18ceae22-0153-4b9e-93d3-0e15d8c94567"
+		],
+		"dirty": true
 	},
 	{
 		"id": "9c096b39-7184-48fb-a322-b78d252b3f5b",
@@ -109,13 +112,13 @@
 		"description": "Aan de hand van een programma van eisen een digitaal ontwerp maken / een instructiefilm maken / een website ontwerpen en samenstellen / een applicatie ontwerpen en maken",
 		"examenprogramma_bg_deeltaak_id": [
 			"8b458c11-ae77-49fb-aeb5-2314b31327c0",
-			"253583ef-0a0f-45d5-a062-d888fefa9f5a",
-			"f1331a59-bd7e-4f1c-a622-c8c116755a50",
-			"284e635b-635b-482f-92dd-f8151b04f67e"
+			"c14928e7-6d50-4acf-8cb7-7dce8fb1e2c6",
+			"f1331a59-bd7e-4f1c-a622-c8c116755a50"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"66bfc382-9cc6-4ef6-9562-35620a2a1b2d"
-		]
+			"3afbae11-aa56-404c-a953-f8a9af6abfb2"
+		],
+		"dirty": true
 	},
 	{
 		"id": "2f58d580-abd6-49da-8c02-13677d0712b9",

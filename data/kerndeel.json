@@ -560,18 +560,24 @@
 			"bf8d4df4-ae5a-4624-b029-4b9d326bc3ff",
 			"61f287d1-a1ec-4c8d-a32c-bd8d2d3e17e7",
 			"bd05e3eb-03a8-42e9-b63a-628d2ea3c4d1",
-			"f71bd69d-ee77-47cc-9b51-b70b2bfe99c3",
-			"5c9f9587-49c1-45d6-aef5-91a2c67eee53"
-		]
+			"f71bd69d-ee77-47cc-9b51-b70b2bfe99c3"
+		],
+		"dirty": true
 	},
 	{
 		"id": "330e996a-a150-4fa0-a3a9-3ac4b6c1b969",
 		"prefix": "PK/ZW/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"b5bc6790-81ca-4af3-9ee1-0abc035ea157",
-			"3aeccbdc-a04c-40f5-8ecb-e40cf77921c0"
-		]
+			"58046547-8b5e-4a40-9dd0-5a0922169658",
+			"91aa4a19-eea7-44b6-a892-f5db13ae9564",
+			"fc672241-d4b7-4ecf-bcfe-94d046ac7f3c",
+			"63b219dd-ce4c-4186-a50e-c34990fdb007",
+			"c76d9cad-9fb3-4965-8c53-416eb7d946d0",
+			"7568d184-969d-479f-9eeb-7dd46c4baefd"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "0f888a78-0a56-4b8b-b77a-a7346648ba3d",
@@ -815,6 +821,34 @@
 		],
 		"title": "Algemene kennis en vaardigheden",
 		"id": "896652c6-b57a-4de5-a356-5d125baa72da",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/ZW/a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"f74b8251-c7a2-41f2-8c0a-4b372f032265",
+			"2f59c423-5a0e-4e5b-818e-66186eea5374",
+			"416bb4cc-4479-481a-a6ee-0985811449df",
+			"89a2d41e-d28b-4b28-87b8-f0356ba8e628",
+			"c3ef95fc-d5df-473e-a72f-f911bd3ec771",
+			"7ce762de-ff04-48d0-8788-c40d0292d6dc",
+			"b8d2658d-0612-4452-a0a5-d72f08585979",
+			"174a445d-3a05-46b9-a02c-60b4317fa795",
+			"c5782543-7441-436c-aa4a-bf1a289509e2",
+			"db580c95-b236-482e-94f0-5eb15e1a39b0",
+			"716cd239-975f-4642-862d-f6f8c395185b",
+			"9beb1b6e-9951-43f9-9a12-e89adaa04e0e",
+			"bab9dd49-b970-481b-abf0-7207454fa1be",
+			"4751501a-702a-409c-a5bb-71340a83e62d",
+			"5acaa834-b89a-4245-a115-7dc1dcbe60ea",
+			"ea2525de-b685-4bef-ae6f-05a603554887",
+			"4abed04e-7fd6-47f6-b353-144156ed411c",
+			"4f3bb0fa-f62d-441d-afc4-9ed0783833f1",
+			"8ee2c066-d031-4b7f-a0aa-792929241942"
+		],
+		"title": "Algemene kennis en vaardigheden",
+		"id": "9fde298d-0e53-4007-9782-fde16611ec55",
 		"unreleased": true
 	}
 ]

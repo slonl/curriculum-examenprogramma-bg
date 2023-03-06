@@ -177,10 +177,15 @@
 		"prefix": "PK/GR/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"2b1cb3b2-d579-4a6e-b824-2798d4ad59e3",
-			"f30589a7-3cbf-479e-aa3d-0270b82deb64"
+			"d47d0bdd-f76e-427f-9411-ed689bafa4da",
+			"16bd1839-f162-4a9b-a0ed-5d32349f0633",
+			"a8eb6ad5-5320-49cf-8b74-3d1f93000099",
+			"95d1884c-1f8f-485a-b7e7-71edbd94d3e9",
+			"311e581c-d9e8-4b99-a769-9216350d6115",
+			"ac29eed5-5a7c-40ed-9f06-8b37b5d9b900"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "de51704a-0688-43d5-8a4b-04fb3e0ffb95",

@@ -978,8 +978,10 @@
 			"1bcb2576-2756-4e77-8f90-09e0740a9e35",
 			"a6b1c63a-1a67-45d8-a2c3-9367ca6dba3f",
 			"674d5028-1ad2-4c82-a8f8-f942a9689601",
-			"cdcf64a1-3405-4ee1-82e5-da82fe424631"
-		]
+			"b3dd8458-a22c-4cb2-ab56-d7ff800a410d"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "a3e99f28-33af-4f5b-90b4-8c7017c89b69",
@@ -996,11 +998,11 @@
 		"prefix": "P/DP/02/03",
 		"title": "Doelgericht informatie verstrekken en instructies geven",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"451695bf-5239-46c4-97fd-5c851a2036ae",
-			"4e363a9b-e329-4a43-8493-b39ccf133712",
-			"93840e82-d671-4e76-9097-14bc688ae804",
-			"9d287607-1a85-4973-b792-7787596cd6d8"
-		]
+			"b20fd1f4-4b89-433f-a777-6d180b67eca2",
+			"d2ee80d3-2e93-4ee6-98f6-9279f91c6ee3"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "e14cb970-203e-4d18-ac33-1fbefbac9efe",
@@ -1054,13 +1056,16 @@
 		"prefix": "P/DP/04/03",
 		"title": "Een website ontwerpen en samenstellen",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"d2c4e522-690b-4db0-a4c2-af4842a0e496",
-			"aa1298c2-f505-44aa-85b6-aeaf30711beb",
-			"952876fa-769d-411e-a0dd-b344c0ac1492",
-			"3ba307ef-264a-45e7-9989-80fcaa32fe85",
-			"55a33dd3-9cd8-42d0-84a6-1562648f19b9",
-			"62beaa64-dbad-443d-8854-078a4cd0cf10"
-		]
+			"ceadc12b-c9ec-462f-84f9-c28660a8ea99",
+			"5f6deab0-3de2-4e37-b9e1-b87b22d105dd",
+			"da2c92cb-d8a8-417a-b517-d04bb35fb9e8",
+			"47b39700-f184-4e90-9270-18990de04f0f",
+			"5af5063b-edf0-4642-a061-fdc905d1a409",
+			"9a853f0d-d102-4a6c-8d86-ee07fcfdbd95",
+			"ea3f2067-282d-4e66-8a01-b484d4910e08"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "284e635b-635b-482f-92dd-f8151b04f67e",
@@ -8004,6 +8009,69 @@
 		],
 		"title": "Een ontwerp maken voor de afwerking van een interieurelement met behulp van decoratieve technieken.",
 		"id": "74ec7506-d58a-493f-9c9d-67f7df479427",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/03",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fd8c4d19-872d-422b-a904-3b469f60820a",
+			"2a948451-207a-4b4b-8ef1-87fdfdbc70c8"
+		],
+		"title": "Werkzaamheden rond hospitality uitvoeren",
+		"id": "9420cb6f-42e3-4397-9c58-d196e17974f1",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/01/04",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"399aed65-5fcd-491c-835a-2438974bc8ef",
+			"7581a0ed-17ab-44e8-8a16-72e52d536816",
+			"bd8c0277-5cfb-4c8b-b573-6207234d0643",
+			"85b28581-92e8-406c-840d-33d64630fedf",
+			"b8ee562a-c45c-44a7-9df7-3189faaf3ceb"
+		],
+		"title": "facilitaire werkzaamheden uitvoeren",
+		"id": "09407b31-ba8c-48a4-b4c2-42afbacd27d6",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/02/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"ddaa627a-f908-4b7e-9918-3503f4448c12",
+			"6cc80eb5-c1b0-4948-933b-91ed9d4dfead",
+			"68d4331f-c663-4917-85a2-1c56f93dc8f9",
+			"4a94f75e-e0d0-4240-bab6-c943dbaa3e6e"
+		],
+		"title": "Een product en dienst presenteren, promoten en verkopen.",
+		"id": "c878e096-6b94-46ae-9b66-5015abf5c56e",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/03/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"dbcb50b9-e502-401b-9394-4f724e843e1d",
+			"5bab94df-4798-449b-bb72-3f19393b8b1e",
+			"72c6a166-5263-43cd-ac38-2fec9a438648"
+		],
+		"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 3D.",
+		"id": "18ceae22-0153-4b9e-93d3-0e15d8c94567",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/DP/04/02",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"83f71bc9-9b2c-4742-bc82-77b519089efb",
+			"73262d77-5d91-4922-b9fa-c409377559b0",
+			"f54a03c3-5a2a-455e-a9b0-f189245fd3cf",
+			"6632836f-948b-4e6a-9253-a5ac4deb1860"
+		],
+		"title": "Een film maken.",
+		"id": "c14928e7-6d50-4acf-8cb7-7dce8fb1e2c6",
 		"unreleased": true
 	}
 ]

@@ -270,6 +270,8 @@
 		"examenprogramma_bg_module_id": [
 			"a215a62a-0e45-4dc4-8e9f-df111d64a63d",
 			"1c2b18f8-5936-4a9e-af39-7544b7628f53",
+			"3235ab1e-87e3-4512-b788-2557b6313d9e",
+			"da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
 			"595d2047-1bf9-4303-9824-7956854f466c",
 			"a88692f5-10a3-4aac-9e19-73d87c7015df"
 		],
@@ -294,7 +296,8 @@
 		],
 		"replaces": [
 			"43c567e5-d5a9-480e-b03c-3c377215ecf6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "a3a62b05-c64b-4355-ba9c-a4c4b063990d",

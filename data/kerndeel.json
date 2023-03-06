@@ -29,37 +29,44 @@
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d2906dd9-fa74-4ca2-929a-268aa40338bb",
 			"6039b87a-b2b4-47b6-ac00-f3129152cd66",
-			"dadd2494-22fc-413f-8c72-823f6b86a391",
-			"92f59118-ab1c-4c1f-9503-1325dbc2d9e6",
-			"2009b8ee-7230-4223-a7bb-e3dc14377b0c",
-			"2230f198-6b35-40bf-979d-c84fb711cece",
-			"36b045d3-8837-4083-90e6-e583e22ed21e",
-			"0f5a83ca-6e9c-4414-8e2b-feced72542fb",
-			"88ed09d5-b3ac-46f1-8c60-15e9326f367b",
-			"44f54764-6e8c-455e-bdc2-03aeaaed7d54",
-			"b15725fc-de74-483a-8fe1-1f5ad89640db",
-			"43896690-bbf6-4828-ac63-f681ce12d0f5",
-			"9e10488f-53ad-4033-b021-71679f825a5b",
-			"754ba9c3-83b8-4b8e-83dc-add41d94ff90",
-			"685a885b-d47d-4bd1-a425-e2f3cbe195fd",
-			"c3ddbca8-040a-4bf2-8fb1-0371a989d1d2",
-			"e5892336-21bc-4909-af49-36dfd5849c6b",
-			"27cfbf88-1041-4773-81dd-e8181d1a6a3a",
-			"8d0d48f9-d4d4-44cf-94e5-6c6502c3398b",
-			"8602b91b-2e27-48b7-9c74-ba4dfc219daf",
-			"1039774f-5c01-4790-87b8-ee387696a45b",
-			"a4a7ecb6-b17a-449e-bc10-c3bae637bd83",
-			"d811165f-4123-46e2-aa9d-0919022b5070"
-		]
+			"d039de75-0fdb-4e8c-b41f-466348b89bcb",
+			"e30619d9-405e-4d32-bb01-37362010c414",
+			"745aae18-e3c9-4efd-89ed-966157859837",
+			"4ca53ef0-ffa3-4038-881a-3eecf12eebac",
+			"a84aeb14-07a5-4b3b-848d-26cd0e45f271",
+			"61d2728c-9382-45b4-8822-001ca34ab4f9",
+			"71003bdd-0834-4d20-bebc-b1c29f0ec8ad",
+			"23988b7e-00e6-43d3-a864-9af9b4b8e670",
+			"16c33302-7fbc-464d-80d8-086ff592b058",
+			"973b0ffc-f591-4f5e-a894-05b6ae3b7a3f",
+			"f544bef3-63f5-4f7d-b4f1-8554c7ca184a",
+			"06fb9f9d-d639-493c-a94e-b8f5a8d13b1d",
+			"011e48e8-4ccb-4b53-ae8a-03ec63589ebf",
+			"8d9aac88-c4b6-4755-aba5-712865fea84f",
+			"715f55df-2971-4b04-91b9-8653c8aae533",
+			"7adc185d-181a-4562-bb35-0be2bd8f1b5e",
+			"fc9f4742-c229-49fd-8ca5-181951bdd34c",
+			"9bf01318-1ef3-48db-8073-bc63afc6eeef",
+			"bb5fc551-151e-45b4-b3e0-a5dc6921e1dc",
+			"9e5e4f4f-8ea5-4a54-9f9f-31d40b650705"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "68d11a1f-efbf-4919-85d1-b14edce33dac",
 		"prefix": "PK/BWI/c",
 		"title": "Loopbaanoriëntatie en -ontwikkeling",
 		"examenprogramma_bg_globale_eindterm_id": [
-			"7e9780b8-dc79-45ea-99fb-3202006647e8",
-			"46a1cc3e-0b60-4fd5-b7f7-89b4eaef2122"
-		]
+			"038b8850-3525-44cf-b1ef-38271a9a74e5",
+			"e7f0adb1-1d51-44da-83a3-71ea5db1d99e",
+			"0c39a0f2-5da7-41c2-91aa-8e5820cb470a",
+			"1033b3da-0459-4052-8819-364c2e4ba789",
+			"64798877-bb9f-4223-89f8-c77030cc6a4b",
+			"bea9f3e4-e25b-445e-a917-d76e953fd9fa"
+		],
+		"dirty": true,
+		"description": "De kandidaat is in staat zijn eigen loopbaanontwikkeling vorm te geven. Hij doet dat met een oriëntatie op een toekomstige opleiding en (loop)baan door middel van reflectie op het eigen handelen en reflectie op ervaringen."
 	},
 	{
 		"id": "344925be-3f94-4d2c-8d83-680ea68645ac",
@@ -566,5 +573,33 @@
 		"replaces": [
 			"c42d0cb6-43e0-438f-a614-9c7fbf7de2ab"
 		]
+	},
+	{
+		"description": "",
+		"prefix": "PK/BWI/a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"2bf03b0a-4593-41fc-a558-b0b8605e6a4d",
+			"e9f89047-833a-44cf-9bf1-49659a976467",
+			"28586e16-21c6-4761-9ae0-ab7a94c50dd1",
+			"6cf98a1d-860d-4e0f-9590-d458c9fce433",
+			"4c933acd-1ef4-4ff1-aca0-e54a38916b27",
+			"16b2d466-eb42-4c34-a68c-f021d4f1a4ff",
+			"88e5481a-9753-462e-98ae-4c3859bb84ba",
+			"728e93bb-51f0-4729-b390-d1ab71f7b53a",
+			"ef0fcc66-b68f-4a87-b2be-9a9889144c5b",
+			"f00ce2bb-cc44-4d86-80ff-00bde17510cb",
+			"d733db9d-dd87-41b8-8402-e9471d654471",
+			"28afc9a2-986c-419f-8f60-b07a01a497e5",
+			"8f51a758-0681-473e-bc16-d5181a5ca62b",
+			"23a08722-0b0f-448c-ad75-e5783f3c8feb",
+			"f6114268-1d0e-458d-a2ad-79347a232204",
+			"243375a2-e84b-4952-a275-3441a7a6bbb6",
+			"6cc1603c-84a0-40c8-9855-cb5858227ebc",
+			"138d7c6d-d3b5-4f38-a79f-36c60213e07f",
+			"506da011-42a2-4d4f-bb57-1de3a597ab7e"
+		],
+		"title": "Algemene kennis en vaardigheden",
+		"id": "b9e543bc-f9ae-434c-94dc-51fafe506fc9",
+		"unreleased": true
 	}
 ]

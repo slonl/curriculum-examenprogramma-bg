@@ -426,5 +426,16 @@
 		"title": "Aan de hand van een programma van eisen een digitaal ontwerp maken / een film maken / een website ontwerpen en maken.",
 		"id": "3afbae11-aa56-404c-a953-f8a9af6abfb2",
 		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "P/EO/04/MT",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"title": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de administratie van de (handels)onderneming bijhouden",
+		"id": "8787160c-358e-41ba-bc17-5b286ca24fa4",
+		"unreleased": true
 	}
 ]

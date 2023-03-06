@@ -7137,10 +7137,10 @@
 		"prefix": "P/EO/01/01-09",
 		"title": "De kandidaat kan de samenhang tussen promotie en presentatie en de marktpositie herkennen en toepassen",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"dirty": true,
+		"description": ""
 	},
 	{
 		"id": "89177468-bf1d-4b7b-b477-724a0451542d",
@@ -35120,6 +35120,287 @@
 		],
 		"title": "De kandidaat kan de website presenteren aan de opdrachtgever en gemaakte keuzes beargumenteren.",
 		"id": "ea3f2067-282d-4e66-8a01-b484d4910e08",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-02",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan een informatiebehoefte signaleren en onderzoeken en op basis hiervan relevante informatie zoeken, beoordelen, verwerken en gebruiken.",
+		"id": "645e0bba-4538-4ec1-9bf1-aad65be26d3a",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-03",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mediawijs handelen: kritisch en bewust omgaan met (digitale) media.",
+		"id": "35086ef6-09d4-4ec8-bf31-2081988fea85",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-04",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan bewust omgaan met opslag en gebruik van gegevens en daarbij rekening houden met privacy en digitale veiligheid.",
+		"id": "83f92dc5-2930-4d54-ac4f-7e47689c7f27",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-05",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan het belang beschrijven en voorbeelden noemen van technologische en innovatieve ontwikkelingen in de beroepscontext.",
+		"id": "e4477492-d64c-4bde-8b2f-b7a96e448a40",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-06",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voor opleiding en beroep relevante berekeningen uitvoeren.",
+		"id": "04035d6b-a754-4578-86ae-7870b189d8d0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-07",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan plannen en organiseren in een beroeps(opleiding) gerelateerde situatie.",
+		"id": "c1e56140-b4b2-40ca-8c4f-876cf85673da",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-08",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan op systematische en doelgerichte wijze werkzaamheden uitvoeren op basis van een planning met de inzet van vakdeskundigheid en met aandacht voor een zo hoog mogelijke kwaliteit.",
+		"id": "e253e847-1b59-4b10-890c-7873386105ff",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-09",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan mondeling en schriftelijk rapporteren over de uitgevoerde werkzaamheden; onder meer over de planning, voorbereiding, proces en product.",
+		"id": "feb34773-0501-470e-8a2f-e5d83bcc84cb",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-10",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan reflecteren op de eigen werkwijze en op de kwaliteit van het eigen werk.",
+		"id": "b1e5b5cb-203b-4790-a716-262877b78a03",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-11",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan samenwerken en overleggen bij het uitvoeren van werkzaamheden.",
+		"id": "38d0d837-651f-4986-800d-6011af9f3440",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-12",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan werkzaamheden volgens de voorschriften en op een veilige wijze uitvoeren.",
+		"id": "2ce04a47-71f7-4dbf-bf0c-1aa7d13d43f0",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-13",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan economisch bewust en duurzaam omgaan met materialen en middelen.",
+		"id": "34ef46cd-0d3b-47bb-8b9d-71d3b96c6334",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-14",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan professionele (technologische) hulpmiddelen gebruiken en hun werking uitleggen.",
+		"id": "e9fecd93-90d4-48ef-bdb5-a7c26dad829b",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-15",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan hygiënisch werken.",
+		"id": "0af31cdc-b319-439e-ac2b-1cf43f79ecf5",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/a-16",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan milieubewust handelen.",
+		"id": "32e6a018-5b94-42c0-9753-9b138548c300",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/a-17",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan zich aan- en inpassen in een bedrijfscultuur.",
+		"id": "cf210866-d54a-4e0c-afca-da7d5a26b35c",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/a-18",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan voldoen aan de algemene gedrags- en houdingseisen die gesteld worden aan werknemers in de brache.",
+		"id": "d4673dcb-3dfd-4209-93bb-f44b5458c768",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/a-19",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat kan in een (gesimuleerde beroepssituatie en stage in een bedrijf omgaan met verschillen op basis van culturele gebondenheid en geslacht.",
+		"id": "35d7ceb9-0915-4455-aa26-50b9805cdbac",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/c-1",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: kwaliteitenreflectie (wat kan ik het best en hoe weet ik dat?).",
+		"id": "bce198cb-4171-40c7-ba8a-3c310264aff7",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "PK/EO/c-2",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: motievenreflectie (waar ga en sta ik voor en waarom dan?)",
+		"id": "4d1a77e0-0ac3-4b92-85f2-6e10e068aaf2",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/c-3",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: werkexploratie (waar ben ik het meest op mijn plek en waarom daar?)",
+		"id": "3ff22afd-6b4a-483a-806c-48e776cb3466",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/c-4",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: loopbaansturing (hoe bereik ik mijn doel en waarom zo?)",
+		"id": "c02e27e1-bb08-46da-8dbe-2f3de7066e94",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/c-5",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat heeft de vaardigheid de eigen loopbaan vorm te geven door op systematische wijze om te gaan met ‘loopbaancompetenties’: netwerken (wie kan mij helpen mijn doel te bereiken en waarom die mensen?)",
+		"id": "76711712-5bae-4aab-b76b-5962ad71061f",
+		"unreleased": true
+	},
+	{
+		"prefix": "PK/EO/c-6",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"title": "De kandidaat maakt zijn eigen loopbaanontwikkeling inzichtelijk voor zichzelf en voor anderen doormiddel van een ‘loopbaandossier’. In een loopbaandossier is opgenomen welke activiteiten zijn uitgevoerd die hebben bijgedragen tot het ontwikkelen van de ‘loopbaancompetenties’. In het loopbaandossier wordt beschreven bij een aantal uitgevoerde activiteiten: de beoogde doelen; de resultaten; de evaluatie en een conclusie welke vervolgactiviteiten gepland zijn op basis van de opgedane ervaringen en de daarbij horende conclusies.",
+		"id": "d57efa17-c88e-486c-b02a-72634605bbac",
 		"unreleased": true
 	}
 ]

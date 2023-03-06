@@ -540,7 +540,8 @@
 		],
 		"replaces": [
 			"284bff9b-e9e1-4cb8-a3d9-1da4f02c8c88"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "137a1ae5-13d0-4399-9824-cb92361c41fb",
@@ -549,15 +550,16 @@
 		"description": "Voedingsmiddelen uit de groene sector hanteren, verwerken, bereiden en bewaren en van de juiste informatie voorzien; in de groene sector geproduceerde producten selecteren, verpakken en transport klaar maken, afgestemd op het verkoopkanaal; een voorraadbeheersysteem gebruiken, bestelopdrachten in ontvangst nemen en verwerken tot een order en goederen klaarzetten voor verzending",
 		"examenprogramma_bg_deeltaak_id": [
 			"09976a10-d65c-40d9-ba6d-8a050e450c9f",
-			"367a68a3-ee52-4eff-8b2c-55c7eaaecc07",
+			"e0f21147-dfaa-4b28-b3a2-b756c757319d",
 			"46b36d86-9a32-4616-a4dd-1f13d02fedad"
 		],
 		"examenprogramma_bg_moduletaak_id": [
-			"4b7a7cc5-53bb-41a1-9513-c96c645bc95a"
+			"52838e62-859c-4fbd-9b21-1272d8a31e23"
 		],
 		"replaces": [
 			"51165ad3-a9fb-4151-ad5c-563152cb10cf"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "4bdfcc78-aab7-434d-898a-bb5c0921cfda",
@@ -575,7 +577,8 @@
 		],
 		"replaces": [
 			"82dc8c61-a8bb-4d7a-b2ee-1f8409af9433"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "71da7a70-9cb4-4951-8095-21cb6553e854",
@@ -592,6 +595,7 @@
 		],
 		"replaces": [
 			"652ece59-50ae-4a8c-9c56-ae2eb22e7901"
-		]
+		],
+		"dirty": true
 	}
 ]

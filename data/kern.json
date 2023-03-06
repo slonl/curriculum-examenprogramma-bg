@@ -16,11 +16,12 @@
 		"prefix": "PK/DP",
 		"title": "Kern Dienstverlening en producten",
 		"examenprogramma_bg_kerndeel_id": [
-			"344925be-3f94-4d2c-8d83-680ea68645ac",
+			"9cd0f2b6-1d76-4606-8112-ae90f4b7006c",
 			"e0664128-ef21-4667-ae4b-861ede654029",
 			"49f727fd-6789-4468-9e2b-3e3dde4b9e66"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "2ba68b18-0986-4515-9321-fd31417161a7",

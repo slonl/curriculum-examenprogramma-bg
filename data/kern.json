@@ -4,11 +4,12 @@
 		"prefix": "PK/BWI",
 		"title": "Kern Bouwen, wonen en interieur",
 		"examenprogramma_bg_kerndeel_id": [
-			"b04030f5-6ccf-4347-ae57-36207c916600",
+			"b9e543bc-f9ae-434c-94dc-51fafe506fc9",
 			"a642a3fa-0724-496e-8b19-6c661a88258e",
 			"68d11a1f-efbf-4919-85d1-b14edce33dac"
 		],
-		"description": ""
+		"description": "",
+		"dirty": true
 	},
 	{
 		"id": "74f15305-e375-4efa-a81e-5101311d5cc2",

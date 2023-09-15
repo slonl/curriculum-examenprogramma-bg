@@ -9,7 +9,9 @@
 			"3e3bc3df-b2b3-4164-b7fe-d2ae37fb31c1",
 			"098cabee-7bee-42d1-8218-929e8f1ce5da",
 			"f63d6136-e2d9-4cee-b037-c44143d4d47e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "c73ffeea-d2cf-4965-912f-d305b612d325",
@@ -24,7 +26,9 @@
 			"f74dfa3f-fded-47fd-a8b0-f5a76686efa9",
 			"559c7290-6ce5-411d-b6cd-7898aab692f8",
 			"e686657e-ef7e-4238-b4ed-0166c31d64d1"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "af21804c-5f71-4467-b01b-40b34b8faf5b",
@@ -50,7 +54,9 @@
 			"5c0d9c90-1d3b-492d-8cef-6010a37d0041",
 			"927fb6d9-d869-4855-9754-ace9f720ea7a",
 			"2f1bb3af-36bf-415b-8998-4c53460fd2df"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "8a1a8d2c-1282-4d68-8537-2cf33f3653fa",
@@ -76,7 +82,9 @@
 			"96420ad8-8bc2-4de8-9ba7-5165a6d513d3",
 			"7d95e302-7506-4c13-8d5a-25fb19508bd7",
 			"345e71a5-5503-4013-a3cb-678975327eb3"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "faa53fa7-8a5a-43b8-abe7-918513914c60",
@@ -130,7 +138,9 @@
 			"36319938-2ad7-484e-9604-46dc239dee21",
 			"866475bd-14d9-4c50-a675-92c901cdec18",
 			"9adccfc9-ad71-40b8-997f-6f9036196db5"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "cedb8853-5077-491f-a72e-4933a7b19f34",
@@ -955,7 +965,9 @@
 			"bdbc25ba-698b-48f0-bd4e-37b743006d91",
 			"16baad5d-e4e4-48f3-a784-41d79c225565",
 			"b0936806-26c7-46b6-ac92-4113158eb74b"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "5317ad6f-38ad-4bc8-aa8d-e586b6de19c4",
@@ -968,7 +980,9 @@
 			"85b28581-92e8-406c-840d-33d64630fedf",
 			"b8ee562a-c45c-44a7-9df7-3189faaf3ceb",
 			"69eff4a2-ffe6-4842-9d20-f12a3db2d26e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "7a6c5ce3-f9b6-4935-a604-718b2f0e90f7",
@@ -991,7 +1005,9 @@
 			"ddaa627a-f908-4b7e-9918-3503f4448c12",
 			"6cc80eb5-c1b0-4948-933b-91ed9d4dfead",
 			"68d4331f-c663-4917-85a2-1c56f93dc8f9"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "967b7102-b843-4209-bcaa-72f8b3edc80a",
@@ -1013,7 +1029,9 @@
 			"5e437cf3-ec4e-4e7f-af34-571a9c2ecfad",
 			"f6ee307c-0386-41f1-acb9-194c6c0af163",
 			"72c6a166-5263-43cd-ac38-2fec9a438648"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "e8c1966e-5051-4d3d-a07c-9603fa01816e",
@@ -1049,7 +1067,9 @@
 			"eecfed84-16ed-48c7-b695-44ceaa2c1a38",
 			"6d396c26-2559-4ab0-9da3-7fefcc5047d7",
 			"408c5c30-7fdc-4a4f-bcdc-a15fe16e05e9"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "f1331a59-bd7e-4f1c-a622-c8c116755a50",
@@ -1082,7 +1102,9 @@
 			"3e8a4fa6-5ef1-435a-a515-c5d2dfee507e",
 			"71f5a909-745f-4bd1-8438-d506caa38ffa",
 			"8ccf5ecc-8574-4923-997c-bb434e370d0f"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "2750a5ef-d7aa-46e6-a33d-48fb0d1d6c12",
@@ -1730,7 +1752,8 @@
 			"b0b7b206-190f-4c45-ba1a-b33f72b11ac8",
 			"9301c086-2a41-4b9d-8e21-b4c549486870"
 		],
-		"description": ""
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "46b36d86-9a32-4616-a4dd-1f13d02fedad",
@@ -3652,7 +3675,9 @@
 			"2d0f54f4-a057-4f6c-baad-a0ec96682d25",
 			"089f12e5-5a5f-450a-8f32-bbb7f54a5aa2",
 			"803ad4fc-e5a7-45f6-94d2-71c9459d0538"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "4c9fa5e0-0947-4d47-b6d3-b450246eaad2",
@@ -3664,7 +3689,9 @@
 			"b79d8237-1e67-45da-893a-22dad1cd9402",
 			"54a0bd28-0e23-4937-b50b-8eacc9ae2dd7",
 			"3943d2dd-a1b9-47b9-ab5d-2d6eb3f92408"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "f0b5f095-bf51-4770-a85b-ceb10f961e26",
@@ -3674,7 +3701,9 @@
 			"0a3744c5-5b46-4cdc-9607-b9ecb6e024e8",
 			"d65c75ff-cfbb-464d-85eb-7692b357b685",
 			"cb6001a4-91b6-422a-be5f-40f66750feb3"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "d1e77786-2177-4a95-a0bc-a07659a2fcab",
@@ -3686,7 +3715,9 @@
 			"eaff862e-7c3f-4678-add9-606b0a2b4e8b",
 			"da4da731-6d73-46b7-bd2c-3bd4c77cfc28",
 			"e8827139-2033-4886-a2cc-ca2c08a67654"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "cd01bb8d-18df-4144-acb8-01b682dc631f",
@@ -4188,7 +4219,9 @@
 			"418f58a3-bec3-41e0-a28d-b16d055562b7",
 			"19e17c6a-f988-42d0-bf49-f6f09f8673eb",
 			"f4444f90-05d4-46c4-8359-fedf8e7d96d4"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "e6e93c67-a2a6-4194-9818-0f1debb082de",
@@ -4225,7 +4258,9 @@
 			"8f8e8e55-ad66-4c08-bc86-0d3d2fc80484",
 			"0956e148-c481-417b-8346-847ca32c41fd",
 			"2eaf84f8-a0a8-4616-ae75-5cf735177a7c"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "d53ef6f8-bd91-4e05-ab23-570f34419646",
@@ -4236,7 +4271,9 @@
 			"b7845d00-ad5a-4a61-9222-6173628f1d7a",
 			"744a93ff-e3f9-4bdc-8c65-9343a6162684",
 			"f8bd7f01-03cb-412c-8d08-39775ec00d06"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "e78fa42f-3ce1-43c8-a628-c7aab7679b95",
@@ -4828,7 +4865,9 @@
 			"7903b65f-ba6e-4e9e-85d3-b1ac546c0dbb",
 			"a9e52f8c-68cd-43bb-9f3b-b7d3c48068d9",
 			"70df34c7-acec-4bd5-b4c2-75c747fdde3d"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "a22bb839-fa17-4bd6-b2f6-fd1d6787b4c2",
@@ -4945,7 +4984,9 @@
 			"73269b9d-290d-47cc-a984-e392ca67de51",
 			"4631d3ce-90ed-43fa-bd28-5a433eaec7d6",
 			"869fadb9-8d75-447b-b8c7-13dcc7f4dc49"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "6f319aae-c538-4306-ba8a-16c5589acc68",
@@ -4960,7 +5001,9 @@
 			"cb9a1199-88e5-492f-9c0a-3de2a87d8fea",
 			"fe5b7d02-42f9-441d-aa20-5747b6b89226",
 			"99aa6e1a-8b1d-422d-84d9-c556106b4177"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "1c76cc44-6481-4317-b231-3db90be19162",
@@ -6394,7 +6437,9 @@
 			"abd674aa-94ea-4882-8482-a82f15a91684",
 			"fd710a25-b139-4b83-9186-a48f34c0f9c9",
 			"48567712-d058-41cf-9316-47752335efba"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "330f12f7-6882-4f6c-b252-b681659acee4",
@@ -6405,7 +6450,9 @@
 			"1bb2f1e1-d3c7-4b48-8a2f-0a9738175f41",
 			"ec88b94f-1ce1-4dad-a0c0-b6293d5ab45f",
 			"5d8553ea-bc73-4e02-a630-19356c02a3bc"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "01e59eb4-90c0-4472-8431-763325329df9",
@@ -6415,7 +6462,9 @@
 			"e18153d8-9dfe-403f-9d46-c154bdd2a5a4",
 			"dd54c8e9-ec33-4893-9779-79df136e9ad9",
 			"976101e5-5922-4f22-bc76-fd0aaa097f7b"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "0f017365-c33d-43f9-9c5e-e6b30b064aec",
@@ -6428,7 +6477,9 @@
 			"b5004fb5-3a3d-4c6b-8f9d-2ea7327387a3",
 			"5e7ec459-5d49-487e-a2e1-083e56851d8f",
 			"218d145e-9e6b-42b3-90ef-dc1bbcffbc50"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "d9fc8937-6f20-4857-8699-1725ae79fef1",
@@ -6539,7 +6590,9 @@
 			"30216d55-01fa-4918-8569-884e7e678045",
 			"d53810d5-53aa-409d-84e4-60561fd97852",
 			"4889f9db-ee5d-424c-833c-2d8c5dc512c4"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "934f5418-84fa-4185-b5c4-7fcb1f647876",
@@ -6833,7 +6886,9 @@
 			"66abbacc-35b0-464f-80bd-184310bfba84"
 		],
 		"title": "Oriëntatie op het beroep van meubelstoffeerder.",
-		"id": "fb20e5c1-ab91-4bc7-b474-f55cad6a4dcd"
+		"id": "fb20e5c1-ab91-4bc7-b474-f55cad6a4dcd",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.26/2",
@@ -6843,7 +6898,9 @@
 			"0c7bd4c6-5b49-477c-a067-580ac9a31392"
 		],
 		"title": "Werkzaamheden voorbereiden voor het stofferen van meubels.",
-		"id": "21fd3657-53e4-44fa-8977-cd49260aaea0"
+		"id": "21fd3657-53e4-44fa-8977-cd49260aaea0",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.26/3",
@@ -6852,7 +6909,9 @@
 			"cec948fd-37fe-47c0-b47c-25075c171a69"
 		],
 		"title": "Meubels demonteren.",
-		"id": "7ca87ea6-5778-4e1f-b0b5-c5417eea1961"
+		"id": "7ca87ea6-5778-4e1f-b0b5-c5417eea1961",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.26/4",
@@ -6866,7 +6925,9 @@
 			"695d7a44-eb38-4450-a647-b1a7322c60ee"
 		],
 		"title": "Vul- en bekledingsmaterialen op maat maken en aanbrengen.",
-		"id": "00366f6e-e9a7-44f3-b568-14e7dca58ffa"
+		"id": "00366f6e-e9a7-44f3-b568-14e7dca58ffa",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.26/5",
@@ -6875,7 +6936,9 @@
 			"8c55792d-2475-44f9-9f6c-3fbbec51adb4"
 		],
 		"title": "Gestoffeerde meubels afwerken en opleveren.",
-		"id": "40ab9ae9-50b0-442f-923d-374f666fdcd3"
+		"id": "40ab9ae9-50b0-442f-923d-374f666fdcd3",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.25/1",
@@ -6885,7 +6948,9 @@
 			"aa466115-cd09-438a-bf05-f62093a411e3"
 		],
 		"title": "Voorbehandelen van de ondergrond en veilig werken.",
-		"id": "11c746cd-0c12-43ba-a052-4427c585ba7f"
+		"id": "11c746cd-0c12-43ba-a052-4427c585ba7f",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.25/2",
@@ -6898,7 +6963,9 @@
 			"b83d8162-ef91-42d9-9828-46b735bf71f4"
 		],
 		"title": "Uitvoeren van eenvoudig wandtegelwerk.",
-		"id": "9c85b60d-efa9-4f19-90ad-d2bc9be634e8"
+		"id": "9c85b60d-efa9-4f19-90ad-d2bc9be634e8",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.25/3",
@@ -6911,7 +6978,9 @@
 			"c51795e7-289b-4cc4-b3a6-ac5a0a680b9b"
 		],
 		"title": "Uitvoeren van eenvoudig vloertegelwerk.",
-		"id": "d10bffab-f6b4-4724-9af0-4282458d5204"
+		"id": "d10bffab-f6b4-4724-9af0-4282458d5204",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/1.25/4",
@@ -6920,7 +6989,9 @@
 			"4f952b77-3000-4821-961d-5afd6631096f"
 		],
 		"title": "Uitvoeren van diverse snijwerk.",
-		"id": "73a12178-f765-4518-9170-3e681bdc2b7d"
+		"id": "73a12178-f765-4518-9170-3e681bdc2b7d",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/23/1",
@@ -7988,7 +8059,9 @@
 			"ca2be05d-7f29-4948-b54b-cdef39cbd13b"
 		],
 		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt.",
-		"id": "fe8bb8fc-e6e7-4718-841d-cb465bbd65f3"
+		"id": "fe8bb8fc-e6e7-4718-841d-cb465bbd65f3",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "K/BWI/20/2",
@@ -7997,7 +8070,9 @@
 			"ffe94083-636a-45d1-88c0-665698ec3ccb"
 		],
 		"title": "Het maken van een maquette voor een \"Duurzame comfortwoning\".",
-		"id": "5f99f37b-b792-421b-b045-3dd87b81687e"
+		"id": "5f99f37b-b792-421b-b045-3dd87b81687e",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"description": "",

@@ -1728,21 +1728,6 @@
 		]
 	},
 	{
-		"id": "9bf40365-f7e5-4b7e-9384-26a1683c1d81",
-		"prefix": "K/ZW/10",
-		"title": "Beveiliging en veiligheid",
-		"description": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
-		"examenprogramma_bg_deeltaak_id": [
-			"6f28774e-c08a-42dd-b5b4-0967c8e2378b",
-			"330f12f7-6882-4f6c-b252-b681659acee4",
-			"01e59eb4-90c0-4472-8431-763325329df9",
-			"0f017365-c33d-43f9-9c5e-e6b30b064aec"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"05eb04c5-66da-44e4-9772-a505f8f176e0"
-		]
-	},
-	{
 		"id": "bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 		"prefix": "K/ZW/10",
 		"title": "Facilitaire dienstverlening: onderhoud en receptie",
@@ -1787,22 +1772,6 @@
 		],
 		"title": "Actief in de natuur",
 		"id": "43d649b5-fbb4-44f7-9271-998bba546221"
-	},
-	{
-		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
-		"prefix": "K/GR/15",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"9d22d163-e54b-4185-b870-62daefeb5ba8"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"14a27178-8996-4594-ac37-835ad6de6ea5",
-			"82dd0599-1b2a-4645-b8da-52809ddecd8b",
-			"82c38468-71f9-4ef7-bdf0-fae13e494f89",
-			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
-		],
-		"title": "Visstandbeheer en sportvisserij",
-		"id": "a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14",
-		"dirty": true
 	},
 	{
 		"prefix": "K/BWI/22",
@@ -1996,39 +1965,6 @@
 		"description": ""
 	},
 	{
-		"id": "7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
-		"prefix": "K/ZW/11",
-		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
-		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
-		"examenprogramma_bg_deeltaak_id": [
-			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
-			"0637ff48-2763-41dd-be0f-3327abac8445",
-			"388131d0-3378-4ab9-a0a8-ea6aa13d242c",
-			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
-			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
-		],
-		"replaces": [
-			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4"
-		],
-		"dirty": true
-	},
-	{
-		"prefix": "K/EO/10",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"b8cc0dec-a7fc-41fb-b816-684b89a5bc74"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"5e33b390-9937-4028-8527-eb5a1b7eb17f",
-			"dbee9d2b-5a8f-4b41-a135-c6ba96f91c30",
-			"169d1361-b531-41d4-b6fb-4c4e6f63aa2d"
-		],
-		"title": "Wonen en design",
-		"id": "1a1c52aa-a103-4287-b343-fcf46eda9c44"
-	},
-	{
 		"prefix": "K/BWI/20",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"660ef0e4-d749-48c0-98a5-04c83f645417"
@@ -2064,21 +2000,6 @@
 		"title": "Modetechniek",
 		"id": "d0e87484-ed9d-4dd8-889a-5a78251692b2",
 		"description": ""
-	},
-	{
-		"prefix": "K/DP/11",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"41e99ac6-071f-495d-9479-fb11f6c593b7"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"b12eedfe-069f-4aca-b71a-742f99bacca9",
-			"3b10bdca-ffd8-481c-b280-beaf2c6bed25",
-			"658e7ead-eba2-4e2c-a122-fd91a078bfed",
-			"7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
-			"161aa6a9-162a-4b23-8b6d-9b4fbc103e32"
-		],
-		"title": "Acteren en zingen",
-		"id": "60203451-d476-4d35-b4c8-087ea6666a18"
 	},
 	{
 		"prefix": "K/DP/08",
@@ -2125,35 +2046,6 @@
 		"id": "a51952b4-0a84-4556-90bc-24aa8768bfbf"
 	},
 	{
-		"prefix": "K/DP/09",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"9d2fbbd1-42ed-4934-936b-004cbe4d49a7"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"10ce10e3-39fc-4558-a76f-49485043c3b8",
-			"a76a8804-fc9d-4d39-aa0c-d448745eb24b",
-			"45e9b447-606f-4590-84cd-707584b08da7",
-			"151475c0-4798-4f3a-a97e-f4ee1f90ee81",
-			"c3d20cdd-c98e-4556-9a11-ec4661049b20",
-			"185a171f-db54-4eeb-ba69-432980784e82"
-		],
-		"title": "Talentvak acteren, zang en dans",
-		"id": "24ad354e-d243-473a-9e00-fa5b4b64ab44"
-	},
-	{
-		"description": "",
-		"prefix": "K/HBR/09",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"debd9869-0c2e-4716-91a1-44b74c212407",
-			"8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5"
-		],
-		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
-		"id": "ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d"
-	},
-	{
 		"prefix": "K/MET/13",
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"7c5d66ff-b33b-4643-8e5e-499bcf77953f"
@@ -2195,5 +2087,123 @@
 		],
 		"title": "Technologie binnen zorg en welzijn (dit keuzevak is een verdieping van de profielmodule mens en zorg)",
 		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7"
+	},
+	{
+		"id": "f7ce71c7-6dab-4c5a-a79f-7bd904bccc53",
+		"prefix": "K/ZW/10",
+		"title": "Beveiliging en veiligheid",
+		"description": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
+		"examenprogramma_bg_deeltaak_id": [],
+		"examenprogramma_bg_keuzevaktaak_id": [],
+		"replaces": [
+			"9bf40365-f7e5-4b7e-9384-26a1683c1d81"
+		]
+	},
+	{
+		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"prefix": "K/GR/15",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"48a9d6b3-b38a-4b46-8b4b-f875ba7fa376"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"14a27178-8996-4594-ac37-835ad6de6ea5",
+			"82dd0599-1b2a-4645-b8da-52809ddecd8b",
+			"82c38468-71f9-4ef7-bdf0-fae13e494f89",
+			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
+		],
+		"title": "Visstandbeheer en sportvisserij",
+		"id": "b8a5d2bf-c206-4ce8-819c-0d34eb62f58e",
+		"replaces": [
+			"a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
+		]
+	},
+	{
+		"id": "d4ec197d-cd8c-4450-908d-f723b85c6a1b",
+		"prefix": "K/ZW/11",
+		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
+		"description": "Eenvoudige regelende taken verrichten bij sport en bewegen",
+		"examenprogramma_bg_deeltaak_id": [
+			"4b2e4e68-890d-4dd8-856c-8bcc808522f9",
+			"0637ff48-2763-41dd-be0f-3327abac8445",
+			"388131d0-3378-4ab9-a0a8-ea6aa13d242c",
+			"fa05677b-f72b-4d29-b931-2bcbf75eec4c",
+			"133e0e5e-d9c9-48ef-8127-1c31b6ece385"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"dfe144d8-0004-4a45-b9e2-13b8ee5624d3"
+		],
+		"replaces": [
+			"34c56ff6-4ab6-40c4-9e9c-f7fd51a024f4",
+			"7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b"
+		]
+	},
+	{
+		"prefix": "K/EO/10",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"c49ec1fc-bdc2-4960-894b-b8d488c4d600"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5e33b390-9937-4028-8527-eb5a1b7eb17f",
+			"dbee9d2b-5a8f-4b41-a135-c6ba96f91c30",
+			"169d1361-b531-41d4-b6fb-4c4e6f63aa2d"
+		],
+		"title": "Wonen en design",
+		"id": "0c9b4622-3d18-461e-95c1-48feba7a18a6",
+		"replaces": [
+			"1a1c52aa-a103-4287-b343-fcf46eda9c44"
+		]
+	},
+	{
+		"description": "",
+		"prefix": "K/HBR/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"37c049b6-fd76-45f2-8086-dcd9541b7d97"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"debd9869-0c2e-4716-91a1-44b74c212407",
+			"8d86f0b2-c6ae-4ced-b1ff-88879f3bfda5"
+		],
+		"title": "Siervakken (dit keuzevak is een verdieping van het keuzevak patisserie).",
+		"id": "a7e13596-a1df-4bb8-a204-d8ffa531fc9f",
+		"replaces": [
+			"ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d"
+		]
+	},
+	{
+		"prefix": "K/DP/11",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"41e99ac6-071f-495d-9479-fb11f6c593b7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"b12eedfe-069f-4aca-b71a-742f99bacca9",
+			"5d238cd6-826d-4679-92ee-b98713030ce7",
+			"658e7ead-eba2-4e2c-a122-fd91a078bfed",
+			"7a465971-9d44-49cd-bfa1-fb0360ad9b7e",
+			"161aa6a9-162a-4b23-8b6d-9b4fbc103e32"
+		],
+		"title": "Acteren en zingen",
+		"id": "25d24ea9-a2c0-462e-aba1-2e5a601bfb47",
+		"replaces": [
+			"60203451-d476-4d35-b4c8-087ea6666a18"
+		]
+	},
+	{
+		"prefix": "K/DP/09",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9d2fbbd1-42ed-4934-936b-004cbe4d49a7"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"10ce10e3-39fc-4558-a76f-49485043c3b8",
+			"cc13fa77-b715-42fd-bad2-66a26bfe81d9",
+			"45e9b447-606f-4590-84cd-707584b08da7",
+			"151475c0-4798-4f3a-a97e-f4ee1f90ee81",
+			"c3d20cdd-c98e-4556-9a11-ec4661049b20",
+			"185a171f-db54-4eeb-ba69-432980784e82"
+		],
+		"title": "Talentvak acteren, zang en dans",
+		"id": "9778d14a-ab01-4345-b2da-bf15b1e8ccc3",
+		"replaces": [
+			"24ad354e-d243-473a-9e00-fa5b4b64ab44"
+		]
 	}
 ]

@@ -35,17 +35,17 @@
 		]
 	},
 	{
-		"id": "94eac546-91dd-4c15-8912-fd0c13667824",
+		"id": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
 		"prefix": "GR",
 		"title": "Groen",
 		"examenprogramma_bg_kern_id": [
-			"94098824-6e06-4997-b06d-93aa3542294c"
+			"a34f37d7-92d2-4be1-aae4-de09c5788b71"
 		],
 		"examenprogramma_bg_module_id": [
-			"092652b5-655c-451d-9e5a-4cbcccdb6c5f",
-			"137a1ae5-13d0-4399-9824-cb92361c41fb",
-			"4bdfcc78-aab7-434d-898a-bb5c0921cfda",
-			"71da7a70-9cb4-4951-8095-21cb6553e854"
+			"56d589f9-bcb2-4d53-94ea-3ab7270cf3a1",
+			"61a9beed-4005-4e22-a02f-37440d9af07d",
+			"7307c031-6785-4967-859f-23e08cf8fc99",
+			"4426fa9b-6bb6-4fdf-a340-76ed3aa4801e"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
@@ -63,30 +63,69 @@
 			"f9ecfa81-8708-4bc1-a826-893089d406ed",
 			"95d29130-a495-4ac2-9b37-7c3b413ddb66",
 			"7b4dd57b-b384-42a1-bbb7-56603a98de9b",
-			"a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
+			"b8a5d2bf-c206-4ce8-819c-0d34eb62f58e"
 		],
 		"replaces": [
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa",
-			"28b7d506-689b-4328-8a06-6892262c2edd"
+			"28b7d506-689b-4328-8a06-6892262c2edd",
+			"94eac546-91dd-4c15-8912-fd0c13667824"
 		],
 		"description": "",
 		"vakleergebied_id": [
 			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
-		],
-		"dirty": true
+		]
 	},
 	{
-		"id": "72caf5df-dc9e-40bc-a46f-63714e11c87b",
+		"id": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
+		"prefix": "MET",
+		"title": "Mobiliteit en Transport",
+		"examenprogramma_bg_kern_id": [
+			"9370d073-b15c-4b4a-9c6a-7d500be9e14e"
+		],
+		"examenprogramma_bg_module_id": [
+			"e4f655dd-0caa-4738-90dc-80966e5556ae",
+			"dc8e0336-94b7-415b-985b-18ea3bf2ec18",
+			"3235ab1e-87e3-4512-b788-2557b6313d9e",
+			"da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
+			"52084735-7e87-4d13-b907-ca79db136e2f",
+			"080afa8f-d9ea-4aaf-beab-0d75b02fa0d0"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"361521b2-4a08-42b5-868a-d724e921d565",
+			"21fefb79-81c0-4f43-b8ae-f0c231f30cff",
+			"fe7101ce-5399-43df-bac5-e9d53a614712",
+			"6c4e965f-fe26-48fa-97b7-89c49fde2c9a",
+			"bfa0f297-0b81-4ed0-8e05-5772f1857aa5",
+			"08db4467-0829-4443-b928-c06d6282531b",
+			"1b6efe4e-10fa-45af-b4bb-dce939c1b7bf",
+			"9a7869fb-6a90-45c5-8906-376f150d98f7",
+			"2ea5c2d7-8b55-4c4f-ad7e-ed329e76d23e",
+			"42d2d7e7-de32-4dd2-a23f-adb49e3a3bd6",
+			"ed281e61-55e9-4129-aef1-2e3a3da1f1f4",
+			"c7d60a95-4d28-4057-99e6-fbfd3e43ca26",
+			"2cea6419-6ad6-463f-89a3-d4d1ce1bcba5"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"aa197275-236f-451e-85be-ed0902848f08"
+		],
+		"replaces": [
+			"43c567e5-d5a9-480e-b03c-3c377215ecf6",
+			"28fc4f1d-ada3-4d58-ae39-37e3c308511a"
+		]
+	},
+	{
+		"id": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
 		"prefix": "PIE",
 		"title": "Produceren, installeren en energie",
 		"examenprogramma_bg_kern_id": [
-			"5b1dad69-5aff-4ec3-a109-303707b34bd2"
+			"2ff18479-ce9f-4ac9-b856-7ad25a37a0ab"
 		],
 		"examenprogramma_bg_module_id": [
-			"7efa8277-604f-4046-a95b-d4cb7ffda432",
-			"f983412c-13a0-4969-9c0d-507ec1808778",
-			"98a808b6-5772-4c56-ad69-974025964e75",
-			"212b4ac9-57c5-40b9-af5a-0b5782e56eb5"
+			"8a082795-c00e-4d40-901a-0c443b75a1f9",
+			"91c5e906-6abd-41e9-a357-7f9b9b8d1295",
+			"046cc243-92d4-4002-8c1f-3c90616293c9",
+			"0a3625dc-f9f0-48b9-8243-8035d3ccba43"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"11695bb2-fc2d-4825-8547-6775cae5c2b5",
@@ -120,28 +159,29 @@
 			"b8f15528-dedb-4db8-81ee-c820da8453bc"
 		],
 		"replaces": [
-			"fa4d75da-d045-4360-ac45-a772378e46d1"
+			"fa4d75da-d045-4360-ac45-a772378e46d1",
+			"72caf5df-dc9e-40bc-a46f-63714e11c87b"
 		]
 	},
 	{
-		"id": "726919bf-610b-4860-9952-a3b2c7bd20df",
+		"id": "50bb2915-2629-42fc-8e88-57b7b6676b49",
 		"prefix": "DP",
 		"title": "Dienstverlening en producten",
 		"examenprogramma_bg_kern_id": [
-			"74f15305-e375-4efa-a81e-5101311d5cc2"
+			"9f208fc0-ae31-4205-a71c-f9650f3421a0"
 		],
 		"examenprogramma_bg_module_id": [
-			"0c2fe4c8-8efd-4d1f-a86b-fc0778005f32",
-			"9c096b39-7184-48fb-a322-b78d252b3f5b",
-			"c4645e3f-2d32-423c-b3aa-153ef808a24e",
-			"0a69ef0d-7af2-4b00-97df-6e92234b4d8d"
+			"56880c79-bb01-4973-867e-6676f9665382",
+			"56fde1b4-2288-4bfd-8d87-3a76919636c3",
+			"f8a035af-eaa7-42f7-bd5a-d173ae538634",
+			"ca73cbee-216d-45ac-a8c5-9d4b4b77c8a2"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"24ad354e-d243-473a-9e00-fa5b4b64ab44",
+			"9778d14a-ab01-4345-b2da-bf15b1e8ccc3",
 			"a51952b4-0a84-4556-90bc-24aa8768bfbf",
 			"94a1f8fe-5111-4dda-b94a-ca18c1a291a2",
 			"139ff387-dce5-4673-8ac4-65d13293ec3b",
-			"60203451-d476-4d35-b4c8-087ea6666a18",
+			"25d24ea9-a2c0-462e-aba1-2e5a601bfb47",
 			"274e8845-1619-46f6-a5e6-37dc9173570a",
 			"06fabcdb-9c38-459c-8e5e-f8bf408fca5d",
 			"86fa863b-9eac-4c3f-b545-dcdaf6197d88",
@@ -155,26 +195,27 @@
 			"8ad1b9a4-8f24-401e-9cf0-0bf9ae0b32b2"
 		],
 		"replaces": [
-			"05b2246b-6271-41e8-b932-8fd7f899f8a0"
+			"05b2246b-6271-41e8-b932-8fd7f899f8a0",
+			"726919bf-610b-4860-9952-a3b2c7bd20df"
 		]
 	},
 	{
-		"id": "8f429657-0d80-4581-947d-5279b63488ab",
+		"id": "b11389c8-0f47-4aee-8017-be08a144d374",
 		"prefix": "EO",
 		"title": "Economie en Ondernemen",
 		"examenprogramma_bg_kern_id": [
-			"2ba68b18-0986-4515-9321-fd31417161a7"
+			"9bd256b6-fec3-4773-9e83-0af59d63c31e"
 		],
 		"examenprogramma_bg_module_id": [
-			"2f58d580-abd6-49da-8c02-13677d0712b9",
-			"fbe67748-d71f-4004-87ee-2391538e9847",
-			"e4cdcb2d-3237-4114-b954-31c203a84db0",
-			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2"
+			"a8289b8f-010c-4c2a-b340-cbcbf4eae1a2",
+			"6880ee8c-36a7-4dc9-b7a6-742f27a090fa",
+			"9e334e64-eafd-4b71-9a56-2753e44ccee8",
+			"c8bd1be9-e88f-49a1-ad19-9022386fefb6"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"d0e87484-ed9d-4dd8-889a-5a78251692b2",
 			"ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
-			"1a1c52aa-a103-4287-b343-fcf46eda9c44",
+			"0c9b4622-3d18-461e-95c1-48feba7a18a6",
 			"8d1b5ab0-a0b8-40fe-9db5-9a6feba9dd95",
 			"bd152ac2-f7eb-492b-ad20-e84fa78fefc1",
 			"9682cac6-6ddc-4946-bdcc-6b169616e1ca",
@@ -189,24 +230,25 @@
 			"18126dde-b79b-4231-826d-b902a6fa70db"
 		],
 		"replaces": [
-			"d2508ab9-cb99-480a-a9fd-5973ca28efff"
+			"d2508ab9-cb99-480a-a9fd-5973ca28efff",
+			"8f429657-0d80-4581-947d-5279b63488ab"
 		]
 	},
 	{
-		"id": "512515ac-8442-4213-83d7-84327e48d3e9",
+		"id": "0a104388-b2c9-4190-8420-c9995167d142",
 		"prefix": "HBR",
 		"title": "Horeca, bakkerij en recreatie",
 		"examenprogramma_bg_kern_id": [
-			"4354969f-756d-460f-98c4-dba4cdf9461f"
+			"cc4bd61d-dce2-469e-b011-3c20262f6b8d"
 		],
 		"examenprogramma_bg_module_id": [
-			"3609ee5b-46b1-407d-8d2d-04a157073bb4",
-			"e7d59cb6-899a-4d28-9bce-d254d0eac415",
-			"0161b36f-a157-4045-9847-95a3db020d9e",
-			"bb0df3cd-3ab1-4ac6-b66f-b0af17c43998"
+			"eee758d1-2376-4497-9dcc-0a2fd7425a2a",
+			"0c931e7d-3b30-45e7-aa90-d03b8cf9eccd",
+			"c467be46-ae5a-4723-8f31-68a5c8816926",
+			"2d9cc343-b80e-4767-9255-31e0ce18ef84"
 		],
 		"examenprogramma_bg_keuzevak_id": [
-			"ce7d3ba2-ba97-4305-80cf-6007dfe6bf6d",
+			"a7e13596-a1df-4bb8-a204-d8ffa531fc9f",
 			"df7b6e22-71b0-41a5-9608-990d84df318a",
 			"66a07ffa-7c5c-49a2-94fe-161d250e2dc2",
 			"8feeada7-92b6-48d7-8359-3aa79aaf9324",
@@ -221,21 +263,22 @@
 			"430c341c-d861-4076-bbce-b8adcda81555"
 		],
 		"replaces": [
-			"a28cd5c9-d020-434a-a4dd-8a539fa35092"
+			"a28cd5c9-d020-434a-a4dd-8a539fa35092",
+			"512515ac-8442-4213-83d7-84327e48d3e9"
 		]
 	},
 	{
-		"id": "3efc637e-7bf8-47ff-a61a-fff0f4c5171b",
+		"id": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
 		"prefix": "MVI",
 		"title": "Media, vormgeving en ICT",
 		"examenprogramma_bg_kern_id": [
-			"6c238aa7-ab23-4fa4-b61d-bdc90b8aba3a"
+			"1184619c-475e-4a7a-9218-b24d4ffd9b9b"
 		],
 		"examenprogramma_bg_module_id": [
-			"2d1b23a7-c5e8-48da-a0cb-1b1a9a1c14b0",
-			"842b1db6-2063-4c07-85e8-8c748749d0e9",
-			"fcb8f424-360e-4c65-915c-1edc2c457695",
-			"35421908-139e-430b-b076-6ec2167c0d4c"
+			"640e63ee-fde9-47c1-801d-54ff86e1a47c",
+			"ef72b398-ef68-4f07-8cb0-2f55703e99a0",
+			"6ebc1090-3d90-4fb2-9149-ed68ffb3fd7b",
+			"14c25ac5-ce05-484f-b851-df78722884f1"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"5d42f3ce-e5c6-46d5-87d0-7158e4a1767f",
@@ -257,60 +300,22 @@
 			"f4848ad5-47b5-4539-8d50-437d15385368"
 		],
 		"replaces": [
-			"a3569749-440e-4d1c-bd98-b328ec57a9a7"
+			"a3569749-440e-4d1c-bd98-b328ec57a9a7",
+			"3efc637e-7bf8-47ff-a61a-fff0f4c5171b"
 		]
 	},
 	{
-		"id": "28fc4f1d-ada3-4d58-ae39-37e3c308511a",
-		"prefix": "MET",
-		"title": "Mobiliteit en Transport",
-		"examenprogramma_bg_kern_id": [
-			"09dd2988-44cb-43b8-ad27-1cc934ea9d7f"
-		],
-		"examenprogramma_bg_module_id": [
-			"a215a62a-0e45-4dc4-8e9f-df111d64a63d",
-			"1c2b18f8-5936-4a9e-af39-7544b7628f53",
-			"3235ab1e-87e3-4512-b788-2557b6313d9e",
-			"da0e5557-ec0e-4a98-9cf5-5501eda8bcef",
-			"595d2047-1bf9-4303-9824-7956854f466c",
-			"a88692f5-10a3-4aac-9e19-73d87c7015df"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"361521b2-4a08-42b5-868a-d724e921d565",
-			"21fefb79-81c0-4f43-b8ae-f0c231f30cff",
-			"fe7101ce-5399-43df-bac5-e9d53a614712",
-			"6c4e965f-fe26-48fa-97b7-89c49fde2c9a",
-			"bfa0f297-0b81-4ed0-8e05-5772f1857aa5",
-			"08db4467-0829-4443-b928-c06d6282531b",
-			"1b6efe4e-10fa-45af-b4bb-dce939c1b7bf",
-			"9a7869fb-6a90-45c5-8906-376f150d98f7",
-			"2ea5c2d7-8b55-4c4f-ad7e-ed329e76d23e",
-			"42d2d7e7-de32-4dd2-a23f-adb49e3a3bd6",
-			"ed281e61-55e9-4129-aef1-2e3a3da1f1f4",
-			"c7d60a95-4d28-4057-99e6-fbfd3e43ca26",
-			"2cea6419-6ad6-463f-89a3-d4d1ce1bcba5"
-		],
-		"description": "",
-		"vakleergebied_id": [
-			"aa197275-236f-451e-85be-ed0902848f08"
-		],
-		"replaces": [
-			"43c567e5-d5a9-480e-b03c-3c377215ecf6"
-		],
-		"dirty": true
-	},
-	{
-		"id": "a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+		"id": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
 		"prefix": "BWI",
 		"title": "Bouwen, wonen en interieur",
 		"examenprogramma_bg_kern_id": [
-			"b1e5c55d-5017-477e-984b-857f392f1745"
+			"791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d"
 		],
 		"examenprogramma_bg_module_id": [
-			"84a0278b-ddeb-4735-a81f-f6188ba41d71",
-			"033e49aa-fc55-4d65-afcc-87fa16d03604",
-			"6a828277-fdc0-4601-9ddf-98af46b89588",
-			"c4aaca16-abd8-4600-9fca-eb62c8172f88"
+			"f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad",
+			"183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
+			"30261a49-79a7-44a4-b3a7-dc1ec231f8d8",
+			"c6e0fe4d-f1f9-41e6-bec0-69f7f4829fa4"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"37269c2b-9acd-40ed-bd63-031875a69dcf",
@@ -344,21 +349,22 @@
 		],
 		"replaces": [
 			"746040a3-5624-4c78-bcd7-e4d56cabeb3e",
-			"1890251e-08f8-4520-a495-f28607eb0b6e"
+			"1890251e-08f8-4520-a495-f28607eb0b6e",
+			"a3a62b05-c64b-4355-ba9c-a4c4b063990d"
 		]
 	},
 	{
-		"id": "da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
+		"id": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
 		"prefix": "ZW",
 		"title": "Zorg en welzijn",
 		"examenprogramma_bg_kern_id": [
-			"9e487dfc-1257-4121-88c2-42a82df71aca"
+			"3968e06a-e6ee-48f7-9806-92a6e95d4d42"
 		],
 		"examenprogramma_bg_module_id": [
-			"5c6a2462-e384-4f2b-9ff1-48238fd501c4",
-			"16d79800-484f-42e1-9dc7-21410c022127",
-			"1c98259e-fc3f-4cb5-95b8-d6097fbe4c8c",
-			"afaeefaf-f234-4a0d-aa78-9fe187800496"
+			"53bc4976-ec2e-484a-b64a-795264d91052",
+			"c6f953d9-eb5b-4787-b878-fcf29b37d954",
+			"0ff47e98-b48f-4064-9a96-3dccb2d3bd54",
+			"298e4155-a18f-4fd8-a0bc-75bf6a4c0053"
 		],
 		"examenprogramma_bg_keuzevak_id": [
 			"744b2bac-08b6-4b86-a9ef-2030137d356b",
@@ -372,7 +378,7 @@
 			"6d6b5c75-b88c-426c-b5ac-d598c7c04e73",
 			"bac988ec-8476-40d8-bf90-d2e4e90a8b9e",
 			"9962df41-0936-465e-9df4-e8d612fb5339",
-			"7fada3c0-1d44-4f7a-a5c0-56bb3aa9f78b",
+			"d4ec197d-cd8c-4450-908d-f723b85c6a1b",
 			"fbee0eab-868a-4916-9abf-9a1083a1e3c7"
 		],
 		"description": "",
@@ -381,7 +387,8 @@
 		],
 		"replaces": [
 			"a363d4e3-9296-468e-ad5f-7faf6c1c7518",
-			"7f7d127e-3d05-42ae-8bf1-79b164116d6f"
+			"7f7d127e-3d05-42ae-8bf1-79b164116d6f",
+			"da7b5b3f-41be-43d4-b5bf-5cb7c2f76991"
 		]
 	}
 ]

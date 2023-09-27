@@ -1194,16 +1194,6 @@
 		]
 	},
 	{
-		"id": "05eb04c5-66da-44e4-9772-a505f8f176e0",
-		"prefix": "K/ZW/10/KT",
-		"title": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
-	},
-	{
 		"id": "bb67e3a0-2df7-47b5-ad18-0c381ef3a307",
 		"prefix": "K/ZW/10/KT",
 		"title": "Kan eenvoudige werkzaamheden verrichten in en rondom een gebouw in (gesimuleerde) praktijksituaties.",
@@ -1235,17 +1225,6 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"description": ""
-	},
-	{
-		"prefix": "K/GR/15/KT",
-		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\nHerkennen en benoemen van functies van viskwekerijen\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
-		"id": "9d22d163-e54b-4185-b870-62daefeb5ba8",
-		"description": "",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
 	},
 	{
 		"prefix": "K/GR/14/KT",
@@ -1400,17 +1379,6 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/EO/10",
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
-		"id": "b8cc0dec-a7fc-41fb-b816-684b89a5bc74",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/BWI/20/taak",
 		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\"",
 		"id": "660ef0e4-d749-48c0-98a5-04c83f645417",
@@ -1497,17 +1465,6 @@
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/HBR/09/KT",
-		"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\nen andere technieken dan in het patisserie worden toegepast en gecombineerd.",
-		"id": "7693afd1-3a4c-4aa1-9f81-60ff4fb29379",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
-	},
-	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/MET/13/Taak",
 		"title": "Hybride en elektrische aandrijfsystemen herkennen en benoemen. Veilig werken aan hybride en elektrische voertuigen. Laden van hybride en elektrische voertuigen.",
 		"id": "7c5d66ff-b33b-4643-8e5e-499bcf77953f",
@@ -1540,14 +1497,45 @@
 		]
 	},
 	{
-		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
-		"prefix": "K/BWI/20/taak",
-		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\"",
-		"id": "45e46b7c-d438-4166-9cb6-6b14cb6ec317",
+		"prefix": "K/GR/15/KT",
+		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\nHerkennen en benoemen van functies van viskwekerijen\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"id": "48a9d6b3-b38a-4b46-8b4b-f875ba7fa376",
+		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"replaces": [
+			"9d22d163-e54b-4185-b870-62daefeb5ba8"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/EO/10",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"id": "c49ec1fc-bdc2-4960-894b-b8d488c4d600",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replaces": [
+			"b8cc0dec-a7fc-41fb-b816-684b89a5bc74"
+		]
+	},
+	{
+		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
+		"prefix": "K/HBR/09/KT",
+		"title": "Het uitwerken van een receptuur volgens een aangeleverd ontwerp en het vervaardigen van siervakproducten voor een opdrachtgever in een meer complexe situatie: : in relatief kortere tijd siervakproducten vervaardigen waarvoor meerdere\r\nen andere technieken dan in het patisserie worden toegepast en gecombineerd.",
+		"id": "37c049b6-fd76-45f2-8086-dcd9541b7d97",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"replaces": [
+			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
 		]
 	}
 ]

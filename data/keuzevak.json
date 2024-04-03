@@ -2089,17 +2089,6 @@
 		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7"
 	},
 	{
-		"id": "f7ce71c7-6dab-4c5a-a79f-7bd904bccc53",
-		"prefix": "K/ZW/10",
-		"title": "Beveiliging en veiligheid",
-		"description": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
-		"examenprogramma_bg_deeltaak_id": [],
-		"examenprogramma_bg_keuzevaktaak_id": [],
-		"replaces": [
-			"9bf40365-f7e5-4b7e-9384-26a1683c1d81"
-		]
-	},
-	{
 		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
 		"prefix": "K/GR/15",
 		"examenprogramma_bg_keuzevaktaak_id": [

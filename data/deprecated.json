@@ -11104,5 +11104,20 @@
 		"types": [
 			"examenprogramma_bg_keuzevak"
 		]
+	},
+	{
+		"id": "f7ce71c7-6dab-4c5a-a79f-7bd904bccc53",
+		"prefix": "K/ZW/10",
+		"title": "Beveiliging en veiligheid",
+		"description": "Activiteiten uitvoeren ten behoeve van veiligheid in praktijksituaties",
+		"examenprogramma_bg_deeltaak_id": [],
+		"examenprogramma_bg_keuzevaktaak_id": [],
+		"replaces": [
+			"9bf40365-f7e5-4b7e-9384-26a1683c1d81"
+		],
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_bg_keuzevak"
+		]
 	}
 ]

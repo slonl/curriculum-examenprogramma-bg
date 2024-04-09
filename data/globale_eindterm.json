@@ -9678,20 +9678,23 @@
 	{
 		"id": "17a63a8c-74ac-415d-80c9-b8c8efce697b",
 		"prefix": "K/GR/13/01-01",
-		"title": "De kandidaat kan neventaken in de groene sector herkennen en benoemen",
+		"title": "De kandidaat kan voorbeelden van agrarisch natuurbeheer benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "b51fdacb-7ea6-4ffa-b8de-c52790acf926",
 		"prefix": "K/GR/13/01-02",
-		"title": "De kandidaat kan motieven, voor- en nadelen benoemen voor de uitoefening van neventaken in de groene sector",
+		"title": "De kandidaat kan motieven benoemen voor de uitvoering van agrarisch natuurbeheer.",
 		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"dirty": "1"
 	},
 	{
 		"id": "c2f5aa2b-1fa9-4148-ac3b-58c4b18f810b",
@@ -9725,10 +9728,11 @@
 	{
 		"id": "dd5cb454-db03-40a0-9953-c0435e120043",
 		"prefix": "K/GR/13/03-01",
-		"title": "De kandidaat kan in het bedrijfsplan ruimte opnemen voor de ontwikkeling van wilde flora en fauna deze benoemen en toepassen",
+		"title": "De kandidaat kan in het bedrijfsplan maatregelen benoemen voor de bevordering van de biodiversiteit en dit toepassen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "9fc7f2b4-9402-4650-863b-268c69bb5280",
@@ -33922,5 +33926,15 @@
 		"replaces": [
 			"d608cccd-c4cc-457f-935a-c5bbf1a5cc3c"
 		]
+	},
+	{
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"id": "2410ad60-228b-41f8-8dbd-fb7ef2e3427f",
+		"prefix": "GR/K/13/01-03",
+		"title": "De kandidaat kan motieven en voor- en nadelen benoemen voor de uitvoering van agrarisch natuurbeheer.",
+		"description": ""
 	}
 ]

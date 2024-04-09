@@ -2034,50 +2034,55 @@
 	{
 		"id": "c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0",
 		"prefix": "K/GR/13/01",
-		"title": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer",
+		"title": "Argumenten noemen voor agrarisch natuurbeheer.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"17a63a8c-74ac-415d-80c9-b8c8efce697b",
 			"b51fdacb-7ea6-4ffa-b8de-c52790acf926"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "ea3dbb16-1e1b-4206-83d2-e64316b57c33",
 		"prefix": "K/GR/13/02",
-		"title": "In de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna",
+		"title": "Aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna in het agrarisch landschap, rekening houdend mt wet- en regelgeving.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"c2f5aa2b-1fa9-4148-ac3b-58c4b18f810b",
 			"dc889892-06da-4b2a-a9c3-a2d9086271a6",
 			"393ecb4f-e925-496a-a51b-ae83474d4417"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "77c1a8f0-8f64-45c3-aebb-31e367123105",
 		"prefix": "K/GR/13/03",
-		"title": "In de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit)",
+		"title": "Aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit).",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"dd5cb454-db03-40a0-9953-c0435e120043",
 			"9fc7f2b4-9402-4650-863b-268c69bb5280"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "fe022515-b60e-4ebf-88b3-49e4dd2d72a4",
 		"prefix": "K/GR/13/04",
-		"title": "In de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten",
+		"title": "Kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"c2dc5f04-e451-4efb-ab20-7042b1a23627",
 			"931fdd90-1317-4432-8ee4-2102bccd9d16",
 			"49f71d24-5b57-448b-8e79-632f9fd2eb88"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "47578f71-cea2-4cf0-8f55-7eeffec9545d",
 		"prefix": "K/GR/13/05",
-		"title": "In de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen, ter bescherming en bevordering van het aantal erfvogels",
+		"title": "Aanpassingen aan gebouwen benoemen en toepassen, ter bescherming en bevordering van het aantal erfvogels.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ea88a2f2-22c6-46ba-b346-3ba6e7850c76",
 			"d71442b1-047f-4930-8c8a-fc8a4edb22ee",
 			"5eef2092-ac61-4790-b138-4a9a32d8549a"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "26ff283e-70c9-4977-995b-b17e9916118a",

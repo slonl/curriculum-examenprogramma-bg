@@ -2032,18 +2032,6 @@
 		]
 	},
 	{
-		"id": "c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0",
-		"prefix": "K/GR/13/01",
-		"title": "Argumenten noemen voor agrarisch natuurbeheer.",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"17a63a8c-74ac-415d-80c9-b8c8efce697b",
-			"b51fdacb-7ea6-4ffa-b8de-c52790acf926",
-			"2410ad60-228b-41f8-8dbd-fb7ef2e3427f"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "ea3dbb16-1e1b-4206-83d2-e64316b57c33",
 		"prefix": "K/GR/13/02",
 		"title": "Aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna in het agrarisch landschap, rekening houdend met wet- en regelgeving.",
@@ -7916,6 +7904,20 @@
 		"id": "cc13fa77-b715-42fd-bad2-66a26bfe81d9",
 		"replaces": [
 			"a76a8804-fc9d-4d39-aa0c-d448745eb24b"
+		]
+	},
+	{
+		"id": "377cd7ea-8ec8-4b53-a7d4-5428b340158e",
+		"prefix": "K/GR/13/01",
+		"title": "Argumenten noemen voor agrarisch natuurbeheer.",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"17a63a8c-74ac-415d-80c9-b8c8efce697b",
+			"b303d885-bd64-4b19-a158-d517c0a648ce",
+			"2410ad60-228b-41f8-8dbd-fb7ef2e3427f"
+		],
+		"description": "",
+		"replaces": [
+			"c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0"
 		]
 	}
 ]

@@ -9687,16 +9687,6 @@
 		"description": ""
 	},
 	{
-		"id": "b51fdacb-7ea6-4ffa-b8de-c52790acf926",
-		"prefix": "K/GR/13/01-02",
-		"title": "De kandidaat kan motieven benoemen voor de uitvoering van agrarisch natuurbeheer.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"description": "",
-		"dirty": "1"
-	},
-	{
 		"id": "c2f5aa2b-1fa9-4148-ac3b-58c4b18f810b",
 		"prefix": "K/GR/13/02-01",
 		"title": "De kandidaat kan maatregelen benoemen en toepassen gericht op het beschermen van wilde fauna in het agrarisch landschap",
@@ -33936,5 +33926,17 @@
 		"prefix": "GR/K/13/01-03",
 		"title": "De kandidaat kan motieven en voor- en nadelen benoemen voor de uitvoering van agrarisch natuurbeheer.",
 		"description": ""
+	},
+	{
+		"id": "b303d885-bd64-4b19-a158-d517c0a648ce",
+		"prefix": "K/GR/13/01-02",
+		"title": "De kandidaat kan motieven benoemen voor de uitvoering van agrarisch natuurbeheer.",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"replaces": [
+			"b51fdacb-7ea6-4ffa-b8de-c52790acf926"
+		]
 	}
 ]

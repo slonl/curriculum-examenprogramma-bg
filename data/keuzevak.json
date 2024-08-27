@@ -644,22 +644,6 @@
 		]
 	},
 	{
-		"id": "7b4dd57b-b384-42a1-bbb7-56603a98de9b",
-		"prefix": "K/GR/13",
-		"title": "Natuurlijk groen",
-		"description": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels",
-		"examenprogramma_bg_deeltaak_id": [
-			"c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0",
-			"ea3dbb16-1e1b-4206-83d2-e64316b57c33",
-			"77c1a8f0-8f64-45c3-aebb-31e367123105",
-			"fe022515-b60e-4ebf-88b3-49e4dd2d72a4",
-			"47578f71-cea2-4cf0-8f55-7eeffec9545d"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"0a813199-3cc4-4ec8-9e8a-738f24a02912"
-		]
-	},
-	{
 		"id": "df7b6e22-71b0-41a5-9608-990d84df318a",
 		"prefix": "K/HBR/01",
 		"title": "Gastheerspecialisatie (Dit keuzevak is een verdieping van de profielmodule Gastheerschap)",
@@ -2193,6 +2177,25 @@
 		"id": "9778d14a-ab01-4345-b2da-bf15b1e8ccc3",
 		"replaces": [
 			"24ad354e-d243-473a-9e00-fa5b4b64ab44"
+		]
+	},
+	{
+		"id": "2ea5f32d-0c5b-40f5-aac9-08756549dd51",
+		"prefix": "K/GR/13",
+		"title": "Natuurlijk groen",
+		"description": "In de context van een agrarisch bedrijf argumenten noemen voor agrarisch natuurbeheer - aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna rekening houdend met wet- en regelgeving - aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) - kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten - aanpassingen aan gebouwen benomen en toepassen ter bescherming en bevordering van het aantal erfvogels.",
+		"examenprogramma_bg_deeltaak_id": [
+			"377cd7ea-8ec8-4b53-a7d4-5428b340158e",
+			"ea3dbb16-1e1b-4206-83d2-e64316b57c33",
+			"77c1a8f0-8f64-45c3-aebb-31e367123105",
+			"fe022515-b60e-4ebf-88b3-49e4dd2d72a4",
+			"47578f71-cea2-4cf0-8f55-7eeffec9545d"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"0a813199-3cc4-4ec8-9e8a-738f24a02912"
+		],
+		"replaces": [
+			"7b4dd57b-b384-42a1-bbb7-56603a98de9b"
 		]
 	}
 ]

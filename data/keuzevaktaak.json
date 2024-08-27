@@ -462,12 +462,13 @@
 	{
 		"id": "0a813199-3cc4-4ec8-9e8a-738f24a02912",
 		"prefix": "K/GR/13/KT",
-		"title": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels",
+		"title": "In de context van een agrarisch bedrijf - argumenten noemen voor agrarisch natuurbeheer - aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna rekening houdend met wet- en regelgeving -  aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) - kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten - aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"description": ""
 	},
 	{
 		"id": "761c857c-7420-4c79-948b-2d3c94c6ccb6",

@@ -11119,5 +11119,103 @@
 		"types": [
 			"examenprogramma_bg_keuzevak"
 		]
+	},
+	{
+		"id": "c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0",
+		"prefix": "K/GR/13/01",
+		"title": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"17a63a8c-74ac-415d-80c9-b8c8efce697b",
+			"b51fdacb-7ea6-4ffa-b8de-c52790acf926"
+		],
+		"replacedBy": [
+			"377cd7ea-8ec8-4b53-a7d4-5428b340158e"
+		],
+		"types": [
+			"examenprogramma_bg_deeltaak"
+		]
+	},
+	{
+		"id": "b51fdacb-7ea6-4ffa-b8de-c52790acf926",
+		"prefix": "K/GR/13/01-02",
+		"title": "De kandidaat kan motieven, voor- en nadelen benoemen voor de uitoefening van neventaken in de groene sector",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"replacedBy": [
+			"b303d885-bd64-4b19-a158-d517c0a648ce"
+		],
+		"types": [
+			"examenprogramma_bg_globale_eindterm"
+		]
+	},
+	{
+		"id": "7b4dd57b-b384-42a1-bbb7-56603a98de9b",
+		"prefix": "K/GR/13",
+		"title": "Natuurlijk groen",
+		"description": "In de bedrijfsvoering argumenten noemen voor agrarisch natuurbeheer / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bescherming van de wilde flora en fauna / in de bedrijfsvoering aanpassingen benoemen en toepassen ter bevordering van de diversiteit aan soorten wilde flora en fauna (biodiversiteit) / in de bedrijfsvoering kleine voorzieningen voor dieren treffen ter bevordering van het aantal wilde soorten / in de bedrijfsvoering aanpassingen aan gebouwen benoemen en toepassen ter bescherming en bevordering van het aantal erfvogels",
+		"examenprogramma_bg_deeltaak_id": [
+			"c2d9b5b4-21ea-4b22-a6e4-c1cd7406c1d0",
+			"ea3dbb16-1e1b-4206-83d2-e64316b57c33",
+			"77c1a8f0-8f64-45c3-aebb-31e367123105",
+			"fe022515-b60e-4ebf-88b3-49e4dd2d72a4",
+			"47578f71-cea2-4cf0-8f55-7eeffec9545d"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"0a813199-3cc4-4ec8-9e8a-738f24a02912"
+		],
+		"replacedBy": [
+			"2ea5f32d-0c5b-40f5-aac9-08756549dd51"
+		],
+		"types": [
+			"examenprogramma_bg_keuzevak"
+		]
+	},
+	{
+		"id": "38ca4e55-71b8-4c6c-83dc-085df3a06bad",
+		"prefix": "GR",
+		"title": "Groen",
+		"examenprogramma_bg_kern_id": [
+			"a34f37d7-92d2-4be1-aae4-de09c5788b71"
+		],
+		"examenprogramma_bg_module_id": [
+			"56d589f9-bcb2-4d53-94ea-3ab7270cf3a1",
+			"61a9beed-4005-4e22-a02f-37440d9af07d",
+			"7307c031-6785-4967-859f-23e08cf8fc99",
+			"4426fa9b-6bb6-4fdf-a340-76ed3aa4801e"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"f6a13d0f-49d5-4bb5-a51f-7d48d274e894",
+			"43d649b5-fbb4-44f7-9271-998bba546221",
+			"d8978d84-4255-4bbe-8fab-2e6cac75d7ec",
+			"e15e151c-c490-4c9e-8050-1795fa2b0b47",
+			"a80d8918-34f5-4588-ab31-a597fc61c1b4",
+			"de2016c7-e10c-48dc-8e6a-343b277c1de0",
+			"762a08b2-cceb-42d9-bc6d-10c79247b51e",
+			"cc6059c2-b22b-484b-bbe1-491e65744bd7",
+			"095cf7a1-68d6-4b72-abd3-0eeccb84b3ce",
+			"0920dfd6-ffe5-43db-8f19-8090d372cc8e",
+			"d0c218ed-2649-40bd-8b5e-af850b64baa9",
+			"47d3d724-1116-4eaf-b604-2d06378e3600",
+			"f9ecfa81-8708-4bc1-a826-893089d406ed",
+			"95d29130-a495-4ac2-9b37-7c3b413ddb66",
+			"7b4dd57b-b384-42a1-bbb7-56603a98de9b",
+			"b8a5d2bf-c206-4ce8-819c-0d34eb62f58e"
+		],
+		"replaces": [
+			"6c57b253-59aa-48dd-b905-2e5babcd05fa",
+			"28b7d506-689b-4328-8a06-6892262c2edd",
+			"94eac546-91dd-4c15-8912-fd0c13667824"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"c17db255-88b0-450b-bf3f-235ad7eaf65f"
+		],
+		"replacedBy": [
+			"76f63a9f-fcde-4e17-a65b-bdfb211b2958"
+		],
+		"types": [
+			"examenprogramma_bg_profiel"
+		]
 	}
 ]

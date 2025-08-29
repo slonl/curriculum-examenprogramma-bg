@@ -225,7 +225,7 @@
 	{
 		"id": "a8289b8f-010c-4c2a-b340-cbcbf4eae1a2",
 		"prefix": "P/EO/01",
-		"title": "Commercieel",
+		"title": "Retail & Styling",
 		"description": "De retailormule en de marketinginstrumenten herkennen en toepassen ten aanzien van de doelgroep, het assortiment en de marktpositie / verkopen en afrekenen",
 		"examenprogramma_bg_deeltaak_id": [
 			"89c77994-6f98-4937-8e75-e5a77e763798",
@@ -241,7 +241,7 @@
 	{
 		"id": "6880ee8c-36a7-4dc9-b7a6-742f27a090fa",
 		"prefix": "P/EO/02",
-		"title": "Secretarieel",
+		"title": "Service & Sales",
 		"description": "Secretariële werkzaamheden uitvoeren / backoffice werkzaamheden uitvoeren / frontoffice werkzaamheden uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
 			"e0f4fe04-bb3f-457e-8594-c859183ae37c",
@@ -257,7 +257,7 @@
 	{
 		"id": "9e334e64-eafd-4b71-9a56-2753e44ccee8",
 		"prefix": "P/EO/03",
-		"title": "Logistiek",
+		"title": "Stock & Supplies",
 		"description": "Magazijnwerkzaamheden uitvoeren (eventueel in gesimuleerde omgeving) ten aanzien van ontvangst en opslag van goederen / verzamelen, verpakken en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen",
 		"examenprogramma_bg_deeltaak_id": [
 			"dd81c5e4-9afc-4734-b08c-fbfcd59f9777",
@@ -274,7 +274,7 @@
 	{
 		"id": "c8bd1be9-e88f-49a1-ad19-9022386fefb6",
 		"prefix": "P/EO/04",
-		"title": "Administratie",
+		"title": "Office & Support",
 		"description": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de boekhouding van de (handels)onderneming bijhouden",
 		"examenprogramma_bg_deeltaak_id": [
 			"e0617e54-1a7d-495b-8a03-f780b9790b50",
@@ -308,7 +308,7 @@
 	{
 		"id": "0c931e7d-3b30-45e7-aa90-d03b8cf9eccd",
 		"prefix": "P/HBR/02",
-		"title": "De Bakkerij",
+		"title": "De bakkerij",
 		"description": "Een bijdrage leveren aan het beheren en vervaardigen van bakkerijproducten",
 		"examenprogramma_bg_deeltaak_id": [
 			"496e8737-e67b-4a9f-bf91-4f79106a5cd9",
@@ -377,7 +377,7 @@
 	{
 		"id": "ef72b398-ef68-4f07-8cb0-2f55703e99a0",
 		"prefix": "P/MVI/02",
-		"title": "2D en 3D vormgeving en productie",
+		"title": "2D- en 3D-vormgeving en -productie",
 		"description": "Een 2D mediaproduct passend bij een doelgroep vormgeven, maken en presenteren / een 3D product passend bij een doelgroep vormgeven, maken en presenteren",
 		"examenprogramma_bg_deeltaak_id": [
 			"b1a12269-2c69-409e-905e-1088102ecfa8",
@@ -676,7 +676,7 @@
 	},
 	{
 		"id": "52084735-7e87-4d13-b907-ca79db136e2f",
-		"prefix": "P/MET/03",
+		"prefix": "P/MET/03 - deze staat er dubbel in",
 		"title": "Verlichting en comfortsystemen",
 		"description": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen",
 		"examenprogramma_bg_deeltaak_id": [
@@ -694,7 +694,7 @@
 	},
 	{
 		"id": "080afa8f-d9ea-4aaf-beab-0d75b02fa0d0",
-		"prefix": "P/MET/04",
+		"prefix": "P/MET/04 deze staat er dubbel in",
 		"title": "Mobiliteit en Transport",
 		"description": "Een bedrijfsvoertuig veilig laden en lossen / een bedrijfsvoertuig vervoersklaar maken en een technische rijklaar-controle uitvoeren / een ritplanning en een routeplanning maken (nationaal en internationaal)",
 		"examenprogramma_bg_deeltaak_id": [

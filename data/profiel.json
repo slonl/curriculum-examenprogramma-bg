@@ -37,7 +37,7 @@
 	{
 		"id": "8d86cbc6-0191-4dd3-b04c-30452351cea2",
 		"prefix": "MET",
-		"title": "Mobiliteit en Transport",
+		"title": "Examenprogramma Beroepsgericht programma Mobiliteit en Transport",
 		"examenprogramma_bg_kern_id": [
 			"9370d073-b15c-4b4a-9c6a-7d500be9e14e"
 		],
@@ -76,7 +76,7 @@
 	{
 		"id": "471a1203-dc5c-43b3-b43c-459fcc42bca9",
 		"prefix": "PIE",
-		"title": "Produceren, installeren en energie",
+		"title": "Examenprogramma Beroepsgericht programma Produceren, installeren en energie",
 		"examenprogramma_bg_kern_id": [
 			"2ff18479-ce9f-4ac9-b856-7ad25a37a0ab"
 		],
@@ -125,7 +125,7 @@
 	{
 		"id": "50bb2915-2629-42fc-8e88-57b7b6676b49",
 		"prefix": "DP",
-		"title": "Dienstverlening en producten",
+		"title": "Examenprogramma Beroepsgericht programma Dienstverlening en producten",
 		"examenprogramma_bg_kern_id": [
 			"9f208fc0-ae31-4205-a71c-f9650f3421a0"
 		],
@@ -196,7 +196,7 @@
 	{
 		"id": "0a104388-b2c9-4190-8420-c9995167d142",
 		"prefix": "HBR",
-		"title": "Horeca, bakkerij en recreatie",
+		"title": "Examenprogramma beroepsgericht programma Horeca, bakkerij en recreatie",
 		"examenprogramma_bg_kern_id": [
 			"cc4bd61d-dce2-469e-b011-3c20262f6b8d"
 		],
@@ -229,7 +229,7 @@
 	{
 		"id": "8901b90f-2f1a-4ffe-8d77-e64b8000bb24",
 		"prefix": "MVI",
-		"title": "Media, vormgeving en ICT",
+		"title": "Examenprogramma Beroepsgericht programma Media, vormgeving en ICT",
 		"examenprogramma_bg_kern_id": [
 			"1184619c-475e-4a7a-9218-b24d4ffd9b9b"
 		],
@@ -266,7 +266,7 @@
 	{
 		"id": "297aa152-3082-4b8f-aa0f-f3724bf5c38f",
 		"prefix": "BWI",
-		"title": "Bouwen, wonen en interieur",
+		"title": "Examenprogramma Beroepsgericht programma Bouwen, wonen en interieur",
 		"examenprogramma_bg_kern_id": [
 			"791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d"
 		],
@@ -315,7 +315,7 @@
 	{
 		"id": "a8cb15c6-d652-4cb9-8237-71f3b6c333c4",
 		"prefix": "ZW",
-		"title": "Zorg en welzijn",
+		"title": "Examenprogramma Beroepsgericht programma Zorg en welzijn",
 		"examenprogramma_bg_kern_id": [
 			"3968e06a-e6ee-48f7-9806-92a6e95d4d42"
 		],
@@ -353,7 +353,7 @@
 	{
 		"id": "76f63a9f-fcde-4e17-a65b-bdfb211b2958",
 		"prefix": "GR",
-		"title": "Groen",
+		"title": "Examenprogramma beroepsgericht programma Groen",
 		"examenprogramma_bg_kern_id": [
 			"a34f37d7-92d2-4be1-aae4-de09c5788b71"
 		],

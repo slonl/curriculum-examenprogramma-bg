@@ -849,7 +849,7 @@
 	{
 		"id": "8b458c11-ae77-49fb-aeb5-2314b31327c0",
 		"prefix": "P/DP/04/01",
-		"title": "Een digitaal ontwerp maken",
+		"title": "Aan de hand van een programma van eisen een digitaal ontwerp maken",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a43793bd-ae8d-4547-9fe9-b84b70808dec"
 		]
@@ -1154,7 +1154,7 @@
 	{
 		"id": "dc24bd76-e1d9-4d1f-a3c5-29dba63e2f54",
 		"prefix": "P/EO/01/02",
-		"title": "Verkopen en afrekenen",
+		"title": "Commerciële werkzaamheden uitvoeren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"506cb421-fa9d-49b2-aa93-6172b3cd99bc",
 			"5d3c82ab-b26b-415f-bc9b-194bad022232"
@@ -1163,7 +1163,7 @@
 	{
 		"id": "e0f4fe04-bb3f-457e-8594-c859183ae37c",
 		"prefix": "P/EO/02/01",
-		"title": "Backoffice werkzaamheden uitvoeren",
+		"title": "Service verlenen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f34c72b0-9cf1-4eb9-9a38-5f2c69456ad7",
 			"9ac883b2-a37f-468d-9d5b-30c7e18a8063",
@@ -1176,7 +1176,7 @@
 	{
 		"id": "a2cdbd04-a196-4382-9d33-c3f8efd69a6c",
 		"prefix": "P/EO/02/02",
-		"title": "Frontoffice werkzaamheden uitvoeren",
+		"title": "Verkoopwerkzaamheden uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f7b3975f-c142-4be8-9f05-db8c5058c304",
 			"50d193c9-65ef-4e53-ad4e-ff20b2e18371",
@@ -1190,7 +1190,7 @@
 	{
 		"id": "dd81c5e4-9afc-4734-b08c-fbfcd59f9777",
 		"prefix": "P/EO/03/01",
-		"title": "Ontvangst en opslag van goederen",
+		"title": "Magazijnwerkzaamheden uitvoeren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"445d58e7-9828-4fe9-97b6-776d067057cf",
 			"2058b002-2ccf-481d-b33b-853839b0cc64",
@@ -1201,7 +1201,7 @@
 	{
 		"id": "3554c976-1d75-4e9c-934c-ba70b77a65bf",
 		"prefix": "P/EO/03/02",
-		"title": "Verzamelen, verpakken en verzenden van goederen",
+		"title": "Voorraad beheren en bestellen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"afda3757-2e59-456c-b6fa-a5357a54cd2d",
 			"99daf5b7-d169-469e-9353-c11932352e73",
@@ -1222,7 +1222,7 @@
 	{
 		"id": "e0617e54-1a7d-495b-8a03-f780b9790b50",
 		"prefix": "P/EO/04/01",
-		"title": "Bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen",
+		"title": "Gegevens verwerken",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"545e4e1d-4728-4fdb-9606-1fe3e052c35e",
 			"1a17242a-645b-4221-be16-d92dc6d7ef8a",
@@ -1235,7 +1235,7 @@
 	{
 		"id": "dcd5b2b2-4c74-4690-9273-0e037527eeb2",
 		"prefix": "P/EO/04/02",
-		"title": "De boekhouding van de (handels)onderneming bijhouden",
+		"title": "Klantvriendelijk communiceren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a5600046-150d-41d6-b452-6a9169b068d3",
 			"1bee406b-dafb-4676-b4e2-4036607f1a23",
@@ -1459,7 +1459,7 @@
 	{
 		"id": "5a5a3631-1cbd-41ac-94c2-bf90a017cae9",
 		"prefix": "P/GR/01/03",
-		"title": "Op bedrijfsmatige wijze dieren houden en hierbij verantwoorde keuzes maken met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid",
+		"title": "Groene productie mogelijk maken: op bedrijfsmatige wijze dieren houden en hierbij verantwoorde keuzes maken met respect voor welzijn, voedselveiligheid, milieu en duurzaamheid",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"c0ba3481-4e81-41a5-bcdc-bddf2fae1b67",
 			"30f93eca-a570-49ee-a4b9-0f4aa194cdb9",
@@ -1499,7 +1499,7 @@
 	{
 		"id": "d6ea3664-bf83-4078-af70-2d9eb42bface",
 		"prefix": "P/GR/04/01",
-		"title": "Verschillen tussen retailformules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen.",
+		"title": "In de groene sector verschillen tussen retail(winkel)formules benoemen en hier naar handelen, producten bestellen en bestelde goederen en producten in ontvangst nemen, controleren, verwerken en verzorgen.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"408513c6-6dea-40aa-b412-53e6faf0839f",
 			"f4771a6c-0964-4d57-b27b-13e6ef1946b1",
@@ -1512,7 +1512,7 @@
 	{
 		"id": "c65ac27f-96ff-4535-a7ef-57e6d5d917f8",
 		"prefix": "P/GR/04/03",
-		"title": "Producten verkopen",
+		"title": "In de groene sector producten verkopen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"315bf59d-4adf-4bc1-8575-853a2106e27c",
 			"be1f1bee-95de-44e0-900b-ec1f3da1914a",
@@ -3159,7 +3159,7 @@
 	{
 		"id": "f726fb3b-5426-4af0-acf7-3e1dfc8dcc4a",
 		"prefix": "P/MVI/01/01",
-		"title": "Aan de hand van een opdracht een thema bedenken voor een AV productie en dat uitwerken tot een script en/of een storyboard",
+		"title": "Een thema bedenken voor een AV productie en dat uitwerken tot een verhaallijn en een storyboard",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6936beca-0f46-4496-838c-e84d2d36e43e",
 			"ea4cc4da-8029-4692-a885-d9bba59099f4",
@@ -3180,7 +3180,7 @@
 	{
 		"id": "e4e2ae51-e954-43a0-ac38-f5659ac79c7a",
 		"prefix": "P/MVI/01/03",
-		"title": "Een digitaal AV product maken van zelfgemaakte opnames en daarover een presentatie verzorgen",
+		"title": "Een digitaal AV product maken en daarover een presentatie verzorgen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f7cd71d5-aec7-44a7-93cd-652d25c1cb03",
 			"c4882576-f3d3-4ed6-9792-0052661ee4ef",
@@ -3193,7 +3193,7 @@
 	{
 		"id": "e0fb9e03-aa35-4f65-8eae-7b5f0fff667b",
 		"prefix": "P/MVI/01/04",
-		"title": "Een idee voor het maken van een animatie uitwerken tot een script en een storyboard",
+		"title": "Een idee voor het maken van een animatie uitwerken tot een verhaallijn en een storyboard",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"c4551af7-5739-4388-b45a-3c2dbbfc2a20",
 			"b4fd53bd-1320-47ff-82a2-545e02b18487",
@@ -3203,7 +3203,7 @@
 	},
 	{
 		"id": "ff8114ab-560f-4a2a-b885-f7449a0e5056",
-		"prefix": "P/MVI/01/07",
+		"prefix": "P/MVI/01/07 vervalt helemaal",
 		"title": "Een onderwerp binnen een gegeven thema bedenken voor een fotoserie",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7d79c7f4-498f-4d93-95dc-a5d93c683987",
@@ -3212,7 +3212,7 @@
 	},
 	{
 		"id": "5dd5aefe-1653-4df9-81ad-1855f5f205f9",
-		"prefix": "P/MVI/01/08",
+		"prefix": "P/MVI/01/08 vervalt helemaal",
 		"title": "Foto's maken en als fotoserie presenteren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d4fd5daf-2cbc-457d-b737-df6ec1fa6550",
@@ -3225,7 +3225,7 @@
 	{
 		"id": "b1a12269-2c69-409e-905e-1088102ecfa8",
 		"prefix": "P/MVI/02/01",
-		"title": "Een concept ontwikkelen voor een 2D mediaproduct",
+		"title": "Een concept ontwikkelen voor een 2D-mediaproduct",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6288541d-cc5c-4495-8fa9-f2a5d19176f6",
 			"e0b53be0-5d1e-413d-94f4-44a339a77a61",
@@ -3238,7 +3238,7 @@
 	{
 		"id": "e1dd35d4-bb62-4e0f-8d52-4d65346f1445",
 		"prefix": "P/MVI/02/03",
-		"title": "Een concept ontwikkelen voor een 3D product",
+		"title": "Een concept ontwikkelen voor een 3D-product",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b555b3c8-ea99-47c0-87c6-2ed60db3a180",
 			"d081e801-010e-43bd-af26-d3e08963542b",
@@ -3251,7 +3251,7 @@
 	{
 		"id": "18e468cd-487c-4f97-a8a5-1ad142c19742",
 		"prefix": "P/MVI/02/04",
-		"title": "Een 3D product realiseren en presenteren",
+		"title": "Een 3D-product realiseren en presenteren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d38c0556-2c56-4f73-ab27-369808c90baa",
 			"ed4ec7ea-a743-4458-a268-4a4b03dd98db",
@@ -3263,7 +3263,7 @@
 	{
 		"id": "cd01bb8d-18df-4144-acb8-01b682dc631f",
 		"prefix": "P/MVI/04/01",
-		"title": "Een ontwerp maken voor een digitaal interactief product",
+		"title": "Een onderzoek doen naar en bepalen van een interactief product",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5a878efd-7d9c-44a8-9714-6b61df70769c",
 			"9eaa74a2-2ace-4c92-866f-529030005d00",
@@ -3274,7 +3274,7 @@
 	{
 		"id": "86c68b20-4580-4619-9e94-579ded4d07be",
 		"prefix": "P/MVI/04/02",
-		"title": "Een ontwerp omzetten in een digitaal interactief product",
+		"title": "Een interactief product ontwerpen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7b7b1454-3e92-4c4a-8a7b-055e3f8012e4",
 			"ce288f96-1070-409d-a80f-359f6d3aa0a2",
@@ -3287,7 +3287,7 @@
 	{
 		"id": "7e96f23c-7a73-4fe8-bc0c-522a191fa3b8",
 		"prefix": "P/MVI/04/03",
-		"title": "Een ontwerp maken voor een website",
+		"title": "Een interactief product maken",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3aacb4d2-63bc-4cbb-a85e-f78008f41742",
 			"cdbda62c-1cd1-4999-a22e-3d3c42b69491",
@@ -3298,7 +3298,7 @@
 	{
 		"id": "c9e48350-664f-472b-9b9f-b8eb6f7f3fc6",
 		"prefix": "P/MVI/04/04",
-		"title": "Ontwerp omzetten in een werkende website",
+		"title": "Een interactief product aanpassen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"12604436-92a3-49d7-ba90-16e16ce0b683",
 			"6c4da7eb-c6c1-4507-ada5-2cd38ebf0d2f",
@@ -4262,7 +4262,7 @@
 	{
 		"id": "a22bb839-fa17-4bd6-b2f6-fd1d6787b4c2",
 		"prefix": "P/PIE/01/02",
-		"title": "Een ontwerp produceren door handmatige, machinale en automatische bewerkingen uit te voeren aan metalen en kunststoffen",
+		"title": "Een ontworpen elektrische schakeling in een elektrotechnisch practicum opbouwen en aansluiten",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"5d60f0b5-0d02-482b-89c5-9329cda08d27",
 			"566085be-3ebd-4d86-a68e-f8120f90c381",
@@ -4271,7 +4271,7 @@
 	},
 	{
 		"id": "adf1b951-3345-45ba-8152-23985957b8fd",
-		"prefix": "P/PIE/03/02",
+		"prefix": "P/PIE/03/02 vervalt in zijn geheel",
 		"title": "In een elektrotechnisch practicum metingen uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"496a38ca-d307-4015-adac-c95488a94c5b",
@@ -5145,7 +5145,7 @@
 	{
 		"id": "3f04482e-9d50-4459-8752-7fdd95439545",
 		"prefix": "P/ZW/02/05",
-		"title": "Bij het inrichten van de ruimte rekening houden met het gebruik van de ruimte",
+		"title": "Bij het inrichten van een ruimte rekening houden met het gebruik van een ruimte",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b46ac4f6-258b-4afc-a2c6-73026a46ce7a",
 			"722f02a1-476a-47d5-8861-f86d9305e738"
@@ -6424,7 +6424,7 @@
 	{
 		"id": "4c14267c-bf27-486e-b600-44a46c95f6db",
 		"prefix": "P/GR/01/01",
-		"title": "Kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren.",
+		"title": "Groene productie mogelijk maken: kennis hebben van eigentijds en duurzaam ondernemen in de groene sector, rekening houdend met omgevingsfactoren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"6816ffb3-4331-424c-8469-efb7dbd2d167",
 			"20cd2d95-7377-4a00-b540-f425fe0dc9a5",
@@ -6440,7 +6440,7 @@
 	{
 		"id": "d4072b7d-9257-46c0-94f4-c6a3d7d00500",
 		"prefix": "P/GR/01/02",
-		"title": "Plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij gangbare technologie en technieken herkennen en gebruiken.",
+		"title": "Groene productie mogelijk maken: plantaardige producten vermeerderen, gewassen en planten telen en oogsten en daarbij veelvoorkomende technologie en technieken benoemen en gebruiken.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d64b69f3-31d6-476f-b24b-14a15e8c2853",
 			"a546fd12-1ac8-4ea6-a062-447630005209",
@@ -6475,7 +6475,7 @@
 	{
 		"id": "5f7e3e78-e7fd-48b4-ad55-31a2d94fa317",
 		"prefix": "P/GR/03/04",
-		"title": "Anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
+		"title": "In een stedelijke omgeving anderen informeren over het belang van planten en dieren en over de herkomst van natuurlijke producten.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3e1e3aa6-a34d-42ca-9c98-3d2f32b02ca0",
 			"8a62fe18-3210-4f85-8d1f-2246a271612f",
@@ -7077,7 +7077,7 @@
 			"7f9e0c91-988f-43b1-8964-7b2a559a9d00",
 			"1b18bce8-1c4a-4065-b253-33519841b216"
 		],
-		"title": "facilitaire werkzaamheden uitvoeren",
+		"title": "facilitaire werkzaamheden rondom een activiteit uitvoeren",
 		"id": "09407b31-ba8c-48a4-b4c2-42afbacd27d6"
 	},
 	{
@@ -7100,7 +7100,7 @@
 			"5bab94df-4798-449b-bb72-3f19393b8b1e",
 			"90eda335-0356-4ecd-877f-266c005f7c7b"
 		],
-		"title": "Een ontwerp en een product beoordelen, ontwerpen, tekenen en printen in 3D.",
+		"title": "Een product ontwerpen, tekenen en printen in 3D.",
 		"id": "18ceae22-0153-4b9e-93d3-0e15d8c94567"
 	},
 	{
@@ -7112,7 +7112,7 @@
 			"f54a03c3-5a2a-455e-a9b0-f189245fd3cf",
 			"6632836f-948b-4e6a-9253-a5ac4deb1860"
 		],
-		"title": "Een film maken.",
+		"title": "Aan de hand van een programma van eisen een film maken.",
 		"id": "c14928e7-6d50-4acf-8cb7-7dce8fb1e2c6"
 	},
 	{
@@ -7183,7 +7183,7 @@
 			"b8bfcb24-023f-4b9d-b0ae-df814c5fbfba",
 			"be1d5be4-06d1-4fdd-8934-4d7d48fdf204"
 		],
-		"title": "Devices (PC, laptop, tablet, smartphone of singleboard computer) inzetten voor een specifiek doel.",
+		"title": "Devices inzetten voor een specifiek doel.",
 		"id": "ee644890-f584-4e54-8918-6080720ed2ed"
 	},
 	{
@@ -7267,7 +7267,7 @@
 			"f0862661-be21-478c-99c4-73e1b37f60b4",
 			"1d24d15b-1589-4d65-8048-a15ed7ab49d0"
 		],
-		"title": "Een elektrische huisinstallatie aanleggen aan de hand van een installatietekening.",
+		"title": "Een elektrische huisinstallatie aanleggen",
 		"id": "f821b7f4-93ef-4494-a903-1894418d8ba0"
 	},
 	{
@@ -7347,7 +7347,7 @@
 	{
 		"id": "27d839cd-c80a-4a54-a472-071c09290e7d",
 		"prefix": "P/DP/02/03",
-		"title": "Doelgericht informatie verstrekken en instructies geven",
+		"title": "Doelgericht informatie presenteren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b20fd1f4-4b89-433f-a777-6d180b67eca2",
 			"d2ee80d3-2e93-4ee6-98f6-9279f91c6ee3"
@@ -7360,7 +7360,7 @@
 	{
 		"id": "1f9f492b-628e-4b5d-9759-92d01b61f66a",
 		"prefix": "P/DP/04/03",
-		"title": "Een website ontwerpen en samenstellen",
+		"title": "Aan de hand van een programma een website ontwerpen en samenstellen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ceadc12b-c9ec-462f-84f9-c28660a8ea99",
 			"5f6deab0-3de2-4e37-b9e1-b87b22d105dd",
@@ -7378,7 +7378,7 @@
 	{
 		"id": "50701188-c31b-4831-a33e-8f0e1542ac8e",
 		"prefix": "P/GR/03/01",
-		"title": "Een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren",
+		"title": "In een stedelijke omgeving een ontwerp maken voor de inrichting van een groene ruimte met planten en dieren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ed1588a7-7be5-4039-b2fc-87c7b7231825",
 			"8f377457-5c8a-414f-9405-95d53057c3f3",
@@ -7394,7 +7394,7 @@
 	{
 		"id": "0dbe783d-0e0d-44d3-9592-9135ea3ce565",
 		"prefix": "P/GR/03/03",
-		"title": "Een groene ruimte onderhouden en beheren",
+		"title": "In een stedelijke omgeving een groene ruimte onderhouden en beheren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"bdc8c05d-bc0a-463f-b1a1-c755caa45a61",
 			"03325ed7-8ff2-466b-8d44-a6e93c712b91",
@@ -7496,7 +7496,7 @@
 	{
 		"id": "5911803d-578c-46f6-b143-bf6c18ec1049",
 		"prefix": "P/MVI/02/02",
-		"title": "Een 2D mediaproduct realiseren en presenteren",
+		"title": "Een 2D-mediaproduct realiseren en presenteren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"209c0411-9c8c-4191-a14b-43f4dffbccb0",
 			"aa37aba9-6f1a-43f6-bc26-0fa44355f9cc",
@@ -7627,7 +7627,7 @@
 	{
 		"id": "0d2e8612-e55d-48f8-bb4f-26764fa236f4",
 		"prefix": "P/PIE/01/03",
-		"title": "Een ontworpen elektrische schakeling opbouwen, aansluiten en beproeven",
+		"title": "In een elektrotechnisch practicum metingen uitvoeren",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"0021e2da-b1c1-46ee-b3ff-d5cd216db4b3",
 			"7d54e740-76a8-42c8-bc24-b0d6ec108e68",
@@ -7640,7 +7640,7 @@
 	},
 	{
 		"id": "4968c6ea-70ce-49fe-ae2b-b256ae664e0c",
-		"prefix": "P/PIE/01/04",
+		"prefix": "P/PIE/01/04 deze vervalt in zijn geheel\n",
 		"title": "Aan de hand van een ontwerp een product bestaande uit meerdere onderdelen samenstellen en aansluiten",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"d7a042dc-8406-4fc6-b071-38e234dc3e3e",
@@ -7671,8 +7671,8 @@
 	},
 	{
 		"id": "1cc707d0-1d66-43ec-ad81-f832c96c9e50",
-		"prefix": "P/PIE/02/02",
-		"title": "Plaat- en profielmaterialen aan de hand van een werktekening met elkaar verbinden",
+		"prefix": "P/PIE/02/03",
+		"title": "Onderdelen aan de hand van een werktekening met elkaar verbinden",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a792f1d9-d2ec-4311-a558-209ae4850879",
 			"03ea4f41-5014-4703-b322-9fb04bd84bbc",
@@ -7686,7 +7686,7 @@
 	{
 		"id": "527a89c6-f5ae-40fb-b8da-a748948659ea",
 		"prefix": "P/PIE/03/01",
-		"title": "In een practicum aan de hand van een schema en opstellingstekening een besturingsinstallatie, een regelsysteem en een domotica-installatie opbouwen",
+		"title": "In een practicum aan de hand van een schema en opstellingstekening een besturingsinstallatie, een regelsysteem opbouwen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3a3bf020-194f-40df-83ab-d4dc1bfd6934",
 			"07fda395-6c6e-46d4-9df1-283a63ed8a8f",
@@ -7813,7 +7813,7 @@
 	{
 		"id": "89c77994-6f98-4937-8e75-e5a77e763798",
 		"prefix": "P/EO/01/01",
-		"title": "De retailformule en de marketinginstrumenten herkennen en toepassen ten aanzien van de doelgroep, het assortiment en de marktpositie",
+		"title": "De verkoopomgeving realiseren.",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"06097bb4-140f-43de-b3db-b6e9f5767e9b",
 			"e07ca41b-9d3e-4663-9734-d07fc41c7fae",
@@ -7833,7 +7833,7 @@
 	},
 	{
 		"id": "5f5d9a3c-61b0-4ecc-8a29-6998a13450ab",
-		"prefix": "P/PIE/03/03",
+		"prefix": "P/PIE/03/02",
 		"title": "Een automatische besturing van een proces realiseren en testen",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3b6c34de-c82b-4fe3-a43e-71d5e754d09a",
@@ -7863,7 +7863,7 @@
 	{
 		"id": "9923ec3a-b665-46ca-8256-3b188a3734ff",
 		"prefix": "P/GR/04/02",
-		"title": "Ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule",
+		"title": "In de groene sector ontwerpen, promoten, inrichten en presenteren aan de hand van een winkelformule",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9",
 			"a17d610d-e3c3-46fd-bb0c-6ca2af696f6a",

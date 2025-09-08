@@ -93,14 +93,15 @@
 		"examenprogramma_bg_deeltaak_id": [
 			"b6573b4f-0236-45b4-9598-79d113ca286c",
 			"34eab3ea-f760-47d8-839f-6793e5cfd7b9",
-			"6ea4bb4a-ebc3-485a-99f7-a13c2246803a"
+			"0e3ce236-c7c4-412c-9f35-21150d47f20d"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"a8483549-8321-4157-9973-060234b89d5e"
 		],
 		"replaces": [
 			"84a0278b-ddeb-4735-a81f-f6188ba41d71"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
@@ -108,7 +109,7 @@
 		"title": "Bouwen vanaf de fundering",
 		"description": "Een bekisting voor een strokenfundering en een ps systeembekisting maken / een halfsteensmuur metselen / isolatiematerialen verwerken / veilig werken op steigers en ladders",
 		"examenprogramma_bg_deeltaak_id": [
-			"ced80edb-61d5-44f3-b164-7010a475f531",
+			"fa2bd910-6034-4ea7-b534-1f377369c612",
 			"8a1a8d2c-1282-4d68-8537-2cf33f3653fa",
 			"4001d5b1-d839-4c86-b35a-cf2eadac9ffe",
 			"faa53fa7-8a5a-43b8-abe7-918513914c60"
@@ -118,7 +119,8 @@
 		],
 		"replaces": [
 			"033e49aa-fc55-4d65-afcc-87fa16d03604"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "30261a49-79a7-44a4-b3a7-dc1ec231f8d8",
@@ -245,14 +247,17 @@
 		"description": "Secretariële werkzaamheden uitvoeren / backoffice werkzaamheden uitvoeren / frontoffice werkzaamheden uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
 			"e0f4fe04-bb3f-457e-8594-c859183ae37c",
-			"a2cdbd04-a196-4382-9d33-c3f8efd69a6c"
+			"a2cdbd04-a196-4382-9d33-c3f8efd69a6c",
+			"1087c269-6933-49fc-b681-ab4eff0dc33a",
+			"181510f6-2df1-4f05-b229-e86e22315cb3"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"e5410ae4-17b4-490d-93d5-5924254303b8"
 		],
 		"replaces": [
 			"fbe67748-d71f-4004-87ee-2391538e9847"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "9e334e64-eafd-4b71-9a56-2753e44ccee8",
@@ -261,15 +266,15 @@
 		"description": "Magazijnwerkzaamheden uitvoeren (eventueel in gesimuleerde omgeving) ten aanzien van ontvangst en opslag van goederen / verzamelen, verpakken en verzenden van goederen / voorraad bijhouden, inventariseren en bestellen",
 		"examenprogramma_bg_deeltaak_id": [
 			"dd81c5e4-9afc-4734-b08c-fbfcd59f9777",
-			"3554c976-1d75-4e9c-934c-ba70b77a65bf",
-			"cef7757f-3fdc-4b2d-9f07-0dd8d07ec279"
+			"3554c976-1d75-4e9c-934c-ba70b77a65bf"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"652230da-c7ab-485f-9bfb-66517e0f12e7"
 		],
 		"replaces": [
 			"e4cdcb2d-3237-4114-b954-31c203a84db0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "c8bd1be9-e88f-49a1-ad19-9022386fefb6",
@@ -278,14 +283,16 @@
 		"description": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de boekhouding van de (handels)onderneming bijhouden",
 		"examenprogramma_bg_deeltaak_id": [
 			"e0617e54-1a7d-495b-8a03-f780b9790b50",
-			"dcd5b2b2-4c74-4690-9273-0e037527eeb2"
+			"dcd5b2b2-4c74-4690-9273-0e037527eeb2",
+			"8fbe0a0d-146f-4903-8554-3d325268bb8b"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"8787160c-358e-41ba-bc17-5b286ca24fa4"
 		],
 		"replaces": [
 			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "eee758d1-2376-4497-9dcc-0a2fd7425a2a",
@@ -363,16 +370,15 @@
 			"e4e2ae51-e954-43a0-ac38-f5659ac79c7a",
 			"e0fb9e03-aa35-4f65-8eae-7b5f0fff667b",
 			"2bbe7c6b-01ca-47dd-aa4a-ea45e6cb51f8",
-			"7026a1a8-75f2-4180-8d46-f19fb0a5cf37",
-			"ff8114ab-560f-4a2a-b885-f7449a0e5056",
-			"5dd5aefe-1653-4df9-81ad-1855f5f205f9"
+			"7026a1a8-75f2-4180-8d46-f19fb0a5cf37"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"528de030-c4df-4c46-8fbc-4211d310a13e"
 		],
 		"replaces": [
 			"2d1b23a7-c5e8-48da-a0cb-1b1a9a1c14b0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ef72b398-ef68-4f07-8cb0-2f55703e99a0",
@@ -419,14 +425,16 @@
 			"cd01bb8d-18df-4144-acb8-01b682dc631f",
 			"86c68b20-4580-4619-9e94-579ded4d07be",
 			"7e96f23c-7a73-4fe8-bc0c-522a191fa3b8",
-			"c9e48350-664f-472b-9b9f-b8eb6f7f3fc6"
+			"c9e48350-664f-472b-9b9f-b8eb6f7f3fc6",
+			"aa02ff60-a0ea-4eb8-9d04-f68cf0392f86"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"098cec10-b665-4e7f-932e-6cc29eaf47cf"
 		],
 		"replaces": [
 			"35421908-139e-430b-b076-6ec2167c0d4c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e4f655dd-0caa-4738-90dc-80966e5556ae",
@@ -470,15 +478,15 @@
 		"examenprogramma_bg_deeltaak_id": [
 			"038684f0-7e47-4821-9daf-367ff6aa4725",
 			"a22bb839-fa17-4bd6-b2f6-fd1d6787b4c2",
-			"0d2e8612-e55d-48f8-bb4f-26764fa236f4",
-			"4968c6ea-70ce-49fe-ae2b-b256ae664e0c"
+			"0d2e8612-e55d-48f8-bb4f-26764fa236f4"
 		],
 		"examenprogramma_bg_moduletaak_id": [
 			"973a4a79-47d0-448e-9b8f-de1a30ffc60c"
 		],
 		"replaces": [
 			"7efa8277-604f-4046-a95b-d4cb7ffda432"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "91c5e906-6abd-41e9-a357-7f9b9b8d1295",
@@ -487,6 +495,7 @@
 		"description": "Producten maken door het vervormen en scheiden van materialen / onderdelen samenstellen aan de hand van een werktekening",
 		"examenprogramma_bg_deeltaak_id": [
 			"50c8fc95-7572-45e4-b1c1-19042efac0e1",
+			"eb997482-20a8-4d51-b922-f6f18a212db3",
 			"1cc707d0-1d66-43ec-ad81-f832c96c9e50"
 		],
 		"examenprogramma_bg_moduletaak_id": [
@@ -494,7 +503,8 @@
 		],
 		"replaces": [
 			"f983412c-13a0-4969-9c0d-507ec1808778"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "046cc243-92d4-4002-8c1f-3c90616293c9",
@@ -503,7 +513,6 @@
 		"description": "In een practicum een besturingsinstallatie opbouwen / in een practicum een regelsysteem opbouwen / in een practicum een domotica installatie opbouwen / in een practicum metingen uitvoeren, een verslag maken van de resultaten en deze presenteren / een automatische besturing van een proces opbouwen, aansluiten, testen, demonstreren en presenteren",
 		"examenprogramma_bg_deeltaak_id": [
 			"527a89c6-f5ae-40fb-b8da-a748948659ea",
-			"adf1b951-3345-45ba-8152-23985957b8fd",
 			"5f5d9a3c-61b0-4ecc-8a29-6998a13450ab"
 		],
 		"examenprogramma_bg_moduletaak_id": [
@@ -511,7 +520,8 @@
 		],
 		"replaces": [
 			"98a808b6-5772-4c56-ad69-974025964e75"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "0a3625dc-f9f0-48b9-8243-8035d3ccba43",
@@ -676,7 +686,7 @@
 	},
 	{
 		"id": "52084735-7e87-4d13-b907-ca79db136e2f",
-		"prefix": "P/MET/03 - deze staat er dubbel in",
+		"prefix": "P/MET/03",
 		"title": "Verlichting en comfortsystemen",
 		"description": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen",
 		"examenprogramma_bg_deeltaak_id": [
@@ -690,11 +700,12 @@
 		],
 		"replaces": [
 			"595d2047-1bf9-4303-9824-7956854f466c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "080afa8f-d9ea-4aaf-beab-0d75b02fa0d0",
-		"prefix": "P/MET/04 deze staat er dubbel in",
+		"prefix": "P/MET/04",
 		"title": "Mobiliteit en Transport",
 		"description": "Een bedrijfsvoertuig veilig laden en lossen / een bedrijfsvoertuig vervoersklaar maken en een technische rijklaar-controle uitvoeren / een ritplanning en een routeplanning maken (nationaal en internationaal)",
 		"examenprogramma_bg_deeltaak_id": [
@@ -707,6 +718,7 @@
 		],
 		"replaces": [
 			"a88692f5-10a3-4aac-9e19-73d87c7015df"
-		]
+		],
+		"dirty": true
 	}
 ]

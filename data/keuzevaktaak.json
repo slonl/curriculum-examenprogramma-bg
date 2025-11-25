@@ -1514,7 +1514,7 @@
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/EO/10",
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\r\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "c49ec1fc-bdc2-4960-894b-b8d488c4d600",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -1538,5 +1538,29 @@
 		"replaces": [
 			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
 		]
+	},
+	{
+		"prefix": "K/BIW/25/taak",
+		"title": "De principes, kenmerken en eigenschappen van biobased en natuurinclusief bouwen herkennen, benoemen en omschrijven - Een natuurinclusief product ontwerpen en maken - Constructies ontwerpen, maken en samenstellen, waarbij rekening wordt gehouden met biobased uitgangspunten.",
+		"id": "796783fd-638f-4c57-bb07-6d077bbc77c1",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/09",
+		"title": "Modetechnische vaardigheden toepassen",
+		"id": "7288c29a-b9ee-4c58-81de-6853e584ab44",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/10",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"id": "9b88cd0e-1ece-47d6-9cc9-2d3f24b6ee56",
+		"unreleased": true
+	},
+	{
+		"prefix": "K/EO/11",
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"id": "0305814c-43d2-433f-b40a-4a21654173a0",
+		"unreleased": true
 	}
 ]

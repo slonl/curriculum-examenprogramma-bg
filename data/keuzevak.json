@@ -2197,5 +2197,59 @@
 		"replaces": [
 			"7b4dd57b-b384-42a1-bbb7-56603a98de9b"
 		]
+	},
+	{
+		"prefix": "K/BWI/25",
+		"title": "Biobased en natuurinclusief bouwen",
+		"id": "d8e462d4-2f52-4c9b-b63e-5d2e69a73815",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"796783fd-638f-4c57-bb07-6d077bbc77c1"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"946a29d0-e5a2-4624-a279-9334228dcfe5",
+			"9f05b266-b4a3-40d0-9a53-e1b71683c0c2",
+			"1a23f600-a189-48fe-88b1-e69897cd2f46"
+		]
+	},
+	{
+		"prefix": "K/EO/09",
+		"title": "Modetechniek",
+		"id": "182438a6-5a86-40f6-ae16-0ec097182a29",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7288c29a-b9ee-4c58-81de-6853e584ab44"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"001f560e-70c2-4f2a-80dd-e7a613f137cd",
+			"2b834fe2-d9f7-4b47-a34d-e1722f32e8cb"
+		]
+	},
+	{
+		"prefix": "K/EO/10",
+		"title": "Wonen en design",
+		"id": "e643d881-7724-458d-ad8c-0e08ec3524de",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9b88cd0e-1ece-47d6-9cc9-2d3f24b6ee56"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"6f1a1073-eb2c-4df6-a044-f9ea8f2f9ca3",
+			"fc507fc6-1f83-4b4b-bc09-3d6ba3b120bb",
+			"1cdb1ddc-2f64-4352-81b5-85d45789257d"
+		]
+	},
+	{
+		"prefix": "K/EO/11",
+		"title": "Internationale handel",
+		"id": "36040af1-82ba-44e9-9ad7-ec1bc02fefc8",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"0305814c-43d2-433f-b40a-4a21654173a0"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"ca1afe60-52c7-4271-bc0a-4fea722bf9c1",
+			"d3f8b2b3-4dbb-4b38-b198-832d05fa1359"
+		]
 	}
 ]

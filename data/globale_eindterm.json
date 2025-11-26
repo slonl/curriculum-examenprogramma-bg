@@ -6318,52 +6318,57 @@
 	{
 		"id": "7f5e139d-dd16-45b3-95ad-4c2f68b7e554",
 		"prefix": "K/EO/07/01-01",
-		"title": "De kandidaat kan artikelpresentaties maken aan de hand van thema en compositie",
+		"title": "De kandidaat kan artikelpresentaties realiseren, zoals: etalage, driedimensionale display, verkooptafel, stand of vitrine, rekening houdend met het bedrijfsconcept d.m.v. juiste toepassing van ar keldragers, opbouwmateriaal, informa edragers, ruimtelijke composi es, decora eve ondersteuning en thema sche aankleding.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "90348d9f-8e5b-4da2-8607-d9e1ed7f7dfd",
 		"prefix": "K/EO/07/01-02",
-		"title": "De kandidaat kan etaleren, visual merchandising aan de hand van thema en compositie",
+		"title": "De kandidaat kan decoratiemateriaal ontwerpen en realiseren",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "3b03ce18-dfad-44fb-82a8-0a29a4228606",
 		"prefix": "K/EO/07/01-03",
-		"title": "De kandidaat kan (etalage)poppen aankleden, draperen",
+		"title": "De kandidaat kan sfeer- en belevingselementen realiseren voor een winkel passend bij de doelgroep, klantbehoe e, gebruikscontext en gebruikservaring van het product.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "9e7a5a9d-dd4d-4a55-890e-9b34396cb586",
 		"prefix": "K/EO/07/01-04",
-		"title": "De kandidaat kan decoratief inpakken",
+		"title": "De kandidaat kan creatieve inpaktechnieken toepassen met thema’s of afwijkende vormen en decoratieve elementen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "605a48de-e401-4327-9563-335b5e65b5ac",
 		"prefix": "K/EO/07/01-05",
-		"title": "De kandidaat kan een logo ontwerpen",
+		"title": "De kandidaat kan een geschenkverpakking maken passend bij een artikel.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b525aad5-1a07-4db5-bf7c-cec5712fe568",
@@ -24048,11 +24053,11 @@
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/GR/15/01-03",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan een onderzoeksrapport opstellen en belanghebbende adviseren over aquatische organismen en het ecologische niveau",
-		"id": "fa0f1f57-f58f-4bf0-9c4c-9f89518780d1"
+		"id": "fa0f1f57-f58f-4bf0-9c4c-9f89518780d1",
+		"dirty": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
@@ -24129,11 +24134,11 @@
 		"prefix": "K/GR/15/04-02",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan gangbare onderhoudswerkzaamheden uitvoeren",
-		"id": "46553d76-7eac-4f4b-bc90-c52372003551"
+		"id": "46553d76-7eac-4f4b-bc90-c52372003551",
+		"dirty": true
 	},
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
@@ -35298,6 +35303,597 @@
 		"id": "a17e175f-d296-43f7-bd3a-c3764742ec5f",
 		"unreleased": true,
 		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02-01",
+		"title": "De kandidaat kan een huisstijl realiseren voor een (fictieve) opdrachtgever en toepassen op verschillende huisstijldragers.",
+		"id": "72f924a9-d9c7-47fb-b016-89f518a84b8d",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02-02",
+		"title": "De kandidaat kan een persona beschrijven voor een bedrijf in tekst en beeld.",
+		"id": "6e620e65-e006-4d16-9d2e-f9c57cb0df72",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02-03",
+		"title": "De kandidaat kan bedrijfsmatige visuele communicatie voor social media realiseren, het gaat hierbij om:  - Omschrijven van een doel - Het kiezen van het juiste social media platform - Beeldmateriaal voor social media ontwerpen zoals: advertentie met beeld, productillustratie, een meme of GIF.",
+		"id": "163b89b0-fc5f-49c7-8ad7-c771da214e77",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02-04",
+		"title": "De kandidaat kan influencer-marketing ontwerpen en toepassen passend voor een (fictieve) opdrachtgever, het gaat hierbij om:\r\n- Het selecteren van een geschikte influencer, passend bij het bedrijf - Het idee voor een promotievideo voor een specifieke dienst of product ontwerpen - Het idee toepassen in een eenvoudig script  - De beelden filmen, monteren en bewerken.",
+		"id": "72a63739-e8e7-494c-851a-479a29ec601e",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02-05",
+		"title": "De kandidaat kan een norrowcasting realiseren, het gaat hierbij om:\r\n- pagina's vormgeven aan de hand van de visuele elementen van een huisstijl.\r\n- content bestaand uit tekst en beeld selecteren en invoegen.",
+		"id": "690832c0-e175-432b-8ab5-b746792e7d3b",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.1",
+		"title": "De kandidaat kan de voor- en nadelen van composiet benoemen.",
+		"id": "8327580f-1498-42b2-9205-ae9e3cd52dd1",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.2",
+		"title": "De kandidaat past de mogelijkheden en eigenschappen van verschillende composietmaterialen, composietvezels en harsen toe.",
+		"id": "5e64fd11-95d0-401a-aba2-ebf2ba46355e",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.3",
+		"title": "De kandidaat licht de toepassingsmogelijkheden van composiet toe, binnen verschillende beroepssectoren.",
+		"id": "99f0d3c8-0fe6-463b-9b1e-7db28a3a1c64",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.4",
+		"title": "De kandidaat treft voorbereidingen voor de werkplek.",
+		"id": "ebca9ebe-75fe-47c6-9939-e87f64630555",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.5",
+		"title": "De kandidaat bepaalt een werkvolgorde voor het maken van eenvoudige producten van composiet.",
+		"id": "a30aeba2-7e5c-46e4-9caa-982d65652bf2",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1.6",
+		"title": "De kandidaat gebruikt de juiste gereedschappen en hulpmiddelen voor het maken van eenvoudige producten van composiet.",
+		"id": "65e3a89d-0f53-4c00-851b-311a9d0c9005",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/2.1",
+		"title": "De kandidaat past de basis regelgeving toe omtrent de opslag, gebruik en afvoer van epoxy 's, harsen, versterking materialen en vulmiddelen.",
+		"id": "1b435d0f-5f11-4ba3-a5ea-1bd99267bfa1",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/2.2",
+		"title": "De kandidaat past de juiste veiligheidseisen en -maatregelen toe bij het verwerken van materialen en het bewerken van composieten.",
+		"id": "33978a1d-105e-47a3-9e2e-faeb8b92822e",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/2.3",
+		"title": "De kandidaat past de veiligheidseisen en -maatregelen toe die gelden voor persoonlijke bescherming.",
+		"id": "071e8973-cd88-4cba-811e-9738d3c69267",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/3.1",
+		"title": "De kandidaat maakt een ontwerp op basis van een werktekening en gestelde eisen.",
+		"id": "3c7e65b7-cfee-4866-90a5-8089a141fc5f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/3.2",
+		"title": "De kandidaat werkt volgens een plan van aanpak.",
+		"id": "91a73ee0-aa77-45e6-8bf6-d7a398694379",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/3.3",
+		"title": "De kandidaat maakt een product van composiet",
+		"id": "c731e4b9-b9dd-46a9-9715-c2f52f9d7395",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/4.1",
+		"title": "De kandidaat voert metingen en controles uit van gemaakte producten.",
+		"id": "b8cb2243-dc42-41a5-b85c-23b36870a301",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/4.2",
+		"title": "De kandidaat vult meetrapporten in en trekt daaruit concluseis.",
+		"id": "aa4009ac-fced-4c91-bf3a-d94dc0a62dc9",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-01",
+		"title": "De kandidaat kan de hoeveelheid ruwvoer en krachtvoer berekenen, verstrekken en controleren op kwaliteit.",
+		"id": "57a22952-0406-4c00-8fa8-1765cb5111b6",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-02",
+		"title": "De kandidaat kan de watergift beoordelen op kwaliteit, kwantiteit en de manier van verstrekken.",
+		"id": "de93f3b6-e100-4831-b656-a8633e47db35",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-03",
+		"title": "De kandidaat kan de huisvestiging van een individueel paard beoordelen aan de hand van het soorteigen gedrag van paarden.",
+		"id": "0fe799fd-59aa-4a1f-9895-3ae590272c69",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-04",
+		"title": "De kandidaat kan op basis van instructie de huisvestiging van een individueel paard beoordelen aan de hand van het soorteigen gedrag van paarden.",
+		"id": "bbc5cc88-4bde-409a-b6b5-79a059bd99d3",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-05",
+		"title": "De kandidaat kan de gezondheid en de conditie van een paard beoordelen.",
+		"id": "f65ad65d-e3e7-45be-aef5-dfe21f84cbcb",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01-06",
+		"title": "De kandidaat kan punten benoemen voor optimaal huisvesten van een individueel paard, met positief effect op de mentale staat van het paard.",
+		"id": "8b7506b5-0b1e-4864-99a2-88c490d8a4ad",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02-01",
+		"title": "De kandidaat kan verbanden leggen tussen de interactie tussen mens en paard en de invloed van deze interactie op de mentale staat van het paard.",
+		"id": "24c82185-334d-419d-ae10-07a96a2da65c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02-02",
+		"title": "De kandidaat kan de juiste houding aannemen om een veilige en positieve interactie te creëren met het paard.",
+		"id": "2f353ce8-ed37-473e-be55-1fda66ee1d56",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02-03",
+		"title": "De kandidaat kan zijn/haar stem zo gebruiken dat dat bijdraagt aan een positieve interactie.",
+		"id": "db2772b0-112d-47dc-bae1-297db86e5f4a",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02-04",
+		"title": "De kandidaat kan kennis en vaardigheden toepassen om bekwaam om te gaan met een paard.",
+		"id": "1fab53b7-060b-4e6e-8539-03798dfc9215",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02-05",
+		"title": "De kandidaat kan beoordelen of de interactie met soortgenoten van een individueel paard voldoende is om chronische stress te voorkomen.",
+		"id": "f07031fc-6fd9-4d38-8926-6ffed35cabbf",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/03-01",
+		"title": "De kandidaat kan risico’s van natuurlijk gedrag van een paard voor mensen inschatten en een zo veilig mogelijke interactie creëren.",
+		"id": "872a6db4-6c6a-4233-bf1d-b82b0d8b1aa3",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/03-02",
+		"title": "De kandidaat kan inzicht in de mentale capaciteit en mentale staat van een paard en kan hier passend mee omgaan.",
+		"id": "04a4eb9f-dd3c-4cbb-af96-f954f97277bc",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/03-03",
+		"title": "De kandidaat kan aangeven wat habituatie, desensitisatie, kalmerende signalen, klassieke conditionering en operante conditionering, LIMA en LIFE is.",
+		"id": "10812886-069c-41e4-ae86-1c328e2165ae",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-01",
+		"title": "De kandidaat kan een trainingsdoel omzetten in een door de kandidaat uit te voeren trainingsplan.",
+		"id": "e004da42-d532-4e0b-ad11-4f89a889e597",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-02",
+		"title": "De kandidaat kan op basis van instructies een trainingsdoel omzetten in een door de kandidaat uit te voeren trainingsplan.",
+		"id": "1f060e8e-7d4c-4058-a3a6-ed9f85ecc846",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-03",
+		"title": "De kandidaat kan een realistisch trainingsdoel kiezen, met passende stimulus en beloning, gebruikmakend van het kwadrant.",
+		"id": "c278d119-253a-4022-8c02-845535cdba32",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-04",
+		"title": "De kandidaat kan op basis van instructies een trainingsdoel omzetten in een door de kandidaat uit te voeren trainingsplan.",
+		"id": "a930d13d-96fc-4480-a7ed-8dfd16be58d9",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-05",
+		"title": "De kandidaat kan een stimulus kiezen en deze omzetten in een cue voor het gekozen gedrag.",
+		"id": "81c410d3-f99b-459d-9535-f753f958053d",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-06",
+		"title": "De kandidaat kan shaping toepassen tijdens het leerproces van het paard, passend bij het individu.",
+		"id": "9ab68acf-00d4-41ea-9bb1-ad20db305952",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-07",
+		"title": "De kandidaat kan  tijdens de training zijn/haar kennis en vaardigheden over het leervermogen van een paard en de interactie tussen mens en paard toepassen.",
+		"id": "3ee521c3-fa39-4625-9e8c-58b841a3aad8",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-08",
+		"title": "De kandidaat kan over het leerproces van het paard waken door de kleinste poging te belonen en waar nodig stappen terug te zetten in de training.",
+		"id": "a3ce86fd-0292-4379-bc03-00756890c5a8",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-09",
+		"title": "De kandidaat kan het trainingsplan evalueren en aangeven of het trainingsdoel behaald is.",
+		"id": "e77ea192-c3df-4523-988e-721093821f6b",
+		"unreleased": true,
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04-10",
+		"title": "De kandidaat kan een aanbeveling voor vervolgtraining formuleren.",
+		"id": "31235205-0dad-40cf-baff-db7f4047148e",
+		"unreleased": true,
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-01",
+		"title": "De kandidaat kan de meest voorkomende vissoorten die in de commerciële visserij worden gevangen, herkennen en benoemen en in verband brengen met de verschillende vismethoden.",
+		"id": "16f8dae3-94f9-47d3-843a-2cc450d03b25",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-02",
+		"title": "De kandidaat kan eigenschappen van verschillende commerciële vismethoden benoemen en in verband brengen met de constructie van het vissersschip en het toegepaste visnetwerk.",
+		"id": "5f46c19d-4b88-43f7-aecf-f0cb611c68e2",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-03",
+		"title": "De kandidaat kan een werkstuk maken over duurzame commerciële visserij.",
+		"id": "5e0376f8-7e7b-45db-b9bf-1ab393b03263",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-04",
+		"title": "De kandidaat kan bij werkzaamheden aan dek de voorgeschreven PBM’s en veiligheidsprocedures toepassen.",
+		"id": "bf95f20a-d517-4374-957a-9e0d8655dc78",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-05",
+		"title": "De kandidaat kan assisteren bij de eerste vissortering zoals vis strippen, spoelen en ijzen.",
+		"id": "5fba0852-341a-4583-ae28-398d46d009d6",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-06",
+		"title": "De kandidaat kan veilig, hygiënisch en duurzaam werken tijdens de eerste vissortering volgens voorgeschreven procedures.",
+		"id": "a1c7c1aa-58de-48ae-ac60-1a127b7bf02f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01-07",
+		"title": "De kandidaat kan assisteren bij laad- en loswerkzaamheden van het visproduct.",
+		"id": "48ed0c9a-1ac9-4098-ae91-efb47c0a6964",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02-01",
+		"title": "De kandidaat kan onderdelen van het visgerei benoemen en beschrijven.",
+		"id": "e494b11a-f954-4b54-aeaa-6ec164836f03",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02-02",
+		"title": "De kandidaat kan werken met verschillende soorten touwwerk rekening houdend met materiaaleigenschappen. Het gaat hier om sterkte, dikte en buigzaamheid van het touwwerk.",
+		"id": "7adb22bf-326d-44ef-b506-2ed5183a8fc6",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02-03",
+		"title": "De kandidaat kan een rechthoekige scheur repareren in een visnetwerk.",
+		"id": "c5d5cf33-d669-4a24-a77b-811885c53b3f",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02-04",
+		"title": "De kandidaat kan vissersknopen maken. Het gaat hier om de achtknoop, chirurgenknoop, constrictorknoop, kettingsteek, timmersteek, twee zoete liefjes, vissersknoop en het keesje.",
+		"id": "9f309f50-4f80-40d6-b3d0-480f890d325c",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02-05",
+		"title": "De kandidaat kan schiemanswerk uitvoeren. Het gaat hier om het maken van een takeling, korte splits, eindsplits en een oogsplits.",
+		"id": "f4f2a65f-8d53-44b7-92a7-59a579528835",
+		"unreleased": true,
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		]

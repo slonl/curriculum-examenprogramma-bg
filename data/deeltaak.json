@@ -1286,18 +1286,15 @@
 	{
 		"id": "02c78ea8-2bbf-495e-b68e-b4873a8f8d3f",
 		"prefix": "K/EO/07/01",
-		"title": "Presentatie- en stylingtechnieken uitvoeren",
+		"title": "Presentatie- en stylingtechnieken uitvoeren ten aanzien van de winkelpresentatie",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7f5e139d-dd16-45b3-95ad-4c2f68b7e554",
 			"90348d9f-8e5b-4da2-8607-d9e1ed7f7dfd",
 			"3b03ce18-dfad-44fb-82a8-0a29a4228606",
 			"9e7a5a9d-dd4d-4a55-890e-9b34396cb586",
-			"605a48de-e401-4327-9563-335b5e65b5ac",
-			"b525aad5-1a07-4db5-bf7c-cec5712fe568",
-			"9033112d-d5bc-4389-9211-9476bb7036d0",
-			"b2163681-a179-400e-b4ef-9e436c38b599",
-			"8cce9447-2045-421d-83df-40c9923f4508"
-		]
+			"605a48de-e401-4327-9563-335b5e65b5ac"
+		],
+		"dirty": true
 	},
 	{
 		"id": "18ea2777-ba40-4a72-ab89-cc0daaef3735",
@@ -8118,6 +8115,149 @@
 			"f9035342-f009-4d6f-80d4-bd220b673629",
 			"9e130487-7bac-4309-9bef-63f2034e603c",
 			"a17e175f-d296-43f7-bd3a-c3764742ec5f"
+		]
+	},
+	{
+		"prefix": "K/EO/07/02",
+		"title": "Presentatie- en stylingtechnieken uitvoeren met behulp van digitale media.",
+		"id": "6779d1fe-910c-41fa-945f-6d9ecf4fd4b3",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"72f924a9-d9c7-47fb-b016-89f518a84b8d",
+			"6e620e65-e006-4d16-9d2e-f9c57cb0df72",
+			"163b89b0-fc5f-49c7-8ad7-c771da214e77",
+			"72a63739-e8e7-494c-851a-479a29ec601e",
+			"690832c0-e175-432b-8ab5-b746792e7d3b"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/1",
+		"title": "De kandidaat krijgt inzicht in de verschillende soorten composiet. De toepassingen van composiet met de daarbij horende voor- en nadelen. Zij maken kennis met de toepassingsmogelijkheden van composiet in verschillende beroepssituaties en welke aandachtspunten dat met zich meebrengt.",
+		"id": "91dde52b-7cb5-4abb-a79e-913eefb6823c",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"8327580f-1498-42b2-9205-ae9e3cd52dd1",
+			"5e64fd11-95d0-401a-aba2-ebf2ba46355e",
+			"99f0d3c8-0fe6-463b-9b1e-7db28a3a1c64",
+			"ebca9ebe-75fe-47c6-9939-e87f64630555",
+			"a30aeba2-7e5c-46e4-9caa-982d65652bf2",
+			"65e3a89d-0f53-4c00-851b-311a9d0c9005"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/2",
+		"title": "In deze deeltaak leren kandidaten wat er nodig is om veilig composiet te maken en wat voor veiligheidseisen er zijn. Bovendien leren zij de veiligheidseisen om verhard composiet te bewerken.",
+		"id": "509eee62-5a7f-4aa3-95fa-428528c0a2f4",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"1b435d0f-5f11-4ba3-a5ea-1bd99267bfa1",
+			"33978a1d-105e-47a3-9e2e-faeb8b92822e",
+			"071e8973-cd88-4cba-811e-9738d3c69267"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/3",
+		"title": "In deze deeltaak laten de leerlingen zien dat zij de kennis en vaardigheden die zij hebben ontwikkeld in het vak kunnen inzetten om zelf een eenvoudig composietmodel te maken. De composiet voldoet aan de veiligheidseisen en is versterkt met vulmiddel en versterkingsmateriaal.",
+		"id": "3ecc7530-dced-49af-a328-828fdb248f95",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"3c7e65b7-cfee-4866-90a5-8089a141fc5f",
+			"91a73ee0-aa77-45e6-8bf6-d7a398694379",
+			"c731e4b9-b9dd-46a9-9715-c2f52f9d7395"
+		]
+	},
+	{
+		"prefix": "K/PIE/26/4",
+		"title": "In deze deeltaak laten de leerlingen zien dat zij de kennis en vaardigheden die zij hebben ontwikkeld in het vak zelfstandig kunnen inzetten om zelf een eenvoudig composietmodel te maken. De composiet voldoet aan de veiligheidseisen en is versterkt met vulmiddel en versterkingsmateriaal.",
+		"id": "bed0469f-3403-47e8-b222-84ea8619a490",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"b8cb2243-dc42-41a5-b85c-23b36870a301",
+			"aa4009ac-fced-4c91-bf3a-d94dc0a62dc9"
+		]
+	},
+	{
+		"prefix": "K/GR/17/01",
+		"title": "De kandidaat heeft kennis van de drie fysiologische domeinen van een paard en kan de invloed van de fysiologische domeinen op de mentale staat van het paard onderzoeken, beoordelen en aanbevelingen doen mbt optimalisatie.",
+		"id": "f3f2491a-aef6-49ca-92eb-30b78bc91574",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"57a22952-0406-4c00-8fa8-1765cb5111b6",
+			"de93f3b6-e100-4831-b656-a8633e47db35",
+			"0fe799fd-59aa-4a1f-9895-3ae590272c69",
+			"bbc5cc88-4bde-409a-b6b5-79a059bd99d3",
+			"f65ad65d-e3e7-45be-aef5-dfe21f84cbcb",
+			"8b7506b5-0b1e-4864-99a2-88c490d8a4ad"
+		]
+	},
+	{
+		"prefix": "K/GR/17/02",
+		"title": "De kandidaat heeft kennis van het natuurlijk gedrag van een paard en kan de invloed van de leefomgeving en interactie met soortgenoten onderzoeken en beoordelen.",
+		"id": "330c9958-0de5-4f35-9acd-c12dc4fd8a1a",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"24c82185-334d-419d-ae10-07a96a2da65c",
+			"2f353ce8-ed37-473e-be55-1fda66ee1d56",
+			"db2772b0-112d-47dc-bae1-297db86e5f4a",
+			"1fab53b7-060b-4e6e-8539-03798dfc9215",
+			"f07031fc-6fd9-4d38-8926-6ffed35cabbf"
+		]
+	},
+	{
+		"prefix": "K/GR/17/03",
+		"title": "De kandidaat heeft inzicht in trainingsprincipes en kan Leertheorie toepassen in het opstellen van een trainingsplan.",
+		"id": "89456764-893b-482d-9ccb-7543a012987c",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"872a6db4-6c6a-4233-bf1d-b82b0d8b1aa3",
+			"04a4eb9f-dd3c-4cbb-af96-f954f97277bc",
+			"10812886-069c-41e4-ae86-1c328e2165ae"
+		]
+	},
+	{
+		"prefix": "K/GR/17/04",
+		"title": "De kandidaat kan een eenvoudig trainingsplan creëren en uitvoeren voor gedragsaanpassing bij een paard, met correct gebruik van Leertheorie",
+		"id": "62e4ea04-622d-4e93-ae03-a27b64f3211e",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e004da42-d532-4e0b-ad11-4f89a889e597",
+			"1f060e8e-7d4c-4058-a3a6-ed9f85ecc846",
+			"c278d119-253a-4022-8c02-845535cdba32",
+			"a930d13d-96fc-4480-a7ed-8dfd16be58d9",
+			"81c410d3-f99b-459d-9535-f753f958053d",
+			"9ab68acf-00d4-41ea-9bb1-ad20db305952",
+			"3ee521c3-fa39-4625-9e8c-58b841a3aad8",
+			"a3ce86fd-0292-4379-bc03-00756890c5a8",
+			"e77ea192-c3df-4523-988e-721093821f6b",
+			"31235205-0dad-40cf-baff-db7f4047148e"
+		]
+	},
+	{
+		"prefix": "K/MT/16/01",
+		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
+		"id": "5ed15fdb-d5c2-4a18-a422-71c5ef41cafa",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"16f8dae3-94f9-47d3-843a-2cc450d03b25",
+			"5f46c19d-4b88-43f7-aecf-f0cb611c68e2",
+			"5e0376f8-7e7b-45db-b9bf-1ab393b03263",
+			"bf95f20a-d517-4374-957a-9e0d8655dc78",
+			"5fba0852-341a-4583-ae28-398d46d009d6",
+			"a1c7c1aa-58de-48ae-ac60-1a127b7bf02f",
+			"48ed0c9a-1ac9-4098-ae91-efb47c0a6964"
+		]
+	},
+	{
+		"prefix": "K/MT/16/02",
+		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
+		"id": "4c048ca4-61be-481e-9657-1f1e2d7ee600",
+		"unreleased": true,
+		"examenprogramma_bg_globale_eindterm_id": [
+			"e494b11a-f954-4b54-aeaa-6ec164836f03",
+			"7adb22bf-326d-44ef-b506-2ed5183a8fc6",
+			"c5d5cf33-d669-4a24-a77b-811885c53b3f",
+			"9f309f50-4f80-40d6-b3d0-480f890d325c",
+			"f4f2a65f-8d53-44b7-92a7-59a579528835"
 		]
 	}
 ]

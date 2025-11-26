@@ -446,14 +446,16 @@
 	{
 		"id": "0fbdbc20-ea30-4b04-b9d2-79ee1b363bf2",
 		"prefix": "K/EO/07",
-		"title": "Presentatie en styling",
+		"title": "Presentatie en styling 3.0",
 		"description": "Presentatie- en stylingtechnieken uitvoeren",
 		"examenprogramma_bg_deeltaak_id": [
-			"02c78ea8-2bbf-495e-b68e-b4873a8f8d3f"
+			"02c78ea8-2bbf-495e-b68e-b4873a8f8d3f",
+			"6779d1fe-910c-41fa-945f-6d9ecf4fd4b3"
 		],
 		"examenprogramma_bg_keuzevaktaak_id": [
 			"f18b8afb-8e6e-4332-90ba-21f16174e41a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "41789f35-86f2-4deb-9a31-37d0036ad556",
@@ -2250,6 +2252,49 @@
 		"examenprogramma_bg_deeltaak_id": [
 			"ca1afe60-52c7-4271-bc0a-4fea722bf9c1",
 			"d3f8b2b3-4dbb-4b38-b198-832d05fa1359"
+		]
+	},
+	{
+		"prefix": "K/PIE/26",
+		"title": "Composiet",
+		"id": "15c36f28-c73d-4613-91a7-4dcb64304ab7",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"82c52b92-6380-41f1-8a95-10fefd4bf096"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"91dde52b-7cb5-4abb-a79e-913eefb6823c",
+			"509eee62-5a7f-4aa3-95fa-428528c0a2f4",
+			"3ecc7530-dced-49af-a328-828fdb248f95",
+			"bed0469f-3403-47e8-b222-84ea8619a490"
+		]
+	},
+	{
+		"prefix": "K/GR/17",
+		"title": "Paard & Welzijn",
+		"id": "c0fcb8e0-89c6-4a96-9f70-804d3384f7c1",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"ac2d5023-4c8c-46c7-8eb5-adee65d73e90"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"f3f2491a-aef6-49ca-92eb-30b78bc91574",
+			"330c9958-0de5-4f35-9acd-c12dc4fd8a1a",
+			"89456764-893b-482d-9ccb-7543a012987c",
+			"62e4ea04-622d-4e93-ae03-a27b64f3211e"
+		]
+	},
+	{
+		"prefix": "K/MT/16",
+		"title": "Commerciële visserij",
+		"id": "06c2ee48-e162-400a-8655-bfb2a1623f0b",
+		"unreleased": true,
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"47ab0435-478a-4270-8ebe-16e101471098"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5ed15fdb-d5c2-4a18-a422-71c5ef41cafa",
+			"4c048ca4-61be-481e-9657-1f1e2d7ee600"
 		]
 	}
 ]

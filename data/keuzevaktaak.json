@@ -320,16 +320,6 @@
 		]
 	},
 	{
-		"id": "f18b8afb-8e6e-4332-90ba-21f16174e41a",
-		"prefix": "K/EO/07/KT",
-		"title": "Presentatie- en stylingtechnieken uitvoeren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		]
-	},
-	{
 		"id": "e12911ff-7d42-4ad0-b369-74b2ab401769",
 		"prefix": "K/EO/08/KT",
 		"title": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen / productietechnieken",
@@ -1499,7 +1489,7 @@
 	},
 	{
 		"prefix": "K/GR/15/KT",
-		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
 		"id": "48a9d6b3-b38a-4b46-8b4b-f875ba7fa376",
 		"description": "",
 		"niveau_id": [
@@ -1514,7 +1504,7 @@
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/EO/10",
-		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\r\r\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "c49ec1fc-bdc2-4960-894b-b8d488c4d600",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -1537,6 +1527,54 @@
 		],
 		"replaces": [
 			"7693afd1-3a4c-4aa1-9f81-60ff4fb29379"
+		]
+	},
+	{
+		"prefix": "K/BIW/25/taak",
+		"title": "De principes, kenmerken en eigenschappen van biobased en natuurinclusief bouwen herkennen, benoemen en omschrijven - Een natuurinclusief product ontwerpen en maken - Constructies ontwerpen, maken en samenstellen, waarbij rekening wordt gehouden met biobased uitgangspunten.",
+		"id": "796783fd-638f-4c57-bb07-6d077bbc77c1"
+	},
+	{
+		"prefix": "K/EO/09",
+		"title": "Modetechnische vaardigheden toepassen",
+		"id": "7288c29a-b9ee-4c58-81de-6853e584ab44"
+	},
+	{
+		"prefix": "K/EO/10",
+		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van:\r\r\n- het bedenken van een woonstijlconcept, - het ontwerpen van een sample passend bij een woonstijlconcept, - het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
+		"id": "9b88cd0e-1ece-47d6-9cc9-2d3f24b6ee56"
+	},
+	{
+		"prefix": "K/EO/11",
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"id": "0305814c-43d2-433f-b40a-4a21654173a0"
+	},
+	{
+		"prefix": "K/PIE/26/KT",
+		"title": "Werkzaamheden voorbereiden:\r\n- Veiligheidseisen toepassen  - Een product van composiet maken met behulp van de juiste gereedschappen, materialen en hulpmiddelen.  - Vervaardigde product controleren en de uitgevoerde werkzaamheden afronden.",
+		"id": "82c52b92-6380-41f1-8a95-10fefd4bf096"
+	},
+	{
+		"prefix": "K/GR/17/KT",
+		"title": "De kandidaat heeft kennis van de drie fysiologische domeinen van een paard en kan de invloed van de fysiologische domeinen op de mentale staat van het paard onderzoeken, beoordelen en aanbevelingen doen mbt optimalisatie. \r\nDe kandidaat heeft kennis van het natuurlijk gedrag van een paard en kan de invloed van de leefomgeving en interactie met soortgenoten onderzoeken en beoordelen. \r\nDe kandidaat heeft inzicht in trainingsprincipes en kan Leertheorie toepassen in het opstellen van een trainingsplan.  \r\nDe kandidaat kan een eenvoudig trainingsplan creëren en uitvoeren voor gedragsaanpassing bij een paard, met correct gebruik van Leertheorie.",
+		"id": "ac2d5023-4c8c-46c7-8eb5-adee65d73e90"
+	},
+	{
+		"prefix": "K/MT/01",
+		"title": "Assisteren bij het vissen door een commercieel vissersschip. Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
+		"id": "47ab0435-478a-4270-8ebe-16e101471098"
+	},
+	{
+		"id": "d57fd5b6-f19c-4808-bb29-d6346375d481",
+		"prefix": "K/EO/07/KT",
+		"title": "Presentatie- en stylingtechnieken uitvoeren ten aanzien van de winkelpresentatie en digitale media.",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"replaces": [
+			"f18b8afb-8e6e-4332-90ba-21f16174e41a"
 		]
 	}
 ]

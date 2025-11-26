@@ -444,18 +444,6 @@
 		]
 	},
 	{
-		"id": "0fbdbc20-ea30-4b04-b9d2-79ee1b363bf2",
-		"prefix": "K/EO/07",
-		"title": "Presentatie en styling",
-		"description": "Presentatie- en stylingtechnieken uitvoeren",
-		"examenprogramma_bg_deeltaak_id": [
-			"02c78ea8-2bbf-495e-b68e-b4873a8f8d3f"
-		],
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"f18b8afb-8e6e-4332-90ba-21f16174e41a"
-		]
-	},
-	{
 		"id": "41789f35-86f2-4deb-9a31-37d0036ad556",
 		"prefix": "K/EO/08",
 		"title": "Mode en design",
@@ -2073,24 +2061,6 @@
 		"id": "fbee0eab-868a-4916-9abf-9a1083a1e3c7"
 	},
 	{
-		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
-		"prefix": "K/GR/15",
-		"examenprogramma_bg_keuzevaktaak_id": [
-			"48a9d6b3-b38a-4b46-8b4b-f875ba7fa376"
-		],
-		"examenprogramma_bg_deeltaak_id": [
-			"14a27178-8996-4594-ac37-835ad6de6ea5",
-			"82dd0599-1b2a-4645-b8da-52809ddecd8b",
-			"82c38468-71f9-4ef7-bdf0-fae13e494f89",
-			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
-		],
-		"title": "Visstandbeheer en sportvisserij",
-		"id": "b8a5d2bf-c206-4ce8-819c-0d34eb62f58e",
-		"replaces": [
-			"a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14"
-		]
-	},
-	{
 		"id": "d4ec197d-cd8c-4450-908d-f723b85c6a1b",
 		"prefix": "K/ZW/11",
 		"title": "Ondersteuning bij sport- en bewegingsactiviteiten",
@@ -2196,6 +2166,131 @@
 		],
 		"replaces": [
 			"7b4dd57b-b384-42a1-bbb7-56603a98de9b"
+		]
+	},
+	{
+		"prefix": "K/BWI/25",
+		"title": "Biobased en natuurinclusief bouwen",
+		"id": "d8e462d4-2f52-4c9b-b63e-5d2e69a73815",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"796783fd-638f-4c57-bb07-6d077bbc77c1"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"946a29d0-e5a2-4624-a279-9334228dcfe5",
+			"9f05b266-b4a3-40d0-9a53-e1b71683c0c2",
+			"1a23f600-a189-48fe-88b1-e69897cd2f46"
+		]
+	},
+	{
+		"prefix": "K/EO/09",
+		"title": "Modetechniek",
+		"id": "182438a6-5a86-40f6-ae16-0ec097182a29",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"7288c29a-b9ee-4c58-81de-6853e584ab44"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"001f560e-70c2-4f2a-80dd-e7a613f137cd",
+			"2b834fe2-d9f7-4b47-a34d-e1722f32e8cb"
+		]
+	},
+	{
+		"prefix": "K/EO/10",
+		"title": "Wonen en design",
+		"id": "e643d881-7724-458d-ad8c-0e08ec3524de",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"9b88cd0e-1ece-47d6-9cc9-2d3f24b6ee56"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"6f1a1073-eb2c-4df6-a044-f9ea8f2f9ca3",
+			"fc507fc6-1f83-4b4b-bc09-3d6ba3b120bb",
+			"1cdb1ddc-2f64-4352-81b5-85d45789257d"
+		]
+	},
+	{
+		"prefix": "K/EO/11",
+		"title": "Internationale handel",
+		"id": "36040af1-82ba-44e9-9ad7-ec1bc02fefc8",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"0305814c-43d2-433f-b40a-4a21654173a0"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"ca1afe60-52c7-4271-bc0a-4fea722bf9c1",
+			"d3f8b2b3-4dbb-4b38-b198-832d05fa1359"
+		]
+	},
+	{
+		"prefix": "K/PIE/26",
+		"title": "Composiet",
+		"id": "15c36f28-c73d-4613-91a7-4dcb64304ab7",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"82c52b92-6380-41f1-8a95-10fefd4bf096"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"91dde52b-7cb5-4abb-a79e-913eefb6823c",
+			"509eee62-5a7f-4aa3-95fa-428528c0a2f4",
+			"3ecc7530-dced-49af-a328-828fdb248f95",
+			"bed0469f-3403-47e8-b222-84ea8619a490"
+		]
+	},
+	{
+		"prefix": "K/GR/17",
+		"title": "Paard & Welzijn",
+		"id": "c0fcb8e0-89c6-4a96-9f70-804d3384f7c1",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"ac2d5023-4c8c-46c7-8eb5-adee65d73e90"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"f3f2491a-aef6-49ca-92eb-30b78bc91574",
+			"330c9958-0de5-4f35-9acd-c12dc4fd8a1a",
+			"89456764-893b-482d-9ccb-7543a012987c",
+			"62e4ea04-622d-4e93-ae03-a27b64f3211e"
+		]
+	},
+	{
+		"prefix": "K/MT/16",
+		"title": "Commerciële visserij",
+		"id": "06c2ee48-e162-400a-8655-bfb2a1623f0b",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"47ab0435-478a-4270-8ebe-16e101471098"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"5ed15fdb-d5c2-4a18-a422-71c5ef41cafa",
+			"4c048ca4-61be-481e-9657-1f1e2d7ee600"
+		]
+	},
+	{
+		"id": "6870be57-b47e-46ac-9c05-3cb0b7529517",
+		"prefix": "K/EO/07",
+		"title": "Presentatie en styling 3.0",
+		"description": "Presentatie- en stylingtechnieken uitvoeren",
+		"examenprogramma_bg_deeltaak_id": [
+			"a0587837-0bb2-4c06-ba07-5548da9845e7",
+			"6779d1fe-910c-41fa-945f-6d9ecf4fd4b3"
+		],
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"d57fd5b6-f19c-4808-bb29-d6346375d481"
+		],
+		"replaces": [
+			"0fbdbc20-ea30-4b04-b9d2-79ee1b363bf2"
+		]
+	},
+	{
+		"description": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving\r\r\r\nHerkennen en benoemen van water- en beheerssystemen in relatie tot de visstand\r\r\r\nHerkennen en benoemen van functies van viskwekerijen\r\r\r\nUitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten",
+		"prefix": "K/GR/15",
+		"examenprogramma_bg_keuzevaktaak_id": [
+			"48a9d6b3-b38a-4b46-8b4b-f875ba7fa376"
+		],
+		"examenprogramma_bg_deeltaak_id": [
+			"81047b87-9dcd-4e67-b1dd-aab164bd9ee8",
+			"82dd0599-1b2a-4645-b8da-52809ddecd8b",
+			"82c38468-71f9-4ef7-bdf0-fae13e494f89",
+			"7c487018-0f90-467c-962d-2d61e5864142"
+		],
+		"title": "Visstandbeheer en sportvisserij",
+		"id": "0ca562dc-c085-4780-afe8-5a857a9555ef",
+		"replaces": [
+			"a0d3370c-96d7-4aca-bf7b-8f39ce1dcf14",
+			"b8a5d2bf-c206-4ce8-819c-0d34eb62f58e"
 		]
 	}
 ]

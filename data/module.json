@@ -173,43 +173,6 @@
 		]
 	},
 	{
-		"id": "b27dac0f-92a0-4f44-aeb7-84c4410615b6",
-		"prefix": "P/BWI/01",
-		"title": "Bouwproces en bouwvoorbereiding",
-		"description": "Een kleinschalig bouwproject voorbereiden en het bouwproces organiseren / maatvoeren en uitzetten / profielen en kozijnen stellen",
-		"examenprogramma_bg_deeltaak_id": [
-			"cc697ed2-9def-4600-94fe-2932f007bc10",
-			"5d4d2895-9d15-4964-9539-72e1c09f83d3",
-			"0e3ce236-c7c4-412c-9f35-21150d47f20d"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"a8483549-8321-4157-9973-060234b89d5e"
-		],
-		"replaces": [
-			"84a0278b-ddeb-4735-a81f-f6188ba41d71",
-			"f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad"
-		]
-	},
-	{
-		"id": "ff7b3852-94fe-4720-b2bf-e7dbb1f309fc",
-		"prefix": "P/BWI/02",
-		"title": "Bouwen vanaf de fundering",
-		"description": "Een bekisting voor een strokenfundering en een ps systeembekisting maken / een halfsteensmuur metselen / isolatiematerialen verwerken / veilig werken op steigers en ladders",
-		"examenprogramma_bg_deeltaak_id": [
-			"fa2bd910-6034-4ea7-b534-1f377369c612",
-			"5bf437e0-5d04-4fa7-86e5-58c5ea3bf972",
-			"4001d5b1-d839-4c86-b35a-cf2eadac9ffe",
-			"f43d9818-f81f-4a68-a2fe-f1355f85d034"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"c85c946d-2e14-403a-a150-8574c53a12a8"
-		],
-		"replaces": [
-			"033e49aa-fc55-4d65-afcc-87fa16d03604",
-			"183c1530-a3f7-4a4f-8fc8-b5caba989bb9"
-		]
-	},
-	{
 		"id": "40cb9a11-c793-4f94-9255-d6c969f29d7c",
 		"prefix": "P/EO/02",
 		"title": "Service & Sales",
@@ -243,24 +206,6 @@
 		"replaces": [
 			"e4cdcb2d-3237-4114-b954-31c203a84db0",
 			"9e334e64-eafd-4b71-9a56-2753e44ccee8"
-		]
-	},
-	{
-		"id": "19c6f42a-5152-4dd0-9213-9c22d74eae75",
-		"prefix": "P/EO/04",
-		"title": "Office & Support",
-		"description": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de boekhouding van de (handels)onderneming bijhouden",
-		"examenprogramma_bg_deeltaak_id": [
-			"857d1fe4-f221-4b4a-9dc8-8f91179f006c",
-			"c003686f-9f51-4eb8-ac1f-9cf81f6e7288",
-			"8fbe0a0d-146f-4903-8554-3d325268bb8b"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"8787160c-358e-41ba-bc17-5b286ca24fa4"
-		],
-		"replaces": [
-			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2",
-			"c8bd1be9-e88f-49a1-ad19-9022386fefb6"
 		]
 	},
 	{
@@ -740,6 +685,64 @@
 		"id": "2174f05f-5230-48ab-8fbf-a6ae0008c22b",
 		"replaces": [
 			"3235ab1e-87e3-4512-b788-2557b6313d9e"
+		]
+	},
+	{
+		"id": "a4d04144-9790-4574-b216-837879bd217c",
+		"prefix": "P/BWI/01",
+		"title": "Bouwproces en bouwvoorbereiding",
+		"description": "Een kleinschalig bouwproject voorbereiden en het bouwproces organiseren / maatvoeren en uitzetten / profielen en kozijnen stellen",
+		"examenprogramma_bg_deeltaak_id": [
+			"cc697ed2-9def-4600-94fe-2932f007bc10",
+			"5d4d2895-9d15-4964-9539-72e1c09f83d3",
+			"86c72bc7-7054-4e20-9b5c-4983ed6bd68a"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"a8483549-8321-4157-9973-060234b89d5e"
+		],
+		"replaces": [
+			"84a0278b-ddeb-4735-a81f-f6188ba41d71",
+			"f5ba7bc1-9ff4-40e8-b3d9-c01e5efb00ad",
+			"b27dac0f-92a0-4f44-aeb7-84c4410615b6"
+		]
+	},
+	{
+		"id": "fa93c77c-e6d3-4919-9a22-5ba565f761dd",
+		"prefix": "P/BWI/02",
+		"title": "Bouwen vanaf de fundering",
+		"description": "Een bekisting voor een strokenfundering en een ps systeembekisting maken / een halfsteensmuur metselen / isolatiematerialen verwerken / veilig werken op steigers en ladders",
+		"examenprogramma_bg_deeltaak_id": [
+			"2d3b1ef8-cbb8-4b7a-b148-0bd9ab3bcaf6",
+			"5bf437e0-5d04-4fa7-86e5-58c5ea3bf972",
+			"4001d5b1-d839-4c86-b35a-cf2eadac9ffe",
+			"f43d9818-f81f-4a68-a2fe-f1355f85d034"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"c85c946d-2e14-403a-a150-8574c53a12a8"
+		],
+		"replaces": [
+			"033e49aa-fc55-4d65-afcc-87fa16d03604",
+			"183c1530-a3f7-4a4f-8fc8-b5caba989bb9",
+			"ff7b3852-94fe-4720-b2bf-e7dbb1f309fc"
+		]
+	},
+	{
+		"id": "6da015c5-1b85-4c2a-a39a-723e77528574",
+		"prefix": "P/EO/04",
+		"title": "Office & Support",
+		"description": "Een bijdrage leveren aan de administratie van (handels)ondernemingen / bedrijven, bedrijfsfuncties en bedrijfsprocessen herkennen en benoemen / de boekhouding van de (handels)onderneming bijhouden",
+		"examenprogramma_bg_deeltaak_id": [
+			"857d1fe4-f221-4b4a-9dc8-8f91179f006c",
+			"c003686f-9f51-4eb8-ac1f-9cf81f6e7288",
+			"fcc16ad3-1fa1-489b-913d-923551e5a719"
+		],
+		"examenprogramma_bg_moduletaak_id": [
+			"8787160c-358e-41ba-bc17-5b286ca24fa4"
+		],
+		"replaces": [
+			"ad442fe2-a2ec-4136-b019-3bb28f5a8bd2",
+			"c8bd1be9-e88f-49a1-ad19-9022386fefb6",
+			"19c6f42a-5152-4dd0-9213-9c22d74eae75"
 		]
 	}
 ]

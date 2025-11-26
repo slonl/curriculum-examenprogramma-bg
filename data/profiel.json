@@ -1,40 +1,5 @@
 [
 	{
-		"id": "29567373-b655-46a4-9c6a-6f04001c139b",
-		"prefix": "MT",
-		"title": "Maritiem en techniek",
-		"examenprogramma_bg_kern_id": [
-			"0866408c-fd90-48e5-bcf3-6167c1f04ca7"
-		],
-		"examenprogramma_bg_module_id": [
-			"3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
-			"0cbe9cd3-b742-4904-aa3a-d6a20049f224",
-			"60ca65db-3e73-419e-b050-1939ee1b5c7a",
-			"44464c45-3349-4758-8ef5-8a58dd936ac9"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"74c5e558-1a0f-4222-8581-66b4ab33c4f9",
-			"5c783336-57df-44e8-805d-fccdf01e8ede",
-			"d964b059-6961-4ac4-9993-edf24da2b44b",
-			"50792df4-e04b-4c83-a1ec-53cbf5bbcead",
-			"66eeba09-51dc-4a07-b3b4-bc0c394a244e",
-			"bc6e0799-739d-40db-85ae-6ddfdbeaf850",
-			"4d0e0dd0-6f9f-40a9-9a18-ded7aabce408",
-			"ce8a5e75-3fb9-4c1f-8b97-28c653e9a567",
-			"ac12a48d-7514-4b85-a872-2d3e948517b1",
-			"68032aa3-083d-4e20-9566-ccba8819e70c",
-			"69ef3780-d498-494c-82c3-b582bfa1809b",
-			"ea4b6ddd-f385-4d61-b0b5-78f78963e2d6",
-			"b474e23a-a04f-43a9-967b-c0ce10fc1cc6",
-			"95184a61-d273-4f98-86ae-c4f86924235b",
-			"a29ee1dc-2bbb-4a77-ac29-4c53509479be"
-		],
-		"description": "",
-		"vakleergebied_id": [
-			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
-		]
-	},
-	{
 		"id": "b72b6154-cdb7-4ea9-bf4f-a74b1afc87ac",
 		"prefix": "MET",
 		"title": "Examenprogramma Beroepsgericht programma Mobiliteit en Transport",
@@ -144,56 +109,6 @@
 		]
 	},
 	{
-		"id": "14e2d81b-bffc-4f70-b6dd-dbe7afc5e98d",
-		"prefix": "BWI",
-		"title": "Examenprogramma beroepsgericht Bouwen, wonen en interieur",
-		"examenprogramma_bg_kern_id": [
-			"791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d"
-		],
-		"examenprogramma_bg_module_id": [
-			"b27dac0f-92a0-4f44-aeb7-84c4410615b6",
-			"ff7b3852-94fe-4720-b2bf-e7dbb1f309fc",
-			"9e36d8ab-0dfd-4151-bc7e-c35f3fa197a3",
-			"662c4857-a7d7-4109-8a68-1bf5c49744b8"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"37269c2b-9acd-40ed-bd63-031875a69dcf",
-			"6a98a234-4a64-46ed-8056-c7d9a5067066",
-			"5a575e25-a677-44d6-be73-484cd17bec72",
-			"a968e63d-caf4-464f-a561-5fde942d84b0",
-			"763f57e1-533c-448a-aef3-9d76ba4e3c30",
-			"2b5c02d7-dae8-4014-b47f-555ba78f7bd1",
-			"70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
-			"483a724d-6871-4c31-9d26-a4809fe39bfe",
-			"92e1dc36-6b14-445d-be8d-13a0adc97831",
-			"cbcc72e7-e62f-44d4-a8be-5c8c82aa6c63",
-			"d4498abc-a629-4c4d-8ca5-e119c0f19307",
-			"1d9fbf27-3df1-496c-849d-a2691dee48fd",
-			"c40efb24-6a7e-44bf-a0fa-8b86500f6c34",
-			"8fb58c5d-9eee-4dbe-8e2d-65722c3f7bfe",
-			"04793b08-fd5d-402e-811f-cd2cdc1c1f7d",
-			"e30b2027-5cff-43ad-bef1-8660628632fe",
-			"ce75f363-9312-4b51-9719-7574a1041aa1",
-			"e6f03d76-7c1a-459d-b26c-829a09333b26",
-			"98db9892-d63d-4380-9e4c-1dd2b46f8f60",
-			"ad657c7d-9ca1-4179-95bd-27650f03b2cf",
-			"c29782e9-e263-4e3e-82da-31e17604df98",
-			"a1a280e4-6757-45cc-8182-5b0784f334f3",
-			"22fc912b-1848-4641-8c3d-67ac55033247",
-			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27"
-		],
-		"description": "",
-		"vakleergebied_id": [
-			"26eb622d-6239-4f26-bdef-0c9662891285"
-		],
-		"replaces": [
-			"746040a3-5624-4c78-bcd7-e4d56cabeb3e",
-			"1890251e-08f8-4520-a495-f28607eb0b6e",
-			"a3a62b05-c64b-4355-ba9c-a4c4b063990d",
-			"297aa152-3082-4b8f-aa0f-f3724bf5c38f"
-		]
-	},
-	{
 		"id": "e5a3c006-d1cb-4d05-8266-d574d1aa5e20",
 		"prefix": "ZW",
 		"title": "Examenprogramma Beroepsgericht programma Zorg en Welzijn",
@@ -230,92 +145,6 @@
 			"7f7d127e-3d05-42ae-8bf1-79b164116d6f",
 			"da7b5b3f-41be-43d4-b5bf-5cb7c2f76991",
 			"a8cb15c6-d652-4cb9-8237-71f3b6c333c4"
-		]
-	},
-	{
-		"id": "bc595486-72e9-46bb-a49a-1303b280d07f",
-		"prefix": "PIE",
-		"title": "Examenprogramma Beroepsgericht Produceren, installeren en energie",
-		"examenprogramma_bg_kern_id": [
-			"2ff18479-ce9f-4ac9-b856-7ad25a37a0ab"
-		],
-		"examenprogramma_bg_module_id": [
-			"58df56fa-2907-49e5-af9d-b746680b273f",
-			"81fc4df3-adb1-45ac-b2cd-2a3f60485fab",
-			"c9395005-5d46-4c85-ac54-5d062b43e809",
-			"56dce976-b18f-4617-b269-d42daf0738cf"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"11695bb2-fc2d-4825-8547-6775cae5c2b5",
-			"8e29afda-b5bf-42e7-8af2-d358d3bd7356",
-			"3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
-			"aa290a52-929e-4d6f-b03c-d645f124be52",
-			"a3498511-a32a-494a-994c-4b57d62d3af6",
-			"c7c5783d-065b-4569-87e6-49579f1d4af1",
-			"fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
-			"770b962d-b46b-4668-89e2-2ac8f6ab5952",
-			"684d1888-fb0b-4d20-9e87-298e65f7e853",
-			"4573f49d-8569-48b5-8b6f-976fb76c4b4b",
-			"0553f9a8-dc70-4788-8de6-c0005448b0b9",
-			"b35a6165-84d8-46ee-85a0-0aa2c68cc302",
-			"5fa40061-db79-406f-bf2e-4a47e4343529",
-			"3102e482-9e6d-4466-a872-4515280e704c",
-			"b543cbbf-c9b4-44ee-a77e-7e32d1a90800",
-			"e6d15706-4d23-4e8d-982f-3b14981fb8a6",
-			"eb45d00e-7824-4a72-a87d-61d609aa0b14",
-			"9c0558cb-9ced-4d47-adae-31047d41cfa4",
-			"f03101ba-4da8-4604-b454-0998b6d57024",
-			"7612f9df-fdd7-4602-bd79-c1f3325bb7d7",
-			"89251139-4d74-4b9c-845e-c1fdd31f1fa1",
-			"3635d8c8-584f-46e2-b5e3-20378dbbc1fc",
-			"cb5d1754-4cdc-4a78-89a3-dee84b323413",
-			"2305cdf1-fe62-4d0a-b9e1-e59d9bf7b67a",
-			"24471646-f67a-472e-8e66-6d6f365d7cda"
-		],
-		"description": "",
-		"vakleergebied_id": [
-			"b8f15528-dedb-4db8-81ee-c820da8453bc"
-		],
-		"replaces": [
-			"fa4d75da-d045-4360-ac45-a772378e46d1",
-			"72caf5df-dc9e-40bc-a46f-63714e11c87b",
-			"471a1203-dc5c-43b3-b43c-459fcc42bca9"
-		]
-	},
-	{
-		"id": "78f7ffb0-db59-4b0a-8fbb-69c47adc9b90",
-		"prefix": "EO",
-		"title": "Examenprogramma beroepsgericht Economie en Ondernemen",
-		"examenprogramma_bg_kern_id": [
-			"9bd256b6-fec3-4773-9e83-0af59d63c31e"
-		],
-		"examenprogramma_bg_module_id": [
-			"28f649ea-9539-49cf-a395-bc6153fdfb19",
-			"40cb9a11-c793-4f94-9255-d6c969f29d7c",
-			"2aa9d45d-d482-43fd-974d-4235863aeca1",
-			"19c6f42a-5152-4dd0-9213-9c22d74eae75"
-		],
-		"examenprogramma_bg_keuzevak_id": [
-			"d0e87484-ed9d-4dd8-889a-5a78251692b2",
-			"ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
-			"0c9b4622-3d18-461e-95c1-48feba7a18a6",
-			"8d1b5ab0-a0b8-40fe-9db5-9a6feba9dd95",
-			"bd152ac2-f7eb-492b-ad20-e84fa78fefc1",
-			"9682cac6-6ddc-4946-bdcc-6b169616e1ca",
-			"aa6dbb91-4089-40c4-8d21-7a42e24ad2fe",
-			"0b11186e-692b-47b3-aa2b-ce9f9b376a9d",
-			"d387b653-51b2-4d2d-9647-df7c6330513b",
-			"0fbdbc20-ea30-4b04-b9d2-79ee1b363bf2",
-			"41789f35-86f2-4deb-9a31-37d0036ad556"
-		],
-		"description": "",
-		"vakleergebied_id": [
-			"18126dde-b79b-4231-826d-b902a6fa70db"
-		],
-		"replaces": [
-			"d2508ab9-cb99-480a-a9fd-5973ca28efff",
-			"8f429657-0d80-4581-947d-5279b63488ab",
-			"b11389c8-0f47-4aee-8017-be08a144d374"
 		]
 	},
 	{
@@ -357,7 +186,190 @@
 		]
 	},
 	{
-		"id": "f38f5f4c-9ec1-4516-97b0-3c9a663e67e5",
+		"id": "46b9c1a8-c2d8-4c8f-ab43-fd9c8e7c384b",
+		"prefix": "MT",
+		"title": "Maritiem en techniek",
+		"examenprogramma_bg_kern_id": [
+			"0866408c-fd90-48e5-bcf3-6167c1f04ca7"
+		],
+		"examenprogramma_bg_module_id": [
+			"3c8e5fa9-bda7-4d77-82c4-7cd9a751ad23",
+			"0cbe9cd3-b742-4904-aa3a-d6a20049f224",
+			"60ca65db-3e73-419e-b050-1939ee1b5c7a",
+			"44464c45-3349-4758-8ef5-8a58dd936ac9"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"74c5e558-1a0f-4222-8581-66b4ab33c4f9",
+			"5c783336-57df-44e8-805d-fccdf01e8ede",
+			"d964b059-6961-4ac4-9993-edf24da2b44b",
+			"50792df4-e04b-4c83-a1ec-53cbf5bbcead",
+			"66eeba09-51dc-4a07-b3b4-bc0c394a244e",
+			"bc6e0799-739d-40db-85ae-6ddfdbeaf850",
+			"4d0e0dd0-6f9f-40a9-9a18-ded7aabce408",
+			"ce8a5e75-3fb9-4c1f-8b97-28c653e9a567",
+			"ac12a48d-7514-4b85-a872-2d3e948517b1",
+			"68032aa3-083d-4e20-9566-ccba8819e70c",
+			"69ef3780-d498-494c-82c3-b582bfa1809b",
+			"ea4b6ddd-f385-4d61-b0b5-78f78963e2d6",
+			"b474e23a-a04f-43a9-967b-c0ce10fc1cc6",
+			"95184a61-d273-4f98-86ae-c4f86924235b",
+			"a29ee1dc-2bbb-4a77-ac29-4c53509479be",
+			"06c2ee48-e162-400a-8655-bfb2a1623f0b"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
+		],
+		"replaces": [
+			"29567373-b655-46a4-9c6a-6f04001c139b"
+		]
+	},
+	{
+		"id": "30eaef53-58af-40d9-bdb5-f7422127f5ed",
+		"prefix": "BWI",
+		"title": "Examenprogramma beroepsgericht Bouwen, wonen en interieur",
+		"examenprogramma_bg_kern_id": [
+			"791628cf-d6bb-4ca6-b62a-eef6bbd6bc6d"
+		],
+		"examenprogramma_bg_module_id": [
+			"a4d04144-9790-4574-b216-837879bd217c",
+			"fa93c77c-e6d3-4919-9a22-5ba565f761dd",
+			"9e36d8ab-0dfd-4151-bc7e-c35f3fa197a3",
+			"662c4857-a7d7-4109-8a68-1bf5c49744b8"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"37269c2b-9acd-40ed-bd63-031875a69dcf",
+			"6a98a234-4a64-46ed-8056-c7d9a5067066",
+			"5a575e25-a677-44d6-be73-484cd17bec72",
+			"a968e63d-caf4-464f-a561-5fde942d84b0",
+			"763f57e1-533c-448a-aef3-9d76ba4e3c30",
+			"2b5c02d7-dae8-4014-b47f-555ba78f7bd1",
+			"70deaa23-af6c-4aeb-a625-a86e0a1d2a79",
+			"483a724d-6871-4c31-9d26-a4809fe39bfe",
+			"92e1dc36-6b14-445d-be8d-13a0adc97831",
+			"cbcc72e7-e62f-44d4-a8be-5c8c82aa6c63",
+			"d4498abc-a629-4c4d-8ca5-e119c0f19307",
+			"1d9fbf27-3df1-496c-849d-a2691dee48fd",
+			"c40efb24-6a7e-44bf-a0fa-8b86500f6c34",
+			"8fb58c5d-9eee-4dbe-8e2d-65722c3f7bfe",
+			"04793b08-fd5d-402e-811f-cd2cdc1c1f7d",
+			"e30b2027-5cff-43ad-bef1-8660628632fe",
+			"ce75f363-9312-4b51-9719-7574a1041aa1",
+			"e6f03d76-7c1a-459d-b26c-829a09333b26",
+			"98db9892-d63d-4380-9e4c-1dd2b46f8f60",
+			"ad657c7d-9ca1-4179-95bd-27650f03b2cf",
+			"c29782e9-e263-4e3e-82da-31e17604df98",
+			"a1a280e4-6757-45cc-8182-5b0784f334f3",
+			"22fc912b-1848-4641-8c3d-67ac55033247",
+			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
+			"d8e462d4-2f52-4c9b-b63e-5d2e69a73815"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"26eb622d-6239-4f26-bdef-0c9662891285"
+		],
+		"replaces": [
+			"746040a3-5624-4c78-bcd7-e4d56cabeb3e",
+			"1890251e-08f8-4520-a495-f28607eb0b6e",
+			"a3a62b05-c64b-4355-ba9c-a4c4b063990d",
+			"297aa152-3082-4b8f-aa0f-f3724bf5c38f",
+			"14e2d81b-bffc-4f70-b6dd-dbe7afc5e98d"
+		]
+	},
+	{
+		"id": "29b67a07-eee5-4461-8efe-02779b1d8852",
+		"prefix": "PIE",
+		"title": "Examenprogramma Beroepsgericht Produceren, installeren en energie",
+		"examenprogramma_bg_kern_id": [
+			"2ff18479-ce9f-4ac9-b856-7ad25a37a0ab"
+		],
+		"examenprogramma_bg_module_id": [
+			"58df56fa-2907-49e5-af9d-b746680b273f",
+			"81fc4df3-adb1-45ac-b2cd-2a3f60485fab",
+			"c9395005-5d46-4c85-ac54-5d062b43e809",
+			"56dce976-b18f-4617-b269-d42daf0738cf"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"11695bb2-fc2d-4825-8547-6775cae5c2b5",
+			"8e29afda-b5bf-42e7-8af2-d358d3bd7356",
+			"3484e106-8b1e-4cc8-a6bd-9a1d4e58d2f2",
+			"aa290a52-929e-4d6f-b03c-d645f124be52",
+			"a3498511-a32a-494a-994c-4b57d62d3af6",
+			"c7c5783d-065b-4569-87e6-49579f1d4af1",
+			"fc4999b5-1c04-45c2-b2e7-64ae0696e06f",
+			"770b962d-b46b-4668-89e2-2ac8f6ab5952",
+			"684d1888-fb0b-4d20-9e87-298e65f7e853",
+			"4573f49d-8569-48b5-8b6f-976fb76c4b4b",
+			"0553f9a8-dc70-4788-8de6-c0005448b0b9",
+			"b35a6165-84d8-46ee-85a0-0aa2c68cc302",
+			"5fa40061-db79-406f-bf2e-4a47e4343529",
+			"3102e482-9e6d-4466-a872-4515280e704c",
+			"b543cbbf-c9b4-44ee-a77e-7e32d1a90800",
+			"e6d15706-4d23-4e8d-982f-3b14981fb8a6",
+			"eb45d00e-7824-4a72-a87d-61d609aa0b14",
+			"9c0558cb-9ced-4d47-adae-31047d41cfa4",
+			"f03101ba-4da8-4604-b454-0998b6d57024",
+			"7612f9df-fdd7-4602-bd79-c1f3325bb7d7",
+			"89251139-4d74-4b9c-845e-c1fdd31f1fa1",
+			"3635d8c8-584f-46e2-b5e3-20378dbbc1fc",
+			"cb5d1754-4cdc-4a78-89a3-dee84b323413",
+			"2305cdf1-fe62-4d0a-b9e1-e59d9bf7b67a",
+			"24471646-f67a-472e-8e66-6d6f365d7cda",
+			"15c36f28-c73d-4613-91a7-4dcb64304ab7"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"b8f15528-dedb-4db8-81ee-c820da8453bc"
+		],
+		"replaces": [
+			"fa4d75da-d045-4360-ac45-a772378e46d1",
+			"72caf5df-dc9e-40bc-a46f-63714e11c87b",
+			"471a1203-dc5c-43b3-b43c-459fcc42bca9",
+			"bc595486-72e9-46bb-a49a-1303b280d07f"
+		]
+	},
+	{
+		"id": "d80dc98a-9b38-43dd-93da-8eb99cfa442e",
+		"prefix": "EO",
+		"title": "Examenprogramma beroepsgericht Economie en Ondernemen",
+		"examenprogramma_bg_kern_id": [
+			"9bd256b6-fec3-4773-9e83-0af59d63c31e"
+		],
+		"examenprogramma_bg_module_id": [
+			"28f649ea-9539-49cf-a395-bc6153fdfb19",
+			"40cb9a11-c793-4f94-9255-d6c969f29d7c",
+			"2aa9d45d-d482-43fd-974d-4235863aeca1",
+			"6da015c5-1b85-4c2a-a39a-723e77528574"
+		],
+		"examenprogramma_bg_keuzevak_id": [
+			"d0e87484-ed9d-4dd8-889a-5a78251692b2",
+			"ed842786-08c2-4bd6-bba3-d4ad46a8cc58",
+			"0c9b4622-3d18-461e-95c1-48feba7a18a6",
+			"8d1b5ab0-a0b8-40fe-9db5-9a6feba9dd95",
+			"bd152ac2-f7eb-492b-ad20-e84fa78fefc1",
+			"9682cac6-6ddc-4946-bdcc-6b169616e1ca",
+			"aa6dbb91-4089-40c4-8d21-7a42e24ad2fe",
+			"0b11186e-692b-47b3-aa2b-ce9f9b376a9d",
+			"d387b653-51b2-4d2d-9647-df7c6330513b",
+			"6870be57-b47e-46ac-9c05-3cb0b7529517",
+			"41789f35-86f2-4deb-9a31-37d0036ad556",
+			"182438a6-5a86-40f6-ae16-0ec097182a29",
+			"e643d881-7724-458d-ad8c-0e08ec3524de",
+			"36040af1-82ba-44e9-9ad7-ec1bc02fefc8"
+		],
+		"description": "",
+		"vakleergebied_id": [
+			"18126dde-b79b-4231-826d-b902a6fa70db"
+		],
+		"replaces": [
+			"d2508ab9-cb99-480a-a9fd-5973ca28efff",
+			"8f429657-0d80-4581-947d-5279b63488ab",
+			"b11389c8-0f47-4aee-8017-be08a144d374",
+			"78f7ffb0-db59-4b0a-8fbb-69c47adc9b90"
+		]
+	},
+	{
+		"id": "d4f357b3-a5b0-4c6c-991d-a3367346486e",
 		"prefix": "GR",
 		"title": "Examenprogramma beroepsgericht  Groen",
 		"examenprogramma_bg_kern_id": [
@@ -385,14 +397,16 @@
 			"f9ecfa81-8708-4bc1-a826-893089d406ed",
 			"95d29130-a495-4ac2-9b37-7c3b413ddb66",
 			"2ea5f32d-0c5b-40f5-aac9-08756549dd51",
-			"b8a5d2bf-c206-4ce8-819c-0d34eb62f58e"
+			"0ca562dc-c085-4780-afe8-5a857a9555ef",
+			"c0fcb8e0-89c6-4a96-9f70-804d3384f7c1"
 		],
 		"replaces": [
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa",
 			"28b7d506-689b-4328-8a06-6892262c2edd",
 			"94eac546-91dd-4c15-8912-fd0c13667824",
 			"38ca4e55-71b8-4c6c-83dc-085df3a06bad",
-			"76f63a9f-fcde-4e17-a65b-bdfb211b2958"
+			"76f63a9f-fcde-4e17-a65b-bdfb211b2958",
+			"f38f5f4c-9ec1-4516-97b0-3c9a663e67e5"
 		],
 		"description": "",
 		"vakleergebied_id": [

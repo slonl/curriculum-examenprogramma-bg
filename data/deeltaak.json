@@ -1284,19 +1284,6 @@
 		]
 	},
 	{
-		"id": "02c78ea8-2bbf-495e-b68e-b4873a8f8d3f",
-		"prefix": "K/EO/07/01",
-		"title": "Presentatie- en stylingtechnieken uitvoeren ten aanzien van de winkelpresentatie",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"7f5e139d-dd16-45b3-95ad-4c2f68b7e554",
-			"90348d9f-8e5b-4da2-8607-d9e1ed7f7dfd",
-			"3b03ce18-dfad-44fb-82a8-0a29a4228606",
-			"9e7a5a9d-dd4d-4a55-890e-9b34396cb586",
-			"605a48de-e401-4327-9563-335b5e65b5ac"
-		],
-		"dirty": true
-	},
-	{
 		"id": "18ea2777-ba40-4a72-ab89-cc0daaef3735",
 		"prefix": "K/EO/08/01",
 		"title": "Werkzaamheden binnen mode en design uitvoeren ten aanzien van ontwerpen",
@@ -5381,16 +5368,6 @@
 		]
 	},
 	{
-		"prefix": "K/GR/15/01",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"5cb9dd51-21ac-4be4-bc85-f22be115483f",
-			"47aa1437-6664-493b-b68b-4df7220f1f5d",
-			"fa0f1f57-f58f-4bf0-9c4c-9f89518780d1"
-		],
-		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving",
-		"id": "14a27178-8996-4594-ac37-835ad6de6ea5"
-	},
-	{
 		"prefix": "K/GR/15/02",
 		"examenprogramma_bg_globale_eindterm_id": [
 			"a647f7d8-9ff6-491c-8d6f-e022dc687150",
@@ -5409,15 +5386,6 @@
 		],
 		"title": "Herkennen en benoemen van functies van viskwekerijen",
 		"id": "82c38468-71f9-4ef7-bdf0-fae13e494f89"
-	},
-	{
-		"prefix": "K/GR/15/04",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"413f16dd-934d-43f1-80db-3a8c7151fe02",
-			"46553d76-7eac-4f4b-bc90-c52372003551"
-		],
-		"title": "Uitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten.",
-		"id": "a7eae7e2-5d47-4f65-be46-7798305ac1e5"
 	},
 	{
 		"prefix": "K/GR/14/01",
@@ -7050,37 +7018,6 @@
 		]
 	},
 	{
-		"prefix": "P/EO/04/03",
-		"title": "Ondersteunende werkzaamheden uitvoeren",
-		"id": "8fbe0a0d-146f-4903-8554-3d325268bb8b",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"c4e0acf6-6750-4b7d-831b-df8cfea637f0",
-			"8a8a7893-67a7-4665-b39e-e1d63e328bad",
-			"2cb48d3e-64c3-475c-b4da-0817e1ccd17f"
-		]
-	},
-	{
-		"prefix": "P/BWI/01/03",
-		"title": "Een eenvoudige funderingsbekisting maken",
-		"id": "0e3ce236-c7c4-412c-9f35-21150d47f20d",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"2c4333d7-9425-4f54-ab81-9d5e85b9117b",
-			"4deec5e5-4f0a-4c34-b317-e140664d2881"
-		]
-	},
-	{
-		"prefix": "P/BWI/02/01",
-		"title": "Profielen en kozijnen stellen",
-		"id": "fa2bd910-6034-4ea7-b534-1f377369c612",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"31864751-96de-4c68-b54c-35cc6ddd0590",
-			"84ce2b2f-3d59-4cc6-aaa8-bd7f086fc8da",
-			"61d323f1-230b-4130-bc95-951a3520623e",
-			"f1a12a56-e825-4558-8b5b-204471f7698d",
-			"dd5b568d-a31d-43d7-8ca5-dc32a8bb32d6"
-		]
-	},
-	{
 		"id": "5bf437e0-5d04-4fa7-86e5-58c5ea3bf972",
 		"prefix": "P/BWI/02/02",
 		"title": "Een halfsteensmuur metselen",
@@ -7993,7 +7930,6 @@
 		"prefix": "K/BWI/25/1",
 		"title": "De principes, kenmerken en eigenschappen van biobased en natuurinclusief bouwen herkennen, benoemen en omschrijven.",
 		"id": "946a29d0-e5a2-4624-a279-9334228dcfe5",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"1fcb9fb4-8aa4-4bca-8cad-708b6fb94011",
 			"59425d4f-e9ea-420d-a18e-06a81101d49b",
@@ -8006,7 +7942,6 @@
 		"prefix": "K/BWI/25/2",
 		"title": "Een natuurinclusief product ontwerpen en maken",
 		"id": "9f05b266-b4a3-40d0-9a53-e1b71683c0c2",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"ca2958e3-083e-47d1-aeef-09fdf8872dfb",
 			"682e7bc5-6ba9-4920-8d44-93442436b3a5",
@@ -8019,7 +7954,6 @@
 		"prefix": "K/BWI/25/3",
 		"title": "Constructies ontwerpen, maken en samenstellen, waarbij rekening wordt gehouden met biobased uitgangspunten.",
 		"id": "1a23f600-a189-48fe-88b1-e69897cd2f46",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"1c823e46-f3e1-48f5-8a16-5a5d48cfb219",
 			"93361bd8-8075-4ee8-a840-c87f91411fe6",
@@ -8034,7 +7968,6 @@
 		"prefix": "K/EO/09/01",
 		"title": "Werkzaamheden binnen de modetechniek uitvoeren ten aanzien van ontwerpen en technieken.",
 		"id": "001f560e-70c2-4f2a-80dd-e7a613f137cd",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e445dd70-26dc-477e-be1f-ce967f4a071e",
 			"b271e660-6769-4d45-a09f-6fa88ffe0317",
@@ -8046,7 +7979,6 @@
 		"prefix": "K/EO/09/02",
 		"title": "Werkzaamheden uitvoeren ten aanzien van productietechnieken.",
 		"id": "2b834fe2-d9f7-4b47-a34d-e1722f32e8cb",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"df72ba1d-12ab-4d40-94d3-79149f06dbe6",
 			"cc30e337-5f59-4c7e-995e-a12a89b744de",
@@ -8057,7 +7989,6 @@
 		"prefix": "K/EO/10/01",
 		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het bedenken van een woonstijlconcept.",
 		"id": "6f1a1073-eb2c-4df6-a044-f9ea8f2f9ca3",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"7b96700f-6517-42cf-bbad-5227a9d37cc2",
 			"3a5eeaf9-4475-424f-99ae-1c189907b4e5",
@@ -8071,7 +8002,6 @@
 		"prefix": "K/EO/10/02",
 		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het ontwerpen van een sample passend bij een woonstijlconcept.",
 		"id": "fc507fc6-1f83-4b4b-bc09-3d6ba3b120bb",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"facbfc09-f405-4ba8-b83b-5775b44bfa0a",
 			"2c1adfd0-5b18-4cf8-aca5-27569218637b"
@@ -8081,7 +8011,6 @@
 		"prefix": "K/EO/10/03",
 		"title": "Werkzaamheden binnen wonen en design uitvoeren voor een opdrachtgever zoals een (interieur-)bedrijf of particulier, bijvoorbeeld door een (leerling-) stoffeerder/meubelmaker ten aanzien van het toepassen van stoffeer- en bewerktechnieken t.b.v. een sample.",
 		"id": "1cdb1ddc-2f64-4352-81b5-85d45789257d",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"124dbb48-7730-475d-89a2-f904ba590cd2",
 			"654be0ae-acfd-401c-9329-eb58beb7c94d",
@@ -8094,7 +8023,6 @@
 		"prefix": "K/EO/11/01",
 		"title": "Oriënteert zich op de inkoop uit en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen.",
 		"id": "ca1afe60-52c7-4271-bc0a-4fea722bf9c1",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"68351e3a-6491-431f-9f6f-9159702f3e2c",
 			"53d1459d-512a-40ba-b72b-42517da385ea",
@@ -8106,7 +8034,6 @@
 		"prefix": "K/EO/11/02",
 		"title": "Kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
 		"id": "d3f8b2b3-4dbb-4b38-b198-832d05fa1359",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b899a0be-e21e-4202-898d-d4ae523ccf67",
 			"58b184e7-e7ff-4038-927f-9d9402c300af",
@@ -8121,7 +8048,6 @@
 		"prefix": "K/EO/07/02",
 		"title": "Presentatie- en stylingtechnieken uitvoeren met behulp van digitale media.",
 		"id": "6779d1fe-910c-41fa-945f-6d9ecf4fd4b3",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"72f924a9-d9c7-47fb-b016-89f518a84b8d",
 			"6e620e65-e006-4d16-9d2e-f9c57cb0df72",
@@ -8134,7 +8060,6 @@
 		"prefix": "K/PIE/26/1",
 		"title": "De kandidaat krijgt inzicht in de verschillende soorten composiet. De toepassingen van composiet met de daarbij horende voor- en nadelen. Zij maken kennis met de toepassingsmogelijkheden van composiet in verschillende beroepssituaties en welke aandachtspunten dat met zich meebrengt.",
 		"id": "91dde52b-7cb5-4abb-a79e-913eefb6823c",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"8327580f-1498-42b2-9205-ae9e3cd52dd1",
 			"5e64fd11-95d0-401a-aba2-ebf2ba46355e",
@@ -8148,7 +8073,6 @@
 		"prefix": "K/PIE/26/2",
 		"title": "In deze deeltaak leren kandidaten wat er nodig is om veilig composiet te maken en wat voor veiligheidseisen er zijn. Bovendien leren zij de veiligheidseisen om verhard composiet te bewerken.",
 		"id": "509eee62-5a7f-4aa3-95fa-428528c0a2f4",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"1b435d0f-5f11-4ba3-a5ea-1bd99267bfa1",
 			"33978a1d-105e-47a3-9e2e-faeb8b92822e",
@@ -8159,7 +8083,6 @@
 		"prefix": "K/PIE/26/3",
 		"title": "In deze deeltaak laten de leerlingen zien dat zij de kennis en vaardigheden die zij hebben ontwikkeld in het vak kunnen inzetten om zelf een eenvoudig composietmodel te maken. De composiet voldoet aan de veiligheidseisen en is versterkt met vulmiddel en versterkingsmateriaal.",
 		"id": "3ecc7530-dced-49af-a328-828fdb248f95",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"3c7e65b7-cfee-4866-90a5-8089a141fc5f",
 			"91a73ee0-aa77-45e6-8bf6-d7a398694379",
@@ -8170,7 +8093,6 @@
 		"prefix": "K/PIE/26/4",
 		"title": "In deze deeltaak laten de leerlingen zien dat zij de kennis en vaardigheden die zij hebben ontwikkeld in het vak zelfstandig kunnen inzetten om zelf een eenvoudig composietmodel te maken. De composiet voldoet aan de veiligheidseisen en is versterkt met vulmiddel en versterkingsmateriaal.",
 		"id": "bed0469f-3403-47e8-b222-84ea8619a490",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"b8cb2243-dc42-41a5-b85c-23b36870a301",
 			"aa4009ac-fced-4c91-bf3a-d94dc0a62dc9"
@@ -8180,7 +8102,6 @@
 		"prefix": "K/GR/17/01",
 		"title": "De kandidaat heeft kennis van de drie fysiologische domeinen van een paard en kan de invloed van de fysiologische domeinen op de mentale staat van het paard onderzoeken, beoordelen en aanbevelingen doen mbt optimalisatie.",
 		"id": "f3f2491a-aef6-49ca-92eb-30b78bc91574",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"57a22952-0406-4c00-8fa8-1765cb5111b6",
 			"de93f3b6-e100-4831-b656-a8633e47db35",
@@ -8194,7 +8115,6 @@
 		"prefix": "K/GR/17/02",
 		"title": "De kandidaat heeft kennis van het natuurlijk gedrag van een paard en kan de invloed van de leefomgeving en interactie met soortgenoten onderzoeken en beoordelen.",
 		"id": "330c9958-0de5-4f35-9acd-c12dc4fd8a1a",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"24c82185-334d-419d-ae10-07a96a2da65c",
 			"2f353ce8-ed37-473e-be55-1fda66ee1d56",
@@ -8207,7 +8127,6 @@
 		"prefix": "K/GR/17/03",
 		"title": "De kandidaat heeft inzicht in trainingsprincipes en kan Leertheorie toepassen in het opstellen van een trainingsplan.",
 		"id": "89456764-893b-482d-9ccb-7543a012987c",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"872a6db4-6c6a-4233-bf1d-b82b0d8b1aa3",
 			"04a4eb9f-dd3c-4cbb-af96-f954f97277bc",
@@ -8218,7 +8137,6 @@
 		"prefix": "K/GR/17/04",
 		"title": "De kandidaat kan een eenvoudig trainingsplan creëren en uitvoeren voor gedragsaanpassing bij een paard, met correct gebruik van Leertheorie",
 		"id": "62e4ea04-622d-4e93-ae03-a27b64f3211e",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e004da42-d532-4e0b-ad11-4f89a889e597",
 			"1f060e8e-7d4c-4058-a3a6-ed9f85ecc846",
@@ -8236,7 +8154,6 @@
 		"prefix": "K/MT/16/01",
 		"title": "Assisteren bij het vissen door een commercieel vissersschip.",
 		"id": "5ed15fdb-d5c2-4a18-a422-71c5ef41cafa",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"16f8dae3-94f9-47d3-843a-2cc450d03b25",
 			"5f46c19d-4b88-43f7-aecf-f0cb611c68e2",
@@ -8251,13 +8168,92 @@
 		"prefix": "K/MT/16/02",
 		"title": "Assisteren bij onderhoudswerkzaamheden aan het visgerei van een commercieel vissersschip.",
 		"id": "4c048ca4-61be-481e-9657-1f1e2d7ee600",
-		"unreleased": true,
 		"examenprogramma_bg_globale_eindterm_id": [
 			"e494b11a-f954-4b54-aeaa-6ec164836f03",
 			"7adb22bf-326d-44ef-b506-2ed5183a8fc6",
 			"c5d5cf33-d669-4a24-a77b-811885c53b3f",
 			"9f309f50-4f80-40d6-b3d0-480f890d325c",
 			"f4f2a65f-8d53-44b7-92a7-59a579528835"
+		]
+	},
+	{
+		"id": "a0587837-0bb2-4c06-ba07-5548da9845e7",
+		"prefix": "K/EO/07/01",
+		"title": "Presentatie- en stylingtechnieken uitvoeren ten aanzien van de winkelpresentatie",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"562dde8e-6057-4226-bae5-2e4e5b2c8519",
+			"1ad85771-b502-4133-8fbb-e34339d93c90",
+			"f225a2d0-4a04-46ec-ac1f-5e4108249995",
+			"d4efdc3d-b6c1-4c0a-bd05-563e1bd46855",
+			"1c65710c-4b92-4bf8-95c8-0c385e08d473"
+		],
+		"replaces": [
+			"02c78ea8-2bbf-495e-b68e-b4873a8f8d3f"
+		]
+	},
+	{
+		"prefix": "K/GR/15/01",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5cb9dd51-21ac-4be4-bc85-f22be115483f",
+			"47aa1437-6664-493b-b68b-4df7220f1f5d",
+			"08bff89d-b143-4545-952f-6470af7d5869"
+		],
+		"title": "Uitvoeren van visrijkkundig onderzoek in relatie met de omgeving",
+		"id": "81047b87-9dcd-4e67-b1dd-aab164bd9ee8",
+		"replaces": [
+			"14a27178-8996-4594-ac37-835ad6de6ea5"
+		]
+	},
+	{
+		"prefix": "K/GR/15/04",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"413f16dd-934d-43f1-80db-3a8c7151fe02",
+			"e3a44596-264b-45b6-8bd7-68107b58aef1"
+		],
+		"title": "Uitvoeren van onderhoud aan visplaatsen, viswateren en waterkanten.",
+		"id": "7c487018-0f90-467c-962d-2d61e5864142",
+		"replaces": [
+			"a7eae7e2-5d47-4f65-be46-7798305ac1e5"
+		]
+	},
+	{
+		"prefix": "P/EO/04/03",
+		"title": "Ondersteunende werkzaamheden uitvoeren",
+		"id": "fcc16ad3-1fa1-489b-913d-923551e5a719",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"5df25005-970c-4877-85dc-bd6625705ebf",
+			"7f24c5f2-9422-4413-a858-fd4abc63f420",
+			"3749fc55-c688-41cb-be81-9ad71636a1c8"
+		],
+		"replaces": [
+			"8fbe0a0d-146f-4903-8554-3d325268bb8b"
+		]
+	},
+	{
+		"prefix": "P/BWI/01/03",
+		"title": "Een eenvoudige funderingsbekisting maken",
+		"id": "86c72bc7-7054-4e20-9b5c-4983ed6bd68a",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"31b20560-25fd-41af-830e-2cadf4decc43",
+			"0f1828d0-ed8b-4a8c-acb7-7fff7ca8b9cc"
+		],
+		"replaces": [
+			"0e3ce236-c7c4-412c-9f35-21150d47f20d"
+		]
+	},
+	{
+		"prefix": "P/BWI/02/01",
+		"title": "Profielen en kozijnen stellen",
+		"id": "2d3b1ef8-cbb8-4b7a-b148-0bd9ab3bcaf6",
+		"examenprogramma_bg_globale_eindterm_id": [
+			"fcc638d0-0b3e-45e0-b0a1-a95576758354",
+			"f6a6fb0b-2e78-4c64-a7d7-eb00f0303531",
+			"89684c42-1198-44fb-a61a-dbdbdcbd44d4",
+			"f1a12a56-e825-4558-8b5b-204471f7698d",
+			"dd5b568d-a31d-43d7-8ca5-dc32a8bb32d6"
+		],
+		"replaces": [
+			"fa2bd910-6034-4ea7-b534-1f377369c612"
 		]
 	}
 ]

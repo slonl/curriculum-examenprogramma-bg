@@ -319,7 +319,8 @@
 		"replaces": [
 			"595d2047-1bf9-4303-9824-7956854f466c",
 			"52084735-7e87-4d13-b907-ca79db136e2f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "12ac6848-c3ac-4349-8e39-b64894a56199",
@@ -337,7 +338,8 @@
 		"replaces": [
 			"a88692f5-10a3-4aac-9e19-73d87c7015df",
 			"080afa8f-d9ea-4aaf-beab-0d75b02fa0d0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9e36d8ab-0dfd-4151-bc7e-c35f3fa197a3",

@@ -85,7 +85,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "82ac0946-ef29-4fac-bfc2-e3903296cb12",
@@ -95,7 +96,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "4666e891-5b3c-4bf4-a37f-d2869caad639",
@@ -105,7 +107,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "dae1945e-ac6e-4074-b371-8898788abe0b",
@@ -113,7 +116,8 @@
 		"title": "De kandidaat kan gangbare gereedschappen en hulpmiddelen toepassen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "fbcec230-db6d-4286-a023-744b8a51048a",
@@ -140,7 +144,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "bb283723-6898-4a73-b0b6-70527cc9b254",
@@ -5465,7 +5470,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9ed370a0-8d36-445a-9578-2ba72736e2a7",
@@ -5473,7 +5479,8 @@
 		"title": "De kandidaat kan de samenhang tussen prijs en marktpositie herkennen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "3b5ef852-25f9-40ba-84a5-1db52380cfe2",
@@ -5482,7 +5489,8 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "89177468-bf1d-4b7b-b477-724a0451542d",
@@ -5491,7 +5499,8 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "e03cf674-65f0-4c91-9f0e-defe6cdef94c",
@@ -5501,7 +5510,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "506cb421-fa9d-49b2-aa93-6172b3cd99bc",
@@ -5519,7 +5529,8 @@
 		"title": "De kandidaat kan ontwikkelingen in de secretariële ondersteuning herkennen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "492cf543-8903-4aa1-ba8f-65a76add43b9",
@@ -5528,7 +5539,8 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "827196d4-af02-4109-a52b-b819ed247c31",
@@ -5555,7 +5567,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "a0140c53-c6b2-4369-8b09-a5f5fe126780",
@@ -5563,7 +5576,8 @@
 		"title": "De kandidaat kan begrippen met betrekking tot de voorraad herkennen",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "7b997081-b49d-45f9-8663-1f6051d0102f",
@@ -5571,7 +5585,8 @@
 		"title": "De kandidaat kan begrippen met betrekking tot de voorraad herkennen en toepassen",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "5bc9f82a-27eb-43b8-a3dd-5d92cc6a1303",
@@ -5580,7 +5595,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "e2db77eb-63a9-43f0-b900-b50df487a0cd",
@@ -5589,7 +5605,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "bd66f65d-d360-485b-98bc-e5251a90c456",
@@ -5597,7 +5614,8 @@
 		"title": "De kandidaat kan bedrijfsprocessen herkennen en benoemen",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "22edb892-419f-41e7-b886-6a73e07aea57",
@@ -5605,7 +5623,8 @@
 		"title": "De kandidaat kan financiële data gebruiken: lezen, berekenen, interpreteren",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "108c5392-82f1-4a7a-a7d0-1af5e1943331",
@@ -6323,7 +6342,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9033112d-d5bc-4389-9211-9476bb7036d0",
@@ -6333,7 +6353,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "b2163681-a179-400e-b4ef-9e436c38b599",
@@ -6343,7 +6364,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "8cce9447-2045-421d-83df-40c9923f4508",
@@ -6353,7 +6375,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "941cd10c-ae7e-418b-b255-1b4332b6bb54",
@@ -14154,7 +14177,8 @@
 		"title": "De kandidaat kan onderzoek doen naar een onderwerp voor een fotoserie",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "13d7a124-50fc-4ee5-93cd-3f25d2eab9e5",
@@ -14162,7 +14186,8 @@
 		"title": "De kandidaat kan een onderwerp binnen een gegeven thema kiezen en de keuze beargumenteren",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "d4fd5daf-2cbc-457d-b737-df6ec1fa6550",
@@ -14171,7 +14196,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "b824efbb-e206-4e85-b936-6f9510440655",
@@ -14180,7 +14206,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "09f98bcb-5cd9-49d6-80f0-cbb800c31647",
@@ -14189,7 +14216,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "d24c5f61-8b34-4280-8568-a1a985b65a6d",
@@ -14198,7 +14226,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "dd354872-73ab-454b-ba08-971ece5bf105",
@@ -14206,7 +14235,8 @@
 		"title": "De kandidaat kan de gemaakte keuzes bij het proces en product beargumenteren",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "6288541d-cc5c-4495-8fa9-f2a5d19176f6",
@@ -16059,7 +16089,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9b405b7b-e37e-4b1b-bd05-e9342455ca15",
@@ -17986,7 +18017,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "34f7fa60-043e-45e2-ba6c-953e39b4aeee",
@@ -17996,7 +18028,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "98d1a59e-cdce-4910-8e72-7583f3791c8f",
@@ -18006,7 +18039,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "84f304ee-aab4-45a7-b84a-077c3d0fb954",
@@ -18015,7 +18049,8 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "13521ef4-73b0-4873-b8a3-64ea5427caf2",
@@ -18024,7 +18059,8 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "3b6c34de-c82b-4fe3-a43e-71d5e754d09a",
@@ -28661,7 +28697,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan stelwerkzaamheden voorbereiden",
-		"id": "2211f1bb-76c2-4639-8405-c22086f9aeda"
+		"id": "2211f1bb-76c2-4639-8405-c22086f9aeda",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -28670,7 +28707,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"title": "De kandidaat kan buitenkozijnen voor raam en deur stellen in een spouwmuur",
-		"id": "5ccb1c54-bfb1-4651-82b4-4f24da5f6398"
+		"id": "5ccb1c54-bfb1-4651-82b4-4f24da5f6398",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -28680,7 +28718,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan werkzaamheden voor een strokenfundering voorbereiden.",
-		"id": "802183e1-1a84-4fdd-b363-07a5b51c9622"
+		"id": "802183e1-1a84-4fdd-b363-07a5b51c9622",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -28690,7 +28729,8 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
 		"title": "De kandidaat kan een bekisting voor een eenvoudige strokenfundering uitzetten en stellen en een PS-systeembekisting beschrijven.",
-		"id": "3db12819-eb38-4e4e-bb37-8acabfbc61db"
+		"id": "3db12819-eb38-4e4e-bb37-8acabfbc61db",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -28741,7 +28781,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan het ontwerp omzetten in werktekeningen",
-		"id": "0e4ff522-febd-4025-90a2-a46f3232b253"
+		"id": "0e4ff522-febd-4025-90a2-a46f3232b253",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -31375,7 +31416,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan onderdelen en componenten monteren en samenstellen.",
-		"id": "d7a042dc-8406-4fc6-b071-38e234dc3e3e"
+		"id": "d7a042dc-8406-4fc6-b071-38e234dc3e3e",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -31384,7 +31426,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan elektrische bedrading aanbrengen en aansluiten.",
-		"id": "9c492112-62f1-4c9d-8702-ef8ca7716ac2"
+		"id": "9c492112-62f1-4c9d-8702-ef8ca7716ac2",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -31393,7 +31436,8 @@
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"title": "De kandidaat kan meten en controleren van samengesteld werk.",
-		"id": "175937c5-330c-4f1e-bb04-26e658aeddd4"
+		"id": "175937c5-330c-4f1e-bb04-26e658aeddd4",
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -31931,7 +31975,8 @@
 		"description": "",
 		"replaces": [
 			"c8617271-f3a4-463a-9e8e-f8a54bc6b494"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "62db37ea-eb4a-4485-93f3-14f6bc0ee9f1",
@@ -32603,7 +32648,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/01/02-04",
@@ -32613,7 +32659,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/03-01",
@@ -32622,7 +32669,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/03-02",
@@ -32631,7 +32679,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/03-03",
@@ -32640,7 +32689,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/04-01",
@@ -32649,7 +32699,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/04-02",
@@ -32658,7 +32709,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/04-03",
@@ -32667,7 +32719,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/02/04-04",
@@ -32676,7 +32729,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/03/01-05",
@@ -32685,7 +32739,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/03/01-06",
@@ -32694,7 +32749,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "De kandidaat kan facilitaire ondersteuning uitvoeren.",
@@ -32702,7 +32758,8 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "De kandidaat kan organisatorische werkzaamheden uitvoeren.",
@@ -32711,7 +32768,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"title": "De kandidaat kan dienstverlenende werkzaamheden uitvoeren.",
@@ -32720,7 +32778,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/EO/01/02-03",
@@ -32831,7 +32890,8 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/BWI/02/01-04",
@@ -32974,7 +33034,8 @@
 		],
 		"replaces": [
 			"674d5028-1ad2-4c82-a8f8-f942a9689601"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "0923ea53-1e08-489f-88fe-f7f55aa8aadb",
@@ -32998,7 +33059,8 @@
 		],
 		"replaces": [
 			"68d4331f-c663-4917-85a2-1c56f93dc8f9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "49d066d9-71f7-4f85-9286-a99d8f12ce1c",
@@ -33085,7 +33147,8 @@
 		],
 		"replaces": [
 			"c9918423-318d-4304-94d6-0eaae0d572bb"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "ca495d36-31a9-4215-91f3-10ac4b8b526c",
@@ -33097,7 +33160,8 @@
 		],
 		"replaces": [
 			"c930abaf-8484-4ed5-8e58-d81c306a8ad0"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "64bf8e78-fbf5-4d5c-8e60-45f0511b8116",
@@ -33109,7 +33173,8 @@
 		],
 		"replaces": [
 			"259d0a18-502f-43a4-aee2-aa45b3f9a84c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "c3102cd4-5382-4c4f-9b57-e0c822c86060",
@@ -33121,7 +33186,8 @@
 		],
 		"replaces": [
 			"04e14d13-5724-4b07-beff-0f388296830d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "808dcdeb-888d-4b09-8709-dd7f0796af2b",
@@ -33181,7 +33247,8 @@
 		],
 		"replaces": [
 			"58e04ac3-c42b-4322-bdb1-0e6dc2a9f2d5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "5f10e060-f824-4934-9d9e-511c232dd35a",
@@ -33345,7 +33412,8 @@
 		"description": "",
 		"replaces": [
 			"d64b69f3-31d6-476f-b24b-14a15e8c2853"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "1de6104e-6693-4d27-b69e-62ebea30a4a2",
@@ -33370,7 +33438,8 @@
 		"description": "",
 		"replaces": [
 			"01e1db45-8eb7-4885-affb-2d03cd41fb88"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "97e06e48-0a4a-4a03-8aea-6dd8153d07f3",
@@ -33408,7 +33477,8 @@
 		"description": "",
 		"replaces": [
 			"16dd62aa-d7e6-4a58-a9d9-516342b6ecb5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "799a3457-f1af-4cb5-b9f0-95b311c8a7cd",
@@ -33420,7 +33490,8 @@
 		],
 		"replaces": [
 			"485f1a7d-15b4-427a-8a1d-8a817aeb63a1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "f11a57ac-1d5f-4f44-a54a-562f09a27a14",
@@ -33468,7 +33539,8 @@
 		],
 		"replaces": [
 			"3d1d0d1c-7205-4135-bace-eb3287eae20a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "a94372b9-7e40-40c8-8c14-71c884ffcaeb",
@@ -33492,7 +33564,8 @@
 		],
 		"replaces": [
 			"29a5d8c7-247d-4b2d-a306-afda857c5b8c"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "78eff4a4-c2ef-4e4d-9421-fb923aedb3f2",
@@ -33516,7 +33589,8 @@
 		],
 		"replaces": [
 			"bdc8c05d-bc0a-463f-b1a1-c755caa45a61"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9a96a88a-ec55-4f21-8ed5-66e69ae1a401",
@@ -33540,7 +33614,8 @@
 		],
 		"replaces": [
 			"f4771a6c-0964-4d57-b27b-13e6ef1946b1"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "2222c48f-0b18-4672-841c-21e5741e7c5c",
@@ -33563,7 +33638,8 @@
 		],
 		"replaces": [
 			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "44ca8bc7-7195-4420-9fa2-cd81deeadfd6",
@@ -33600,7 +33676,8 @@
 		],
 		"replaces": [
 			"8e9dd769-4e48-4e0a-9fb4-d397caf1d3ed"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "c8351765-ad46-4e12-ac05-907173cd122f",
@@ -33611,7 +33688,8 @@
 		],
 		"replaces": [
 			"bdaf208b-fc61-4a4e-b001-8e52ba73eeb6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "57c2682d-60af-4bdb-9ec2-7d2d411c62dd",
@@ -33635,7 +33713,8 @@
 		],
 		"replaces": [
 			"708603c5-c8fe-4ced-bb5c-77ea2d22678a"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "e2987156-2cb2-402a-9d1f-fcae8f344b05",
@@ -33659,7 +33738,8 @@
 		],
 		"replaces": [
 			"ed425af5-2b26-4b2f-98e3-a1e8aedb9bb8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "03d515f3-410c-4590-8c7e-6521c2cfc211",
@@ -33682,7 +33762,8 @@
 		],
 		"replaces": [
 			"831d3837-976c-47ed-b287-09ed37990d82"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "821c3771-2590-41b6-b952-e41a28d30e94",
@@ -33717,7 +33798,8 @@
 		],
 		"replaces": [
 			"a9d86bcb-5998-481d-859d-6b6d12d7ac06"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "7db62200-c7f6-46b9-9c09-7443e1bfb152",
@@ -33728,7 +33810,8 @@
 		],
 		"replaces": [
 			"54845fea-d93d-479c-956f-2b126d3efca9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "56547b6c-d53e-47c8-9ca9-875bac9be16b",
@@ -33774,7 +33857,8 @@
 		],
 		"replaces": [
 			"82375353-be50-4969-a145-29eeb092bfc5"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "0fa91051-5800-494a-b388-81973b6cb526",
@@ -33786,7 +33870,8 @@
 		],
 		"replaces": [
 			"23fb695a-e3dc-4d23-87e4-9812fe4e2e08"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "086a1acf-2196-4b4d-9e1c-f2a0bf9a95ba",
@@ -33797,7 +33882,8 @@
 		],
 		"replaces": [
 			"7de8d367-01d4-4c3a-9ab5-bae461953a74"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "c0bb1a1b-75ae-4cbe-84e0-0aafe5ea4b6c",
@@ -33809,7 +33895,8 @@
 		],
 		"replaces": [
 			"8947a669-2bdd-4458-8401-9ad96da5c022"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "64256061-460d-4c9b-bf25-0ba11ccc1f65",
@@ -33821,7 +33908,8 @@
 		],
 		"replaces": [
 			"56daf90b-4670-436e-9678-4c3c4abb74aa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "79a4f0c0-a7a0-4065-83e4-66344d6987d6",
@@ -33858,7 +33946,8 @@
 		],
 		"replaces": [
 			"2d3914b1-ce4f-4ec2-9797-8d7305b66153"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "ea0dc9dc-38fe-439a-9152-8739dc4c8b90",
@@ -33870,7 +33959,8 @@
 		],
 		"replaces": [
 			"d557c305-1874-44ab-adc3-a2ac03e18fe8"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "0b6f3445-fc08-47a3-ae7c-b2849598a919",
@@ -33896,7 +33986,8 @@
 		],
 		"replaces": [
 			"f3632126-025f-4193-9a8a-d843f08f1ebd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "46ea98a8-2c17-4b9c-a7fd-d636e206b1f1",
@@ -33909,7 +34000,8 @@
 		],
 		"replaces": [
 			"97082457-0133-4578-a967-6a8a02d86b34"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "97e6b86d-c41c-4f70-85f7-5cb02d10316e",
@@ -33922,7 +34014,8 @@
 		],
 		"replaces": [
 			"6d645f59-bf71-4235-9b64-6fde2c25e7c6"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "9849693a-9adb-4d2c-a451-551b0036b9ee",
@@ -33935,7 +34028,8 @@
 		],
 		"replaces": [
 			"8405f1cb-06df-4367-a774-052fa3b10ea7"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "046ec743-a3a4-4155-b416-aa511da6155f",
@@ -33948,7 +34042,8 @@
 		],
 		"replaces": [
 			"f461499f-7de5-4177-8de3-d4305ae6ae5b"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "1cb08dff-b026-42d8-8594-6b9c9b3c47cf",
@@ -33986,7 +34081,8 @@
 		],
 		"replaces": [
 			"ca135c93-3a5d-4f0a-bea0-8f90137d11bc"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "fcdd9a8e-5ed9-4b9d-8d05-249c5536142f",
@@ -34021,7 +34117,8 @@
 		],
 		"replaces": [
 			"0a98c543-d4e1-410c-b88d-aa2ceec32761"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "27d7b170-edd4-4917-b823-d288d4a45142",
@@ -34033,7 +34130,8 @@
 		],
 		"replaces": [
 			"308d1d50-557b-489b-8726-1ac768b7344d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "5929f87a-9f4f-4624-aceb-0f60b929fe95",
@@ -34092,7 +34190,8 @@
 		],
 		"replaces": [
 			"27f0ecbc-86ff-4352-85d0-27d423aae51d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "d0400a6c-5ead-4d93-a989-552dd40c5c7c",
@@ -34128,7 +34227,8 @@
 		],
 		"replaces": [
 			"a60e9acb-644e-40ce-a752-a38481f3d942"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "07506283-630c-47d8-9e25-ae9ab798ad40",
@@ -34165,7 +34265,8 @@
 		],
 		"replaces": [
 			"a258d4d9-5a21-4aab-9e4a-6ae2c87a477e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"niveau_id": [
@@ -34177,7 +34278,8 @@
 		"description": "",
 		"replaces": [
 			"f1fe8b27-2148-46aa-8dbb-946bcec32b26"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "f1ae7d3e-7340-4e79-b61b-7bcf069a0b73",
@@ -34272,7 +34374,8 @@
 		"id": "b76fd3b9-51b7-4233-a03e-ee6209d71e2b",
 		"replaces": [
 			"b3dd8458-a22c-4cb2-ab56-d7ff800a410d"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34285,7 +34388,8 @@
 		"id": "7316dbda-3cd2-4c43-b099-b549c7bfd256",
 		"replaces": [
 			"5bab94df-4798-449b-bb72-3f19393b8b1e"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34297,7 +34401,8 @@
 		"id": "384602d2-7500-48e3-b649-7439ac696f25",
 		"replaces": [
 			"ceadc12b-c9ec-462f-84f9-c28660a8ea99"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34440,7 +34545,8 @@
 		"id": "4c0841a2-ee4d-4159-becc-29fb2d1fc369",
 		"replaces": [
 			"e497694a-0595-4ec4-8611-a66de194afd9"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"prefix": "P/MVI/03/03-03",
@@ -34477,7 +34583,8 @@
 		"id": "78868d0d-7aa6-4c01-8192-7e5c18dd64d5",
 		"replaces": [
 			"08244a91-cfd9-4bbc-b488-0617ca4a50ce"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34504,7 +34611,8 @@
 		"id": "40900158-1182-4551-861a-b7eec0105ad7",
 		"replaces": [
 			"4fa9e2b1-e815-4549-bed8-c7c7f5012d74"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34530,7 +34638,8 @@
 		"id": "6475d1b9-7157-434b-8a3d-d733e2f65d36",
 		"replaces": [
 			"d2ece59f-580e-4ae8-8e17-f8b045db11fa"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34543,7 +34652,8 @@
 		"id": "029dcc31-d5a7-483b-a76d-141f57fa4cce",
 		"replaces": [
 			"eb4b0cc1-7cd7-44df-a88e-e70a35c7af4f"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34556,7 +34666,8 @@
 		"id": "9505485b-2758-4a7b-9b83-46f03c0cd243",
 		"replaces": [
 			"f490743f-d31a-4419-9bda-d42b0056fb32"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34569,7 +34680,8 @@
 		"id": "b0f12db2-1f7c-4cba-a65b-d9bfe9026358",
 		"replaces": [
 			"f0862661-be21-478c-99c4-73e1b37f60b4"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"description": "",
@@ -34594,7 +34706,8 @@
 		"id": "59351991-b505-448e-bd1d-13d657b92318",
 		"replaces": [
 			"08ef41bd-bcb3-4bc7-bc88-4d64bd4eeafd"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "7f2f5d51-7b92-4020-be56-de2574d4b4b9",
@@ -34624,7 +34737,8 @@
 		"replaces": [
 			"85b28581-92e8-406c-840d-33d64630fedf",
 			"7f9e0c91-988f-43b1-8964-7b2a559a9d00"
-		]
+		],
+		"deleted": true
 	},
 	{
 		"id": "afe37823-eed2-4d34-a9be-522a3e720a01",

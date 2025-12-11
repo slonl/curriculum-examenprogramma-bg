@@ -7338,19 +7338,6 @@
 		]
 	},
 	{
-		"id": "a08f2855-48e4-4681-b2a0-7a88ac10f3df",
-		"prefix": "P/MET/03/02",
-		"title": "Verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten",
-		"examenprogramma_bg_globale_eindterm_id": [
-			"1cb08dff-b026-42d8-8594-6b9c9b3c47cf",
-			"c042309e-0723-49a5-bd76-c25e41dddb66",
-			"9d1f0ab9-4552-45ca-88b8-6fd3b61a73fb"
-		],
-		"replaces": [
-			"c53a3f52-fccb-443a-b2dc-06d794dd823a"
-		]
-	},
-	{
 		"id": "807c83d5-50f8-4fec-aaf6-742ff5220958",
 		"prefix": "P/PIE/01/02",
 		"title": "Een ontworpen elektrische schakeling in een elektrotechnisch practicum opbouwen en aansluiten",

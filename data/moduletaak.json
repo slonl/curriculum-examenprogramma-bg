@@ -192,17 +192,6 @@
 		]
 	},
 	{
-		"id": "24a6149a-2b29-4c75-816e-cd496fce3a19",
-		"prefix": "P/MET/03/MT",
-		"title": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
 		"id": "0809e552-7390-4b4c-bde0-1f4601c3a081",
 		"prefix": "P/MET/04/MT",
 		"title": "Een bedrijfsvoertuig veilig laden en lossen / een bedrijfsvoertuig vervoersklaar maken en een technische rijklaar-controle uitvoeren / een ritplanning en een routeplanning maken (nationaal en internationaal)",

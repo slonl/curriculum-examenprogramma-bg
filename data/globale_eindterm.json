@@ -78,48 +78,6 @@
 		]
 	},
 	{
-		"id": "96ccfff5-ba8e-4c96-9cde-f3b139cc88be",
-		"prefix": "P/BWI/01/03-02",
-		"title": "De kandidaat kan de koppenmaat en lagenmaat bepalen en afschrijven",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "82ac0946-ef29-4fac-bfc2-e3903296cb12",
-		"prefix": "P/BWI/01/03-03",
-		"title": "De kandidaat kan metselprofielen stellen voor een halfsteensmuur en een spouwmuur",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "4666e891-5b3c-4bf4-a37f-d2869caad639",
-		"prefix": "P/BWI/01/03-05",
-		"title": "De kandidaat kan binnendeurkozijnen stellen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "dae1945e-ac6e-4074-b371-8898788abe0b",
-		"prefix": "P/BWI/01/03-06",
-		"title": "De kandidaat kan gangbare gereedschappen en hulpmiddelen toepassen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"deleted": true
-	},
-	{
 		"id": "fbcec230-db6d-4286-a023-744b8a51048a",
 		"prefix": "P/BWI/02/02-01",
 		"title": "De kandidaat kan metselwerk voorbereiden",
@@ -136,16 +94,6 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		]
-	},
-	{
-		"id": "ba2ea999-bd0f-45d5-93fb-464ae4009f7b",
-		"prefix": "P/BWI/02/02-07",
-		"title": "De kandidaat kan beëindigingen correct maken",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
 	},
 	{
 		"id": "bb283723-6898-4a73-b0b6-70527cc9b254",
@@ -5463,57 +5411,6 @@
 		]
 	},
 	{
-		"id": "92dff66e-19fb-4ee5-8fb6-f89fc35a49d5",
-		"prefix": "P/EO/01/01-06",
-		"title": "De kandidaat kan assortimentskennis verwerven, herkennen en toepassen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "9ed370a0-8d36-445a-9578-2ba72736e2a7",
-		"prefix": "P/EO/01/01-07",
-		"title": "De kandidaat kan de samenhang tussen prijs en marktpositie herkennen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"deleted": true
-	},
-	{
-		"id": "3b5ef852-25f9-40ba-84a5-1db52380cfe2",
-		"prefix": "P/EO/01/01-08",
-		"title": "De kandidaat kan de samenhang tussen prijs en marktpositie herkennen en toepassen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "89177468-bf1d-4b7b-b477-724a0451542d",
-		"prefix": "P/EO/01/01-10",
-		"title": "De kandidaat kan de samenhang tussen promotie en presentatie en marktpositie herkennen, uitleggen en toepassen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "e03cf674-65f0-4c91-9f0e-defe6cdef94c",
-		"prefix": "P/EO/01/01-11",
-		"title": "De kandidaat kan de samenhang tussen reclame en marktpositie herkennen en toepassen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
 		"id": "506cb421-fa9d-49b2-aa93-6172b3cd99bc",
 		"prefix": "P/EO/01/02-01",
 		"title": "De kandidaat kan de verkoopomgeving verkoopklaar maken.",
@@ -5522,25 +5419,6 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
-	},
-	{
-		"id": "250e6c46-518d-4b21-b349-32268e192fcf",
-		"prefix": "P/EO/02/02-06",
-		"title": "De kandidaat kan ontwikkelingen in de secretariële ondersteuning herkennen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"deleted": true
-	},
-	{
-		"id": "492cf543-8903-4aa1-ba8f-65a76add43b9",
-		"prefix": "P/EO/02/02-07",
-		"title": "De kandidaat kan ontwikkelingen in de secretariële ondersteuning herkennen en uitleggen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
 	},
 	{
 		"id": "827196d4-af02-4109-a52b-b819ed247c31",
@@ -5559,72 +5437,6 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		]
-	},
-	{
-		"id": "82e9d02c-78cd-41a7-9765-cc7e6ac68efe",
-		"prefix": "P/EO/03/02-03",
-		"title": "De kandidaat kan goederen verzenden",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "a0140c53-c6b2-4369-8b09-a5f5fe126780",
-		"prefix": "P/EO/03/03-01",
-		"title": "De kandidaat kan begrippen met betrekking tot de voorraad herkennen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"deleted": true
-	},
-	{
-		"id": "7b997081-b49d-45f9-8663-1f6051d0102f",
-		"prefix": "P/EO/03/03-02",
-		"title": "De kandidaat kan begrippen met betrekking tot de voorraad herkennen en toepassen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "5bc9f82a-27eb-43b8-a3dd-5d92cc6a1303",
-		"prefix": "P/EO/03/03-03",
-		"title": "De kandidaat kan administratief voorraadbeheer uitvoeren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "e2db77eb-63a9-43f0-b900-b50df487a0cd",
-		"prefix": "P/EO/03/03-04",
-		"title": "De kandidaat kan goederen bestellen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "bd66f65d-d360-485b-98bc-e5251a90c456",
-		"prefix": "P/EO/04/01-06",
-		"title": "De kandidaat kan bedrijfsprocessen herkennen en benoemen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "22edb892-419f-41e7-b886-6a73e07aea57",
-		"prefix": "P/EO/04/02-04",
-		"title": "De kandidaat kan financiële data gebruiken: lezen, berekenen, interpreteren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
 	},
 	{
 		"id": "108c5392-82f1-4a7a-a7d0-1af5e1943331",
@@ -6333,50 +6145,6 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
-	},
-	{
-		"id": "b525aad5-1a07-4db5-bf7c-cec5712fe568",
-		"prefix": "K/EO/07/01-06",
-		"title": "De kandidaat kan een folder ontwerpen, advertentie ontwerpen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "9033112d-d5bc-4389-9211-9476bb7036d0",
-		"prefix": "K/EO/07/01-07",
-		"title": "De kandidaat kan een (doorlopende) presentatie ontwikkelen, bijvoorbeeld narrow casting",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "b2163681-a179-400e-b4ef-9e436c38b599",
-		"prefix": "K/EO/07/01-08",
-		"title": "De kandidaat kan een commercial maken",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "8cce9447-2045-421d-83df-40c9923f4508",
-		"prefix": "K/EO/07/01-09",
-		"title": "De kandidaat kan een website bouwen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
 	},
 	{
 		"id": "941cd10c-ae7e-418b-b255-1b4332b6bb54",
@@ -14172,73 +13940,6 @@
 		]
 	},
 	{
-		"id": "7d79c7f4-498f-4d93-95dc-a5d93c683987",
-		"prefix": "P/MVI/01/07-01",
-		"title": "De kandidaat kan onderzoek doen naar een onderwerp voor een fotoserie",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "13d7a124-50fc-4ee5-93cd-3f25d2eab9e5",
-		"prefix": "P/MVI/01/07-02",
-		"title": "De kandidaat kan een onderwerp binnen een gegeven thema kiezen en de keuze beargumenteren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "d4fd5daf-2cbc-457d-b737-df6ec1fa6550",
-		"prefix": "P/MVI/01/08-01",
-		"title": "De kandidaat kan foto’s maken voor een fotoserie",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "b824efbb-e206-4e85-b936-6f9510440655",
-		"prefix": "P/MVI/01/08-02",
-		"title": "De kandidaat kan foto's selecteren aan de hand van criteria",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "09f98bcb-5cd9-49d6-80f0-cbb800c31647",
-		"prefix": "P/MVI/01/08-03",
-		"title": "De kandidaat kan foto’s bewerken met een fotobewerkingsprogramma",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "d24c5f61-8b34-4280-8568-a1a985b65a6d",
-		"prefix": "P/MVI/01/08-04",
-		"title": "De kandidaat kan de serie foto’s presenteren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"id": "dd354872-73ab-454b-ba08-971ece5bf105",
-		"prefix": "P/MVI/01/08-05",
-		"title": "De kandidaat kan de gemaakte keuzes bij het proces en product beargumenteren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
 		"id": "6288541d-cc5c-4495-8fa9-f2a5d19176f6",
 		"prefix": "P/MVI/02/01-01",
 		"title": "De kandidaat kan onderzoek doen naar de opdracht",
@@ -16080,17 +15781,6 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
-	},
-	{
-		"id": "9d1f0ab9-4552-45ca-88b8-6fd3b61a73fb",
-		"prefix": "P/MET/03/02-03",
-		"title": "De kandidaat kan verlichting en signalering aan een voertuig controleren, repareren en afstellen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
 	},
 	{
 		"id": "9b405b7b-e37e-4b1b-bd05-e9342455ca15",
@@ -18008,59 +17698,6 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		]
-	},
-	{
-		"id": "496a38ca-d307-4015-adac-c95488a94c5b",
-		"prefix": "P/PIE/03/02-01",
-		"title": "De kandidaat kan metingen uitvoeren aan een elektrische schakeling",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "34f7fa60-043e-45e2-ba6c-953e39b4aeee",
-		"prefix": "P/PIE/03/02-02",
-		"title": "De kandidaat kan eenvoudige berekeningen aan elektrische schakelingen uitvoeren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "98d1a59e-cdce-4910-8e72-7583f3791c8f",
-		"prefix": "P/PIE/03/02-03",
-		"title": "De kandidaat kan universeelmeters en tweepolige spanningstester instellen en aansluiten",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "84f304ee-aab4-45a7-b84a-077c3d0fb954",
-		"prefix": "P/PIE/03/02-04",
-		"title": "De kandidaat kan eenvoudige berekeningen maken met de verkregen meetgegevens en deze met tabellen en grafieken weergeven in een meetrapport",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
-	},
-	{
-		"id": "13521ef4-73b0-4873-b8a3-64ea5427caf2",
-		"prefix": "P/PIE/03/02-05",
-		"title": "De kandidaat kan het meetrapport presenteren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"deleted": true
 	},
 	{
 		"id": "3b6c34de-c82b-4fe3-a43e-71d5e754d09a",
@@ -28692,48 +28329,6 @@
 	},
 	{
 		"description": "",
-		"prefix": "P/BWI/01/03-01",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan stelwerkzaamheden voorbereiden",
-		"id": "2211f1bb-76c2-4639-8405-c22086f9aeda",
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/BWI/01/03-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "De kandidaat kan buitenkozijnen voor raam en deur stellen in een spouwmuur",
-		"id": "5ccb1c54-bfb1-4651-82b4-4f24da5f6398",
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/BWI/02/01-01",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan werkzaamheden voor een strokenfundering voorbereiden.",
-		"id": "802183e1-1a84-4fdd-b363-07a5b51c9622",
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/BWI/02/01-02",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan een bekisting voor een eenvoudige strokenfundering uitzetten en stellen en een PS-systeembekisting beschrijven.",
-		"id": "3db12819-eb38-4e4e-bb37-8acabfbc61db",
-		"deleted": true
-	},
-	{
-		"description": "",
 		"prefix": "P/BWI/02/03-01",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -28772,17 +28367,6 @@
 		],
 		"title": "De kandidaat kan een ontwerp tekenen met een 3D CAD-tekenprogramma",
 		"id": "2538e659-0d91-445d-b380-3c5df14fb2f8"
-	},
-	{
-		"description": "",
-		"prefix": "P/BWI/04/01-03",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan het ontwerp omzetten in werktekeningen",
-		"id": "0e4ff522-febd-4025-90a2-a46f3232b253",
-		"deleted": true
 	},
 	{
 		"description": "",
@@ -31411,36 +30995,6 @@
 	},
 	{
 		"description": "",
-		"prefix": "P/PIE/01/04-01",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan onderdelen en componenten monteren en samenstellen.",
-		"id": "d7a042dc-8406-4fc6-b071-38e234dc3e3e",
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/01/04-02",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan elektrische bedrading aanbrengen en aansluiten.",
-		"id": "9c492112-62f1-4c9d-8702-ef8ca7716ac2",
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/01/04-03",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan meten en controleren van samengesteld werk.",
-		"id": "175937c5-330c-4f1e-bb04-26e658aeddd4",
-		"deleted": true
-	},
-	{
-		"description": "",
 		"prefix": "P/PIE/02/01-04",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -31964,19 +31518,6 @@
 		"replaces": [
 			"72c6a166-5263-43cd-ac38-2fec9a438648"
 		]
-	},
-	{
-		"id": "10b10ce5-b933-4051-a466-225d9c8084be",
-		"prefix": "P/EO/01/01-09",
-		"title": "De kandidaat kan de samenhang tussen promotie en presentatie en de marktpositie herkennen en toepassen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"description": "",
-		"replaces": [
-			"c8617271-f3a4-463a-9e8e-f8a54bc6b494"
-		],
-		"deleted": true
 	},
 	{
 		"id": "62db37ea-eb4a-4485-93f3-14f6bc0ee9f1",
@@ -32643,147 +32184,6 @@
 	{
 		"prefix": "P/EO/01/02-03",
 		"title": "De kandidaat kan etaleren aan de hand van een thema en compositie.",
-		"id": "78e5e9a7-e432-4f43-9caa-e2ea2f390d56",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/01/02-04",
-		"title": "De kandidaat kan nevenactiviteiten realiseren om omzet te stimuleren.",
-		"id": "150529cb-7107-4f6d-a886-811491278326",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/03-01",
-		"title": "De kandidaat kan artikelen afrekenen",
-		"id": "975d6fa3-4f3f-4fbd-9202-74af79d85a88",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/03-02",
-		"title": "De kandidaat kan kassa opmaken",
-		"id": "ad674942-7db0-403a-9b98-98a0f8db58d2",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/03-03",
-		"title": "De kandidaat kan omgaan met verschillende afreken- en betalingsvormen",
-		"id": "bc20020b-e914-4ac4-9ca8-31232ffd27ea",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/04-01",
-		"title": "De kandidaat kan productpresentatie maken.",
-		"id": "f6b130df-2e17-4b6b-96e4-d0e49206ece5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/04-02",
-		"title": "De kandidaat kan verkoopkanaal realiseren.",
-		"id": "a1fba1de-fb19-4dab-aa05-0005a0777e77",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/04-03",
-		"title": "De kandidaat kan klanten werven en behouden.",
-		"id": "d37e231e-715f-41fc-bed9-4d23b85c52c5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/02/04-04",
-		"title": "De kandidaat kan wet- en regelgeving toepassen.",
-		"id": "9bb17c08-903d-499e-9df0-570d6948d552",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/03/01-05",
-		"title": "De kandidaat kan goederen verpakken en verzenden.",
-		"id": "c8ca36b5-fbdf-44f8-abdc-4fb1fdf0f748",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/03/01-06",
-		"title": "De kandidaat kan omgaan met derving in een magazijn.",
-		"id": "a258fe75-d2ee-43be-9fe3-32ecc8487c7b",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"title": "De kandidaat kan facilitaire ondersteuning uitvoeren.",
-		"id": "42753756-ac64-470b-9fef-b8f7d25a67c5",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"title": "De kandidaat kan organisatorische werkzaamheden uitvoeren.",
-		"id": "0f38bbe1-34ab-4d44-a2bf-77ec499c66f9",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"title": "De kandidaat kan dienstverlenende werkzaamheden uitvoeren.",
-		"id": "43978fcf-4d02-4106-9ed6-fdbfa341d6b4",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
-	},
-	{
-		"prefix": "P/EO/01/02-03",
-		"title": "De kandidaat kan etaleren aan de hand van een thema en compositie.",
 		"id": "38a150ca-ed03-4f2c-aa01-11da068ec710",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -32881,17 +32281,6 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		]
-	},
-	{
-		"prefix": "P/MET/03/02-01",
-		"title": "De kandidaat kan een verlichtingssysteem met controlesysteem op een practicumbord aansluiten",
-		"id": "c042309e-0723-49a5-bd76-c25e41dddb66",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"deleted": true
 	},
 	{
 		"prefix": "P/BWI/02/01-04",
@@ -33025,19 +32414,6 @@
 		]
 	},
 	{
-		"id": "a35ca718-e0dd-420a-91a6-fc73d0716e7a",
-		"prefix": "P/DP/02/01-03",
-		"title": "De kandidaat kan kenmerken van media-uitingen benoemen en de verschillende functies daarvan aangeven",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"674d5028-1ad2-4c82-a8f8-f942a9689601"
-		],
-		"deleted": true
-	},
-	{
 		"id": "0923ea53-1e08-489f-88fe-f7f55aa8aadb",
 		"prefix": "P/DP/02/02-02",
 		"title": "De kandidaat kan een een klantgesprek voeren: fysiek, online, telefonisch",
@@ -33048,19 +32424,6 @@
 		"replaces": [
 			"6cc80eb5-c1b0-4948-933b-91ed9d4dfead"
 		]
-	},
-	{
-		"id": "b900c99b-3952-41b2-a58b-b001a19c96d6",
-		"prefix": "P/DP/02/02-03",
-		"title": "De kandidaat kan een verkoopgesprek voeren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"68d4331f-c663-4917-85a2-1c56f93dc8f9"
-		],
-		"deleted": true
 	},
 	{
 		"id": "49d066d9-71f7-4f85-9286-a99d8f12ce1c",
@@ -33138,58 +32501,6 @@
 		]
 	},
 	{
-		"id": "e65cd205-d6dd-420d-94ea-1252493af75a",
-		"prefix": "P/EO/02/01-03",
-		"title": "De kandidaat kan communicatie verzorgen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"c9918423-318d-4304-94d6-0eaae0d572bb"
-		],
-		"deleted": true
-	},
-	{
-		"id": "ca495d36-31a9-4215-91f3-10ac4b8b526c",
-		"prefix": "P/EO/02/01-04",
-		"title": "De kandidaat kan post verzorgen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"c930abaf-8484-4ed5-8e58-d81c306a8ad0"
-		],
-		"deleted": true
-	},
-	{
-		"id": "64bf8e78-fbf5-4d5c-8e60-45f0511b8116",
-		"prefix": "P/EO/02/01-05",
-		"title": "De kandidaat kan secretariële ondersteuning verrichten",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"259d0a18-502f-43a4-aee2-aa45b3f9a84c"
-		],
-		"deleted": true
-	},
-	{
-		"id": "c3102cd4-5382-4c4f-9b57-e0c822c86060",
-		"prefix": "P/EO/02/01-06",
-		"title": "De kandidaat kan data beheren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"04e14d13-5724-4b07-beff-0f388296830d"
-		],
-		"deleted": true
-	},
-	{
 		"id": "808dcdeb-888d-4b09-8709-dd7f0796af2b",
 		"prefix": "P/EO/02/02-01",
 		"title": "De kandidaat kan klanten benaderen.",
@@ -33236,19 +32547,6 @@
 		"replaces": [
 			"0c3afeb0-fe5d-4992-9315-47b777ca1500"
 		]
-	},
-	{
-		"id": "38cd5a6f-82a8-4cb9-8cc2-63301d46e17f",
-		"prefix": "P/EO/02/02-05",
-		"title": "De kandidaat kan het bedrijf presenteren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"58e04ac3-c42b-4322-bdb1-0e6dc2a9f2d5"
-		],
-		"deleted": true
 	},
 	{
 		"id": "5f10e060-f824-4934-9d9e-511c232dd35a",
@@ -33403,19 +32701,6 @@
 		]
 	},
 	{
-		"id": "0ddd36f3-0785-4b97-9a0e-8d66c905de11",
-		"prefix": "P/GR/01/02-01",
-		"title": "De kandidaat kan op basis van instructies teeltwerkzaamheden uitvoeren.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"description": "",
-		"replaces": [
-			"d64b69f3-31d6-476f-b24b-14a15e8c2853"
-		],
-		"deleted": true
-	},
-	{
 		"id": "1de6104e-6693-4d27-b69e-62ebea30a4a2",
 		"prefix": "P/GR/01/02-01",
 		"title": "De kandidaat kan teeltwerkzaamheden benoemen, kiezen, voorbereiden en uitvoeren.",
@@ -33427,19 +32712,6 @@
 		"replaces": [
 			"a546fd12-1ac8-4ea6-a062-447630005209"
 		]
-	},
-	{
-		"id": "f3045a37-41f7-4598-b99d-34ac5addf3f3",
-		"prefix": "P/GR/01/02-02",
-		"title": "De kandidaat kan op basis van instructies op generatieve en vegetatieve wijze vermeerderingsmethoden bij planten uitvoeren.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"description": "",
-		"replaces": [
-			"01e1db45-8eb7-4885-affb-2d03cd41fb88"
-		],
-		"deleted": true
 	},
 	{
 		"id": "97e06e48-0a4a-4a03-8aea-6dd8153d07f3",
@@ -33466,32 +32738,6 @@
 		"replaces": [
 			"7f07d6d7-4d9d-4fea-85d3-50b49f965e85"
 		]
-	},
-	{
-		"id": "79528062-14a6-4c29-a250-d239e74b3406",
-		"prefix": "P/GR/01/03-07",
-		"title": "De kandidaat kan de gezondheid en het welzijn van dieren beoordelen en eventuele verbeterpunten aangeven.",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"description": "",
-		"replaces": [
-			"16dd62aa-d7e6-4a58-a9d9-516342b6ecb5"
-		],
-		"deleted": true
-	},
-	{
-		"id": "799a3457-f1af-4cb5-b9f0-95b311c8a7cd",
-		"prefix": "P/GR/02/02-01",
-		"title": "De kandidaat kan producten selecteren aan de hand van kwaliteitsvoorschriften",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"485f1a7d-15b4-427a-8a1d-8a817aeb63a1"
-		],
-		"deleted": true
 	},
 	{
 		"id": "f11a57ac-1d5f-4f44-a54a-562f09a27a14",
@@ -33531,18 +32777,6 @@
 		]
 	},
 	{
-		"id": "15060f04-f0c4-4d1d-a1a2-b5bae6c9bd29",
-		"prefix": "P/GR/03/01-04",
-		"title": "De kandidaat kan aan de hand van eisen voor een bepaalde diersoort een huisvesting en kooiverrijking ontwerpen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"3d1d0d1c-7205-4135-bace-eb3287eae20a"
-		],
-		"deleted": true
-	},
-	{
 		"id": "a94372b9-7e40-40c8-8c14-71c884ffcaeb",
 		"prefix": "P/GR/03/01-04",
 		"title": "De kandidaat kan een huisvesting voor dieren en een kooiverrijking ontwerpen en de gemaakte keuzen toelichten",
@@ -33554,18 +32788,6 @@
 		"replaces": [
 			"81fa8ec2-a705-4009-8a0d-44e1ef8b57e4"
 		]
-	},
-	{
-		"id": "0cbadd0e-658a-42a5-9318-e2fddba6b796",
-		"prefix": "P/GR/03/02-04",
-		"title": "De kandidaat kan op basis van instructies een huisvesting en kooiverrijking voor dieren realiseren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"29a5d8c7-247d-4b2d-a306-afda857c5b8c"
-		],
-		"deleted": true
 	},
 	{
 		"id": "78eff4a4-c2ef-4e4d-9421-fb923aedb3f2",
@@ -33581,18 +32803,6 @@
 		]
 	},
 	{
-		"id": "434a5675-69bf-4f4d-9ecc-3656a45431ce",
-		"prefix": "P/GR/03/03-01",
-		"title": "De kandidaat kan groene onderhoudswerkzaamheden uitvoeren",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"bdc8c05d-bc0a-463f-b1a1-c755caa45a61"
-		],
-		"deleted": true
-	},
-	{
 		"id": "9a96a88a-ec55-4f21-8ed5-66e69ae1a401",
 		"prefix": "P/GR/03/03-01",
 		"title": "De kandidaat kan groene onderhoudswerkzaamheden inventariseren en uitvoeren",
@@ -33606,18 +32816,6 @@
 		]
 	},
 	{
-		"id": "2a1bf36c-eb7a-40b2-b8c9-bac2d48f9f04",
-		"prefix": "P/GR/04/01-02",
-		"title": "De kandidaat kan met behulp van instructies geschikte inkoopkanalen kiezen bij de inkoop van aan de groene sector gerelateerde producten en producten bestellen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"f4771a6c-0964-4d57-b27b-13e6ef1946b1"
-		],
-		"deleted": true
-	},
-	{
 		"id": "2222c48f-0b18-4672-841c-21e5741e7c5c",
 		"prefix": "P/GR/04/01-02",
 		"title": "De kandidaat kan op beargumenteerde wijze geschikte inkoopkanalen kiezen bij inkoop van aan de groene sector gerelateerde producten en producten bestellen",
@@ -33628,18 +32826,6 @@
 		"replaces": [
 			"1020a32a-8e58-4353-b4b3-24bcca9fd28e"
 		]
-	},
-	{
-		"id": "539961cc-c356-428f-b9d9-cb6d985a5d4a",
-		"prefix": "P/GR/04/02-01",
-		"title": "De kandidaat kan een marketingmix volgens instructie toepassen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"f0c909b9-8e13-42d1-9a02-0ed61501b5f9"
-		],
-		"deleted": true
 	},
 	{
 		"id": "44ca8bc7-7195-4420-9fa2-cd81deeadfd6",
@@ -33667,31 +32853,6 @@
 		]
 	},
 	{
-		"id": "3b2d6abb-61af-4b90-8e93-3e5f8d0f8e43",
-		"prefix": "P/HBR/01/01-02",
-		"title": "De kandidaat kan bedrijfsdoelstellingen en bedrijfsformules vormgeven en realiseren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"8e9dd769-4e48-4e0a-9fb4-d397caf1d3ed"
-		],
-		"deleted": true
-	},
-	{
-		"id": "c8351765-ad46-4e12-ac05-907173cd122f",
-		"prefix": "P/HBR/01/01-03",
-		"title": "De kandidaat kan bedrijfstypen en bedrijfsformules herkennen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"bdaf208b-fc61-4a4e-b001-8e52ba73eeb6"
-		],
-		"deleted": true
-	},
-	{
 		"id": "57c2682d-60af-4bdb-9ec2-7d2d411c62dd",
 		"prefix": "P/HBR/01/01-02",
 		"title": "De kandidaat kan bedrijfstypen benoemen",
@@ -33703,18 +32864,6 @@
 		"replaces": [
 			"f9f02110-5300-42b0-a3ec-1a01d4a626b8"
 		]
-	},
-	{
-		"id": "60a6049b-ceac-4612-8cc9-b1f01e1e365f",
-		"prefix": "P/HBR/01/01-08",
-		"title": "De kandidaat kan assisteren bij het opzetten van en verrichten van promotionele activiteiten",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"708603c5-c8fe-4ced-bb5c-77ea2d22678a"
-		],
-		"deleted": true
 	},
 	{
 		"id": "e2987156-2cb2-402a-9d1f-fcae8f344b05",
@@ -33730,18 +32879,6 @@
 		]
 	},
 	{
-		"id": "6237de65-34b9-4391-9d34-2c96b2ce369b",
-		"prefix": "P/HBR/04/01-02",
-		"title": "De kandidaat kan assisteren bij promotionele activiteiten en deze mee helpen ontwikkelen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"ed425af5-2b26-4b2f-98e3-a1e8aedb9bb8"
-		],
-		"deleted": true
-	},
-	{
 		"id": "03d515f3-410c-4590-8c7e-6521c2cfc211",
 		"prefix": "P/HBR/04/01-02",
 		"title": "De kandidaat kan promotionele activiteiten uitvoeren en deze mee helpen ontwikkelen",
@@ -33752,18 +32889,6 @@
 		"replaces": [
 			"3365a633-0cb0-4329-9ba0-b85ba6043990"
 		]
-	},
-	{
-		"id": "7085b0d2-1bb2-4c7b-b4d2-1ddac5b6c5e0",
-		"prefix": "P/HBR/04/01-05",
-		"title": "De kandidaat kan assisteren bij het inschakelen van organisatiebureaus, entertainmentbureaus en vervoerders",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"831d3837-976c-47ed-b287-09ed37990d82"
-		],
-		"deleted": true
 	},
 	{
 		"id": "821c3771-2590-41b6-b952-e41a28d30e94",
@@ -33788,30 +32913,6 @@
 		"replaces": [
 			"d29f2888-43e2-41a5-b56b-c3d20edaf957"
 		]
-	},
-	{
-		"id": "8953e1bf-5bec-41ee-8f58-0fdf831217a7",
-		"prefix": "P/HBR/04/01-08",
-		"title": "De kandidaat kan inschrijvingen en betalingsverkeer van activiteiten regelen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"a9d86bcb-5998-481d-859d-6b6d12d7ac06"
-		],
-		"deleted": true
-	},
-	{
-		"id": "7db62200-c7f6-46b9-9c09-7443e1bfb152",
-		"prefix": "P/HBR/04/01-09",
-		"title": "De kandidaat kan assisteren bij de catering voor en rondom activiteiten",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"54845fea-d93d-479c-956f-2b126d3efca9"
-		],
-		"deleted": true
 	},
 	{
 		"id": "56547b6c-d53e-47c8-9ca9-875bac9be16b",
@@ -33849,69 +32950,6 @@
 		]
 	},
 	{
-		"id": "5016402c-1237-4e58-9d2e-82cc53da9262",
-		"prefix": "P/MVI/01/01-04",
-		"title": "De kandidaat kan een storyboard maken voor een AV productie aan de hand van een gegeven script",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"82375353-be50-4969-a145-29eeb092bfc5"
-		],
-		"deleted": true
-	},
-	{
-		"id": "0fa91051-5800-494a-b388-81973b6cb526",
-		"prefix": "P/MVI/01/02-03",
-		"title": "De kandidaat kan verschillende beeldkaders omschrijven en gebruiken",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"23fb695a-e3dc-4d23-87e4-9812fe4e2e08"
-		],
-		"deleted": true
-	},
-	{
-		"id": "086a1acf-2196-4b4d-9e1c-f2a0bf9a95ba",
-		"prefix": "P/MVI/01/04-04",
-		"title": "De kandidaat kan een storyboard voor een animatie maken aan de hand van een gegeven script",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"7de8d367-01d4-4c3a-9ab5-bae461953a74"
-		],
-		"deleted": true
-	},
-	{
-		"id": "c0bb1a1b-75ae-4cbe-84e0-0aafe5ea4b6c",
-		"prefix": "P/MVI/04/01-03",
-		"title": "De kandidaat kan in schetsen of een moodboard lay-out, typografie, beelden en bediening van een interactief product zichtbaar maken",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"8947a669-2bdd-4458-8401-9ad96da5c022"
-		],
-		"deleted": true
-	},
-	{
-		"id": "64256061-460d-4c9b-bf25-0ba11ccc1f65",
-		"prefix": "P/MVI/04/01-04",
-		"title": "De kandidaat kan een gebruiksvriendelijk ontwerp maken, passend bij een gegeven thema en doelgroep en geschikt voor gegeven schermformaten",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"56daf90b-4670-436e-9678-4c3c4abb74aa"
-		],
-		"deleted": true
-	},
-	{
 		"id": "79a4f0c0-a7a0-4065-83e4-66344d6987d6",
 		"prefix": "P/MVI/04/02-01",
 		"title": "De kandidaat kan een moodboard maken",
@@ -33937,32 +32975,6 @@
 		]
 	},
 	{
-		"id": "9fc160bd-6400-42f2-bfae-d666fb23800a",
-		"prefix": "P/MVI/04/02-05",
-		"title": "De kandidaat kan een interactief product presenteren en demonstreren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"2d3914b1-ce4f-4ec2-9797-8d7305b66153"
-		],
-		"deleted": true
-	},
-	{
-		"id": "ea0dc9dc-38fe-439a-9152-8739dc4c8b90",
-		"prefix": "P/MVI/04/02-06",
-		"title": "De kandidaat kan een interactief product verspreiden",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"d557c305-1874-44ab-adc3-a2ac03e18fe8"
-		],
-		"deleted": true
-	},
-	{
 		"id": "0b6f3445-fc08-47a3-ae7c-b2849598a919",
 		"prefix": "P/MVI/04/03-02",
 		"title": "De kandidaat kan een ontwerp omzetten in een interactief product",
@@ -33974,76 +32986,6 @@
 		"replaces": [
 			"cdbda62c-1cd1-4999-a22e-3d3c42b69491"
 		]
-	},
-	{
-		"id": "2ba31ff7-3c21-44ac-93df-974b7de57977",
-		"prefix": "P/MVI/04/03-04",
-		"title": "De kandidaat kan tekst- en beeldbestanden selecteren, archiveren en bewerken",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"f3632126-025f-4193-9a8a-d843f08f1ebd"
-		],
-		"deleted": true
-	},
-	{
-		"id": "46ea98a8-2c17-4b9c-a7fd-d636e206b1f1",
-		"prefix": "P/MVI/04/04-03",
-		"title": "De kandidaat kan bewegende media toevoegen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"97082457-0133-4578-a967-6a8a02d86b34"
-		],
-		"deleted": true
-	},
-	{
-		"id": "97e6b86d-c41c-4f70-85f7-5cb02d10316e",
-		"prefix": "P/MVI/04/04-04",
-		"title": "De kandidaat kan links toevoegen",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"6d645f59-bf71-4235-9b64-6fde2c25e7c6"
-		],
-		"deleted": true
-	},
-	{
-		"id": "9849693a-9adb-4d2c-a451-551b0036b9ee",
-		"prefix": "P/MVI/04/04-05",
-		"title": "De kandidaat kan een ontworpen website controleren, gebruiksklaar maken en uploaden",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"8405f1cb-06df-4367-a774-052fa3b10ea7"
-		],
-		"deleted": true
-	},
-	{
-		"id": "046ec743-a3a4-4155-b416-aa511da6155f",
-		"prefix": "P/MVI/04/04-06",
-		"title": "De kandidaat kan ontwerp en de keuzes die zijn gemaakt, toelichten",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"f461499f-7de5-4177-8de3-d4305ae6ae5b"
-		],
-		"deleted": true
 	},
 	{
 		"id": "1cb08dff-b026-42d8-8594-6b9c9b3c47cf",
@@ -34071,20 +33013,6 @@
 		]
 	},
 	{
-		"id": "df6289c2-83ea-4d02-b597-43de3a804a18",
-		"prefix": "P/PIE/01/02-03",
-		"title": "De kandidaat kan een product automatisch produceren met behulp van CAD/CAM, 3D-printer en CNC simulatie",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"ca135c93-3a5d-4f0a-bea0-8f90137d11bc"
-		],
-		"deleted": true
-	},
-	{
 		"id": "fcdd9a8e-5ed9-4b9d-8d05-249c5536142f",
 		"prefix": "P/PIE/02/01-03",
 		"title": "De kandidaat kan een plaat bewerken met verschillende gereedschappen en machines",
@@ -34106,32 +33034,6 @@
 		"replaces": [
 			"07fda395-6c6e-46d4-9df1-283a63ed8a8f"
 		]
-	},
-	{
-		"id": "95cb3d78-2dee-4a61-8593-6a182353a8c0",
-		"prefix": "P/PIE/03/01-07",
-		"title": "De kandidaat kan metingen uitvoeren aan een besturingsinstallatie",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"0a98c543-d4e1-410c-b88d-aa2ceec32761"
-		],
-		"deleted": true
-	},
-	{
-		"id": "27d7b170-edd4-4917-b823-d288d4a45142",
-		"prefix": "P/PIE/03/01-08",
-		"title": "De kandidaat kan een verslag maken en de resultaten presenteren",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"308d1d50-557b-489b-8726-1ac768b7344d"
-		],
-		"deleted": true
 	},
 	{
 		"id": "5929f87a-9f4f-4624-aceb-0f60b929fe95",
@@ -34182,18 +33084,6 @@
 		]
 	},
 	{
-		"id": "2a106e77-b8a8-43bc-835f-e7ea47eb6699",
-		"prefix": "P/ZW/02/04-02",
-		"title": "De kandidaat kan informatie geven over veelvoorkomende aanpassingen en hulpmiddelen in en rondom het gebouw",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"replaces": [
-			"27f0ecbc-86ff-4352-85d0-27d423aae51d"
-		],
-		"deleted": true
-	},
-	{
 		"id": "d0400a6c-5ead-4d93-a989-552dd40c5c7c",
 		"prefix": "P/ZW/02/05-01",
 		"title": "De kandidaat kan een ruimte inrichten conform de opdracht",
@@ -34216,19 +33106,6 @@
 		"replaces": [
 			"42027bce-30ee-4ea3-a5e2-9b4cd5b8cd0c"
 		]
-	},
-	{
-		"id": "d1a2ca73-e902-4053-9923-f2da93ccc649",
-		"prefix": "P/ZW/04/01-02",
-		"title": "De kandidaat kan de hulpbehoefte van een klant achterhalen en er naar handelen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"a60e9acb-644e-40ce-a752-a38481f3d942"
-		],
-		"deleted": true
 	},
 	{
 		"id": "07506283-630c-47d8-9e25-ae9ab798ad40",
@@ -34254,32 +33131,6 @@
 		"replaces": [
 			"68983ba4-a6b8-4852-945f-b8dd68de3159"
 		]
-	},
-	{
-		"id": "10685311-65a6-4cf6-88b4-435f12e2b1a8",
-		"prefix": "P/ZW/04/02-02",
-		"title": "De kandidaat kan de hulpbehoefte van een klant achterhalen en er naar handelen",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"replaces": [
-			"a258d4d9-5a21-4aab-9e4a-6ae2c87a477e"
-		],
-		"deleted": true
-	},
-	{
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"id": "c9e045ce-788e-4eee-897a-f8531d66a264",
-		"prefix": "P/GR/01/02-07",
-		"title": "De kandidaat kan het juiste moment van oogsten vaststellen, oogsten, producten sorteren en bewaren.",
-		"description": "",
-		"replaces": [
-			"f1fe8b27-2148-46aa-8dbb-946bcec32b26"
-		],
-		"deleted": true
 	},
 	{
 		"id": "f1ae7d3e-7340-4e79-b61b-7bcf069a0b73",
@@ -34362,47 +33213,6 @@
 		"replaces": [
 			"0b03830a-93b7-4624-83cc-650f72273f92"
 		]
-	},
-	{
-		"description": "",
-		"prefix": "P/DP/02/01-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan social media gebruiken en toepassen in een zakelijke context",
-		"id": "b76fd3b9-51b7-4233-a03e-ee6209d71e2b",
-		"replaces": [
-			"b3dd8458-a22c-4cb2-ab56-d7ff800a410d"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/DP/03/01-02",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan een product ontwerpen en tekenen in een 3D-tekenprogramma.",
-		"id": "7316dbda-3cd2-4c43-b099-b549c7bfd256",
-		"replaces": [
-			"5bab94df-4798-449b-bb72-3f19393b8b1e"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/DP/04/03-01",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"title": "De kandidaat kan wensen van de opdrachtgever inventariseren, interpreteren, aanvullen in een ontwerp voor een website.",
-		"id": "384602d2-7500-48e3-b649-7439ac696f25",
-		"replaces": [
-			"ceadc12b-c9ec-462f-84f9-c28660a8ea99"
-		],
-		"deleted": true
 	},
 	{
 		"description": "",
@@ -34535,20 +33345,6 @@
 		]
 	},
 	{
-		"description": "",
-		"prefix": "P/MVI/03/03-02",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan gebruikers adviseren en instrueren bij het in gebruik nemen van een device.",
-		"id": "4c0841a2-ee4d-4159-becc-29fb2d1fc369",
-		"replaces": [
-			"e497694a-0595-4ec4-8611-a66de194afd9"
-		],
-		"deleted": true
-	},
-	{
 		"prefix": "P/MVI/03/03-03",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
@@ -34574,19 +33370,6 @@
 		]
 	},
 	{
-		"prefix": "P/MVI/03/03-06",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan controleren of de gebruiker op de juiste wijze geholpen is en het advies indien gewenst aanpassen.",
-		"id": "78868d0d-7aa6-4c01-8192-7e5c18dd64d5",
-		"replaces": [
-			"08244a91-cfd9-4bbc-b488-0617ca4a50ce"
-		],
-		"deleted": true
-	},
-	{
 		"description": "",
 		"prefix": "P/PIE/01/03-02",
 		"niveau_id": [
@@ -34599,20 +33382,6 @@
 		"replaces": [
 			"7d54e740-76a8-42c8-bc24-b0d6ec108e68"
 		]
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/02/01-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan buigger",
-		"id": "40900158-1182-4551-861a-b7eec0105ad7",
-		"replaces": [
-			"4fa9e2b1-e815-4549-bed8-c7c7f5012d74"
-		],
-		"deleted": true
 	},
 	{
 		"description": "",
@@ -34629,62 +33398,6 @@
 	},
 	{
 		"description": "",
-		"prefix": "P/PIE/03/01-06",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"title": "De kandidaat kan een domotica-installatie opbouwen, aansluiten en testen",
-		"id": "6475d1b9-7157-434b-8a3d-d733e2f65d36",
-		"replaces": [
-			"d2ece59f-580e-4ae8-8e17-f8b045db11fa"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/04/02-04",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan verlichtingsarmaturen voor een huisinstallatie aansluiten en afmonteren.",
-		"id": "029dcc31-d5a7-483b-a76d-141f57fa4cce",
-		"replaces": [
-			"eb4b0cc1-7cd7-44df-a88e-e70a35c7af4f"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/04/02-05",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan elektrische huishoudelijke verbruikstoestellen aansluiten.",
-		"id": "9505485b-2758-4a7b-9b83-46f03c0cd243",
-		"replaces": [
-			"f490743f-d31a-4419-9bda-d42b0056fb32"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
-		"prefix": "P/PIE/04/02-06",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan een huisinstallatie met huishoudelijke toestellen in bedrijf stellen.",
-		"id": "b0f12db2-1f7c-4cba-a65b-d9bfe9026358",
-		"replaces": [
-			"f0862661-be21-478c-99c4-73e1b37f60b4"
-		],
-		"deleted": true
-	},
-	{
-		"description": "",
 		"prefix": "P/ZW/01/03-02",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -34695,19 +33408,6 @@
 		"replaces": [
 			"11a7ebc6-e146-487d-8d5e-179d88e81fa4"
 		]
-	},
-	{
-		"description": "",
-		"prefix": "P/ZW/01/03-03",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		],
-		"title": "De kandidaat kan voedings- en leefgewoonten observeren, herkennen, en de klant hierover adviseren",
-		"id": "59351991-b505-448e-bd1d-13d657b92318",
-		"replaces": [
-			"08ef41bd-bcb3-4bc7-bc88-4d64bd4eeafd"
-		],
-		"deleted": true
 	},
 	{
 		"id": "7f2f5d51-7b92-4020-be56-de2574d4b4b9",
@@ -34723,22 +33423,6 @@
 			"bd8c0277-5cfb-4c8b-b573-6207234d0643",
 			"9d318526-9f40-4f00-b432-dc86e2bf698a"
 		]
-	},
-	{
-		"id": "0c28ac2d-0505-462d-8158-269d44726acd",
-		"prefix": "P/DP/01/04-04",
-		"title": "De kandidaat kan taken van beveiligers benoemen.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"description": "",
-		"replaces": [
-			"85b28581-92e8-406c-840d-33d64630fedf",
-			"7f9e0c91-988f-43b1-8964-7b2a559a9d00"
-		],
-		"deleted": true
 	},
 	{
 		"id": "afe37823-eed2-4d34-a9be-522a3e720a01",

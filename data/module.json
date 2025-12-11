@@ -303,45 +303,6 @@
 		]
 	},
 	{
-		"id": "8e53a392-ac7a-4b08-a581-fd29b307a037",
-		"prefix": "P/MET/03",
-		"title": "Verlichting en comfortsystemen",
-		"description": "Eenvoudige elektrische schakelingen maken en metingen uitvoeren / verlichtings- en signaleringssystemen controleren en eenvoudige schema’s aansluiten / comfort en veiligheidssysteem controleren / elektromotoren aansluiten en testen",
-		"examenprogramma_bg_deeltaak_id": [
-			"b29f93d3-fd79-41cd-a9e7-40e9295cb233",
-			"a08f2855-48e4-4681-b2a0-7a88ac10f3df",
-			"6bc338e1-7dce-4676-8704-9abda0cfc6f4",
-			"2293b1a3-9807-486c-af68-35573fb78151"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"24a6149a-2b29-4c75-816e-cd496fce3a19"
-		],
-		"replaces": [
-			"595d2047-1bf9-4303-9824-7956854f466c",
-			"52084735-7e87-4d13-b907-ca79db136e2f"
-		],
-		"deleted": true
-	},
-	{
-		"id": "12ac6848-c3ac-4349-8e39-b64894a56199",
-		"prefix": "P/MET/04",
-		"title": "Mobiliteit en Transport",
-		"description": "Een bedrijfsvoertuig veilig laden en lossen / een bedrijfsvoertuig vervoersklaar maken en een technische rijklaar-controle uitvoeren / een ritplanning en een routeplanning maken (nationaal en internationaal)",
-		"examenprogramma_bg_deeltaak_id": [
-			"844ed3b2-6f9f-48f8-802b-e81dd94d2a76",
-			"5ef7e150-18a3-4de5-b7a3-2ef2f9660611",
-			"17f33ec3-0b73-4707-b391-000f7bd6329a"
-		],
-		"examenprogramma_bg_moduletaak_id": [
-			"0809e552-7390-4b4c-bde0-1f4601c3a081"
-		],
-		"replaces": [
-			"a88692f5-10a3-4aac-9e19-73d87c7015df",
-			"080afa8f-d9ea-4aaf-beab-0d75b02fa0d0"
-		],
-		"deleted": true
-	},
-	{
 		"id": "9e36d8ab-0dfd-4151-bc7e-c35f3fa197a3",
 		"prefix": "P/BWI/03",
 		"title": "Hout- en meubelverbindingen",

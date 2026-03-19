@@ -186,7 +186,7 @@
 		]
 	},
 	{
-		"id": "46b9c1a8-c2d8-4c8f-ab43-fd9c8e7c384b",
+		"id": "9192f9e5-ba9a-4fcd-9b48-b9c26e8e0548",
 		"prefix": "MT",
 		"title": "Maritiem en techniek",
 		"examenprogramma_bg_kern_id": [
@@ -214,18 +214,19 @@
 			"b474e23a-a04f-43a9-967b-c0ce10fc1cc6",
 			"95184a61-d273-4f98-86ae-c4f86924235b",
 			"a29ee1dc-2bbb-4a77-ac29-4c53509479be",
-			"06c2ee48-e162-400a-8655-bfb2a1623f0b"
+			"0d0a44d8-1a05-432c-ab6f-04465ddc1fe7"
 		],
 		"description": "",
 		"vakleergebied_id": [
 			"36b0661f-9ec6-4b0d-b8b8-8a983eb536d5"
 		],
 		"replaces": [
-			"29567373-b655-46a4-9c6a-6f04001c139b"
+			"29567373-b655-46a4-9c6a-6f04001c139b",
+			"46b9c1a8-c2d8-4c8f-ab43-fd9c8e7c384b"
 		]
 	},
 	{
-		"id": "30eaef53-58af-40d9-bdb5-f7422127f5ed",
+		"id": "df9022a9-2ba4-477a-8cee-4153359b8835",
 		"prefix": "BWI",
 		"title": "Examenprogramma beroepsgericht Bouwen, wonen en interieur",
 		"examenprogramma_bg_kern_id": [
@@ -262,7 +263,7 @@
 			"a1a280e4-6757-45cc-8182-5b0784f334f3",
 			"22fc912b-1848-4641-8c3d-67ac55033247",
 			"2cbd6996-dc1a-4aa0-8273-05d7a0126e27",
-			"d8e462d4-2f52-4c9b-b63e-5d2e69a73815"
+			"7f2b0207-1d4d-4b64-96d2-223f0efd44e6"
 		],
 		"description": "",
 		"vakleergebied_id": [
@@ -273,11 +274,12 @@
 			"1890251e-08f8-4520-a495-f28607eb0b6e",
 			"a3a62b05-c64b-4355-ba9c-a4c4b063990d",
 			"297aa152-3082-4b8f-aa0f-f3724bf5c38f",
-			"14e2d81b-bffc-4f70-b6dd-dbe7afc5e98d"
+			"14e2d81b-bffc-4f70-b6dd-dbe7afc5e98d",
+			"30eaef53-58af-40d9-bdb5-f7422127f5ed"
 		]
 	},
 	{
-		"id": "29b67a07-eee5-4461-8efe-02779b1d8852",
+		"id": "0efaf32a-93cc-48d4-be40-a06d549ab9e7",
 		"prefix": "PIE",
 		"title": "Examenprogramma Beroepsgericht Produceren, installeren en energie",
 		"examenprogramma_bg_kern_id": [
@@ -315,7 +317,7 @@
 			"cb5d1754-4cdc-4a78-89a3-dee84b323413",
 			"2305cdf1-fe62-4d0a-b9e1-e59d9bf7b67a",
 			"24471646-f67a-472e-8e66-6d6f365d7cda",
-			"15c36f28-c73d-4613-91a7-4dcb64304ab7"
+			"05081c07-0845-47d4-a58d-35ec45cc14cc"
 		],
 		"description": "",
 		"vakleergebied_id": [
@@ -325,11 +327,12 @@
 			"fa4d75da-d045-4360-ac45-a772378e46d1",
 			"72caf5df-dc9e-40bc-a46f-63714e11c87b",
 			"471a1203-dc5c-43b3-b43c-459fcc42bca9",
-			"bc595486-72e9-46bb-a49a-1303b280d07f"
+			"bc595486-72e9-46bb-a49a-1303b280d07f",
+			"29b67a07-eee5-4461-8efe-02779b1d8852"
 		]
 	},
 	{
-		"id": "d80dc98a-9b38-43dd-93da-8eb99cfa442e",
+		"id": "bc8ca9b5-85f8-4fe1-874b-a68eb36bd083",
 		"prefix": "EO",
 		"title": "Examenprogramma beroepsgericht Economie en Ondernemen",
 		"examenprogramma_bg_kern_id": [
@@ -353,9 +356,9 @@
 			"d387b653-51b2-4d2d-9647-df7c6330513b",
 			"6870be57-b47e-46ac-9c05-3cb0b7529517",
 			"41789f35-86f2-4deb-9a31-37d0036ad556",
-			"182438a6-5a86-40f6-ae16-0ec097182a29",
-			"e643d881-7724-458d-ad8c-0e08ec3524de",
-			"36040af1-82ba-44e9-9ad7-ec1bc02fefc8"
+			"c2e95179-3f37-4cae-9f30-87cc1663d45d",
+			"15c6f167-c057-4961-ad54-e1d1060f1dd2",
+			"4fb8c8dc-9823-4a67-91b0-1a886ed015d8"
 		],
 		"description": "",
 		"vakleergebied_id": [
@@ -365,11 +368,12 @@
 			"d2508ab9-cb99-480a-a9fd-5973ca28efff",
 			"8f429657-0d80-4581-947d-5279b63488ab",
 			"b11389c8-0f47-4aee-8017-be08a144d374",
-			"78f7ffb0-db59-4b0a-8fbb-69c47adc9b90"
+			"78f7ffb0-db59-4b0a-8fbb-69c47adc9b90",
+			"d80dc98a-9b38-43dd-93da-8eb99cfa442e"
 		]
 	},
 	{
-		"id": "d4f357b3-a5b0-4c6c-991d-a3367346486e",
+		"id": "1b05677d-2af5-41b1-a204-7e384f4a7639",
 		"prefix": "GR",
 		"title": "Examenprogramma beroepsgericht  Groen",
 		"examenprogramma_bg_kern_id": [
@@ -398,7 +402,7 @@
 			"95d29130-a495-4ac2-9b37-7c3b413ddb66",
 			"2ea5f32d-0c5b-40f5-aac9-08756549dd51",
 			"0ca562dc-c085-4780-afe8-5a857a9555ef",
-			"c0fcb8e0-89c6-4a96-9f70-804d3384f7c1"
+			"0f8492db-8029-4411-bce2-1b94c16655d3"
 		],
 		"replaces": [
 			"6c57b253-59aa-48dd-b905-2e5babcd05fa",
@@ -406,7 +410,8 @@
 			"94eac546-91dd-4c15-8912-fd0c13667824",
 			"38ca4e55-71b8-4c6c-83dc-085df3a06bad",
 			"76f63a9f-fcde-4e17-a65b-bdfb211b2958",
-			"f38f5f4c-9ec1-4516-97b0-3c9a663e67e5"
+			"f38f5f4c-9ec1-4516-97b0-3c9a663e67e5",
+			"d4f357b3-a5b0-4c6c-991d-a3367346486e"
 		],
 		"description": "",
 		"vakleergebied_id": [

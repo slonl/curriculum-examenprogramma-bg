@@ -1247,7 +1247,7 @@
 	{
 		"description": "Voor het uitvoeren van de taak beheerst de kandidaat de voorwaardelijke kennis, vaardigheden en houding",
 		"prefix": "K/BWI/20/taak",
-		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt  en het maken van een maquette voor een \"Duurzame comfortwoning\"",
+		"title": "Ontwerpen van een \"Duurzame comfortwoning\" waarin nieuwe technologie en internet of things zijn verwerkt en het maken van een maquette voor een \"Duurzame comfortwoning\"",
 		"id": "45e46b7c-d438-4166-9cb6-6b14cb6ec317",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -7615,7 +7615,7 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"title": "De kandidaat kan diverse manieren van snijwerk uitvoeren ten behoeve van leidingdoorvoeren  in vloer- en wandtegelwerk.",
+		"title": "De kandidaat kan diverse manieren van snijwerk uitvoeren ten behoeve van leidingdoorvoeren in vloer- en wandtegelwerk.",
 		"id": "848f4cd7-b8a9-4076-bfcc-c49e4d35624e",
 		"replacedBy": [],
 		"types": [
@@ -16016,7 +16016,7 @@
 	{
 		"id": "f38f5f4c-9ec1-4516-97b0-3c9a663e67e5",
 		"prefix": "GR",
-		"title": "Examenprogramma beroepsgericht  Groen",
+		"title": "Examenprogramma beroepsgericht Groen",
 		"examenprogramma_bg_kern_id": [
 			"a34f37d7-92d2-4be1-aae4-de09c5788b71"
 		],
@@ -18293,7 +18293,7 @@
 	},
 	{
 		"prefix": "K/EO/11",
-		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en  kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
+		"title": "Oriënteert zich op de inkoop, uit- en verkoop aan (personen uit) het buitenland en kan communiceren met personen uit een ander land en in een vreemde taal en omgaan met de daarbij voorkomende cultuurverschillen en kan verschillende economische werkzaamheden uitvoeren in een internationaal opererende onderneming.",
 		"id": "0305814c-43d2-433f-b40a-4a21654173a0",
 		"replacedBy": [
 			"65a16181-e763-4372-b800-c9c68646f428"
@@ -18304,7 +18304,7 @@
 	},
 	{
 		"prefix": "K/PIE/26/KT",
-		"title": "Werkzaamheden voorbereiden:\r\n- Veiligheidseisen toepassen  - Een product van composiet maken met behulp van de juiste gereedschappen, materialen en hulpmiddelen.  - Vervaardigde product controleren en de uitgevoerde werkzaamheden afronden.",
+		"title": "Werkzaamheden voorbereiden:\r\n- Veiligheidseisen toepassen - Een product van composiet maken met behulp van de juiste gereedschappen, materialen en hulpmiddelen. - Vervaardigde product controleren en de uitgevoerde werkzaamheden afronden.",
 		"id": "82c52b92-6380-41f1-8a95-10fefd4bf096",
 		"replacedBy": [
 			"e3b35d31-f6e7-4c3b-9b1e-999936f2cd8e"
@@ -18315,7 +18315,7 @@
 	},
 	{
 		"prefix": "K/GR/17/KT",
-		"title": "De kandidaat heeft kennis van de drie fysiologische domeinen van een paard en kan de invloed van de fysiologische domeinen op de mentale staat van het paard onderzoeken, beoordelen en aanbevelingen doen mbt optimalisatie. \r\nDe kandidaat heeft kennis van het natuurlijk gedrag van een paard en kan de invloed van de leefomgeving en interactie met soortgenoten onderzoeken en beoordelen. \r\nDe kandidaat heeft inzicht in trainingsprincipes en kan Leertheorie toepassen in het opstellen van een trainingsplan.  \r\nDe kandidaat kan een eenvoudig trainingsplan creëren en uitvoeren voor gedragsaanpassing bij een paard, met correct gebruik van Leertheorie.",
+		"title": "De kandidaat heeft kennis van de drie fysiologische domeinen van een paard en kan de invloed van de fysiologische domeinen op de mentale staat van het paard onderzoeken, beoordelen en aanbevelingen doen mbt optimalisatie. \r\nDe kandidaat heeft kennis van het natuurlijk gedrag van een paard en kan de invloed van de leefomgeving en interactie met soortgenoten onderzoeken en beoordelen. \r\nDe kandidaat heeft inzicht in trainingsprincipes en kan Leertheorie toepassen in het opstellen van een trainingsplan. \r\nDe kandidaat kan een eenvoudig trainingsplan creëren en uitvoeren voor gedragsaanpassing bij een paard, met correct gebruik van Leertheorie.",
 		"id": "ac2d5023-4c8c-46c7-8eb5-adee65d73e90",
 		"replacedBy": [
 			"1157c65f-223b-4edc-adff-c726020332a2"
@@ -18677,7 +18677,7 @@
 	{
 		"id": "d4f357b3-a5b0-4c6c-991d-a3367346486e",
 		"prefix": "GR",
-		"title": "Examenprogramma beroepsgericht  Groen",
+		"title": "Examenprogramma beroepsgericht Groen",
 		"examenprogramma_bg_kern_id": [
 			"a34f37d7-92d2-4be1-aae4-de09c5788b71"
 		],
